@@ -15,6 +15,7 @@ There are other interesting questions:
 I might also report on interesting features I find while looking at the data. If these are not stated above, then these features are things I didn't look for, but stumble upon.
 
 * Data available
+A more detailed work in progress summary of what I've done so far is available at [[./project.org][project.org]].
 ** Broader look
 [[https://www.scei-concours.fr/statistiques.php][SCEI (Service concours écoles d’ingénieurs)]] publishes yearly statistics about the results.
 Each year, SCEI gives a global statistics about all branches merged.
