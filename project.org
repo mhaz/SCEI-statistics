@@ -20,3 +20,4 @@ From the top ones, see how it evolves. Same for the low tier schools. (it is an 
 * Logs
 ** [2021-02-11 Thu]
 Start the repo.
+Add the raw html data.
