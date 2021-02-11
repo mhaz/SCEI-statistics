@@ -1,24 +1,24 @@
 #+TITLE: Data Gathering
 This file summarizes my progress at parsing the data.
 
-* 2020 [0%]
+* 2020 [100%]
 Statistiques réalisées le 28/09/2020 et portant sur la population globale des concours
-*** MP [0%]
-- [ ] Statistiques générales
-*** PC [0%]
-- [ ] Statistiques générales
-*** PSI [0%]
-- [ ] Statistiques générales
-*** TPC [0%]
-- [ ] Statistiques générales
-*** PT [0%]
-- [ ] Statistiques générales
-*** BCPST [0%]
-- [ ] Statistiques générales
-*** TSI [0%]
-- [ ] Statistiques générales
-*** TB [0%]
-- [ ] Statistiques générales
+*** MP [100%]
+- [X] Statistiques générales
+*** PC [100%]
+- [X] Statistiques générales
+*** PSI [100%]
+- [X] Statistiques générales
+*** TPC [100%]
+- [X] Statistiques générales
+*** PT [100%]
+- [X] Statistiques générales
+*** BCPST [100%]
+- [X] Statistiques générales
+*** TSI [100%]
+- [X] Statistiques générales
+*** TB [100%]
+- [X] Statistiques générales
 * 2019 [0%]
 Statistiques réalisées le 25/09/2019 et portant sur la population globale des concours
 *** MP [0%]
