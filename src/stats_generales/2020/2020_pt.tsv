@@ -1,0 +1,305 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	integres_places
+2020	pt	CENTRALE-SUPELEC	CentraleSupélec-cursus apprenti-Campus Metz										11	0.0	9.1	124	126	10
+2020	pt	CENTRALE-SUPELEC	CENTRALE CASABLANCA										2	0.0	0.0	685	685	5
+2020	pt	CENTRALE-SUPELEC	CentraleSupélec-cursus apprenti-Campus Rennes										10	10.0	0.0	75	72	10
+2020	pt	CENTRALE-SUPELEC	CentraleSupélec-statut étudiant										20	5.0	10.0	26	26	20
+2020	pt	CENTRALE-SUPELEC	CENTRALE LYON										24	8.3	4.2	86	88	24
+2020	pt	CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)										16	12.5	12.5	718	663	10
+2020	pt	CENTRALE-SUPELEC	CENTRALE LILLE										12	0.0	16.7	169	165	12
+2020	pt	CENTRALE-SUPELEC	CENTRALE NANTES										8	12.5	0.0	56	58	20
+2020	pt	CENTRALE-SUPELEC	CENTRALE MARSEILLE										5	0.0	0.0	257	226	5
+2020	pt	CENTRALE-SUPELEC	¥Concours Centrale-Supélec PT	1497	14.0	15.9				1482	14.2	15.8	108					116
+2020	pt	CONCOURS COMMUN MINES-PONTS	ENSTA Paris										10	10.0	20.0	75	81	12
+2020	pt	CONCOURS COMMUN MINES-PONTS	ENSTA Paris-apprentissage										3	0.0	0.0	148	158	4
+2020	pt	CONCOURS COMMUN MINES-PONTS	IMT Atlantique cursus Brest-Nantes-Rennes-Toulouse										8	25.0	12.5	159	149	6
+2020	pt	CONCOURS COMMUN MINES-PONTS	IMT Atlantique cursus Sophia Antipolis										0	0.0	0.0	0	0	1
+2020	pt	CONCOURS COMMUN MINES-PONTS	ISAE-SUPAERO Toulouse										6	0.0	0.0	50	52	6
+2020	pt	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										4	25.0	25.0	170	172	4
+2020	pt	CONCOURS COMMUN MINES-PONTS	MINES SAINT-ETIENNE										7	14.3	0.0	178	172	5
+2020	pt	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										5	0.0	20.0	10	12	5
+2020	pt	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										5	40.0	0.0	49	42	5
+2020	pt	CONCOURS COMMUN MINES-PONTS	TELECOM Paris cursus Paris										1	0.0	0.0	48	48	1
+2020	pt	CONCOURS COMMUN MINES-PONTS	TELECOM Paris cursus Sophia										1	0.0	100.0	62	62	1
+2020	pt	CONCOURS COMMUN MINES-PONTS	¥Concours commun Mines-Ponts PT	1290	14.6	15.3				246	11.8	8.1	50					50
+2020	pt	Concours Mines - Télécom	IMT Mines Albi										6	33.3	16.7	556	552	5
+2020	pt	Concours Mines - Télécom	IMT Mines Alès										23	26.1	4.3	641	585	23
+2020	pt	Concours Mines - Télécom	ENSTA Bretagne (filière sous statut étudiant)										15	26.7	6.7	208	206	15
+2020	pt	Concours Mines - Télécom	IMT Lille Douai										14	7.1	7.1	562	557	20
+2020	pt	Concours Mines - Télécom	Mines Saint Etienne-ISMIN										7	0.0	0.0	493	464	7
+2020	pt	Concours Mines - Télécom	TELECOM SudParis										7	14.3	14.3	229	217	7
+2020	pt	Concours Mines - Télécom	¥Concours Mines-Télécom PT	1832	15.7	16.7				715	13.1	16.8	72					77
+2020	pt	Concours Mines - Télécom	ENSTA Bretagne (filière sous statut IETA-Direction Générale de l'Armement)	1832	15.7	16.7				602	12.5	19.9	3	33.3	33.3	59	60	3
+2020	pt	Concours Mines - Télécom	ENSG-Géomatique Marne la Vallée Civil										3	66.7	0.0	952	966	2
+2020	pt	Concours Mines - Télécom	ENSSAT Lannion										2	0.0	0.0	880	880	5
+2020	pt	Concours Mines - Télécom	TELECOM Nancy										8	25.0	37.5	772	787	10
+2020	pt	Concours Mines - Télécom	TELECOM St Etienne-Statut étudiant										4	50.0	50.0	739	750	5
+2020	pt	Concours Mines - Télécom	¥Concours Mines-Télécom Spécifique PT	1832	15.7	16.7				1184	14.5	18.9	17					22
+2020	pt	CONCOURS COMMUN ENSAM	Arts et Métiers										549	11.8	24.2	535	529	540
+2020	pt	CONCOURS COMMUN ENSAM	Arts et Métiers-ingénieurs militaires										7	0.0	28.6	717	645	10
+2020	pt	CONCOURS COMMUN ENSAM	Arts et Métiers-voie de l'apprentissage										5	20.0	40.0	387	474	15
+2020	pt	CONCOURS COMMUN ENSAM	ENSEA Cergy										17	5.9	47.1	1205	1137	20
+2020	pt	CONCOURS COMMUN ENSAM	¥Concours ARTS ET MÉTIERS ParisTech PT	2259	14.2	16.3				1400	12.5	19.4	578					585
+2020	pt	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE	380	12.9	12.6				13	15.4	0.0	11	18.2	0.0	6	6	11
+2020	pt	CONCOURS ENS DE CACHAN	ENS Paris-Saclay	1666	13.3	16.9				295	9.5	16.9	37	18.9	27.0	147	149	37
+2020	pt	CONCOURS ENS DE CACHAN	ENS Rennes	1592	13.0	17.3				385	9.9	20.3	10	0.0	30.0	237	229	10
+2020	pt	CONCOURS COMMUN INP	Bordeaux INP-ENSEIRB-MATMECA Electronique										9	0.0	22.2	976	933	4
+2020	pt	CONCOURS COMMUN INP	Bordeaux INP-ENSPIMA										2	0.0	0.0	817	817	1
+2020	pt	CONCOURS COMMUN INP	Bordeaux INP-ENSEIRB-MATMECA Informatique										4	0.0	0.0	706	671	1
+2020	pt	CONCOURS COMMUN INP	Bordeaux INP-ENSEIRB-MATMECA Mathématiques et Mécanique										7	42.9	28.6	770	755	6
+2020	pt	CONCOURS COMMUN INP	Bordeaux INP-ENSEIRB-MATMECA Télecom.										4	25.0	25.0	1036	979	1
+2020	pt	CONCOURS COMMUN INP	CPE LYON Sciences du numérique										2	0.0	50.0	1192	1192	2
+2020	pt	CONCOURS COMMUN INP	EISTI Cergy-Pau										5	0.0	0.0	1270	1183	5
+2020	pt	CONCOURS COMMUN INP	ENAC Toulouse Civil										3	0.0	33.3	698	606	2
+2020	pt	CONCOURS COMMUN INP	ENGEES Strasbourg Civil (étudiant)										4	25.0	25.0	1090	1124	2
+2020	pt	CONCOURS COMMUN INP	ENSI Poitiers-Génie de l'Eau et Génie Civil										1	0.0	0.0	1330	1330	2
+2020	pt	CONCOURS COMMUN INP	ENSI Poitiers Energie										0	0.0	0.0	0	0	6
+2020	pt	CONCOURS COMMUN INP	ENSICAEN Electronique et Physique Appliquée										4	0.0	25.0	1295	1304	5
+2020	pt	CONCOURS COMMUN INP	ENSICAEN Informatique										3	33.3	33.3	869	900	2
+2020	pt	CONCOURS COMMUN INP	ENSIL-ENSCI Limoges Céramique Industrielle										2	0.0	50.0	1220	1220	2
+2020	pt	CONCOURS COMMUN INP	ENSMM Besançon										48	12.5	27.1	1172	1161	44
+2020	pt	CONCOURS COMMUN INP	Grenoble INP-ENSE3										14	14.3	14.3	780	659	15
+2020	pt	CONCOURS COMMUN INP	Grenoble INP-Pagora										0	0.0	0.0	0	0	1
+2020	pt	CONCOURS COMMUN INP	Grenoble INP-Phelma (Physique Electronique Télécoms)										6	0.0	16.7	632	575	5
+2020	pt	CONCOURS COMMUN INP	Grenoble INP-Phelma (Physique Matériaux Procédés)										5	0.0	0.0	621	516	5
+2020	pt	CONCOURS COMMUN INP	Grenoble INP-ENSIMAG										15	0.0	6.7	224	230	10
+2020	pt	CONCOURS COMMUN INP	Grenoble INP-Esisar										1	0.0	0.0	503	503	3
+2020	pt	CONCOURS COMMUN INP	ISAE-ENSMA Poitiers										5	0.0	20.0	259	269	5
+2020	pt	CONCOURS COMMUN INP	ISIMA Clermont-Ferrand										4	0.0	0.0	1072	1085	5
+2020	pt	CONCOURS COMMUN INP	Lorraine INP-ENSEM-Energie										7	28.6	14.3	1177	1139	6
+2020	pt	CONCOURS COMMUN INP	SeaTech Toulon										12	33.3	25.0	1181	1094	9
+2020	pt	CONCOURS COMMUN INP	SIGMA Clermont-Ferrand-spécialité mécanique avancée										61	9.8	23.0	1118	1097	68
+2020	pt	CONCOURS COMMUN INP	SUPMECA Paris										12	8.3	25.0	881	838	12
+2020	pt	CONCOURS COMMUN INP	Toulouse INP-ENSEEIHT-Electronique-Energie-Automatique (EEA)										4	0.0	25.0	352	408	4
+2020	pt	CONCOURS COMMUN INP	Toulouse INP-ENSEEIHT-Mécanique des Fluides-Energetique-Environnement (MFEE)										2	100.0	0.0	370	370	2
+2020	pt	CONCOURS COMMUN INP	Toulouse INP-ENSEEIHT-Sciences du Numérique										4	0.0	0.0	414	410	4
+2020	pt	CONCOURS COMMUN INP	¥Concours CCINP PT	2275	15.0	16.6				1468	13.1	18.9	250					239
+2020	pt	CONCOURS POLYTECH	ENSIM Le Mans										4	0.0	25.0	1062	999	4
+2020	pt	CONCOURS POLYTECH	ESGT le Mans										3	0.0	0.0	1161	1085	5
+2020	pt	CONCOURS POLYTECH	ESIPE Créteil-Génie Biomédical et santé (ISBS)										1	100.0	0.0	1243	1243	1
+2020	pt	CONCOURS POLYTECH	ESIPE Créteil-Système d'information										0	0.0	0.0	0	0	1
+2020	pt	CONCOURS POLYTECH	ESIPE Créteil-Technologie pour la santé										0	0.0	0.0	0	0	1
+2020	pt	CONCOURS POLYTECH	ESIR Rennes										1	0.0	0.0	1212	1212	3
+2020	pt	CONCOURS POLYTECH	ESIROI Saint Denis de La Réunion										1	100.0	100.0	1164	1164	1
+2020	pt	CONCOURS POLYTECH	ESIX Normandie-Caen-Cherbourg										1	100.0	0.0	862	862	2
+2020	pt	CONCOURS POLYTECH	ISAT Nevers-département MIT (Mécanique et Ingénierie des Transports)										2	0.0	0.0	641	641	2
+2020	pt	CONCOURS POLYTECH	ISAT Nevers-département EPEE (Energies et Moteurs)										1	0.0	0.0	999	999	1
+2020	pt	CONCOURS POLYTECH	ISAT Nevers-Infrastructures et Réseaux de Transports										2	0.0	0.0	1333	1333	5
+2020	pt	CONCOURS POLYTECH	ISIFC Besançon-Génie Biomédical										2	100.0	0.0	1375	1375	2
+2020	pt	CONCOURS POLYTECH	ISTY Vélizy										1	0.0	0.0	940	940	2
+2020	pt	CONCOURS POLYTECH	Polytech Annecy-Chambéry-Environnement, Bâtiment, Énergie										4	25.0	0.0	1175	1131	6
+2020	pt	CONCOURS POLYTECH	Polytech Annecy-Chambéry-Informatique données Usages										3	0.0	0.0	1251	1250	3
+2020	pt	CONCOURS POLYTECH	Polytech Annecy-Chambéry-Instrumentation, Automatique, Informatique										4	0.0	0.0	1111	1073	3
+2020	pt	CONCOURS POLYTECH	Polytech Annecy-Chambéry-Mécanique, Matériaux										4	25.0	0.0	927	920	3
+2020	pt	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Civil										4	0.0	0.0	963	986	3
+2020	pt	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Electrique										3	0.0	33.3	1240	1220	4
+2020	pt	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Physique										4	25.0	0.0	1115	1119	3
+2020	pt	CONCOURS POLYTECH	Polytech Grenoble-Géotechnique et génie civil										3	33.3	0.0	906	873	3
+2020	pt	CONCOURS POLYTECH	Polytech Grenoble-Informatique et électronique des systèmes embarqués										3	0.0	0.0	1026	1048	3
+2020	pt	CONCOURS POLYTECH	Polytech Lille-Informatique, Microélectronique, Automatique										3	0.0	0.0	686	853	3
+2020	pt	CONCOURS POLYTECH	Polytech Lille-Mécanique										8	37.5	37.5	1055	962	7
+2020	pt	CONCOURS POLYTECH	Polytech Lyon-Systèmes industriels, Robotique										3	0.0	33.3	1074	944	2
+2020	pt	CONCOURS POLYTECH	Polytech Marseille-Génie Civil										7	28.6	28.6	1334	1293	6
+2020	pt	CONCOURS POLYTECH	Polytech Marseille-Génie Industriel et Informatique										4	25.0	25.0	1295	1285	3
+2020	pt	CONCOURS POLYTECH	Polytech Marseille-Mécanique, Energétique										5	40.0	40.0	1307	1307	6
+2020	pt	CONCOURS POLYTECH	Polytech Marseille-Microélectronique,Télécommunications										3	66.7	0.0	1300	1234	2
+2020	pt	CONCOURS POLYTECH	Polytech Montpellier-Mécanique et Interactions										2	0.0	0.0	1048	1048	2
+2020	pt	CONCOURS POLYTECH	Polytech Nancy-Energie, Mécanique, Matériaux, Environnement										3	0.0	66.7	876	914	4
+2020	pt	CONCOURS POLYTECH	Polytech Nancy-Ingénierie de l'Information et des Systèmes										1	100.0	0.0	1143	1143	2
+2020	pt	CONCOURS POLYTECH	Polytech Nancy-Management opérationnel, Maintenance, Maîtrise des risques										0	0.0	0.0	1356	1356	2
+2020	pt	CONCOURS POLYTECH	Polytech Nantes-Électronique et technologies numériques										4	0.0	25.0	1057	1001	3
+2020	pt	CONCOURS POLYTECH	Polytech Nantes-Énergie électrique										0	0.0	0.0	0	0	2
+2020	pt	CONCOURS POLYTECH	Polytech Nantes-Génie civil										6	16.7	33.3	1219	1198	3
+2020	pt	CONCOURS POLYTECH	Polytech Nantes-Informatique										2	0.0	0.0	1123	1123	3
+2020	pt	CONCOURS POLYTECH	Polytech Nantes-Thermique, Énergétique										4	25.0	25.0	1203	1179	3
+2020	pt	CONCOURS POLYTECH	Polytech Nice-Sophia-Électronique										3	33.3	33.3	921	921	3
+2020	pt	CONCOURS POLYTECH	Polytech Nice-Sophia-Génie de l'eau										5	20.0	20.0	1171	1178	4
+2020	pt	CONCOURS POLYTECH	Polytech Nice-Sophia-Informatique										4	25.0	0.0	871	800	4
+2020	pt	CONCOURS POLYTECH	Polytech Orléans-Génie civil et géo-environnement										3	0.0	0.0	1377	1338	4
+2020	pt	CONCOURS POLYTECH	Polytech Orléans-Génie industriel										0	0.0	0.0	1244	1244	3
+2020	pt	CONCOURS POLYTECH	Polytech Orléans-Génie physique et systèmes embarqués										4	0.0	50.0	1331	1256	3
+2020	pt	CONCOURS POLYTECH	Polytech Orléans-Innovation en Conception et Matériaux										4	25.0	50.0	1284	1285	5
+2020	pt	CONCOURS POLYTECH	Polytech Orléans-Technologies pour l'Énergie, l'Aérospatial et la Motorisation										4	0.0	0.0	902	868	3
+2020	pt	CONCOURS POLYTECH	Polytech Sorbonne-Electronique et Informatique										2	0.0	0.0	1074	1074	2
+2020	pt	CONCOURS POLYTECH	Polytech Sorbonne-Robotique										3	0.0	0.0	848	853	3
+2020	pt	CONCOURS POLYTECH	Polytech Tours-Génie de l'aménagement et de l'environnement										3	33.3	0.0	1080	1086	4
+2020	pt	CONCOURS POLYTECH	Polytech Tours-Mécanique, Conception de systèmes										6	0.0	16.7	1328	1254	4
+2020	pt	CONCOURS POLYTECH	Sup Galilée Villetaneuse										3	33.3	66.7	1085	1161	4
+2020	pt	CONCOURS POLYTECH	¥Concours POLYTECH PT	1986	16.0	15.9				1403	14.7	17.7	150					160
+2020	pt	AUTRES ECOLES	ECE PARIS (statut apprentissage)										5	20.0	0.0	432	436	3
+2020	pt	AUTRES ECOLES	ECE PARIS										17	17.6	17.6	428	403	25
+2020	pt	AUTRES ECOLES	ECE LYON										2	50.0	50.0	418	431	6
+2020	pt	AUTRES ECOLES	¥Concours ECE PT	592	16.2	13.2				517	16.8	14.1	24					34
+2020	pt	AUTRES ECOLES	EIL Côte d'Opale-Dunkerque (Génie Energétique et Environnement)	320	23.4	13.8				250	22.4	16.4	4	25.0	0.0	178	168	5
+2020	pt	AUTRES ECOLES	ECOLE DE L'AIR Base							0	0.0	0.0	0	0.0	0.0	0	0	null
+2020	pt	AUTRES ECOLES	Paoli Tech	328	22.9	14.6				235	22.6	16.6	4	25.0	0.0	222	215	4
+2020	pt	AUTRES ECOLES	ECOLE DE L'AIR Méca	346	12.4	17.9				5	0.0	60.0	1	0.0	100.0	4	4	2
+2020	pt	AUTRES ECOLES	ECOLE DE L'AIR Pilote							0	0.0	0.0	0	0.0	0.0	0	0	null
+2020	pt	AUTRES ECOLES	IMT Lille Douai en Partenariat ISPA	377	21.5	15.9				258	21.3	19.8	5	40.0	0.0	241	239	10
+2020	pt	AUTRES ECOLES	EFREI Paris	542	14.4	13.3				502	14.5	13.1	18	11.1	0.0	451	441	30
+2020	pt	AUTRES ECOLES	ENSM Site de Nantes	283	19.1	13.4				237	20.7	13.5	10	20.0	0.0	174	177	20
+2020	pt	AUTRES ECOLES	EIGSI La Rochelle	378	23.3	12.2				301	23.6	13.0	12	41.7	16.7	256	227	25
+2020	pt	AUTRES ECOLES	EIL Côte d'Opale-Calais (informatique)										4	0.0	0.0	222	226	10
+2020	pt	AUTRES ECOLES	EIL Côte d'Opale-Longuenesse (Génie Industriel)										7	14.3	28.6	226	226	20
+2020	pt	AUTRES ECOLES	¥Concours EIL Côte d'Opale Longuenesse-Calais-Dunkerque PT	320	23.4	13.8				250	22.4	16.4	11					30
+2020	pt	AUTRES ECOLES	ELISA Aérospace Saint Quentin (80)	306	16.0	16.7				89	14.6	24.7	0	0.0	0.0	0	0	8
+2020	pt	AUTRES ECOLES	ENSAIT Roubaix										10	50.0	30.0	171	172	15
+2020	pt	AUTRES ECOLES	ENSAIT Roubaix-Formation en alternance										0	0.0	0.0	0	0	1
+2020	pt	AUTRES ECOLES	¥Concours ENSAIT Roubaix PT	420	23.8	17.9				233	24.5	23.2	10					16
+2020	pt	AUTRES ECOLES	ENSIL-ENSCI Limoges Mécatronique	353	20.4	14.4				147	19.7	19.0	3	0.0	0.0	112	97	null
+2020	pt	AUTRES ECOLES	ENSISA Mulhouse Automatique et Systèmes Embarqués										2	50.0	50.0	204	204	6
+2020	pt	AUTRES ECOLES	ENSISA Mulhouse Informatique et réseaux										2	0.0	0.0	224	224	6
+2020	pt	AUTRES ECOLES	ENSISA Mulhouse Mécanique										5	20.0	60.0	238	235	9
+2020	pt	AUTRES ECOLES	ENSISA Mulhouse Textile et Fibres										3	33.3	33.3	211	175	4
+2020	pt	AUTRES ECOLES	¥Concours ENSISA PT	456	20.2	15.4				288	19.8	20.1	12					25
+2020	pt	AUTRES ECOLES	EPF campus SCEAUX	411	21.9	12.9				359	21.4	13.9	6	33.3	33.3	181	191	6
+2020	pt	AUTRES ECOLES	Lorraine INP-ENSTIB	282	22.3	14.9				200	23.5	16.0	12	8.3	0.0	148	124	15
+2020	pt	AUTRES ECOLES	EPF campus TROYES										4	50.0	0.0	252	271	6
+2020	pt	AUTRES ECOLES	EPF campus MONTPELLIER										8	25.0	0.0	283	268	8
+2020	pt	AUTRES ECOLES	¥Concours EPF Sceaux-Troyes-Montpellier PT	411	21.9	12.9				359	21.4	13.9	12					14
+2020	pt	AUTRES ECOLES	ESB Nantes	168	21.4	11.3				84	17.9	14.3	2	0.0	0.0	57	57	15
+2020	pt	AUTRES ECOLES	ESFF-Sèvres	336	16.7	13.7				243	16.5	17.3	3	0.0	33.3	7	75	11
+2020	pt	AUTRES ECOLES	ESIEA Paris-Laval	319	16.9	13.2				246	16.7	14.2	0	0.0	0.0	0	0	5
+2020	pt	AUTRES ECOLES	ESIEE Amiens	359	19.8	12.8				247	18.2	14.6	1	0.0	100.0	210	210	10
+2020	pt	AUTRES ECOLES	ESIEE Paris	260	20.4	11.5				195	19.0	12.3	7	0.0	0.0	168	143	15
+2020	pt	AUTRES ECOLES	ESIGELEC Rouen	456	16.9	12.9				389	16.7	13.9	5	0.0	0.0	375	370	25
+2020	pt	AUTRES ECOLES	ESILV Paris-La Défense	644	14.3	14.4				542	14.6	15.7	35	11.4	5.7	322	307	35
+2020	pt	AUTRES ECOLES	ESITC Caen	214	26.6	11.7				104	27.9	11.5	2	100.0	0.0	80	80	8
+2020	pt	AUTRES ECOLES	ESTACA Laval Aéronautique et spatial										1	0.0	0.0	234	234	2
+2020	pt	AUTRES ECOLES	ESTACA Laval Automobile										1	0.0	0.0	238	238	4
+2020	pt	AUTRES ECOLES	ESTACA Paris-Saclay Aéronautique et spatial										4	0.0	25.0	119	136	2
+2020	pt	AUTRES ECOLES	ESTACA Paris-Saclay Automobile ou Transports Guidés										0	0.0	0.0	0	0	2
+2020	pt	AUTRES ECOLES	¥Concours ESTACA PT	712	12.1	16.3				247	10.9	23.5	6					10
+2020	pt	AUTRES ECOLES	ESTIA Bidart	510	17.1	14.3				409	16.6	16.4	15	13.3	26.7	335	322	32
+2020	pt	AUTRES ECOLES	ESTP Paris-Bâtiment (B)-campus de Cachan										10	20.0	40.0	218	218	9
+2020	pt	AUTRES ECOLES	ESTP Paris-Bâtiment (B)-campus de Troyes										24	25.0	25.0	408	413	14
+2020	pt	AUTRES ECOLES	ESTP Paris-Génie Mécanique et Electrique(GME)										14	7.1	21.4	346	332	10
+2020	pt	AUTRES ECOLES	ESTP Paris-Topographie (T)										5	0.0	0.0	479	450	10
+2020	pt	AUTRES ECOLES	ESTP Paris-Travaux Publics (TP)-campus de Cachan										10	10.0	20.0	262	269	10
+2020	pt	AUTRES ECOLES	ESTP Paris-Travaux Publics (TP)-campus de Dijon										15	20.0	20.0	402	398	6
+2020	pt	AUTRES ECOLES	¥Concours ESTP PT	718	19.6	17.8				504	18.8	21.6	78					59
+2020	pt	AUTRES ECOLES	Grenoble INP-Génie Industriel	729	16.9	20.9				381	15.2	26.0	13	23.1	15.4	238	243	12
+2020	pt	AUTRES ECOLES	Toulouse INP-ENIT	545	18.3	15.4				213	15.5	19.2	2	100.0	0.0	193	193	6
+2020	pt	AUTRES ECOLES	ISMANS-Groupe CESI Le Mans	254	16.9	14.2				238	17.6	14.7	11	0.0	9.1	207	204	20
+2020	pt	AUTRES ECOLES	ITECH Lyon	126	28.6	12.7				44	34.1	20.5	1	0.0	100.0	44	44	5
+2020	pt	AUTRES ECOLES	3IL Ingénieurs	196	15.8	9.7				64	14.1	7.8	0	0.0	0.0	0	0	8
+2020	pt	FESIC	ECAM Lyon	822	16.2	16.7				581	15.3	19.6	33	12.1	21.2	433	427	55
+2020	pt	FESIC	ECAM Rennes	822	16.2	16.7				730	15.8	17.7	6	0.0	0.0	632	649	18
+2020	pt	FESIC	ECAM Strasbourg Europe	822	16.2	16.7				767	16.2	17.6	22	27.3	13.6	654	613	30
+2020	pt	FESIC	ECAM-EPMI Cergy-Pontoise	822	16.2	16.7				772	16.1	17.5	11	18.2	36.4	716	695	20
+2020	pt	FESIC	ESAIP Angers / Aix-en-Provence	333	18.6	12.9				304	18.8	13.5	3	33.3	0.0	279	275	15
+2020	pt	FESIC	ESEO Angers-Paris Vélizy	212	20.3	8.0				90	20.0	14.4	0	0.0	0.0	0	0	20
+2020	pt	FESIC	HEI	435	20.9	13.6				354	20.3	15.3	13	30.8	23.1	273	261	25
+2020	pt	FESIC	ISEN Lille	184	14.7	7.1				138	13.8	8.7	3	0.0	0.0	120	109	25
+2020	pt	FESIC	ISEN Yncréa Méditerrannée-Nîmes	126	18.3	8.7				100	19.0	10.0	1	0.0	0.0	93	93	10
+2020	pt	FESIC	ISEN Yncréa Méditerrannée-Toulon	155	14.8	9.7				125	15.2	11.2	1	0.0	0.0	70	70	10
+2020	pt	FESIC	ISEN Yncréa Ouest-Brest										0	0.0	0.0	0	0	0
+2020	pt	FESIC	ISEN Yncréa Ouest-Nantes										0	0.0	0.0	0	0	0
+2020	pt	FESIC	¥Concours concours ISEN Ouest PT	822	16.2	16.7				0	0.0	0.0	0					0
+2020	pt	FESIC	ISEP Paris	192	15.1	9.4				151	12.6	11.9	7	0.0	14.3	65	77	5
+2020	pt	FESIC	UniLaSalle Beauvais-Sciences de la Terre et Environnement	822	16.2	16.7				675	15.6	18.2	2	0.0	0.0	547	547	3
+2020	pt	Groupe INSA	ISIS Castres Informatique pour la Santé	564	21.5	18.8				298	19.5	22.1	0	0.0	0.0	0	0	1
+2020	pt	Groupe INSA Inter-Filière	INSA Hauts de France Génie civil et bâtiment	2294	36.4	19.4				1186	38.2	18.7	8	37.5	0.0	925	919	8
+2020	pt	Groupe INSA Inter-Filière	INSA Hauts de France Génie civil et bâtiment	2396	25.2	17.7				1278	25.0	20.6	5	40.0	20.0	840	788	5
+2020	pt	Groupe INSA Inter-Filière	INSA Hauts de France Informatique et Cybersécurité	3132	23.5	19.5				1047	22.4	21.7	2	0.0	0.0	750	811	3
+2020	pt	Groupe INSA Inter-Filière	INSA Hauts de France Mécanique et Energétique										28	32.1	21.4	1663	1640	35
+2020	pt	Groupe INSA Inter-Filière	INSA Hauts de France Génie Industriel										12	41.7	41.7	1511	1394	10
+2020	pt	Groupe INSA Inter-Filière	INSA Hauts de France Mécatronique										19	0.0	10.5	1511	1428	16
+2020	pt	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie mécanique, génie industriel et mécatronique PSI-PT	3281	21.0	17.7				1956	21.3	19.4	59					61
+2020	pt	Groupe INSA Inter-Filière	ESITech Rouen Technologies du Vivant										2	100.0	0.0	747	747	3
+2020	pt	Groupe INSA Inter-Filière	INSA Lyon Biosciences										5	80.0	20.0	230	211	6
+2020	pt	Groupe INSA Inter-Filière	INSA Toulouse Génie Biologique										2	100.0	0.0	153	153	2
+2020	pt	Groupe INSA Inter-Filière	ISIS Castres Informatique pour la Santé										13	46.2	15.4	1699	1667	2
+2020	pt	Groupe INSA Inter-Filière	¥Concours INSA Domaine¥Biotechnologies-santé MP-PC-PSI-BCPST-TPC	4009	47.3	19.8				2097	49.7	21.5	22					13
+2020	pt	Groupe INSA Inter-Filière	INSA Lyon Génie Energétique et Environnement										5	40.0	20.0	266	221	5
+2020	pt	Groupe INSA Inter-Filière	INSA Rouen Normandie Chimie et Procédés										3	33.3	0.0	1046	1037	4
+2020	pt	Groupe INSA Inter-Filière	INSA Rouen Normandie Energétique et Propulsion										4	75.0	25.0	992	885	4
+2020	pt	Groupe INSA Inter-Filière	INSA Rouen Normandie Maîtrise des Risques Industriels										6	33.3	16.7	1138	1160	6
+2020	pt	Groupe INSA Inter-Filière	INSA Strasbourg Génie Climatique et Energétique										10	50.0	20.0	1299	1176	12
+2020	pt	Groupe INSA Inter-Filière	INSA Toulouse Génie des Procédés et environnement										5	40.0	40.0	750	689	10
+2020	pt	Groupe INSA Inter-Filière	Sup'EnR Perpignan Energétique et Energies Renouvelables										2	50.0	0.0	1385	1385	2
+2020	pt	Groupe INSA Inter-Filière	¥Concours INSA Domaine¥Energétique – Génie Chimique – Environnement MP-PC-PSI	4146	37.5	19.3				1506	37.5	21.6	35					43
+2020	pt	Groupe INSA Inter-Filière	INSA Euro-Méditerranée Maroc Génie Electrique										0	0.0	0.0	0	0	3
+2020	pt	Groupe INSA Inter-Filière	INSA Lyon Génie Electrique										8	25.0	0.0	312	295	8
+2020	pt	Groupe INSA Inter-Filière	INSA Rennes Electronique et Informatique Industrielle										2	0.0	50.0	1014	1014	2
+2020	pt	Groupe INSA Inter-Filière	INSA Rennes Système et Réseaux de Communication										3	0.0	33.3	1793	1583	5
+2020	pt	Groupe INSA Inter-Filière	INSA Strasbourg Génie Electrique										8	25.0	25.0	1411	1367	10
+2020	pt	Groupe INSA Inter-Filière	INSA Toulouse Automatique et Electronique										2	50.0	0.0	630	643	3
+2020	pt	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie électrique, électronique, automatique MP-PC-PSI-PT	4812	24.9	18.7				1964	24.2	20.1	23					31
+2020	pt	Groupe INSA Inter-Filière	INSA Lyon Génie Civil et Urbanisme										7	28.6	0.0	140	135	7
+2020	pt	Groupe INSA Inter-Filière	INSA Rennes Génie Civil et Urbain										2	50.0	50.0	387	387	2
+2020	pt	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Civil et constructions durables										2	100.0	50.0	760	760	2
+2020	pt	Groupe INSA Inter-Filière	INSA Strasbourg Génie Civil										3	33.3	0.0	815	721	3
+2020	pt	Groupe INSA Inter-Filière	INSA Strasbourg Topographie										2	50.0	50.0	828	732	4
+2020	pt	Groupe INSA Inter-Filière	INSA Toulouse Génie Civil										1	0.0	0.0	243	243	1
+2020	pt	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie civil, urbanisme, topographie MP-PC	2294	36.4	19.4				1186	38.2	18.7	17					19
+2020	pt	Groupe INSA Inter-Filière	INSA Lyon Génie Civil et Urbanisme										9	22.2	0.0	160	156	9
+2020	pt	Groupe INSA Inter-Filière	INSA Rennes Génie Civil et Urbain										2	50.0	50.0	261	261	2
+2020	pt	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Civil et constructions durables										2	0.0	0.0	388	388	2
+2020	pt	Groupe INSA Inter-Filière	INSA Strasbourg Génie Civil										12	33.3	8.3	509	485	12
+2020	pt	Groupe INSA Inter-Filière	INSA Strasbourg Topographie										10	10.0	30.0	1008	954	10
+2020	pt	Groupe INSA Inter-Filière	INSA Toulouse Génie Civil										1	0.0	0.0	290	290	2
+2020	pt	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie civil, urbanisme, topographie PSI-PT	2396	25.2	17.7				1278	25.0	20.6	36					37
+2020	pt	Groupe INSA Inter-Filière	INSA Centre Val de Loire Sécurité et Technologies Informatiques										2	0.0	0.0	724	724	1
+2020	pt	Groupe INSA Inter-Filière	INSA Euro-Méditerranée Maroc Systèmes d'Information et de Communication										0	0.0	0.0	0	0	2
+2020	pt	Groupe INSA Inter-Filière	INSA Lyon Télécommunications, services et usages										4	25.0	0.0	254	251	4
+2020	pt	Groupe INSA Inter-Filière	INSA Rennes Informatique										1	100.0	0.0	393	393	2
+2020	pt	Groupe INSA Inter-Filière	INSA Rouen Normandie Architecture des Systèmes d'Information										2	0.0	50.0	541	541	2
+2020	pt	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Mathématique										2	50.0	0.0	145	145	2
+2020	pt	Groupe INSA Inter-Filière	INSA Toulouse Informatique et Réseaux										6	0.0	16.7	341	325	6
+2020	pt	Groupe INSA Inter-Filière	INSA Toulouse Mathématiques appliquées										3	33.3	0.0	392	396	3
+2020	pt	Groupe INSA Inter-Filière	¥Concours INSA Domaine Informatique, mathématique, modélisation PC-PSI-PT	3132	23.5	19.5				1047	22.4	21.7	20					22
+2020	pt	Groupe INSA Inter-Filière	INSA Centre Val de Loire Génie des Systèmes Industriels										8	50.0	12.5	1793	1689	18
+2020	pt	Groupe INSA Inter-Filière	INSA Euro-Méditerranée Maroc Génie Mécanique et Energétique										0	0.0	0.0	0	0	4
+2020	pt	Groupe INSA Inter-Filière	INSA Lyon Génie Industriel										8	0.0	12.5	281	231	8
+2020	pt	Groupe INSA Inter-Filière	INSA Lyon Génie Mécanique										28	14.3	10.7	289	284	30
+2020	pt	Groupe INSA Inter-Filière	INSA Rennes Génie Mécanique et Automatique										4	50.0	0.0	690	714	4
+2020	pt	Groupe INSA Inter-Filière	INSA Rouen Normandie Mécanique										2	0.0	0.0	857	874	3
+2020	pt	Groupe INSA Inter-Filière	INSA Strasbourg Génie Mécanique										21	28.6	14.3	1042	991	22
+2020	pt	Groupe INSA Inter-Filière	INSA Strasbourg Mécatronique										4	50.0	25.0	538	525	4
+2020	pt	Groupe INSA Inter-Filière	INSA Strasbourg Plasturgie										3	33.3	0.0	1684	1687	14
+2020	pt	Groupe INSA Inter-Filière	INSA Toulouse Génie Mécanique										3	33.3	33.3	523	529	4
+2020	pt	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie mécanique, génie industriel et mécatronique PSI-PT	3281	21.0	17.7				1956	21.3	19.4	81					111
+2020	pt	Groupe INSA Inter-Filière	ESITech Rouen Génie Physique										3	100.0	0.0	1770	1855	4
+2020	pt	Groupe INSA Inter-Filière	INSA Centre Val de Loire Maîtrise des Risques Industriels										4	50.0	0.0	2007	1947	23
+2020	pt	Groupe INSA Inter-Filière	INSA Lyon Science et Génie des Matériaux										10	30.0	20.0	432	351	10
+2020	pt	Groupe INSA Inter-Filière	INSA Rennes Science et Génie des Matériaux										3	100.0	33.3	1491	1390	3
+2020	pt	Groupe INSA Inter-Filière	INSA Toulouse Génie Physique										7	42.9	14.3	700	635	6
+2020	pt	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie physique et matériaux MP-PC-PSI	4540	32.5	19.2				2206	33.7	19.9	27					46
+2020	pt	Groupe INSA Inter-Filière	ESITech Rouen Génie Physique										0	0.0	0.0	0	0	2
+2020	pt	Groupe INSA Inter-Filière	INSA Centre Val de Loire Maîtrise des Risques Industriels										1	100.0	0.0	584	584	7
+2020	pt	Groupe INSA Inter-Filière	INSA Lyon Science et Génie des Matériaux										1	0.0	0.0	44	44	1
+2020	pt	Groupe INSA Inter-Filière	INSA Rennes Science et Génie des Matériaux										1	0.0	0.0	175	175	1
+2020	pt	Groupe INSA Inter-Filière	INSA Toulouse Génie Physique										1	100.0	0.0	33	33	1
+2020	pt	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie physique et matériaux TSI-PT-TPC	1609	14.2	19.1				702	13.2	21.5	4					12
+2020	pt	CESI	CESI Angoulême										1	0.0	0.0	81	81	8
+2020	pt	CESI	CESI Arras										4	25.0	0.0	131	130	10
+2020	pt	CESI	CESI Bordeaux										2	0.0	50.0	141	141	8
+2020	pt	CESI	CESI Lyon										5	60.0	40.0	138	120	12
+2020	pt	CESI	CESI Rouen										1	0.0	0.0	68	68	8
+2020	pt	CESI	CESI Nancy										0	0.0	0.0	0	0	8
+2020	pt	CESI	CESI Nanterre										9	55.6	22.2	139	122	20
+2020	pt	CESI	CESI Nice Sophia Antipolis										1	0.0	0.0	23	23	5
+2020	pt	CESI	CESI Saint-Nazaire										1	100.0	100.0	156	156	10
+2020	pt	CESI	¥Concours CESI Ecole d'Ingénieurs-Ingénieur Généraliste	385	30.6	15.8				162	36.4	17.3	24					89
+2020	pt	CESI	CESI Aix-en-Provence										1	0.0	0.0	31	31	2
+2020	pt	CESI	CESI Arras										1	0.0	0.0	48	48	4
+2020	pt	CESI	CESI Bordeaux										1	0.0	0.0	25	25	2
+2020	pt	CESI	CESI La Rochelle										0	0.0	0.0	0	0	2
+2020	pt	CESI	CESI Lille										0	0.0	0.0	0	0	3
+2020	pt	CESI	CESI Lyon										0	0.0	0.0	0	0	2
+2020	pt	CESI	CESI Rouen										2	0.0	0.0	39	39	2
+2020	pt	CESI	CESI Nancy										1	0.0	0.0	34	34	2
+2020	pt	CESI	CESI Nanterre										0	0.0	0.0	0	0	7
+2020	pt	CESI	CESI Nice Sophia Antipolis										0	0.0	0.0	0	0	2
+2020	pt	CESI	CESI Orléans										0	0.0	0.0	0	0	3
+2020	pt	CESI	CESI Pau										0	0.0	0.0	0	0	2
+2020	pt	CESI	CESI Reims										1	0.0	0.0	33	33	2
+2020	pt	CESI	CESI Saint-Nazaire										0	0.0	0.0	0	0	5
+2020	pt	CESI	CESI Strasbourg										1	0.0	0.0	4	4	6
+2020	pt	CESI	CESI Toulouse										0	0.0	0.0	0	0	3
+2020	pt	CESI	¥Concours CESI Ecole d'Ingénieurs-Ingénieur en Informatique (interFilère)	114	11.4	7.9				53	11.3	7.5	8					49
+2020	pt	EPITA	EPITA										4	0.0	0.0	89	84	5
+2020	pt	EPITA	IPSA Paris										8	12.5	12.5	86	84	6
+2020	pt	EPITA	IPSA Toulouse										3	0.0	33.3	45	35	2
+2020	pt	EPITA	ESME SUDRIA Paris										3	0.0	0.0	118	114	10
+2020	pt	EPITA	¥Concours EPITA / IPSA / ESME PT	270	14.4	14.8				131	13.0	19.8	18					23

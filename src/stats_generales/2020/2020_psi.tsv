@@ -1,0 +1,397 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	integres_places
+2020	psi	BANQUE ENS CACHAN/EC. POLYTECH	ENS Ulm PSI	1029	19.0	20.5				32	9.4	12.5	6	0.0	16.7	15	12	6
+2020	psi	BANQUE ENS CACHAN/EC. POLYTECH	ECOLE POLYTECHNIQUE	1028	16.8	18.8				69	17.4	5.8	57	19.3	5.3	31	32	57
+2020	psi	BANQUE ENS CACHAN/EC. POLYTECH	ENS Paris-Saclay	1428	19.6	19.9				375	15.7	14.9	39	12.8	25.6	197	187	39
+2020	psi	BANQUE ENS CACHAN/EC. POLYTECH	ENS Rennes	1335	19.7	20.1				366	16.7	15.0	2	100.0	0.0	302	302	2
+2020	psi	BANQUE CENTRALE-SUPELEC	CentraleSupélec-statut étudiant	2635	20.7	17.2				2040	20.3	16.5	189	14.3	13.2	189	187	190
+2020	psi	BANQUE CENTRALE-SUPELEC	CentraleSupélec-statut étudiant-étr.	127	26.8	15.7				60	30.0	16.7	10	20.0	10.0	16	15	10
+2020	psi	BANQUE CENTRALE-SUPELEC	CENTRALE LYON	3014	21.5	17.3				2307	21.4	16.8	81	28.4	23.5	432	434	82
+2020	psi	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	1440	23.2	19.9				1048	23.3	19.3	32	28.1	21.9	577	558	28
+2020	psi	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)-étr.	56	35.7	19.6				18	44.4	27.8	1	0.0	100.0	17	17	2
+2020	psi	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE	3037	22.5	18.1				2242	22.5	17.4	60	16.7	20.0	598	592	60
+2020	psi	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES	3109	22.3	17.6				2330	22.2	17.4	65	16.9	15.4	505	473	75
+2020	psi	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE	2840	22.3	19.0				1977	22.4	18.6	65	24.6	20.0	725	732	60
+2020	psi	BANQUE CENTRALE-SUPELEC	CENTRALE CASABLANCA	577	20.5	19.9				259	17.0	22.0	2	0.0	0.0	174	174	3
+2020	psi	BANQUE CENTRALE-SUPELEC	CENTRALE CASABLANCA	203	46.3	8.4				91	41.8	5.5	11	45.5	0.0	57	63	20
+2020	psi	BANQUE CENTRALE-SUPELEC	CentraleSupélec-statut étudiant-CI										6	50.0	0.0	5	5	6
+2020	psi	BANQUE CENTRALE-SUPELEC	CENTRALE LYON-CI										1	100.0	0.0	8	8	1
+2020	psi	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE-CI										0	0.0	0.0	0	0	1
+2020	psi	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES-CI										1	0.0	0.0	9	9	4
+2020	psi	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)-CI										2	0.0	50.0	25	25	1
+2020	psi	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE-CI										1	100.0	0.0	13	13	1
+2020	psi	BANQUE CENTRALE-SUPELEC	¥Concours Cycle International Centrale-Supelec PSI	92	37.0	8.7				35	34.3	8.6	11					14
+2020	psi	BANQUE CENTRALE-SUPELEC	CENTRALE CASABLANCA-CI	92	37.0	8.7				35	34.3	8.6	0	0.0	0.0	0	0	8
+2020	psi	BANQUE CENTRALE-SUPELEC	Arts et Métiers										256	23.4	25.0	1115	1081	254
+2020	psi	BANQUE CENTRALE-SUPELEC	Arts et Métiers-ingénieurs militaires										0	0.0	0.0	0	0	6
+2020	psi	BANQUE CENTRALE-SUPELEC	Arts et Métiers-voie de l'apprentissage										1	0.0	100.0	501	501	7
+2020	psi	BANQUE CENTRALE-SUPELEC	¥Concours ARTS ET MÉTIERS ParisTech PSI	3439	22.6	19.3				2156	21.3	20.7	257					267
+2020	psi	BANQUE CENTRALE-SUPELEC	ENSEA Cergy	3439	22.6	19.3				2729	22.1	20.2	64	17.2	32.8	1949	1938	70
+2020	psi	BANQUE CENTRALE-SUPELEC	EPF campus TROYES										7	42.9	42.9	652	624	10
+2020	psi	BANQUE CENTRALE-SUPELEC	EPF campus MONTPELLIER										9	33.3	11.1	460	438	8
+2020	psi	BANQUE CENTRALE-SUPELEC	EPF campus SCEAUX										6	66.7	16.7	408	379	6
+2020	psi	BANQUE CENTRALE-SUPELEC	¥Concours EPF Sceaux-Troyes-Montpellier PSI	886	33.0	16.3				683	33.7	15.5	22					24
+2020	psi	BANQUE CENTRALE-SUPELEC	ESTP Paris-Travaux Publics (TP)-campus de Cachan										58	22.4	15.5	1110	1017	60
+2020	psi	BANQUE CENTRALE-SUPELEC	ESTP Paris-Bâtiment (B)-campus de Cachan										52	51.9	13.5	778	772	55
+2020	psi	BANQUE CENTRALE-SUPELEC	ESTP Paris-Génie Mécanique et Electrique(GME)										30	26.7	20.0	955	964	30
+2020	psi	BANQUE CENTRALE-SUPELEC	ESTP Paris-Topographie (T)										8	37.5	25.0	1252	1248	14
+2020	psi	BANQUE CENTRALE-SUPELEC	ESTP Paris-Bâtiment (B)-campus de Troyes										22	40.9	9.1	1027	1011	20
+2020	psi	BANQUE CENTRALE-SUPELEC	ESTP Paris-Travaux Publics (TP)-campus de Dijon										18	27.8	11.1	1261	1224	8
+2020	psi	BANQUE CENTRALE-SUPELEC	¥Concours ESTP PSI	1532	28.7	18.5				1287	28.3	17.6	188					187
+2020	psi	BANQUE CENTRALE-SUPELEC	ECOLE NAVALE Brest	783	18.0	26.4				152	10.5	44.7	32	6.2	59.4	54	52	32
+2020	psi	CONCOURS COMMUN MINES-PONTS	Chimie ParisTech										0	0.0	0.0	0	0	2
+2020	psi	CONCOURS COMMUN MINES-PONTS	ENSAE Paris										7	14.3	14.3	622	591	8
+2020	psi	CONCOURS COMMUN MINES-PONTS	ENSTA Paris										59	15.3	15.3	559	525	55
+2020	psi	CONCOURS COMMUN MINES-PONTS	ENSTA Paris-apprentissage										4	0.0	0.0	661	661	2
+2020	psi	CONCOURS COMMUN MINES-PONTS	IMT Atlantique cursus Brest-Nantes-Rennes-Toulouse										79	25.3	10.1	932	896	71
+2020	psi	CONCOURS COMMUN MINES-PONTS	IMT Atlantique cursus Sophia Antipolis										4	25.0	0.0	966	970	3
+2020	psi	CONCOURS COMMUN MINES-PONTS	ISAE-SUPAERO Toulouse										83	13.3	10.8	346	337	75
+2020	psi	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										44	15.9	4.5	754	758	45
+2020	psi	CONCOURS COMMUN MINES-PONTS	MINES SAINT-ETIENNE										44	22.7	4.5	862	843	45
+2020	psi	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										36	22.2	0.0	59	61	36
+2020	psi	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										58	25.9	1.7	299	283	58
+2020	psi	CONCOURS COMMUN MINES-PONTS	TELECOM Paris cursus Paris										22	4.5	4.5	380	357	20
+2020	psi	CONCOURS COMMUN MINES-PONTS	TELECOM Paris cursus Sophia										9	11.1	11.1	576	563	8
+2020	psi	CONCOURS COMMUN MINES-PONTS	¥Concours CCMP PSI	3715	21.9	16.9				1292	17.1	13.9	449					428
+2020	psi	Concours Mines - Télécom	IMT Mines Albi										47	25.5	19.1	1434	1389	50
+2020	psi	Concours Mines - Télécom	IMT Mines Alès										58	31.0	12.1	1411	1380	57
+2020	psi	Concours Mines - Télécom	ENSIIE Evry										20	25.0	35.0	1703	1644	17
+2020	psi	Concours Mines - Télécom	ENSTA Bretagne (filière sous statut étudiant)										44	25.0	22.7	949	893	50
+2020	psi	Concours Mines - Télécom	IMT Lille Douai										62	32.3	17.7	1754	1635	62
+2020	psi	Concours Mines - Télécom	Mines Saint Etienne-ISMIN										28	25.0	17.9	1288	1284	28
+2020	psi	Concours Mines - Télécom	Télécom Physique Strasbourg Informatique et Réseaux										10	30.0	10.0	2086	2013	8
+2020	psi	Concours Mines - Télécom	Télécom Physique Strasbourg TI-Santé										9	66.7	11.1	1934	1668	8
+2020	psi	Concours Mines - Télécom	TELECOM SudParis										36	16.7	27.8	958	882	32
+2020	psi	Concours Mines - Télécom	TELECOM SudParis-cursus Sophia-Antipolis										3	66.7	0.0	932	855	3
+2020	psi	Concours Mines - Télécom	¥Concours Mines-Télécom PSI	4211	23.6	17.6				2442	22.5	17.5	317					315
+2020	psi	Concours Mines - Télécom	ENSTA Bretagne (filière sous statut IETA-Direction Générale de l'Armement)	4211	23.6	17.6				2178	21.8	19.1	12	33.3	41.7	591	613	12
+2020	psi	Concours Mines - Télécom	ENSG-Géomatique Marne la Vallée Civil										7	28.6	28.6	2569	2476	5
+2020	psi	Concours Mines - Télécom	ENSG Nancy										9	55.6	22.2	2305	2183	5
+2020	psi	Concours Mines - Télécom	ENSSAT Lannion										18	22.2	27.8	2423	2354	16
+2020	psi	Concours Mines - Télécom	TELECOM Nancy										12	25.0	8.3	1897	1690	10
+2020	psi	Concours Mines - Télécom	TELECOM St Etienne-Statut étudiant										25	8.0	8.0	2397	2256	21
+2020	psi	Concours Mines - Télécom	TELECOM St Etienne-Statut apprenti										2	50.0	0.0	2304	2304	2
+2020	psi	Concours Mines - Télécom	¥Concours Mines-Télécom Spécifique PSI	4211	23.6	17.6				3160	23.4	17.8	73					59
+2020	psi	CONCOURS COMMUN TPE	ENTPE Lyon Civil										23	47.8	17.4	971	883	21
+2020	psi	CONCOURS COMMUN TPE	ENTPE Lyon Fonctionnaire										29	31.0	24.1	849	812	29
+2020	psi	CONCOURS COMMUN TPE	¥Concours TPE-Candidats français et de l'Union européenne-filière PSI	2255	26.6	18.8				1279	25.5	20.0	52					50
+2020	psi	CONCOURS COMMUN TPE	ENTPE Lyon Etranger	2255	26.6	18.8				27	40.7	22.2	1	0.0	0.0	10	10	1
+2020	psi	CONCOURS COMMUN TPE	EIVP Paris Civil	2255	26.6	18.8				1411	26.2	20.1	19	36.8	15.8	1162	1102	19
+2020	psi	CONCOURS COMMUN TPE	EIVP Paris Fonctionnaire	2255	26.6	18.8				1382	26.0	20.0	4	50.0	50.0	840	904	4
+2020	psi	CONCOURS COMMUN TPE	IMT Lille Douai Fonct.	2255	26.6	18.8				1279	25.5	20.0	2	0.0	0.0	721	721	2
+2020	psi	CONCOURS COMMUN INP	Bordeaux INP-ENSC Cognitique										11	36.4	18.2	2372	2414	8
+2020	psi	CONCOURS COMMUN INP	Bordeaux INP-ENSEIRB-MATMECA Electronique										22	4.5	18.2	2280	2231	17
+2020	psi	CONCOURS COMMUN INP	Bordeaux INP-ENSEIRB-MATMECA Informatique										10	10.0	0.0	1828	1635	10
+2020	psi	CONCOURS COMMUN INP	Bordeaux INP-ENSEIRB-MATMECA Mathématiques et Mécanique										23	17.4	21.7	1965	1902	16
+2020	psi	CONCOURS COMMUN INP	Bordeaux INP-ENSEIRB-MATMECA Télecom.										21	33.3	9.5	2381	2323	16
+2020	psi	CONCOURS COMMUN INP	Bordeaux INP-ENSPIMA										7	28.6	14.3	2082	2005	5
+2020	psi	CONCOURS COMMUN INP	CPE LYON Sciences du numérique										8	25.0	37.5	3186	3042	10
+2020	psi	CONCOURS COMMUN INP	EISTI Cergy-Pau										25	20.0	16.0	3384	3348	20
+2020	psi	CONCOURS COMMUN INP	ENAC Toulouse Civil										28	21.4	32.1	1211	1147	34
+2020	psi	CONCOURS COMMUN INP	ENAC Toulouse Fonctionnaire										5	0.0	0.0	646	621	5
+2020	psi	CONCOURS COMMUN INP	ENGEES Strasbourg Civil (apprenti)										3	33.3	0.0	3161	3151	2
+2020	psi	CONCOURS COMMUN INP	ENGEES Strasbourg Civil (étudiant)										12	58.3	16.7	2499	2562	10
+2020	psi	CONCOURS COMMUN INP	ENGEES Strasbourg Fonctionnaire										3	66.7	0.0	1671	1719	3
+2020	psi	CONCOURS COMMUN INP	ENSGTI Pau-Energétique										12	41.7	8.3	3466	3234	12
+2020	psi	CONCOURS COMMUN INP	ENSI Poitiers-Génie de l'Eau et Génie Civil										8	12.5	12.5	2280	2322	7
+2020	psi	CONCOURS COMMUN INP	ENSI Poitiers Energie										16	43.8	37.5	3143	3078	20
+2020	psi	CONCOURS COMMUN INP	ENSICAEN Electronique et Physique Appliquée										10	20.0	40.0	3062	3000	12
+2020	psi	CONCOURS COMMUN INP	ENSICAEN Informatique										5	20.0	0.0	2459	2352	5
+2020	psi	CONCOURS COMMUN INP	ENSMM Besançon										48	37.5	14.6	2817	2720	54
+2020	psi	CONCOURS COMMUN INP	Grenoble INP-ENSE3										78	25.6	11.5	1657	1606	80
+2020	psi	CONCOURS COMMUN INP	Grenoble INP-Pagora										7	42.9	0.0	2934	2911	11
+2020	psi	CONCOURS COMMUN INP	Grenoble INP-Phelma (Physique Electronique Télécoms)										41	14.6	12.2	1528	1358	43
+2020	psi	CONCOURS COMMUN INP	Grenoble INP-Phelma (Physique Matériaux Procédés)										30	43.3	16.7	980	963	31
+2020	psi	CONCOURS COMMUN INP	Grenoble INP-ENSIMAG										13	15.4	23.1	612	554	10
+2020	psi	CONCOURS COMMUN INP	Grenoble INP-Esisar										7	14.3	14.3	2160	2177	12
+2020	psi	CONCOURS COMMUN INP	ISAE-ENSMA Poitiers										60	18.3	13.3	1160	1092	58
+2020	psi	CONCOURS COMMUN INP	ISIMA Clermont-Ferrand										9	33.3	11.1	3031	3005	8
+2020	psi	CONCOURS COMMUN INP	Lorraine INP-ENSEM-Energie										36	22.2	11.1	3340	3169	37
+2020	psi	CONCOURS COMMUN INP	Lorraine INP-ENSEM-Spécialité des systèmes numériques										16	25.0	12.5	2974	2964	12
+2020	psi	CONCOURS COMMUN INP	Lorraine INP-ENSIC										9	44.4	22.2	2833	2643	9
+2020	psi	CONCOURS COMMUN INP	SeaTech Toulon										26	30.8	42.3	2519	2494	29
+2020	psi	CONCOURS COMMUN INP	SIGMA Clermont-Ferrand-spécialité mécanique avancée										45	15.6	22.2	2814	2720	60
+2020	psi	CONCOURS COMMUN INP	SUPMECA Paris										51	19.6	23.5	2032	1972	50
+2020	psi	CONCOURS COMMUN INP	TELECOM PHYSIQUE Strasbourg										24	29.2	20.8	2270	2277	28
+2020	psi	CONCOURS COMMUN INP	Toulouse INP-ENSEEIHT-Electronique-Energie-Automatique (EEA)										44	29.5	27.3	1459	1345	43
+2020	psi	CONCOURS COMMUN INP	Toulouse INP-ENSEEIHT-Mécanique des Fluides-Energetique-Environnement (MFEE)										22	31.8	27.3	1115	998	20
+2020	psi	CONCOURS COMMUN INP	Toulouse INP-ENSEEIHT-Sciences du Numérique										50	6.0	12.0	1406	1368	44
+2020	psi	CONCOURS COMMUN INP	Toulouse INP-ENSIACET-Génie des Procédés										11	36.4	36.4	2161	2149	11
+2020	psi	CONCOURS COMMUN INP	Toulouse INP-ENSIACET-Génie Industriel										19	10.5	5.3	2084	2076	15
+2020	psi	CONCOURS COMMUN INP	¥Concours CCINP PSI	5301	24.9	16.6				3652	23.2	17.7	875					877
+2020	psi	BANQUE EPREUVES CCINP  Inter-Filière	ENSIL-ENSCI Limoges Céramique Industrielle										5	40.0	20.0	1994	1905	45
+2020	psi	BANQUE EPREUVES CCINP  Inter-Filière	ENSIL-ENSCI Limoges EE										5	20.0	20.0	1707	1644	28
+2020	psi	BANQUE EPREUVES CCINP  Inter-Filière	ENSIL-ENSCI Limoges ELT										13	7.7	0.0	1726	1611	28
+2020	psi	BANQUE EPREUVES CCINP  Inter-Filière	ENSIL-ENSCI Limoges Matériaux										4	0.0	0.0	1658	1499	22
+2020	psi	BANQUE EPREUVES CCINP  Inter-Filière	ENSIL-ENSCI Limoges Mécatronique										12	16.7	41.7	1180	1134	22
+2020	psi	BANQUE EPREUVES CCINP  Inter-Filière	¥Concours ENSIL-ENSCI Inter Fil.	1102	29.9	15.0				835	28.9	14.1	39					145
+2020	psi	BANQUE EPREUVES CCINP  Inter-Filière	Grenoble INP-Génie Industriel	1655	27.7	17.8				941	24.2	20.9	31	25.8	41.9	1520	1440	76
+2020	psi	BANQUE EPREUVES CCINP  Inter-Filière	Lorraine INP-EEIGM	473	34.5	15.0				221	35.7	15.4	1	100.0	0.0	456	438	10
+2020	psi	BANQUE EPREUVES CCINP  Inter-Filière	Lorraine INP-ENSGSI	910	33.7	14.3				574	33.3	15.7	7	42.9	42.9	1210	1101	38
+2020	psi	BANQUE EPREUVES CCINP	ECOLE DE L'AIR Base	875	20.2	24.9				203	14.3	43.3	3	66.7	66.7	51	53	3
+2020	psi	BANQUE EPREUVES CCINP	ECOLE DE L'AIR Méca	846	19.6	24.3				194	13.4	43.8	8	12.5	62.5	89	76	8
+2020	psi	BANQUE EPREUVES CCINP	ECOLE DE L'AIR Pilote	929	19.2	23.3				231	16.5	35.5	23	4.3	73.9	32	31	23
+2020	psi	BANQUE EPREUVES CCINP	ENAC Toulouse-Contrôleurs aériens	1055	25.7	21.0				175	33.7	26.9	37	32.4	40.5	48	48	39
+2020	psi	BANQUE EPREUVES CCINP	ENSISA Mulhouse Automatique et Systèmes Embarqués										7	0.0	0.0	562	536	8
+2020	psi	BANQUE EPREUVES CCINP	ENSISA Mulhouse Informatique et réseaux										5	0.0	40.0	572	585	8
+2020	psi	BANQUE EPREUVES CCINP	ENSISA Mulhouse Mécanique										9	11.1	33.3	506	513	8
+2020	psi	BANQUE EPREUVES CCINP	ENSISA Mulhouse Textile et Fibres										4	25.0	0.0	713	685	4
+2020	psi	BANQUE EPREUVES CCINP	¥Concours ENSISA PSI	1236	29.4	15.0				821	26.7	14.6	25					28
+2020	psi	BANQUE EPREUVES CCINP	EOST Strasbourg	592	33.8	14.4				388	34.8	14.9	5	40.0	0.0	292	263	3
+2020	psi	BANQUE EPREUVES CCINP	ESM Saint-Cyr	860	16.7	25.3				112	9.8	54.5	36	5.6	50.0	66	61	36
+2020	psi	BANQUE EPREUVES CCINP	Lorraine INP-ENSTIB	571	32.4	15.6				399	32.1	14.8	7	42.9	0.0	269	252	9
+2020	psi	CONCOURS POLYTECH Inter-Filière	ENSIBS Lorient										3	33.3	0.0	3683	3829	16
+2020	psi	CONCOURS POLYTECH Inter-Filière	ENSIM Le Mans										2	50.0	0.0	3935	3901	10
+2020	psi	CONCOURS POLYTECH Inter-Filière	ESBS Strasbourg										0	0.0	0.0	1347	1236	3
+2020	psi	CONCOURS POLYTECH Inter-Filière	ESGT le Mans										3	33.3	33.3	3604	3539	15
+2020	psi	CONCOURS POLYTECH Inter-Filière	ESI Reims-Energetique										3	33.3	0.0	4594	4463	5
+2020	psi	CONCOURS POLYTECH Inter-Filière	ESI Reims-Génie Urbain et Environnement										1	100.0	0.0	3093	3036	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	ESI Reims-Packaging										1	100.0	0.0	4816	4667	6
+2020	psi	CONCOURS POLYTECH Inter-Filière	ESIAB Brest										0	0.0	0.0	4439	4436	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	ESIPE Créteil-Génie Biomédical et santé (ISBS)										5	80.0	20.0	4596	4059	10
+2020	psi	CONCOURS POLYTECH Inter-Filière	ESIPE Créteil-Système d'information										0	0.0	0.0	3733	3807	3
+2020	psi	CONCOURS POLYTECH Inter-Filière	ESIPE Créteil-Technologie pour la santé										0	0.0	0.0	3723	3724	3
+2020	psi	CONCOURS POLYTECH Inter-Filière	ESIR Rennes										3	33.3	0.0	3835	3540	20
+2020	psi	CONCOURS POLYTECH Inter-Filière	ESIREM Dijon										1	100.0	100.0	3293	3102	5
+2020	psi	CONCOURS POLYTECH Inter-Filière	ESIROI Saint Denis de La Réunion										0	0.0	0.0	0	0	3
+2020	psi	CONCOURS POLYTECH Inter-Filière	ESIX Normandie-Caen-Cherbourg										2	50.0	100.0	4379	4116	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	ISAT Nevers-département MIT (Mécanique et Ingénierie des Transports)										2	50.0	50.0	2228	2054	5
+2020	psi	CONCOURS POLYTECH Inter-Filière	ISAT Nevers-département EPEE (Energies et Moteurs)										5	20.0	0.0	3229	3326	12
+2020	psi	CONCOURS POLYTECH Inter-Filière	ISAT Nevers-Infrastructures et Réseaux de Transports										0	0.0	0.0	4695	4575	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	ISIFC Besançon-Génie Biomédical										1	100.0	100.0	3083	2762	8
+2020	psi	CONCOURS POLYTECH Inter-Filière	ISTY Vélizy										0	0.0	0.0	4192	4125	3
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Angers Bâtiment : Exploitation, Maintenance et Sécurité										1	0.0	0.0	4963	4963	2
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Angers Qualité Innovation Fiabilité										1	0.0	0.0	2659	2659	2
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Angers Systèmes Automatisés et Génie Informatique										1	0.0	100.0	3532	3452	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry-Environnement, Bâtiment, Énergie										5	20.0	0.0	4323	3919	19
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry-Informatique données Usages										0	0.0	0.0	4055	3894	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry-Instrumentation, Automatique, Informatique										0	0.0	0.0	3361	3495	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry-Mécanique, Matériaux										5	0.0	0.0	4059	3896	8
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand-Génie Biologique										0	0.0	0.0	2712	3034	5
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand-Génie Civil										4	0.0	50.0	3573	3434	16
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand-Génie Electrique										4	0.0	25.0	4380	4479	5
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand-Génie Mathématique et Modélisation										5	20.0	20.0	3523	3220	14
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand-Génie Physique										4	25.0	0.0	4718	4489	8
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble-Géotechnique et génie civil										1	0.0	0.0	2850	2655	6
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble-Matériaux										3	0.0	0.0	3914	3594	6
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble-Prévention des risques										3	0.0	0.0	4540	4324	6
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble-Informatique										2	0.0	0.0	2728	2592	8
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble-Informatique et électronique des systèmes embarqués										0	0.0	0.0	2276	2073	5
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble-Technologies de l'information pour la santé										3	33.3	0.0	4084	3724	6
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lille-Génie biologique et alimentaire										0	0.0	0.0	2701	2832	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lille-Génie Informatique et statistique										2	0.0	0.0	3448	3323	10
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lille-Géotechnique, Génie civil										2	0.0	0.0	3161	2919	10
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lille-Informatique, Microélectronique, Automatique										1	0.0	0.0	3152	3102	6
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lille-Ingénierie et commercialisation des systèmes de mesure										0	0.0	0.0	4698	4625	5
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lille-Matériaux										1	0.0	0.0	3490	3356	8
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lille-Mécanique										4	0.0	0.0	3055	2882	10
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lyon-Génie Biomédical										0	0.0	0.0	2771	2910	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lyon-Informatique										2	0.0	50.0	1334	1421	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lyon-Matériaux										0	0.0	0.0	3576	3528	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lyon-Mathématiques Appliquées et Modélisation										0	0.0	0.0	2939	2575	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lyon-Mécanique										1	0.0	0.0	2110	1925	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lyon-Systèmes industriels, Robotique										1	0.0	0.0	3336	3168	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Marseille-Génie Biomédical										1	0.0	0.0	3998	3326	9
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Marseille-Génie Civil										1	0.0	0.0	4499	4376	12
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Marseille-Génie Industriel et Informatique										2	50.0	0.0	3906	3831	8
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Marseille-Informatique										0	0.0	0.0	2930	2959	8
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Marseille-Matériaux										4	25.0	50.0	4867	4780	11
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Marseille-Mécanique, Energétique										10	20.0	20.0	4213	3973	17
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Marseille-Microélectronique,Télécommunications										1	0.0	0.0	4387	4341	8
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier-Informatique et Gestion										3	0.0	33.3	3088	3009	3
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier-Matériaux										1	0.0	0.0	3675	3488	7
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier-Mécanique et Interactions										1	0.0	0.0	2027	2027	2
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier-Microélectronique et Automatique										2	0.0	0.0	3892	3665	5
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier-Sciences et technologies de l'eau										3	66.7	0.0	4147	4088	7
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier Génie biologique et agroalimentaire										0	0.0	0.0	3403	3293	5
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nancy-Energie, Mécanique, Matériaux, Environnement										5	40.0	20.0	4358	3944	16
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nancy-Ingénierie de l'Information et des Systèmes										2	0.0	50.0	3768	3706	8
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nancy-Management opérationnel, Maintenance, Maîtrise des risques										0	0.0	0.0	4887	4821	6
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nantes-Électronique et technologies numériques										3	33.3	0.0	4413	4219	9
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nantes-Énergie électrique										0	0.0	0.0	4587	4575	5
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nantes-Génie civil										3	66.7	0.0	3628	3646	7
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nantes-Génie des Procédés et Bioprocédés										0	0.0	0.0	2926	3018	2
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nantes-Informatique										0	0.0	0.0	2769	2627	9
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nantes-Matériaux										6	33.3	33.3	4284	3788	8
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nantes-Thermique, Énergétique										3	0.0	66.7	4689	4316	7
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia-Bâtiments										4	25.0	0.0	2684	2631	12
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia-Électronique										3	33.3	33.3	3748	3434	10
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia-Génie biologique										0	0.0	0.0	1659	1454	3
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia-Génie de l'eau										1	0.0	100.0	4348	4087	10
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia-Informatique										1	0.0	0.0	2055	1967	14
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia-Mathématiques appliquées, Modélisation										3	0.0	33.3	2758	2706	15
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Orléans-Génie civil et géo-environnement										3	66.7	0.0	4606	4465	14
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Orléans-Génie industriel										0	0.0	0.0	4861	4820	7
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Orléans-Génie physique et systèmes embarqués										3	0.0	33.3	4899	4789	6
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Orléans-Innovation en Conception et Matériaux										1	0.0	100.0	5189	5168	8
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Orléans-Technologies pour l'Énergie, l'Aérospatial et la Motorisation										5	20.0	20.0	2709	2544	14
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Saclay-Electronique, Energie, Systèmes										5	0.0	0.0	3253	2980	6
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Saclay-Informatique										0	0.0	0.0	1768	1680	2
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Saclay-Photonique et systèmes optroniques										2	0.0	0.0	4491	4447	5
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Saclay-Matériaux										0	0.0	0.0	4537	4533	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Sorbonne-Electronique et Informatique										1	0.0	0.0	2387	2416	4
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Sorbonne-Matériaux										2	0.0	50.0	4009	4052	8
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Sorbonne-Mathématiques Appliquées et Informatique										0	0.0	0.0	656	828	3
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Sorbonne-Robotique										3	33.3	0.0	2785	2497	5
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Sorbonne-Sciences de la Terre										2	50.0	0.0	4804	4475	15
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Tours-Électronique, Énergie électrique										2	50.0	0.0	4745	4525	2
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Tours-Génie de l'aménagement et de l'environnement										5	40.0	0.0	3760	3505	7
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Tours-Informatique										1	0.0	0.0	3425	3203	7
+2020	psi	CONCOURS POLYTECH Inter-Filière	Polytech Tours-Mécanique, Conception de systèmes										1	0.0	0.0	4123	3969	7
+2020	psi	CONCOURS POLYTECH Inter-Filière	Sup Galilée Villetaneuse										5	20.0	20.0	4532	4265	24
+2020	psi	CONCOURS POLYTECH Inter-Filière	¥Concours POLYTECH MP-PC-PSI	2844	27.8	16.4				2144	27.1	16.1	192					739
+2020	psi	Puissance Alpha	EFREI Paris	1202	28.6	14.7				1108	28.7	15.0	22	13.6	0.0	990	937	40
+2020	psi	Puissance Alpha	ELISA Aérospace Saint Quentin (80)	1202	28.6	14.7				529	28.7	17.8	4	0.0	25.0	450	443	15
+2020	psi	Puissance Alpha	ESAIP Angers / Aix-en-Provence	1202	28.6	14.7				1081	28.8	14.9	6	0.0	16.7	1060	1020	15
+2020	psi	Puissance Alpha	ESEO Angers-Paris Vélizy	1202	28.6	14.7				829	29.0	14.6	2	50.0	0.0	793	793	20
+2020	psi	Puissance Alpha	ESIEA Paris-Laval	1202	28.6	14.7				1017	28.6	14.7	0	0.0	0.0	0	0	15
+2020	psi	Puissance Alpha	ESIEE Amiens	1202	28.6	14.7				941	28.9	14.5	3	0.0	66.7	733	747	12
+2020	psi	Puissance Alpha	ESIEE Paris	1202	28.6	14.7				1002	28.7	14.8	26	23.1	15.4	748	726	30
+2020	psi	Puissance Alpha	HEI	1202	28.6	14.7				1127	28.8	14.8	24	33.3	37.5	986	939	25
+2020	psi	Puissance Alpha	ISEN Lille	1202	28.6	14.7				981	28.7	14.6	4	25.0	25.0	862	824	15
+2020	psi	Puissance Alpha	ISEN Yncréa Méditerrannée-Nîmes										3	66.7	33.3	977	948	10
+2020	psi	Puissance Alpha	ISEN Yncréa Méditerrannée-Toulon										8	25.0	50.0	897	739	10
+2020	psi	Puissance Alpha	¥Concours ISEN Méditerrannée PSI	1202	28.6	14.7				1054	28.7	15.1	11					20
+2020	psi	Puissance Alpha	ISEN Yncréa Ouest-Brest										3	66.7	0.0	824	760	10
+2020	psi	Puissance Alpha	ISEN Yncréa Ouest-Nantes										1	0.0	0.0	812	812	10
+2020	psi	Puissance Alpha	¥Concours ISEN Ouest PSI	1202	28.6	14.7				1054	28.7	15.1	4					20
+2020	psi	Puissance Alpha	ISEP Paris	1202	28.6	14.7				1038	28.5	15.0	4	0.0	0.0	782	820	25
+2020	psi	Puissance Alpha	3IL Ingénieurs	1202	28.6	14.7				782	28.5	15.0	0	0.0	0.0	0	0	15
+2020	psi	Avenir Prépas	ECE LYON										5	20.0	20.0	924	900	8
+2020	psi	Avenir Prépas	ECE PARIS										34	23.5	20.6	1103	1065	45
+2020	psi	Avenir Prépas	ECE PARIS (statut apprentissage)										3	33.3	0.0	1188	1142	3
+2020	psi	Avenir Prépas	¥Concours ECE Paris-Lyon PSI	1544	27.6	17.6				1364	27.5	18.1	42					56
+2020	psi	Avenir Prépas	EIGSI Casablanca	1544	27.6	17.6				1272	27.1	18.2	0	0.0	0.0	0	0	5
+2020	psi	Avenir Prépas	EIGSI La Rochelle	1544	27.6	17.6				1272	27.1	18.2	26	34.6	7.7	1083	1050	30
+2020	psi	Avenir Prépas	ESIGELEC Rouen	1544	27.6	17.6				1424	27.8	18.1	21	42.9	28.6	1237	1159	40
+2020	psi	Avenir Prépas	ESILV Paris-La Défense	1544	27.6	17.6				1360	27.5	18.1	54	13.0	11.1	638	632	55
+2020	psi	Avenir Prépas	ESITC Caen	1544	27.6	17.6				950	26.4	20.1	4	50.0	0.0	827	801	20
+2020	psi	Avenir Prépas	ESTACA Laval Aéronautique et spatial										4	0.0	25.0	266	259	2
+2020	psi	Avenir Prépas	ESTACA Laval Automobile										7	14.3	28.6	376	343	4
+2020	psi	Avenir Prépas	ESTACA Paris-Saclay Aéronautique et spatial										4	0.0	25.0	331	334	3
+2020	psi	Avenir Prépas	ESTACA Paris-Saclay Automobile ou Transports Guidés										6	0.0	0.0	367	335	4
+2020	psi	Avenir Prépas	¥Concours ESTACA Paris-Saclay/Laval PSI	1544	27.6	17.6				620	26.0	24.5	21					13
+2020	psi	FESIC	ECAM Lyon	778	30.5	15.9				372	28.8	18.5	4	25.0	0.0	295	287	20
+2020	psi	FESIC	ECAM Rennes	778	30.5	15.9				687	30.9	16.7	9	55.6	22.2	589	550	18
+2020	psi	FESIC	ECAM Strasbourg Europe	778	30.5	15.9				697	30.7	16.5	17	41.2	35.3	558	528	20
+2020	psi	FESIC	ECAM-EPMI Cergy-Pontoise	778	30.5	15.9				722	31.0	16.2	20	30.0	25.0	688	670	20
+2020	psi	FESIC	UniLasalle – Rennes EME	778	30.5	15.9				358	29.3	18.4	0	0.0	0.0	0	0	5
+2020	psi	FESIC	UniLaSalle Beauvais-Sciences de la Terre et Environnement	778	30.5	15.9				622	30.7	15.8	2	50.0	0.0	337	337	4
+2020	psi	Autres écoles E3A	EIDD Paris	671	31.7	14.5				441	30.4	14.3	13	23.1	15.4	325	297	15
+2020	psi	Autres écoles E3A	EIL Côte d'Opale-Calais (informatique)										12	41.7	25.0	218	217	15
+2020	psi	Autres écoles E3A	EIL Côte d'Opale-Dunkerque (Génie Energétique et Environnement)										6	33.3	16.7	283	275	5
+2020	psi	Autres écoles E3A	EIL Côte d'Opale-Longuenesse (Génie Industriel)										22	27.3	13.6	301	296	30
+2020	psi	Autres écoles E3A	¥Concours EIL Côte d'Opale Longuenesse-Calais-Dunkerque PSI	462	30.1	14.1				389	28.5	13.6	40					50
+2020	psi	Autres écoles E3A	ENSAIT Roubaix										12	50.0	16.7	253	229	15
+2020	psi	Autres écoles E3A	ENSAIT Roubaix-Formation en alternance										2	100.0	50.0	290	290	2
+2020	psi	Autres écoles E3A	¥Concours ENSAIT Roubaix PSI	568	33.5	16.2				354	32.8	16.9	14					17
+2020	psi	Autres écoles E3A	ESB Nantes	316	35.8	11.4				176	38.6	8.5	1	0.0	0.0	172	172	15
+2020	psi	Autres écoles E3A	ESTIA Bidart	515	34.2	13.0				397	33.2	12.3	13	38.5	7.7	293	283	35
+2020	psi	Autres écoles E3A	IMT Lille Douai en Partenariat ISPA	688	32.0	13.2				534	31.3	12.4	4	25.0	0.0	298	333	10
+2020	psi	Autres écoles E3A	ISMANS-Groupe CESI Le Mans	374	32.1	12.3				354	32.2	12.4	9	33.3	0.0	239	190	15
+2020	psi	Autres écoles E3A	Paoli Tech	460	31.1	12.6				327	30.3	13.8	0	0.0	0.0	239	236	4
+2020	psi	Autres écoles E3A	Toulouse INP-ENIT	996	31.9	14.7				494	31.4	12.8	4	75.0	0.0	269	329	6
+2020	psi	Groupe INSA Inter-Filière	INSA Hauts de France Génie civil et bâtiment	2294	36.4	19.4				1186	38.2	18.7	8	37.5	0.0	925	919	8
+2020	psi	Groupe INSA Inter-Filière	INSA Hauts de France Génie civil et bâtiment	2396	25.2	17.7				1278	25.0	20.6	5	40.0	20.0	840	788	5
+2020	psi	Groupe INSA Inter-Filière	INSA Hauts de France Informatique et Cybersécurité	3132	23.5	19.5				1047	22.4	21.7	2	0.0	0.0	750	811	3
+2020	psi	Groupe INSA Inter-Filière	INSA Hauts de France Mécanique et Energétique										28	32.1	21.4	1663	1640	35
+2020	psi	Groupe INSA Inter-Filière	INSA Hauts de France Génie Industriel										12	41.7	41.7	1511	1394	10
+2020	psi	Groupe INSA Inter-Filière	INSA Hauts de France Mécatronique										19	0.0	10.5	1511	1428	16
+2020	psi	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie mécanique, génie industriel et mécatronique PSI-PT	3281	21.0	17.7				1956	21.3	19.4	59					61
+2020	psi	Groupe INSA Inter-Filière	ESITech Rouen Technologies du Vivant										2	100.0	0.0	747	747	3
+2020	psi	Groupe INSA Inter-Filière	INSA Lyon Biosciences										5	80.0	20.0	230	211	6
+2020	psi	Groupe INSA Inter-Filière	INSA Toulouse Génie Biologique										2	100.0	0.0	153	153	2
+2020	psi	Groupe INSA Inter-Filière	ISIS Castres Informatique pour la Santé										13	46.2	15.4	1699	1667	2
+2020	psi	Groupe INSA Inter-Filière	¥Concours INSA Domaine¥Biotechnologies-santé MP-PC-PSI-BCPST-TPC	4009	47.3	19.8				2097	49.7	21.5	22					13
+2020	psi	Groupe INSA Inter-Filière	INSA Lyon Génie Energétique et Environnement										5	40.0	20.0	266	221	5
+2020	psi	Groupe INSA Inter-Filière	INSA Rouen Normandie Chimie et Procédés										3	33.3	0.0	1046	1037	4
+2020	psi	Groupe INSA Inter-Filière	INSA Rouen Normandie Energétique et Propulsion										4	75.0	25.0	992	885	4
+2020	psi	Groupe INSA Inter-Filière	INSA Rouen Normandie Maîtrise des Risques Industriels										6	33.3	16.7	1138	1160	6
+2020	psi	Groupe INSA Inter-Filière	INSA Strasbourg Génie Climatique et Energétique										10	50.0	20.0	1299	1176	12
+2020	psi	Groupe INSA Inter-Filière	INSA Toulouse Génie des Procédés et environnement										5	40.0	40.0	750	689	10
+2020	psi	Groupe INSA Inter-Filière	Sup'EnR Perpignan Energétique et Energies Renouvelables										2	50.0	0.0	1385	1385	2
+2020	psi	Groupe INSA Inter-Filière	¥Concours INSA Domaine¥Energétique – Génie Chimique – Environnement MP-PC-PSI	4146	37.5	19.3				1506	37.5	21.6	35					43
+2020	psi	Groupe INSA Inter-Filière	INSA Euro-Méditerranée Maroc Génie Electrique										0	0.0	0.0	0	0	3
+2020	psi	Groupe INSA Inter-Filière	INSA Lyon Génie Electrique										8	25.0	0.0	312	295	8
+2020	psi	Groupe INSA Inter-Filière	INSA Rennes Electronique et Informatique Industrielle										2	0.0	50.0	1014	1014	2
+2020	psi	Groupe INSA Inter-Filière	INSA Rennes Système et Réseaux de Communication										3	0.0	33.3	1793	1583	5
+2020	psi	Groupe INSA Inter-Filière	INSA Strasbourg Génie Electrique										8	25.0	25.0	1411	1367	10
+2020	psi	Groupe INSA Inter-Filière	INSA Toulouse Automatique et Electronique										2	50.0	0.0	630	643	3
+2020	psi	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie électrique, électronique, automatique MP-PC-PSI-PT	4812	24.9	18.7				1964	24.2	20.1	23					31
+2020	psi	Groupe INSA Inter-Filière	INSA Lyon Génie Civil et Urbanisme										7	28.6	0.0	140	135	7
+2020	psi	Groupe INSA Inter-Filière	INSA Rennes Génie Civil et Urbain										2	50.0	50.0	387	387	2
+2020	psi	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Civil et constructions durables										2	100.0	50.0	760	760	2
+2020	psi	Groupe INSA Inter-Filière	INSA Strasbourg Génie Civil										3	33.3	0.0	815	721	3
+2020	psi	Groupe INSA Inter-Filière	INSA Strasbourg Topographie										2	50.0	50.0	828	732	4
+2020	psi	Groupe INSA Inter-Filière	INSA Toulouse Génie Civil										1	0.0	0.0	243	243	1
+2020	psi	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie civil, urbanisme, topographie MP-PC	2294	36.4	19.4				1186	38.2	18.7	17					19
+2020	psi	Groupe INSA Inter-Filière	INSA Lyon Génie Civil et Urbanisme										9	22.2	0.0	160	156	9
+2020	psi	Groupe INSA Inter-Filière	INSA Rennes Génie Civil et Urbain										2	50.0	50.0	261	261	2
+2020	psi	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Civil et constructions durables										2	0.0	0.0	388	388	2
+2020	psi	Groupe INSA Inter-Filière	INSA Strasbourg Génie Civil										12	33.3	8.3	509	485	12
+2020	psi	Groupe INSA Inter-Filière	INSA Strasbourg Topographie										10	10.0	30.0	1008	954	10
+2020	psi	Groupe INSA Inter-Filière	INSA Toulouse Génie Civil										1	0.0	0.0	290	290	2
+2020	psi	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie civil, urbanisme, topographie PSI-PT	2396	25.2	17.7				1278	25.0	20.6	36					37
+2020	psi	Groupe INSA Inter-Filière	INSA Centre Val de Loire Sécurité et Technologies Informatiques										2	0.0	0.0	724	724	1
+2020	psi	Groupe INSA Inter-Filière	INSA Euro-Méditerranée Maroc Systèmes d'Information et de Communication										0	0.0	0.0	0	0	2
+2020	psi	Groupe INSA Inter-Filière	INSA Lyon Télécommunications, services et usages										4	25.0	0.0	254	251	4
+2020	psi	Groupe INSA Inter-Filière	INSA Rennes Informatique										1	100.0	0.0	393	393	2
+2020	psi	Groupe INSA Inter-Filière	INSA Rouen Normandie Architecture des Systèmes d'Information										2	0.0	50.0	541	541	2
+2020	psi	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Mathématique										2	50.0	0.0	145	145	2
+2020	psi	Groupe INSA Inter-Filière	INSA Toulouse Informatique et Réseaux										6	0.0	16.7	341	325	6
+2020	psi	Groupe INSA Inter-Filière	INSA Toulouse Mathématiques appliquées										3	33.3	0.0	392	396	3
+2020	psi	Groupe INSA Inter-Filière	¥Concours INSA Domaine Informatique, mathématique, modélisation PC-PSI-PT	3132	23.5	19.5				1047	22.4	21.7	20					22
+2020	psi	Groupe INSA Inter-Filière	INSA Centre Val de Loire Génie des Systèmes Industriels										8	50.0	12.5	1793	1689	18
+2020	psi	Groupe INSA Inter-Filière	INSA Euro-Méditerranée Maroc Génie Mécanique et Energétique										0	0.0	0.0	0	0	4
+2020	psi	Groupe INSA Inter-Filière	INSA Lyon Génie Industriel										8	0.0	12.5	281	231	8
+2020	psi	Groupe INSA Inter-Filière	INSA Lyon Génie Mécanique										28	14.3	10.7	289	284	30
+2020	psi	Groupe INSA Inter-Filière	INSA Rennes Génie Mécanique et Automatique										4	50.0	0.0	690	714	4
+2020	psi	Groupe INSA Inter-Filière	INSA Rouen Normandie Mécanique										2	0.0	0.0	857	874	3
+2020	psi	Groupe INSA Inter-Filière	INSA Strasbourg Génie Mécanique										21	28.6	14.3	1042	991	22
+2020	psi	Groupe INSA Inter-Filière	INSA Strasbourg Mécatronique										4	50.0	25.0	538	525	4
+2020	psi	Groupe INSA Inter-Filière	INSA Strasbourg Plasturgie										3	33.3	0.0	1684	1687	14
+2020	psi	Groupe INSA Inter-Filière	INSA Toulouse Génie Mécanique										3	33.3	33.3	523	529	4
+2020	psi	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie mécanique, génie industriel et mécatronique PSI-PT	3281	21.0	17.7				1956	21.3	19.4	81					111
+2020	psi	Groupe INSA Inter-Filière	ESITech Rouen Génie Physique										3	100.0	0.0	1770	1855	4
+2020	psi	Groupe INSA Inter-Filière	INSA Centre Val de Loire Maîtrise des Risques Industriels										4	50.0	0.0	2007	1947	23
+2020	psi	Groupe INSA Inter-Filière	INSA Lyon Science et Génie des Matériaux										10	30.0	20.0	432	351	10
+2020	psi	Groupe INSA Inter-Filière	INSA Rennes Science et Génie des Matériaux										3	100.0	33.3	1491	1390	3
+2020	psi	Groupe INSA Inter-Filière	INSA Toulouse Génie Physique										7	42.9	14.3	700	635	6
+2020	psi	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie physique et matériaux MP-PC-PSI	4540	32.5	19.2				2206	33.7	19.9	27					46
+2020	psi	Groupe INSA Inter-Filière	ESITech Rouen Génie Physique										0	0.0	0.0	0	0	2
+2020	psi	Groupe INSA Inter-Filière	INSA Centre Val de Loire Maîtrise des Risques Industriels										1	100.0	0.0	584	584	7
+2020	psi	Groupe INSA Inter-Filière	INSA Lyon Science et Génie des Matériaux										1	0.0	0.0	44	44	1
+2020	psi	Groupe INSA Inter-Filière	INSA Rennes Science et Génie des Matériaux										1	0.0	0.0	175	175	1
+2020	psi	Groupe INSA Inter-Filière	INSA Toulouse Génie Physique										1	100.0	0.0	33	33	1
+2020	psi	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie physique et matériaux TSI-PT-TPC	1609	14.2	19.1				702	13.2	21.5	4					12
+2020	psi	CESI	CESI Angoulême										1	0.0	0.0	81	81	8
+2020	psi	CESI	CESI Arras										4	25.0	0.0	131	130	10
+2020	psi	CESI	CESI Bordeaux										2	0.0	50.0	141	141	8
+2020	psi	CESI	CESI Lyon										5	60.0	40.0	138	120	12
+2020	psi	CESI	CESI Rouen										1	0.0	0.0	68	68	8
+2020	psi	CESI	CESI Nancy										0	0.0	0.0	0	0	8
+2020	psi	CESI	CESI Nanterre										9	55.6	22.2	139	122	20
+2020	psi	CESI	CESI Nice Sophia Antipolis										1	0.0	0.0	23	23	5
+2020	psi	CESI	CESI Saint-Nazaire										1	100.0	100.0	156	156	10
+2020	psi	CESI	¥Concours CESI Ecole d'Ingénieurs-Ingénieur Généraliste	385	30.6	15.8				162	36.4	17.3	24					89
+2020	psi	CESI	CESI Aix-en-Provence										1	0.0	0.0	31	31	2
+2020	psi	CESI	CESI Arras										1	0.0	0.0	48	48	4
+2020	psi	CESI	CESI Bordeaux										1	0.0	0.0	25	25	2
+2020	psi	CESI	CESI La Rochelle										0	0.0	0.0	0	0	2
+2020	psi	CESI	CESI Lille										0	0.0	0.0	0	0	3
+2020	psi	CESI	CESI Lyon										0	0.0	0.0	0	0	2
+2020	psi	CESI	CESI Rouen										2	0.0	0.0	39	39	2
+2020	psi	CESI	CESI Nancy										1	0.0	0.0	34	34	2
+2020	psi	CESI	CESI Nanterre										0	0.0	0.0	0	0	7
+2020	psi	CESI	CESI Nice Sophia Antipolis										0	0.0	0.0	0	0	2
+2020	psi	CESI	CESI Orléans										0	0.0	0.0	0	0	3
+2020	psi	CESI	CESI Pau										0	0.0	0.0	0	0	2
+2020	psi	CESI	CESI Reims										1	0.0	0.0	33	33	2
+2020	psi	CESI	CESI Saint-Nazaire										0	0.0	0.0	0	0	5
+2020	psi	CESI	CESI Strasbourg										1	0.0	0.0	4	4	6
+2020	psi	CESI	CESI Toulouse										0	0.0	0.0	0	0	3
+2020	psi	CESI	¥Concours CESI Ecole d'Ingénieurs-Ingénieur en Informatique (interFilère)	114	11.4	7.9				53	11.3	7.5	8					49
+2020	psi	EPITA	EPITA										16	12.5	6.2	136	133	15
+2020	psi	EPITA	IPSA Paris										14	42.9	0.0	156	146	14
+2020	psi	EPITA	IPSA Toulouse										11	18.2	27.3	72	74	7
+2020	psi	EPITA	ESME SUDRIA Paris										4	25.0	0.0	140	145	16
+2020	psi	EPITA	¥Concours EPITA / IPSA / ESME PSI	427	26.9	13.6				252	23.4	13.5	45					52
