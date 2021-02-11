@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="service concours ecoles d'ingénieurs">
+
+	<meta name="author"      content="GetTemplate.com,Aude L., Olivier B.">
+	
+	<title>SCEI</title>
+
+	<link rel="shortcut icon" href="favicon.ico">
+	
+	<link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+
+	<!-- Custom styles for our template -->
+	<link rel="stylesheet" href="assets/css/bootstrap-theme.css" media="screen" >
+	<link rel="stylesheet" href="assets/css/main.css">
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	<script src="assets/js/html5shiv.js"></script>
+	<script src="assets/js/respond.min.js"></script>
+	<![endif]-->
+</head>
+
+<body>
+	
+	
+	<!-- Fixed navbar -->
+	<div class="navbar navbar-inverse navbar-fixed-top headroom" >
+		
+		<div class="container">
+			<div class="navbar-header">
+				<!-- Button for smallest screens -->
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+				<a class="navbar-brand" href="index.php"><img src="images/scei.gif" alt="Logo Scei"></a>
+			</div>
+			
+			<div class="navbar-collapse collapse">
+<ul class="nav navbar-nav pull-right">
+<!--	
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Partenaires <b class="caret"></b></a>
+<ul class="dropdown-menu">
+      <li><a href="http://www.concours-agro-veto.net/"target="_blank">Banque agro-veto</a></li>
+      <li><a href="http://www.banquept.fr/"target="_blank">Banque PT</a></li>
+      <li><a href="http://www.mines-ponts.fr/"target="_blank">Banque Mines-Ponts</a></li>
+      <li><a href="http://www.concours-centrale-supelec.fr/"target="_blank">Centrale - Supélec</a></li>
+      <li><a href="http://ccp.scei-concours.fr/"target="_blank">Concours Communs Polytechniques</a></li>
+      <li><a href="http://www.admission.polytechnique.edu/"target="_blank">Ecole Polytechnique</a></li>
+      <li><a href="http://www.ens.fr/"target="_blank">Ens Paris</a></li>
+      <li><a href="http://www.ens-lyon.eu/"target="_blank">Ens Lyon</a></li>
+      <li><a href="http://www.ens-cachan.fr/"target="_blank">Ens Cachan Paris-Saclay</a></li>
+      <li><a href="http://www.bretagne.ens-cachan.fr/"target="_blank">Ens Rennes</a></li>
+      <li><a href="http://www.e3a.fr/"target="_blank">Concours e3a</a></li>
+      <li><a href="http://g2e.ensg.inpl-nancy.fr/"target="_blank">Concours G2E</a></li>
+</ul></li>
+-->
+<li><a href="concours.php">Concours & Banques</a></li> 
+<li><a href="calendrier.php">Calendrier</a></li> 
+<li><a href="inscription.php">Inscription</a></li> 
+
+<li><a href="tipe.php">TIPE</a></li> 
+<li><a href="integration.php">Intégration</a></li> 
+<li><a href="statistiques.php">Statistiques</a></li> 
+
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Mon dossier <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a target="_blank" href="https://monDossier.scei-concours.fr/Inscription/AfficheAccueil.do?codeInscription=1&typeInscription=SCEI" title="Ouverture le  10 décembre" >Inscription / modifications</a></li>
+<li><a target="_blank" href="https://monDossier.scei-concours.fr/SaisieTIPE">TIPE</a></li>
+<li><a target="_blank" href="https://mondossier.scei-concours.fr/FichiersAgro/Login.do">Projets Info / TIPE Agro Veto</a></li>
+<li><a target="_blank" href="https://monDossier.scei-concours.fr/sceiAccOral/AccueilAction.do">Accueil oral TIPE</a></li>  
+<li><a target="_blank" href="https://monDossier.scei-concours.fr/ResultatEcrit/jsp/login_tipe.jsp">Résultats TIPE</a></li>
+<li><a target="_blank" href="https://mondossier.scei-concours.fr/VoeuxSCEINew/jsp/login_scei.jsp">Voeux</a></li>
+<li><a href="https://mondossier.scei-concours.fr/AdmissionSCEI/AccueilApplicationScei.do">Intégration</a></li><!-- https://mondossier.scei-concours.fr/AdmissionSCEI/AccueilApplicationScei.do-->
+</ul></li>
+
+
+<li><a target="_blank" href="https://mondossier.scei-concours.fr/Inscription/AfficheNousContacter.do?codeInscription=1" target="_top" title="Nous écrire"><i class="fa fa-envelope fa-5"></i></a></li> 
+
+								
+
+      
+       
+</ul>
+</div><!--/.nav-collapse -->
+			
+		</div>
+	</div> 
+	<!-- /.navbar -->
+	
+	
+
+	<header id="head" class="secondary"></header>
+
+	<!-- container -->
+	<div class="container">
+
+		<ol class="breadcrumb">
+			<li><a href="index.php">Accueil</a></li>			
+		</ol>
+		
+
+		<div class="row">
+			
+			<!-- Article main content -->
+			<article class="col-md-8 maincontent">
+				<header class="page-header">
+					<h1 class="page-title">Bienvenue sur le site du Service de Concours Ecoles d'Ingénieurs </h1>
+				</header>
+			<p>&nbsp;</p><div class="backgroundRouge"><strong>Nouveauté : Les informations concernant la session 2021 sont à jour.&nbsp;</strong></div><p>&nbsp;</p><p>&nbsp;</p><p>Dans un souci d'efficacité et de simplification des procédures, les services de concours d'entrée dans les écoles d'ingénieurs unissent leurs compétences et leurs moyens sous le sigle [scei].</p><p>Vous trouverez sur ce site :</p><ul><li>des liens vers les différents concours et banques partenaires du [scei] avec notamment, les notices d'inscription, les rapports, la liste des écoles&nbsp;<br>&nbsp;</li><li>des informations sur le calendrier des concours (inscription, écrit, oral, intégration)<br>&nbsp;</li><li>des informations sur l'épreuve commune de TIPE<br>&nbsp;</li><li>des statistiques sur les sessions antérieures ...<br><br><br><br><br><br><br><br><br>&nbsp;</li></ul>	
+				
+			</article>
+			<!-- /Article -->
+			
+			
+			
+			
+			<!-- Sidebar -->
+			<aside class="col-md-4 sidebar sidebar-right">
+				
+				
+
+				<div class="row widget">
+					<div class="col-xs-12 encadre_gris">
+						<h4><img src="tipe/trefle40.png" alt="logo tipe"> Nouveautés TIPE</h4>
+						<p><a href="//www.scei-concours.fr/tipe.php">Mesures exceptionnelles pour la session 2021</a></p>
+						<p>
+						 <a href="pdf/AttendusPedagogiques_2021_TIPE.pdf"
+            target="_blank">Attendus pédagogiques session 2021</a></p>
+            
+          <p>
+          <a href="tipe/REUNION-BILAN-TIPE-2019-V1.pdf" target="_blank">Réunion Bilan TIPE 2019</a>
+         </p>
+						
+					</div>
+				</div>
+
+				<br/>
+
+				<div class="row widget">
+					 <div class="col-xs-12 encadre_gris">
+						<h4><img src="images/scei.gif" width ="95px" alt="logo scei"></h4>
+							
+						<a href="http://www.scei-concours.fr/statistiques.php" target ="_blank">
+						<i class="fa fa-area-chart" aria-hidden="true"></i>
+						Statistiques d'intégration 2020
+						</a>
+						<br/>
+						
+						<a href="http://www.scei-concours.fr/calendrier.php" target ="_blank">
+						<i class="fa fa-calendar" aria-hidden="true"></i>
+						Calendrier
+						</a>
+						<br/>
+						
+						
+<!--
+						<a href="http://www.scei-concours.fr/calendrier.php" target ="_blank">
+                                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                                               Calendrier 2019 
+                                                </a>
+						<br/>
+                        <a href="http://www.scei-concours.fr/integration/plaquette/integrer_2019.pdf" target ="_blank">
+													
+                                  <i class="fa fa-calendar" aria-hidden="true"></i>
+                                               Plaquette Intégrer  2019 
+                                                </a>
+-->							
+
+						<p>
+
+
+						</p>
+						
+					 </div>
+
+
+				<div>
+
+
+
+			</aside>
+			<!-- /Sidebar -->
+
+		</div>
+	</div>	<!-- /container -->
+	
+
+	<footer id="footer" class="top-space">
+		<div class="footer1">
+			<div class="container">
+				<div class="row">
+					
+					<div class="col-md-3 widget">
+						<h3 class="widget-title">Contact</h3>
+						<div class="widget-body">
+							
+							<p><a <a href="http://mondossier.scei-concours.fr/Inscription/AfficheNousContacter.do?codeInscription=1" target="_top">
+								<i class="fa fa-envelope fa-5"></i> Nous écrire</a></p>
+							<p><i class="fa fa-phone fa-5"></i> 05 62 47 33 43</p>
+							<p>Service concours écoles d’ingénieurs<br/>
+								CS 44410 - 31405 TOULOUSE CEDEX 4
+							</p>	
+						</div>
+					</div>
+
+<!--
+					<div class="col-md-3 widget">
+						<h3 class="widget-title">Follow me</h3>
+						<div class="widget-body">
+							<p class="follow-me-icons clearfix">
+								<a href=""><i class="fa fa-twitter fa-2"></i></a>
+								<a href=""><i class="fa fa-dribbble fa-2"></i></a>
+								<a href=""><i class="fa fa-github fa-2"></i></a>
+								<a href=""><i class="fa fa-facebook fa-2"></i></a>
+							</p>	
+						</div>
+					</div>
+-->
+
+
+<!--
+					<div class="col-md-6 widget">
+						<h3 class="widget-title">Text widget</h3>
+						<div class="widget-body">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, dolores, quibusdam architecto voluptatem amet fugiat nesciunt placeat provident cumque accusamus itaque voluptate modi quidem dolore optio velit hic iusto vero praesentium repellat commodi ad id expedita cupiditate repellendus possimus unde?</p>
+							<p>Eius consequatur nihil quibusdam! Laborum, rerum, quis, inventore ipsa autem repellat provident assumenda labore soluta minima alias temporibus facere distinctio quas adipisci nam sunt explicabo officia tenetur at ea quos doloribus dolorum voluptate reprehenderit architecto sint libero illo et hic.</p>
+						</div>
+					</div>
+-->					
+					
+					
+
+				</div> <!-- /row of widgets -->
+			</div>
+		</div>
+<!--
+		<div class="footer2">
+			<div class="container">
+				<div class="row">
+					
+					<div class="col-md-6 widget">
+						<div class="widget-body">
+							<p class="simplenav">
+								<a href="#">Home</a> | 
+								<a href="about.html">About</a> |
+								<a href="sidebar-right.html">Sidebar</a> |
+								<a href="contact.html">Contact</a> |
+								<b><a href="signup.html">Sign up</a></b>
+							</p>
+						</div>
+					</div>
+
+					<div class="col-md-6 widget">
+						<div class="widget-body">
+							<p class="text-right">
+								Copyright &copy; 2014, Your name. Designed by <a href="http://gettemplate.com/" rel="designer">gettemplate</a> 
+							</p>
+						</div>
+					</div>
+
+				</div> 
+-->				
+			</div>
+		</div>
+		
+	</footer>	
+	
+<a href="https://www.xiti.com/xiti.asp?s=590622" title="WebAnalytics" target="_top">
+<script type="text/javascript">
+<!--
+Xt_param = 's=590622&p=index';
+try {Xt_r = top.document.referrer;}
+catch(e) {Xt_r = document.referrer; }
+Xt_h = new Date();
+Xt_i = '<img width="1" height="1" border="0" alt="" ';
+Xt_i += 'src="https://logv2.xiti.com/g.xiti?'+Xt_param;
+Xt_i += '&hl='+Xt_h.getHours()+'x'+Xt_h.getMinutes()+'x'+Xt_h.getSeconds();
+if(parseFloat(navigator.appVersion)>=4)
+{Xt_s=screen;Xt_i+='&r='+Xt_s.width+'x'+Xt_s.height+'x'+Xt_s.pixelDepth+'x'+Xt_s.colorDepth;}
+document.write(Xt_i+'&ref='+Xt_r.replace(/[<>"]/g, '').replace(/&/g, '$')+'" title="Internet Audience">');
+//-->
+</script>
+<noscript>
+Mesure d'audience ROI statistique webanalytics par <img width="1" height="1" src="https://logv2.xiti.com/g.xiti?s=590622&p=index" alt="WebAnalytics" />
+</noscript></a> 
+
+
+
+
+	<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+	<script src="assets/js/headroom.min.js"></script>
+	<script src="assets/js/jQuery.headroom.min.js"></script>
+	<script src="assets/js/template.js"></script>
+</body>
+</html>
