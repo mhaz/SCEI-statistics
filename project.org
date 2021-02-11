@@ -21,3 +21,4 @@ From the top ones, see how it evolves. Same for the low tier schools. (it is an 
 ** [2021-02-11 Thu]
 Start the repo.
 Add the raw html data.
+The parsing is the ad-hoc boring part. I'll go the quick and dirty way, copy pasting code and "fix it" when it breaks for a specific html to parse.
