@@ -1,0 +1,18 @@
+#+TITLE: Project
+
+* Assumptions
+- Can I suppose the proportion of female is independent between 3/2 and 5/2?
+
+* Gather the data
+** TODO (list all the URLs)
+My progress is summarized in the [[./data_gathering.org][data gathering]] file.
+
+* Manually look at the data
+- The html is poorly formatted and difficult to automatically parse.
+- The formatting changes from year to year, so I'd better do it carefully and manually parse it year by year.
+
+Take a look, and fix what is fixable.
+Then from what is available, remove unusable entries?
+Get the statistics of interest.
+Then, using the statistics (variation of female percentage throughout the selection process) and ranking of schools / Ecoles, see how the variation of female percentage evolves.
+From the top ones, see how it evolves. Same for the low tier schools. (it is an elimination process, so expect a opposite trend).
