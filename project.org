@@ -23,3 +23,4 @@ Start the repo.
 Add the raw html data.
 The parsing is the ad-hoc boring part. I'll go the quick and dirty way, copy pasting code and "fix it" when it breaks for a specific html to parse.
 Some data entries have commas. I'll go with parsing to tsv for now.
+Some entries are a summary over the "banque", instead of an Ecole. I can identify them since they begin with a non break space. I make the convention that such an entry will begin with a =¥=, yen symbol, in the parsed file.
