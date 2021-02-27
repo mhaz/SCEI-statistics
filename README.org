@@ -26,3 +26,6 @@ For some years, for some branches, SCEI makes per [[https://en.wikipedia.org/wik
 From 2004 (included) up to 2017 (included), the rank of the last candidate called is available.
 From 2018 onward, median and mean rank of accepted candidates are instead made available.
 These data can be used to have an idea of the desirability / selectivity of Ecoles within a school.
+
+* License
+The code is licensed under GPL License but the data is © SCEI and was scrapped on February 2021. It is not my property, and it is stored here for archive and research purpose. I will delete it if SCEI asks.
