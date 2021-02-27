@@ -64,7 +64,7 @@ header = "year" + sep + "filiere" + sep + "banque" + sep + "ecole" + sep + "insc
 
 prepas = ["bcpst",  "mp",  "pc",  "psi",  "pt",  "tsi"]
 
-year = "2012"
+year = "2011"
 path = "../../../data/stat" + year + "/"
 
 for prepa in prepas:
