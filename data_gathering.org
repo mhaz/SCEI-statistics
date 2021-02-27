@@ -70,447 +70,447 @@ Statistiques réalisées le 25/09/2019 et portant sur la population globale des 
 - [X] Statistiques générales
 * 2018
 Statistiques réalisées le 05/10/2018 et portant sur la population globale des concours
-*** MP [0%]
-- [ ] Statistiques générales
+*** MP [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PC [0%]
-- [ ] Statistiques générales
+*** PC [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS /ESPCI
-*** PSI [0%]
-- [ ] Statistiques générales
+*** PSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PT [0%]
-- [ ] Statistiques générales
+*** PT [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] ENSAM
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique
   - [ ] Concours Communs Mines-Ponts
   - [ ] Concours Communs Polytechniques
-*** BCPST [0%]
-- [ ] Statistiques générales
+*** BCPST [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] G2E
   - [ ] Agro-Véto
   - [ ] ENS
-*** TSI [0%]
-- [ ] Statistiques générales
+*** TSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Concours Communs Polytechniques
 * 2017
 Statistiques réalisées le 22/09/2017 et portant sur la population globale des concours
-*** MP [0%]
-- [ ] Statistiques générales
+*** MP [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PC [0%]
-- [ ] Statistiques générales
+*** PC [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS /ESPCI
-*** PSI [0%]
-- [ ] Statistiques générales
+*** PSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PT [0%]
-- [ ] Statistiques générales
+*** PT [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] ENSAM
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique
   - [ ] Concours Communs Mines-Ponts
   - [ ] Concours Communs Polytechniques
-*** BCPST [0%]
-- [ ] Statistiques générales
+*** BCPST [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] G2E
   - [ ] Agro-Véto
-*** TSI [0%]
-- [ ] Statistiques générales
+*** TSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Concours Communs Polytechniques
 * 2016
 Statistiques réalisées le 03/10/2016 et portant sur la population globale des concours
-*** MP [0%]
-- [ ] Statistiques générales
+*** MP [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PC [0%]
-- [ ] Statistiques générales
+*** PC [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS /ESPCI
-*** PSI [0%]
-- [ ] Statistiques générales
+*** PSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PT [0%]
-- [ ] Statistiques générales
+*** PT [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] ENSAM
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique
   - [ ] Concours Communs Mines-Ponts
   - [ ] Concours Communs Polytechniques
-*** BCPST [0%]
-- [ ] Statistiques générales
+*** BCPST [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] G2E
   - [ ] Agro-Véto
-*** TSI [0%]
-- [ ] Statistiques générales
+*** TSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Concours Communs Polytechniques
 * 2015
 Statistiques réalisées le 18/09/2015 et portant sur la population globale des concours
-*** MP [0%]
-- [ ] Statistiques générales
+*** MP [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PC [0%]
-- [ ] Statistiques générales
+*** PC [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS /ESPCI
-*** PSI [0%]
-- [ ] Statistiques générales
+*** PSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PT [0%]
-- [ ] Statistiques générales
+*** PT [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] ENSAM
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique
   - [ ] Concours Communs Mines-Ponts
   - [ ] Concours Communs Polytechniques
-*** BCPST [0%]
-- [ ] Statistiques générales
+*** BCPST [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] G2E
   - [ ] Agro-Véto
-*** TSI [0%]
-- [ ] Statistiques générales
+*** TSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Concours Communs Polytechniques
 * 2014
 Statistiques réalisées le 22/09/2014 et portant sur la population globale des concours
-*** MP [0%]
-- [ ] Statistiques générales
+*** MP [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PC [0%]
-- [ ] Statistiques générales
+*** PC [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS /ESPCI
-*** PSI [0%]
-- [ ] Statistiques générales
+*** PSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PT [0%]
-- [ ] Statistiques générales
+*** PT [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] ENSAM
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique
   - [ ] Concours Communs Mines-Ponts
   - [ ] Concours Communs Polytechniques
-*** BCPST [0%]
-- [ ] Statistiques générales
+*** BCPST [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] G2E
   - [ ] Agro-Véto
-*** TSI [0%]
-- [ ] Statistiques générales
+*** TSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Concours Communs Polytechniques
 * 2013
 Statistiques réalisées le 01/10/2013 et portant sur la population globale des concours
-*** MP [0%]
-- [ ] Statistiques générales
+*** MP [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PC [0%]
-- [ ] Statistiques générales
+*** PC [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS /ESPCI
-*** PSI [0%]
-- [ ] Statistiques générales
+*** PSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PT [0%]
-- [ ] Statistiques générales
+*** PT [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] ENSAM
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique
   - [ ] Concours Communs Mines-Ponts
   - [ ] Concours Communs Polytechniques
-*** BCPST [0%]
-- [ ] Statistiques générales
+*** BCPST [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] G2E
   - [ ] Agro-Véto
-*** TSI [0%]
-- [ ] Statistiques générales
+*** TSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Concours Communs Polytechniques
 * 2012
 Statistiques réalisées le 24/09/2012 et portant sur la population globale des concours
-*** MP [0%]
-- [ ] Statistiques générales
+*** MP [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PC [0%]
-- [ ] Statistiques générales
+*** PC [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS /ESPCI
-*** PSI [0%]
-- [ ] Statistiques générales
+*** PSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PT [0%]
-- [ ] Statistiques générales
+*** PT [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] ENSAM
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique
   - [ ] Concours Communs Mines-Ponts
   - [ ] Concours Communs Polytechniques
-*** BCPST [0%]
-- [ ] Statistiques générales
+*** BCPST [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] G2E
   - [ ] Agro-Véto
-*** TSI [0%]
-- [ ] Statistiques générales
+*** TSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Concours Communs Polytechniques
 * 2011
 Statistiques réalisées le 05/10/2011 et portant sur la population globale des concours
-*** MP [0%]
-- [ ] Statistiques générales
+*** MP [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PC [0%]
-- [ ] Statistiques générales
+*** PC [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS /ESPCI
-*** PSI [0%]
-- [ ] Statistiques générales
+*** PSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PT [0%]
-- [ ] Statistiques générales
+*** PT [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] ENSAM
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique
   - [ ] Concours Communs Mines-Ponts
   - [ ] Concours Communs Polytechniques
-*** BCPST [0%]
-- [ ] Statistiques générales
+*** BCPST [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] G2E
   - [ ] Agro-Véto
-*** TSI [0%]
-- [ ] Statistiques générales
+*** TSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Concours Communs Polytechniques
 * 2010
 Statistiques réalisées le 01/10/2010 et portant sur la population globale des concours
-*** MP [0%]
-- [ ] Statistiques générales
+*** MP [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
-*** PC [0%]
-- [ ] Statistiques générales
+*** PC [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique-ESPCI
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
-*** PSI [0%]
-- [ ] Statistiques générales
+*** PSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
-*** PT [0%]
-- [ ] Statistiques générales
+*** PT [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] ENSAM
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique
   - [ ] Concours Communs Mines-Ponts
   - [ ] Concours Communs Polytechniques
-*** BCPST [0%]
-- [ ] Statistiques générales
+*** BCPST [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] G2E
   - [ ] Agro-Véto
-*** TSI [0%]
-- [ ] Statistiques générales
+*** TSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Concours Communs Polytechniques
 * 2009
 Statistiques réalisées le 25/09/2009
-*** MP [0%]
-- [ ] Statistiques générales
+*** MP [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
-*** PC [0%]
-- [ ] Statistiques générales
+*** PC [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique-ESPCI
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
-*** PSI [0%]
-- [ ] Statistiques générales
+*** PSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
-*** PT [0%]
-- [ ] Statistiques générales
+*** PT [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] ENSAM
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique
   - [ ] Concours Communs Mines-Ponts
   - [ ] Concours Communs Polytechniques
-*** BCPST [0%]
-- [ ] Statistiques générales
+*** BCPST [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] G2E
   - [ ] Agro-Véto
-*** TSI [0%]
-- [ ] Statistiques générales
+*** TSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Concours Communs Polytechniques
 * 2008
 Statistiques réalisées le 26/09/2008
-*** MP [0%]
-- [ ] Statistiques générales
+*** MP [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique
@@ -518,8 +518,8 @@ Statistiques réalisées le 26/09/2008
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] EPITA
-*** PC [0%]
-- [ ] Statistiques générales
+*** PC [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique-ESPCI
@@ -527,29 +527,29 @@ Statistiques réalisées le 26/09/2008
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] EPITA
-*** PSI [0%]
-- [ ] Statistiques générales
+*** PSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] EPITA
-*** PT [0%]
-- [ ] Statistiques générales
+*** PT [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] ENSAM
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique
   - [ ] Concours Communs Mines-Ponts
   - [ ] Concours Communs Polytechniques
-*** BCPST [0%]
-- [ ] Statistiques générales
+*** BCPST [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] G2E
   - [ ] Agro-Véto
-*** TSI [0%]
-- [ ] Statistiques générales
+*** TSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Concours Communs Polytechniques
