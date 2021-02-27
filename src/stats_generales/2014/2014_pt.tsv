@@ -1,0 +1,188 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rg_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2014	pt	CENTRALE-SUPELEC	CENTRALE PARIS	836	11.0	21.0				59	8.0	6.0	30	10	0.0	0.0	10
+2014	pt	CENTRALE-SUPELEC	SUPELEC	936	10.0	23.0	150	10.0	11.0	149	10.0	11.0	88	30	3.0	10.0	24
+2014	pt	CENTRALE-SUPELEC	CENTRALE LYON	1154	11.0	22.0				151	8.0	7.0	91	25	16.0	8.0	24
+2014	pt	CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	491	11.0	28.0	110	4.0	25.0	107	4.0	26.0	104	2	0.0	0.0	3
+2014	pt	CENTRALE-SUPELEC	CENTRALE LILLE	1096	12.0	25.0				143	8.0	16.0	128	10	20.0	10.0	12
+2014	pt	CENTRALE-SUPELEC	CENTRALE NANTES	1228	12.0	25.0				177	11.0	12.0	148	19	36.0	11.0	20
+2014	pt	CENTRALE-SUPELEC	CENTRALE MARSEILLE	797	12.0	25.0	174	9.0	19.0	170	9.0	19.0	154	6	0.0	17.0	10
+2014	pt	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										13	3	0.0	0.0	3
+2014	pt	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										84	2	0.0	0.0	4
+2014	pt	CONCOURS COMMUN MINES-PONTS	MINES de SAINT-ETIENNE										74	2	50.0	50.0	2
+2014	pt	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										28	2	0.0	0.0	2
+2014	pt	CONCOURS COMMUN MINES-PONTS	SUPAERO (ISAE) Toulouse										31	5	20.0	0.0	5
+2014	pt	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										40	4	0.0	0.0	3
+2014	pt	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										41	2	0.0	0.0	2
+2014	pt	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										64	1	0.0	0.0	1
+2014	pt	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE cursus Brest-Rennes-Toulouse										162	0	0.0	0.0	3
+2014	pt	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE cursus Sophia										62	0	0.0	0.0	1
+2014	pt	CONCOURS COMMUN MINES-PONTS	Concours Commun Mines-Ponts PT	1090	11.0	21.0	179	9.0	18.0	167	8.0	16.0		21			26
+2014	pt	CONCOURS COMMUN ENSAM	Arts et Métiers-ingénieurs militaires	519	9.0	26.0	144	9.0	38.0	59	11.0	43.0	47	9	11.0	34.0	9
+2014	pt	CONCOURS COMMUN ENSAM	Arts et Métiers ParisTech										775	548	10.0	37.0	541
+2014	pt	CONCOURS COMMUN ENSAM	ENSEA Cergy										1167	15	0.0	27.0	25
+2014	pt	CONCOURS COMMUN ENSAM	ARTS ET MÉTIERS ParisTech	2276	12.0	23.0	1280	10.0	30.0	1171	11.0	30.0		563			566
+2014	pt	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE	356	10.0	16.0	24	4.0	0.0	13	7.0	0.0	11	11	9.0	0.0	11
+2014	pt	CONCOURS ENS DE CACHAN	ENS Rennes	1337	12.0	28.0	390	7.0	33.0	341	7.0	32.0	284	7	0.0	29.0	7
+2014	pt	CONCOURS ENS DE CACHAN	ENS Cachan	1594	11.0	27.0	421	7.0	29.0	375	7.0	27.0	323	37	8.0	25.0	37
+2014	pt	CONCOURS ENS DE CACHAN	ENS Rennes							16	18.0	32.0	0	0	0.0	0.0	0
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM Besançon										1237	45	2.0	32.0	46
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Electronique										855	4	0.0	0.0	2
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Mathématiques et Mécanique										853	5	0.0	20.0	4
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Informatique										810	3	0.0	34.0	1
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Télecom.										909	2	0.0	0.0	1
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique Appliquée										1180	9	11.0	34.0	10
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	EISTI Cergy-Pau Génie Informatique										1204	1	0.0	0.0	5
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	EISTI Cergy-Pau Génie Mathématiques										1312	3	0.0	34.0	5
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ISIMA Clermont-Ferrand										1289	7	0.0	43.0	5
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Phelma (Physique Electronique Télécoms)										582	5	20.0	0.0	3
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Phelma (Physique Matériaux Procédés)										522	5	0.0	40.0	3
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Pagora										845	0	0.0	0.0	1
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-ENSE3										698	15	26.0	14.0	15
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Esisar										868	3	0.0	0.0	2
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-ENSIMAG										459	9	0.0	0.0	10
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSCI Limoges										1228	0	0.0	0.0	2
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	CPE LYON Electronique										1312	1	0.0	0.0	2
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSEM Nancy Pluriscientifique										1084	6	0.0	50.0	5
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Paris										928	17	17.0	18.0	12
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	SeaTech Toulon										945	6	0.0	0.0	4
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ISAE-ENSMA Poitiers										657	6	0.0	0.0	5
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Energie										1280	11	36.0	55.0	6
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Electronique et Traitement du Signal										686	2	0.0	0.0	2
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Eau et Genie Civil										1208	2	50.0	0.0	2
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Génie Electrique et Automatique										754	1	0.0	0.0	2
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Hydraulique et Mécanique des Fluides										661	2	0.0	50.0	2
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Informatique et Mathématiques appliquées										728	2	50.0	0.0	2
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Télécom.réseaux										802	2	0.0	0.0	2
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSICA (ISAE) Toulouse										65	1	0.0	0.0	2
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et Management des systèmes										1204	1	0.0	100.0	6
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Méca Energ.										1306	7	0.0	86.0	9
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Mécatronique										1297	2	0.0	50.0	6
+2014	pt	CONCOURS COMMUNS POLYTECHNIQUES	Concours Commun Polytechnique PT	2255	12.0	24.0	1403	11.0	29.0	1313	11.0	29.0		185			184
+2014	pt	CONCOURS TELECOM INT	ENSG Marne la Vallée Civil				224	9.0	28.0	10	10.0	20.0	8	0	0.0	0.0	2
+2014	pt	CONCOURS TELECOM INT	ENSSAT Lannion				684	12.0	28.0	68	17.0	25.0	68	6	33.0	17.0	12
+2014	pt	CONCOURS TELECOM INT	TELECOM Nancy				658	12.0	29.0	116	15.0	25.0	73	16	43.0	0.0	12
+2014	pt	CONCOURS TELECOM INT	Mines St Etienne ISMIN Gardanne				231	11.0	29.0	37	13.0	30.0	34	6	33.0	50.0	4
+2014	pt	CONCOURS TELECOM INT	TELECOM PHYSIQUE Strasbourg-TIC et Santé				333	12.0	29.0	18	16.0	17.0	16	2	50.0	0.0	2
+2014	pt	CONCOURS TELECOM INT	TELECOM St Etienne				636	12.0	28.0	91	16.0	24.0	86	11	18.0	28.0	10
+2014	pt	CONCOURS TELECOM INT	TELECOM SudParis-cursus Evry				154	9.0	25.0	20	20.0	30.0	15	1	0.0	100.0	6
+2014	pt	Concours Commun des Ecoles des Mines	Ecole des Mines d'Albi										427	9	33.0	56.0	8
+2014	pt	Concours Commun des Ecoles des Mines	Ecole des Mines d'Alès										494	17	5.0	48.0	20
+2014	pt	Concours Commun des Ecoles des Mines	Ecole des Mines Douai										480	15	26.0	20.0	17
+2014	pt	Concours Commun des Ecoles des Mines	Ecole des Mines Nantes										249	9	11.0	34.0	8
+2014	pt	Concours Commun des Ecoles des Mines	ENSTA Bretagne Civil										519	12	16.0	25.0	13
+2014	pt	Concours Commun des Ecoles des Mines	Concours Commun des Ecoles des Mines	1847	13.0	25.0	689	11.0	32.0	529	13.0	35.0		62			66
+2014	pt	Concours Commun des Ecoles des Mines	ENSTA Bretagne Militaire				670	11.0	32.0	516	12.0	35.0	492	3	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Tours-Aménagement										1174	1	100.0	0.0	7
+2014	pt	CONCOURS POLYTECH	Polytech Grenoble-Systèmes électroniques et informatiques, Réseaux										1184	2	0.0	50.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Lyon-Systèmes industriels, Robotique										1180	1	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Marseille-Génie Industriel et Informatique										1170	3	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Marseille-Microélectronique,Télécommunications										1139	0	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Nantes-Électronique et technologies numériques										1127	2	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Nice-Sophia-Électronique										1177	0	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Montpellier-Énergétique, Énergies renouvelables										760	3	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Nantes-Thermique, Énergétique										891	1	0.0	100.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Annecy-Chambéry-Instrumentation, Automatique, Informatique										1186	3	33.0	34.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Electrique										1183	1	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Lille-Informatique, Microélectronique, Automatique										962	4	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Montpellier-Électronique et Informatique industrielle										1171	0	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Orléans-Écotechnologie électroniques et optiques										1107	0	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Paris-UPMC-Electronique et Informatique										1080	1	100.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Concours POLYTECH	1894	13.0	26.0	1376	13.0	27.0	1186	13.0	29.0		22			49
+2014	pt	CONCOURS POLYTECH	ENSIL Limoges Mécatronique	429	17.0	21.0	227	18.0	20.0	62	19.0	17.0	34	5	20.0	0.0	4
+2014	pt	CONCOURS POLYTECH	ENSIM Le Mans	1894	13.0	26.0	1376	13.0	27.0	1186	13.0	29.0	1021	1	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	ENSTIB Epinal	314	18.0	28.0	221	17.0	28.0	57	19.0	25.0	57	12	25.0	25.0	22
+2014	pt	CONCOURS POLYTECH	Polytech Annecy-Chambéry-Environnement, Bâtiment, Énergie										1107	2	0.0	0.0	4
+2014	pt	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Civil										1081	3	66.0	34.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Lille-Géotechnique, Génie civil										827	2	0.0	50.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Orléans-Génie civil et géo-environnement										1155	3	0.0	34.0	5
+2014	pt	CONCOURS POLYTECH	ESI Reims										1149	2	0.0	50.0	5
+2014	pt	CONCOURS POLYTECH	ESIREM Dijon										756	1	0.0	0.0	2
+2014	pt	CONCOURS POLYTECH	ESIROI Saint Denis de la Réunion										1035	0	0.0	0.0	2
+2014	pt	CONCOURS POLYTECH	ESIX Normandie										1110	1	0.0	0.0	4
+2014	pt	CONCOURS POLYTECH	ESSTIN Nancy										1153	7	0.0	15.0	6
+2014	pt	CONCOURS POLYTECH	Polytech Marseille-Génie Civil										1155	1	0.0	0.0	5
+2014	pt	CONCOURS POLYTECH	Polytech Nantes-Génie civil										779	2	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Grenoble-Prévention des risques										1132	2	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Marseille-Informatique										1147	1	100.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Nantes-Informatique										1069	2	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Nice-Sophia-Informatique										1182	1	0.0	100.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Mathématique et Modélisation										1122	1	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Lille-Génie Informatique et statistique										1080	0	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	ISAT Nevers-département MIT (Mécanique et Ingénierie des Transports)										1088	4	0.0	75.0	10
+2014	pt	CONCOURS POLYTECH	ISAT Nevers-département EPEE (Energies et Moteurs)										1167	3	33.0	0.0	5
+2014	pt	CONCOURS POLYTECH	ISBS Créteil										722	1	0.0	0.0	1
+2014	pt	CONCOURS POLYTECH	ISEL Le Havre										1152	0	0.0	0.0	2
+2014	pt	CONCOURS POLYTECH	ISIFC Besançon										1179	1	0.0	0.0	2
+2014	pt	CONCOURS POLYTECH	ISIS Castres										1176	2	0.0	0.0	4
+2014	pt	CONCOURS POLYTECH	ISTIA Angers										1120	1	0.0	0.0	5
+2014	pt	CONCOURS POLYTECH	ISTY Vélizy										1142	0	0.0	0.0	6
+2014	pt	CONCOURS POLYTECH	Polytech Grenoble-Matériaux										1154	3	33.0	0.0	4
+2014	pt	CONCOURS POLYTECH	Polytech Nice-Sophia-Mathématiques appliquées, Modélisation										966	4	75.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Lille-Mécanique										1154	8	12.0	25.0	10
+2014	pt	CONCOURS POLYTECH	Polytech Lyon-Mécanique										721	1	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Montpellier-Mécanique et Interactions										1171	2	0.0	0.0	4
+2014	pt	CONCOURS POLYTECH	Polytech Paris-UPMC-Robotique										726	0	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Marseille-Mécanique, Energétique										1178	5	0.0	20.0	7
+2014	pt	CONCOURS POLYTECH	Polytech Annecy-Chambéry-Mécanique, Matériaux										1132	2	0.0	0.0	5
+2014	pt	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Physique										1168	0	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Polytech Orléans-Mécanique, Énergétique, Matériaux, Mécatronique										1180	5	0.0	60.0	8
+2014	pt	CONCOURS POLYTECH	Polytech Tours-Mécanique, Conception de systèmes										1144	0	0.0	0.0	3
+2014	pt	CONCOURS POLYTECH	Sup Galilée Villetaneuse										1080	0	0.0	0.0	2
+2014	pt	CONCOURS POLYTECH	Concours POLYTECH	1894	13.0	26.0	1376	13.0	27.0	1186	13.0	29.0		73			150
+2014	pt	AUTRES ECOLES	3IL Limoges	178	15.0	20.0	141	14.0	16.0	66	12.0	17.0	66	4	25.0	0.0	8
+2014	pt	AUTRES ECOLES	ECE PARIS	759	13.0	23.0	586	13.0	24.0	247	14.0	20.0	247	29	10.0	14.0	30
+2014	pt	AUTRES ECOLES	ECOLE DE L'AIR Méca	348	10.0	31.0	56	1.0	34.0	1	0.0	0.0	0	0	0.0	0.0	2
+2014	pt	AUTRES ECOLES	EFREI Paris	236	14.0	19.0	223	13.0	19.0	78	16.0	17.0	78	13	15.0	16.0	20
+2014	pt	AUTRES ECOLES	EI-ISPA Alençon	139	18.0	22.0	112	19.0	24.0	11	36.0	28.0	10	2	50.0	0.0	8
+2014	pt	AUTRES ECOLES	EIGSI La Rochelle	569	16.0	22.0	473	15.0	24.0	129	13.0	26.0	124	15	13.0	14.0	15
+2014	pt	AUTRES ECOLES	EIL Côte d'Opale-Calais (informatique)										166	2	0.0	50.0	10
+2014	pt	AUTRES ECOLES	EIL Côte d'Opale-Longuenesse (Génie Industriel)										171	4	0.0	25.0	20
+2014	pt	AUTRES ECOLES	EIL Côte d'Opale Longuenesse-Calais	470	17.0	22.0	399	16.0	24.0	171	20.0	26.0		6			30
+2014	pt	AUTRES ECOLES	ENSAIT Roubaix	540	19.0	26.0	346	17.0	30.0	117	14.0	28.0	116	19	15.0	16.0	23
+2014	pt	AUTRES ECOLES	ENSISA Mulhouse Automatique et Systèmes										65	4	0.0	0.0	6
+2014	pt	AUTRES ECOLES	ENSISA Mulhouse Informatique et réseaux										68	0	0.0	0.0	6
+2014	pt	AUTRES ECOLES	ENSISA Mulhouse Mécanique										55	6	0.0	0.0	9
+2014	pt	AUTRES ECOLES	ENSISA Mulhouse Textile et Fibres										66	2	50.0	0.0	4
+2014	pt	AUTRES ECOLES	ENSISA Mulhouse	413	17.0	22.0	300	18.0	22.0	69	14.0	22.0		12			25
+2014	pt	AUTRES ECOLES	EPF campus SCEAUX										158	1	0.0	0.0	1
+2014	pt	AUTRES ECOLES	EPF campus TROYES										190	2	0.0	0.0	3
+2014	pt	AUTRES ECOLES	EPF campus MONTPELLIER										190	7	0.0	15.0	11
+2014	pt	AUTRES ECOLES	EPF Sceaux-Troyes-Montpellier	632	18.0	22.0	320	15.0	28.0	190	14.0	30.0		10			15
+2014	pt	AUTRES ECOLES	ESFF-Sèvres	326	15.0	23.0	254	14.0	26.0	18	11.0	17.0	15	3	0.0	0.0	7
+2014	pt	AUTRES ECOLES	ESIEA Paris / Laval	231	14.0	24.0	170	12.0	28.0	55	12.0	33.0	40	1	0.0	100.0	10
+2014	pt	AUTRES ECOLES	ESIEE Amiens	388	15.0	24.0	290	13.0	25.0	35	17.0	23.0	35	1	0.0	0.0	10
+2014	pt	AUTRES ECOLES	ESIEE Paris	325	16.0	22.0	236	14.0	22.0	67	14.0	18.0	67	6	33.0	0.0	15
+2014	pt	AUTRES ECOLES	ESIGELEC Rouen	514	15.0	22.0	467	14.0	23.0	172	16.0	23.0	172	18	11.0	6.0	40
+2014	pt	AUTRES ECOLES	ESIGETEL Villejuif	168	14.0	18.0	149	14.0	18.0	34	11.0	21.0	34	1	0.0	0.0	10
+2014	pt	AUTRES ECOLES	ESILV Paris-La Défense	476	15.0	23.0	400	14.0	25.0	150	14.0	23.0	146	19	10.0	11.0	15
+2014	pt	AUTRES ECOLES	ESITC Caen	318	21.0	28.0	145	20.0	32.0	20	20.0	40.0	11	4	0.0	25.0	6
+2014	pt	AUTRES ECOLES	ESME SUDRIA Paris	421	14.0	21.0	292	13.0	24.0	140	12.0	24.0	140	1	0.0	0.0	15
+2014	pt	AUTRES ECOLES	ESTACA Laval										156	7	0.0	29.0	5
+2014	pt	AUTRES ECOLES	ESTACA Levallois-Perret										147	6	16.0	17.0	5
+2014	pt	AUTRES ECOLES	ESTACA Levallois-Perret/Laval	540	11.0	23.0	315	9.0	27.0	212	10.0	27.0		13			10
+2014	pt	AUTRES ECOLES	ESTIA Bidart	546	13.0	29.0	430	13.0	33.0	178	12.0	30.0	142	30	3.0	27.0	25
+2014	pt	AUTRES ECOLES	ESTP Paris BAT										286	10	30.0	90.0	9
+2014	pt	AUTRES ECOLES	ESTP Paris Génie Mécanique et Electrique (GME)										343	6	0.0	34.0	5
+2014	pt	AUTRES ECOLES	ESTP Paris TOPOGRAPHIE										381	9	11.0	56.0	7
+2014	pt	AUTRES ECOLES	ESTP Paris TP										331	9	11.0	23.0	10
+2014	pt	AUTRES ECOLES	ESTP Paris	1048	14.0	29.0	400	10.0	39.0	390	10.0	38.0		34			31
+2014	pt	AUTRES ECOLES	Grenoble INP-Génie Industriel	958	13.0	28.0	299	10.0	31.0	125	9.0	38.0	94	11	9.0	0.0	13
+2014	pt	AUTRES ECOLES	IFMA Clermont-Ferrand	1062	11.0	28.0	549	9.0	36.0	290	11.0	38.0	223	69	8.0	24.0	68
+2014	pt	AUTRES ECOLES	INSA centre val de loire	632	15.0	27.0	374	14.0	30.0	84	14.0	27.0	81	15	6.0	47.0	14
+2014	pt	AUTRES ECOLES	ISMANS Le Mans	367	14.0	27.0	336	13.0	28.0	95	15.0	24.0	94	10	10.0	10.0	20
+2014	pt	AUTRES ECOLES	ITECH Lyon	161	24.0	27.0	89	24.0	32.0	1	100.0	100.0	1	1	100.0	100.0	5
+2014	pt	FESIC	ECAM Lyon				200	10.0	32.0	60	8.0	25.0	54	2	50.0	0.0	3
+2014	pt	FESIC	ECAM Rennes Louis de Broglie	976	13.0	26.0	876	13.0	28.0	131	19.0	26.0	129	15	13.0	27.0	16
+2014	pt	FESIC	ECAM Strasbourg Europe				907	13.0	27.0	239	10.0	29.0	238	21	28.0	29.0	18
+2014	pt	FESIC	EPMI Cergy-Pontoise	976	13.0	26.0	908	13.0	27.0	133	15.0	22.0	133	7	0.0	43.0	15
+2014	pt	FESIC	ESAIP Angers-Grasse	976	13.0	26.0	911	13.0	27.0	319	11.0	32.0	318	4	0.0	25.0	8
+2014	pt	FESIC	ESEO Angers	976	13.0	26.0	628	12.0	31.0	353	13.0	37.0	353	2	0.0	0.0	5
+2014	pt	FESIC	HEI	976	13.0	26.0	846	13.0	28.0	448	14.0	31.0	407	26	15.0	39.0	25
+2014	pt	FESIC	ISEN Brest	976	13.0	26.0	813	12.0	29.0	309	11.0	30.0	270	0	0.0	0.0	3
+2014	pt	FESIC	ISEN Lille	976	13.0	26.0	813	12.0	29.0	309	11.0	30.0	306	3	0.0	0.0	20
+2014	pt	FESIC	ISEN Toulon	976	13.0	26.0	813	12.0	29.0	309	11.0	30.0	306	3	33.0	34.0	10
+2014	pt	FESIC	ISEP Paris	976	13.0	26.0	831	13.0	28.0	332	11.0	29.0	332	28	14.0	22.0	20
+2014	pt	EPITA	EPITA										18	0	0.0	0.0	5
+2014	pt	EPITA	IPSA Paris										33	5	0.0	0.0	3
+2014	pt	EPITA	IPSA Toulouse										33	3	0.0	0.0	2
+2014	pt	EPITA	EPITA / IPSA PT	94	9.0	15.0	53	13.0	12.0	34	11.0	12.0		8			10

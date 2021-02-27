@@ -1,0 +1,269 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rg_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2014	mp	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE Info.	768	9.0	27.0	208	7.0	25.0	152	9.0	18.0	141	103	9.0	21.0	103
+2014	mp	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE P&SI	862	16.0	30.0	162	16.0	23.0	100	17.0	16.0	90	80	20.0	14.0	80
+2014	mp	BANQUE ENS	ENS Ulm MPI	1552	16.0	32.0	139	8.0	22.0	88	6.0	16.0	74	40	10.0	15.0	40
+2014	mp	BANQUE ENS	ENS Ulm Info.	202	12.0	27.0	36	13.0	25.0	20	5.0	10.0	10	10	0.0	0.0	10
+2014	mp	BANQUE ENS	ENS Cachan MP	1629	17.0	30.0	244	9.0	28.0	192	10.0	28.0	181	20	10.0	50.0	20
+2014	mp	BANQUE ENS	ENS Cachan Info.	247	11.0	29.0	91	6.0	36.0	70	7.0	35.0	67	16	6.0	57.0	17
+2014	mp	BANQUE ENS	ENS de Lyon MPI	1622	16.0	31.0	264	10.0	31.0	149	15.0	25.0	149	17	0.0	71.0	17
+2014	mp	BANQUE ENS	ENS de Lyon Info.	265	14.0	27.0	127	7.0	31.0	80	6.0	29.0	60	24	8.0	25.0	24
+2014	mp	BANQUE ENS	ENS Rennes MP	1372	18.0	32.0	275	9.0	35.0	213	11.0	36.0	160	9	11.0	34.0	9
+2014	mp	BANQUE ENS	ENS Rennes Info.	229	13.0	31.0	111	6.0	39.0	98	5.0	34.0	80	9	11.0	45.0	9
+2014	mp	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										236	44	15.0	14.0	46
+2014	mp	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										1228	58	20.0	37.0	54
+2014	mp	CONCOURS COMMUN MINES-PONTS	MINES de SAINT-ETIENNE										1305	35	20.0	12.0	42
+2014	mp	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										466	56	26.0	24.0	57
+2014	mp	CONCOURS COMMUN MINES-PONTS	SUPAERO (ISAE) Toulouse										737	50	10.0	24.0	50
+2014	mp	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										780	50	28.0	18.0	53
+2014	mp	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										786	51	15.0	28.0	52
+2014	mp	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										908	17	5.0	42.0	19
+2014	mp	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE cursus Brest-Rennes-Toulouse										1643	70	18.0	25.0	50
+2014	mp	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE cursus Sophia										1270	4	50.0	50.0	3
+2014	mp	CONCOURS COMMUN MINES-PONTS	ENSAE ParisTech										1030	50	18.0	32.0	45
+2014	mp	CONCOURS COMMUN MINES-PONTS	Concours Commun Mines Ponts MP	5591	21.0	25.0	1753	15.0	25.0	1684	15.0	25.0		485			471
+2014	mp	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS	3442	19.0	27.0	764	13.0	24.0	734	14.0	23.0	383	142	11.0	23.0	142
+2014	mp	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS-étr.	282	21.0	34.0	93	15.0	33.0	89	14.0	33.0	52	23	21.0	57.0	18
+2014	mp	BANQUE CENTRALE-SUPELEC	SUPELEC	3303	19.0	28.0	992	15.0	25.0	969	15.0	25.0	847	132	12.0	40.0	145
+2014	mp	BANQUE CENTRALE-SUPELEC	SUPELEC-étr.	215	21.0	34.0	67	16.0	33.0	66	16.0	34.0	62	9	22.0	56.0	2
+2014	mp	BANQUE CENTRALE-SUPELEC	CENTRALE LYON	3835	19.0	27.0	1089	15.0	25.0	1056	15.0	25.0	841	125	20.0	22.0	127
+2014	mp	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	1840	23.0	30.0	1010	23.0	28.0	865	24.0	27.0	793	42	28.0	27.0	40
+2014	mp	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)-étr.	81	28.0	34.0	36	36.0	37.0	32	37.0	38.0	31	0	0.0	0.0	2
+2014	mp	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE	3561	21.0	29.0	1002	18.0	30.0	966	18.0	30.0	780	75	25.0	39.0	90
+2014	mp	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES	3779	21.0	29.0	1133	18.0	29.0	1085	18.0	29.0	955	121	18.0	31.0	135
+2014	mp	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE	3017	22.0	28.0	1310	20.0	25.0	1133	21.0	25.0	1021	63	23.0	23.0	80
+2014	mp	BANQUE CENTRALE-SUPELEC	ECOLE NAVALE Brest	625	14.0	32.0	216	13.0	38.0	92	9.0	47.0	81	23	4.0	44.0	23
+2014	mp	BANQUE CENTRALE-SUPELEC	ENSEA Cergy	1804	23.0	25.0	1372	23.0	22.0	611	23.0	20.0	580	62	19.0	18.0	60
+2014	mp	BANQUE CENTRALE-SUPELEC	ENSIIE Evry										523	73	21.0	17.0	75
+2014	mp	BANQUE CENTRALE-SUPELEC	ENSIIE Strasbourg										480	16	18.0	13.0	15
+2014	mp	BANQUE CENTRALE-SUPELEC	ENSIIE	1788	21.0	26.0	1350	22.0	23.0	589	23.0	20.0		89			90
+2014	mp	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS-CI										25	17	17.0	24.0	15
+2014	mp	BANQUE CENTRALE-SUPELEC	SUPELEC-CI										37	3	0.0	34.0	5
+2014	mp	BANQUE CENTRALE-SUPELEC	CENTRALE LYON-CI										30	3	0.0	34.0	3
+2014	mp	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE-CI										43	3	0.0	34.0	3
+2014	mp	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES-CI										0	0	0.0	0.0	5
+2014	mp	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)-CI										69	1	0.0	0.0	3
+2014	mp	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE-CI										50	1	0.0	0.0	2
+2014	mp	BANQUE CENTRALE-SUPELEC	Cycle International Centrale-Supelec	486	27.0	22.0	113	16.0	17.0	102	14.0	17.0		28			36
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM Besançon										3692	46	23.0	46.0	41
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Electronique										2731	26	19.0	27.0	35
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Informatique										2639	44	18.0	25.0	50
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Mathématiques et Mécanique										2077	25	12.0	36.0	33
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Télecom.										2533	22	22.0	46.0	28
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique Appliquée										3133	18	38.0	34.0	20
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Informatique										3626	23	21.0	40.0	30
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	EISTI Cergy-Pau Génie Informatique										3823	16	12.0	44.0	20
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	EISTI Cergy-Pau Génie Mathématiques										3827	24	25.0	34.0	24
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ISIMA Clermont-Ferrand										3849	31	12.0	42.0	40
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-ENSE3										2165	75	32.0	28.0	75
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-ENSIMAG										1056	116	14.0	34.0	115
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Esisar										2950	14	7.0	36.0	9
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Pagora										3037	6	33.0	0.0	11
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Phelma (Physique Electronique Télécoms)										1731	41	19.0	35.0	60
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Phelma (Physique Matériaux Procédés)										1414	42	23.0	22.0	38
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	CPE LYON Electronique										3851	5	20.0	20.0	16
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEM Nancy Pluriscientifique										3564	35	22.0	32.0	35
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEM Nancy Ingénierie des systèmes numériques										3610	8	25.0	50.0	8
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSG Nancy										3539	9	22.0	23.0	8
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSIC Nancy										3318	1	0.0	0.0	10
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	Chimie ParisTech										910	1	100.0	0.0	3
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Paris										2835	35	17.0	15.0	43
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSGTI Pau-Energétique										3681	11	18.0	37.0	10
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Eau et Genie Civil										3357	9	66.0	34.0	6
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Energie										3719	11	45.0	19.0	17
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ISAE-ENSMA Poitiers										2311	56	16.0	33.0	55
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Civil (étudiant)										3804	10	50.0	40.0	11
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Civil (apprenti)										3822	1	0.0	100.0	1
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Fonctionnaire										2280	1	0.0	100.0	1
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	TELECOM PHYSIQUE Strasbourg										3579	18	27.0	34.0	31
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	SeaTech Toulon										3190	18	11.0	34.0	15
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Electronique et Traitement du Signal										1924	14	21.0	29.0	16
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Génie Electrique et Automatique										1865	17	29.0	24.0	15
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Hydraulique et Mécanique des Fluides										1332	18	16.0	28.0	19
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Informatique et Mathématiques appliquées										1645	53	15.0	34.0	58
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Télécom.réseaux										1892	29	27.0	28.0	27
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSIACET Toulouse Génie Industriel										2663	17	23.0	12.0	17
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSIACET Toulouse Génie des Procédés										2799	11	36.0	37.0	11
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Montpellier Civil										1514	0	0.0	0.0	2
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Civil										1412	45	15.0	47.0	39
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Fonctionnaire										668	6	16.0	34.0	6
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSICA (ISAE) Toulouse										603	49	20.0	19.0	45
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et Management des systèmes										3827	8	25.0	50.0	6
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Méca Energ.										3809	23	21.0	44.0	20
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Mécatronique										3789	14	21.0	8.0	10
+2014	mp	CONCOURS COMMUNS POLYTECHNIQUES	Concours Commun Polytechnique MP	7395	25.0	28.0	4701	23.0	28.0	3853	23.0	29.0		1102			1190
+2014	mp	BANQUE EPREUVES C.C.P Inter-Filière	ECOLE DE L'AIR Pilote	714	16.0	28.0	213	14.0	38.0	31	9.0	46.0	-	14	7.0	65.0	40
+2014	mp	BANQUE EPREUVES C.C.P Inter-Filière	ECOLE DE L'AIR Base	653	18.0	32.0	210	14.0	42.0	26	11.0	58.0	-	4	25.0	50.0	5
+2014	mp	BANQUE EPREUVES C.C.P Inter-Filière	ECOLE DE L'AIR Méca	654	18.0	31.0	203	14.0	43.0	50	14.0	54.0	-	5	60.0	20.0	11
+2014	mp	BANQUE EPREUVES C.C.P Inter-Filière	ENSCI Limoges	779	36.0	39.0	506	37.0	33.0	62	41.0	26.0	-	13	23.0	31.0	50
+2014	mp	BANQUE EPREUVES C.C.P Inter-Filière	ENSGSI Nancy	991	33.0	33.0	484	35.0	25.0	89	47.0	17.0	-	6	66.0	17.0	35
+2014	mp	BANQUE EPREUVES C.C.P Inter-Filière	ESM Saint-Cyr	663	15.0	28.0	177	13.0	38.0	70	5.0	52.0	-	29	0.0	52.0	68
+2014	mp	BANQUE EPREUVES C.C.P Inter-Filière	Grenoble INP-Génie Industriel	1873	30.0	30.0	690	29.0	25.0	125	39.0	23.0	-	11	45.0	37.0	80
+2014	mp	BANQUE EPREUVES C.C.P	ENSAI Rennes Civil	2195	28.0	33.0	1368	27.0	33.0	917	28.0	34.0	597	52	28.0	45.0	48
+2014	mp	BANQUE EPREUVES C.C.P	ENSAI Rennes Fonctionnaire (Attaché INSEE)	1324	23.0	29.0	888	24.0	33.0	679	26.0	36.0	418	20	15.0	55.0	20
+2014	mp	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Informatique et réseaux										79	10	20.0	10.0	5
+2014	mp	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Mécanique										109	7	28.0	58.0	5
+2014	mp	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Automatique et Systèmes										108	9	44.0	34.0	3
+2014	mp	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Textile et Fibres										119	3	100.0	34.0	2
+2014	mp	BANQUE EPREUVES C.C.P	ENSISA Mulhouse MP	1371	32.0	37.0	801	32.0	31.0	159	32.0	33.0		29			15
+2014	mp	BANQUE EPREUVES C.C.P	ENSTIB Epinal	552	33.0	33.0	362	34.0	24.0	40	25.0	13.0	31	7	14.0	0.0	6
+2014	mp	BANQUE EPREUVES C.C.P	EOST Strasbourg	779	32.0	30.0	338	32.0	23.0	59	42.0	24.0	42	11	54.0	19.0	11
+2014	mp	CONCOURS COMMUN TPE	ENTPE Lyon Civil	3562	26.0	31.0	1500	23.0	31.0	435	37.0	32.0	409	15	46.0	40.0	15
+2014	mp	CONCOURS COMMUN TPE	ENTPE Lyon Fonctionnaire	3562	26.0	31.0	1500	23.0	31.0	435	37.0	32.0	404	25	44.0	40.0	25
+2014	mp	CONCOURS COMMUN TPE	ENTPE Lyon Etranger				353	28.0	33.0	46	34.0	42.0	17	1	0.0	100.0	1
+2014	mp	CONCOURS COMMUN TPE	EIVP Paris Civil	3562	26.0	31.0	1853	24.0	31.0	507	37.0	33.0	421	17	52.0	30.0	16
+2014	mp	CONCOURS COMMUN TPE	EIVP Paris Fonctionnaire	3562	26.0	31.0	1500	23.0	31.0	453	37.0	32.0	225	5	0.0	80.0	5
+2014	mp	CONCOURS COMMUN TPE	Mines de Douai Fonct.	3562	26.0	31.0	1500	23.0	31.0	435	37.0	32.0	209	4	25.0	25.0	4
+2014	mp	CONCOURS TELECOM INT	ENSG Marne la Vallée Civil	3635	25.0	28.0	2098	24.0	27.0	107	34.0	20.0	106	4	50.0	50.0	6
+2014	mp	CONCOURS TELECOM INT	ENSSAT Lannion	3635	25.0	28.0	2842	25.0	27.0	346	29.0	24.0	337	36	27.0	37.0	22
+2014	mp	CONCOURS TELECOM INT	TELECOM Nancy	3635	25.0	28.0	2900	25.0	27.0	522	33.0	23.0	332	53	20.0	25.0	40
+2014	mp	CONCOURS TELECOM INT	Mines St Etienne ISMIN Gardanne	3635	25.0	28.0	1927	22.0	29.0	236	30.0	20.0	200	21	14.0	5.0	22
+2014	mp	CONCOURS TELECOM INT	TELECOM Lille 1	3635	25.0	28.0	2365	24.0	27.0	201	27.0	17.0	127	14	35.0	8.0	12
+2014	mp	CONCOURS TELECOM INT	TELECOM PHYSIQUE Strasbourg-TIC et Santé	3635	25.0	28.0	2429	24.0	26.0	135	35.0	15.0	91	8	25.0	25.0	9
+2014	mp	CONCOURS TELECOM INT	TELECOM St Etienne	3635	25.0	28.0	2858	25.0	27.0	380	32.0	24.0	205	22	45.0	23.0	20
+2014	mp	CONCOURS TELECOM INT	TELECOM SudParis-cursus Evry										397	84	15.0	28.0	85
+2014	mp	CONCOURS TELECOM INT	TELECOM SudParis-cursus Tunis										439	2	0.0	100.0	3
+2014	mp	CONCOURS TELECOM INT	concours Télécom SudParis MP	3635	25.0	28.0	1365	22.0	27.0	442	26.0	28.0		86			88
+2014	mp	Concours Commun des Ecoles des Mines	Ecole des Mines d'Albi	4464	23.0	28.0	2378	21.0	31.0	1268	24.0	32.0	892	34	29.0	33.0	38
+2014	mp	Concours Commun des Ecoles des Mines	Ecole des Mines d'Albi Voie du Concours Mines Ponts							694	18.0	28.0	596	1	0.0	0.0	3
+2014	mp	Concours Commun des Ecoles des Mines	Ecole des Mines d'Alès	4464	23.0	28.0	2378	21.0	31.0	1268	24.0	32.0	783	50	16.0	38.0	48
+2014	mp	Concours Commun des Ecoles des Mines	Ecole des Mines d'Alès Voie du Concours Mines Ponts							694	18.0	28.0	693	0	0.0	0.0	4
+2014	mp	Concours Commun des Ecoles des Mines	Ecole des Mines Douai	4464	23.0	28.0	2378	21.0	31.0	1268	24.0	32.0	877	47	21.0	28.0	49
+2014	mp	Concours Commun des Ecoles des Mines	Ecole des Mines Douai Voie du Concours Mines Ponts							694	18.0	28.0	649	2	0.0	0.0	4
+2014	mp	Concours Commun des Ecoles des Mines	Ecole des Mines Nantes	4464	23.0	28.0	2378	21.0	31.0	1268	24.0	32.0	434	67	23.0	51.0	60
+2014	mp	Concours Commun des Ecoles des Mines	Ecole des Mines Nantes Voie du Concours Mines Ponts							694	18.0	28.0	537	3	33.0	100.0	3
+2014	mp	Concours Commun des Ecoles des Mines	ENSTA Bretagne Civil	4464	23.0	28.0	2378	21.0	31.0	1268	24.0	32.0	1060	46	19.0	55.0	42
+2014	mp	Concours Commun des Ecoles des Mines	ENSTA Bretagne Civil Voie du Concours Mines Ponts							694	18.0	28.0	691	3	0.0	0.0	3
+2014	mp	Concours Commun des Ecoles des Mines	ENSTA Bretagne Militaire				2043	20.0	30.0	1133	24.0	32.0	859	13	7.0	62.0	13
+2014	mp	CONCOURS ENSAM	Arts et Métiers ParisTech	2422	25.0	30.0	230	28.0	46.0	180	28.0	47.0	148	36	30.0	56.0	40
+2014	mp	CONCOURS ESTP	ESTP Paris BAT										835	67	35.0	27.0	61
+2014	mp	CONCOURS ESTP	ESTP Paris TOPOGRAPHIE										882	8	37.0	50.0	12
+2014	mp	CONCOURS ESTP	ESTP Paris Génie Mécanique et Electrique (GME)										869	22	27.0	19.0	23
+2014	mp	CONCOURS ESTP	ESTP Paris TP										739	66	15.0	47.0	63
+2014	mp	CONCOURS ESTP	ESTP	1928	25.0	31.0	1015	27.0	36.0	906	28.0	37.0		163			159
+2014	mp	CONCOURS POLYTECH	ENSC Bordeaux										1706	8	37.0	50.0	10
+2014	mp	CONCOURS POLYTECH	ENSIBS Lorient										1758	3	0.0	34.0	2
+2014	mp	CONCOURS POLYTECH	ENSIM Le Mans										1775	1	0.0	0.0	6
+2014	mp	CONCOURS POLYTECH	ESI Reims										1771	2	50.0	50.0	4
+2014	mp	CONCOURS POLYTECH	ESIR Rennes										1715	1	0.0	0.0	5
+2014	mp	CONCOURS POLYTECH	ESIREM Dijon										991	1	0.0	100.0	2
+2014	mp	CONCOURS POLYTECH	ESIROI Saint Denis de la Réunion										1774	0	0.0	0.0	4
+2014	mp	CONCOURS POLYTECH	ESIX Normandie										1758	1	0.0	100.0	4
+2014	mp	CONCOURS POLYTECH	ESSTIN Nancy										1767	8	25.0	25.0	9
+2014	mp	CONCOURS POLYTECH	ISAT Nevers-département MIT (Mécanique et Ingénierie des Transports)										964	1	100.0	100.0	1
+2014	mp	CONCOURS POLYTECH	ISAT Nevers-département EPEE (Energies et Moteurs)										1669	3	0.0	34.0	5
+2014	mp	CONCOURS POLYTECH	ISBS Créteil										1225	1	100.0	0.0	2
+2014	mp	CONCOURS POLYTECH	ISEL Le Havre										1685	3	33.0	67.0	3
+2014	mp	CONCOURS POLYTECH	ISIFC Besançon										1652	1	100.0	100.0	3
+2014	mp	CONCOURS POLYTECH	ISIS Castres										1756	0	0.0	0.0	4
+2014	mp	CONCOURS POLYTECH	ISTY Vélizy										1741	1	0.0	0.0	6
+2014	mp	CONCOURS POLYTECH	Polytech Annecy-Chambéry-Environnement, Bâtiment, Énergie										1599	4	50.0	25.0	4
+2014	mp	CONCOURS POLYTECH	Polytech Annecy-Chambéry-Instrumentation, Automatique, Informatique										1774	1	0.0	100.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Annecy-Chambéry-Mécanique, Matériaux										1674	4	25.0	50.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Civil										1503	7	14.0	43.0	5
+2014	mp	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Electrique										1747	2	100.0	100.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Mathématique et Modélisation										1740	9	11.0	23.0	8
+2014	mp	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Physique										1729	5	20.0	0.0	5
+2014	mp	CONCOURS POLYTECH	Polytech Grenoble-Géotechnique										1660	6	33.0	17.0	5
+2014	mp	CONCOURS POLYTECH	Polytech Grenoble-Matériaux										1575	1	0.0	0.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Grenoble-Prévention des risques										1775	2	50.0	50.0	4
+2014	mp	CONCOURS POLYTECH	Polytech Grenoble-Systèmes électroniques et informatiques, Réseaux										1763	7	0.0	29.0	10
+2014	mp	CONCOURS POLYTECH	Polytech Grenoble-Technologies de l'information pour la santé										1756	4	75.0	25.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Lille-Génie Informatique et statistique										1703	12	33.0	42.0	8
+2014	mp	CONCOURS POLYTECH	Polytech Lille-Géotechnique, Génie civil										1052	4	50.0	50.0	4
+2014	mp	CONCOURS POLYTECH	Polytech Lille-Informatique, Microélectronique, Automatique										1405	3	0.0	0.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Lille-Ingénierie et commercialisation des systèmes de mesure										1743	2	0.0	50.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Lille-Matériaux										1565	4	25.0	75.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Lille-Mécanique										1446	4	50.0	50.0	5
+2014	mp	CONCOURS POLYTECH	Polytech Lyon-Génie Bomédical										1476	4	50.0	25.0	6
+2014	mp	CONCOURS POLYTECH	Polytech Lyon-Informatique										1469	2	0.0	50.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Lyon-Mathématiques Appliquées et Modélisation										1571	6	33.0	50.0	8
+2014	mp	CONCOURS POLYTECH	Polytech Marseille-Génie Biomédical										1403	3	66.0	0.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Marseille-Génie Civil										1502	4	25.0	25.0	5
+2014	mp	CONCOURS POLYTECH	Polytech Marseille-Génie Industriel et Informatique										1775	5	60.0	60.0	4
+2014	mp	CONCOURS POLYTECH	Polytech Marseille-Informatique										1774	4	75.0	0.0	7
+2014	mp	CONCOURS POLYTECH	Polytech Marseille-Matériaux										1711	1	0.0	0.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Marseille-Microélectronique,Télécommunications										1776	6	16.0	34.0	6
+2014	mp	CONCOURS POLYTECH	Polytech Marseille-Mécanique, Energétique										1605	7	14.0	29.0	5
+2014	mp	CONCOURS POLYTECH	Polytech Montpellier-Informatique et Gestion										1705	3	66.0	34.0	4
+2014	mp	CONCOURS POLYTECH	Polytech Montpellier-Matériaux										1677	1	0.0	0.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Montpellier-Électronique et Informatique industrielle										1029	1	0.0	100.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Montpellier-Énergétique, Énergies renouvelables										1223	2	0.0	0.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Nantes-Génie civil										1000	3	33.0	67.0	4
+2014	mp	CONCOURS POLYTECH	Polytech Nantes-Informatique										1765	6	16.0	17.0	5
+2014	mp	CONCOURS POLYTECH	Polytech Nantes-Matériaux										1641	0	0.0	0.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Nantes-Thermique, Énergétique										1466	3	0.0	34.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Nantes-Électronique et technologies numériques										1708	3	33.0	0.0	5
+2014	mp	CONCOURS POLYTECH	Polytech Nantes-Énergie électrique										1773	2	100.0	100.0	4
+2014	mp	CONCOURS POLYTECH	Polytech Nice-Sophia-Bâtiments										1380	3	33.0	34.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Nice-Sophia-Génie de l'eau										1711	5	40.0	40.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Nice-Sophia-Informatique										1664	10	40.0	10.0	7
+2014	mp	CONCOURS POLYTECH	Polytech Nice-Sophia-Mathématiques appliquées, Modélisation										1395	8	12.0	25.0	7
+2014	mp	CONCOURS POLYTECH	Polytech Nice-Sophia-Électronique										1763	6	16.0	17.0	4
+2014	mp	CONCOURS POLYTECH	Polytech Orléans-Génie civil et géo-environnement										1774	8	25.0	63.0	7
+2014	mp	CONCOURS POLYTECH	Polytech Orléans-Mécanique, Énergétique, Matériaux, Mécatronique										1747	10	10.0	30.0	8
+2014	mp	CONCOURS POLYTECH	Polytech Orléans-Écotechnologie électroniques et optiques										1773	0	0.0	0.0	5
+2014	mp	CONCOURS POLYTECH	Polytech Paris-Sud-Electronique, Energie, Systèmes										1575	3	33.0	34.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Paris-Sud-Informatique										1726	5	20.0	20.0	5
+2014	mp	CONCOURS POLYTECH	Polytech Paris-Sud-Photonique et systèmes optroniques										1647	5	40.0	40.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Paris-UPMC-Electronique et Informatique										1278	9	11.0	12.0	7
+2014	mp	CONCOURS POLYTECH	Polytech Paris-UPMC-Sciences de la Terre										1529	2	0.0	0.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Tours-Aménagement										1676	4	75.0	25.0	5
+2014	mp	CONCOURS POLYTECH	Polytech Tours-Informatique										1762	4	25.0	0.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Tours-Mécanique, Conception de systèmes										1760	1	0.0	100.0	3
+2014	mp	CONCOURS POLYTECH	Polytech Tours-Électronique, Énergie électrique										1747	0	0.0	0.0	3
+2014	mp	CONCOURS POLYTECH	Sup Galilée Villetaneuse										1732	6	0.0	84.0	5
+2014	mp	CONCOURS POLYTECH	Concours POLYTECH	3280	28.0	30.0	2183	28.0	25.0	1776	29.0	27.0		271			323
+2014	mp	Autres écoles E3A	3IL Limoges	278	21.0	27.0	237	21.0	25.0	76	26.0	25.0	76	6	16.0	67.0	12
+2014	mp	Autres écoles E3A	ECE PARIS	1103	27.0	23.0	832	29.0	24.0	346	27.0	23.0	332	55	20.0	22.0	50
+2014	mp	Autres écoles E3A	EFREI Paris	389	25.0	21.0	366	25.0	20.0	178	28.0	20.0	178	27	22.0	23.0	30
+2014	mp	Autres écoles E3A	EI-ISPA Alençon	125	34.0	24.0	101	35.0	22.0	6	33.0	17.0	1	1	0.0	0.0	7
+2014	mp	Autres écoles E3A	EIDD Paris	564	32.0	30.0	403	32.0	27.0	231	35.0	29.0	217	17	41.0	48.0	15
+2014	mp	Autres écoles E3A	EIGSI Casablanca	231	24.0	29.0	166	26.0	29.0	24	20.0	34.0	0	0	0.0	0.0	10
+2014	mp	Autres écoles E3A	EIGSI La Rochelle	574	30.0	26.0	447	32.0	26.0	87	34.0	26.0	86	4	50.0	25.0	20
+2014	mp	Autres écoles E3A	EIL Côte d'Opale-Calais (informatique)										187	9	44.0	67.0	10
+2014	mp	Autres écoles E3A	EIL Côte d'Opale-Longuenesse (Génie Industriel)										182	14	50.0	72.0	15
+2014	mp	Autres écoles E3A	EIL Côte d'Opale Longuenesse-Calais	623	32.0	36.0	453	32.0	33.0	187	35.0	32.0		23			25
+2014	mp	Autres écoles E3A	EME	187	37.0	22.0				183	37.0	23.0	152	3	100.0	0.0	8
+2014	mp	Autres écoles E3A	ENSAIT Roubaix	632	37.0	35.0	434	38.0	31.0	102	46.0	28.0	87	12	66.0	17.0	12
+2014	mp	Autres écoles E3A	ENSIL Limoges EE	772	38.0	40.0	383	39.0	27.0	54	59.0	25.0	37	6	33.0	34.0	8
+2014	mp	Autres écoles E3A	ENSIL Limoges ELT	870	33.0	38.0	430	34.0	26.0	74	32.0	37.0	48	11	27.0	37.0	8
+2014	mp	Autres écoles E3A	ENSIL Limoges Matériaux	744	33.0	40.0	367	35.0	27.0	33	33.0	31.0	33	4	25.0	25.0	4
+2014	mp	Autres écoles E3A	ENSIL Limoges Mécatronique	810	32.0	40.0	400	33.0	29.0	70	31.0	32.0	40	11	18.0	28.0	8
+2014	mp	Autres écoles E3A	EPF campus SCEAUX										128	2	0.0	0.0	3
+2014	mp	Autres écoles E3A	EPF campus TROYES										186	0	0.0	0.0	3
+2014	mp	Autres écoles E3A	EPF campus MONTPELLIER										186	6	16.0	34.0	9
+2014	mp	Autres écoles E3A	EPF Sceaux-Troyes-Montpellier	676	35.0	24.0	389	36.0	24.0	191	39.0	22.0		8			15
+2014	mp	Autres écoles E3A	ESB Nantes	194	34.0	24.0	150	33.0	24.0	25	40.0	24.0	24	6	50.0	34.0	12
+2014	mp	Autres écoles E3A	ESIEA Paris / Laval	346	27.0	18.0	321	28.0	17.0	137	32.0	17.0	137	11	72.0	19.0	20
+2014	mp	Autres écoles E3A	ESIEE Amiens	491	27.0	25.0	385	29.0	25.0	39	20.0	26.0	38	1	0.0	0.0	20
+2014	mp	Autres écoles E3A	ESIEE Paris	498	31.0	21.0	421	30.0	19.0	116	27.0	17.0	114	11	27.0	28.0	25
+2014	mp	Autres écoles E3A	ESIGELEC Rouen	649	29.0	27.0	567	31.0	26.0	193	36.0	24.0	192	26	26.0	35.0	40
+2014	mp	Autres écoles E3A	ESIGETEL Villejuif	307	25.0	20.0	284	26.0	20.0	103	25.0	18.0	103	2	0.0	50.0	20
+2014	mp	Autres écoles E3A	ESILV Paris-La Défense	697	28.0	22.0	573	30.0	22.0	250	30.0	20.0	204	23	34.0	9.0	20
+2014	mp	Autres écoles E3A	ESITC Caen	294	32.0	25.0	215	33.0	20.0	43	27.0	19.0	31	13	23.0	8.0	12
+2014	mp	Autres écoles E3A	ESME SUDRIA Paris	603	27.0	23.0	478	29.0	25.0	248	31.0	25.0	248	4	25.0	25.0	10
+2014	mp	Autres écoles E3A	ESTACA Laval										172	9	77.0	23.0	7
+2014	mp	Autres écoles E3A	ESTACA Levallois-Perret										148	8	25.0	38.0	7
+2014	mp	Autres écoles E3A	ESTACA Levallois-Perret/Laval	482	24.0	23.0	368	25.0	22.0	244	26.0	22.0		17			14
+2014	mp	Autres écoles E3A	ESTIA Bidart	394	35.0	30.0	272	33.0	28.0	60	28.0	40.0	54	14	21.0	50.0	20
+2014	mp	Autres écoles E3A	IFMA Clermont-Ferrand	665	26.0	36.0	270	26.0	31.0	59	23.0	29.0	29	15	20.0	20.0	16
+2014	mp	Autres écoles E3A	INSA centre val de loire	808	30.0	33.0	389	30.0	24.0	50	32.0	20.0	47	9	22.0	12.0	8
+2014	mp	Autres écoles E3A	ISMANS Le Mans	257	27.0	27.0	235	28.0	26.0	46	28.0	35.0	46	4	0.0	50.0	10
+2014	mp	Autres écoles E3A	ITECH Lyon	189	37.0	29.0	116	38.0	27.0	3	66.0	0.0	3	2	50.0	0.0	5
+2014	mp	FESIC	ECAM Lyon				200	35.0	28.0	50	42.0	28.0	38	0	0.0	0.0	3
+2014	mp	FESIC	ECAM Rennes Louis de Broglie	1004	29.0	24.0	888	30.0	23.0	66	33.0	19.0	61	9	33.0	45.0	10
+2014	mp	FESIC	ECAM Strasbourg Europe	1004	29.0	24.0	919	30.0	23.0	103	33.0	27.0	95	5	20.0	20.0	12
+2014	mp	FESIC	EPMI Cergy-Pontoise	1004	29.0	24.0	911	30.0	24.0	140	29.0	25.0	140	20	30.0	50.0	20
+2014	mp	FESIC	ESAIP Angers-Grasse	1004	29.0	24.0	908	30.0	23.0	237	35.0	28.0	237	3	33.0	34.0	15
+2014	mp	FESIC	ESCOM Compiegne	1004	29.0	24.0	526	31.0	25.0	303	33.0	28.0	246	0	0.0	0.0	1
+2014	mp	FESIC	ESEO Angers	1004	29.0	24.0	730	31.0	23.0	435	32.0	27.0	425	1	100.0	0.0	7
+2014	mp	FESIC	HEI	1004	29.0	24.0	845	30.0	23.0	405	30.0	28.0	389	29	13.0	25.0	25
+2014	mp	FESIC	ISEN Brest	1004	29.0	24.0	866	30.0	23.0	240	35.0	25.0	230	0	0.0	0.0	8
+2014	mp	FESIC	ISEN Lille	1004	29.0	24.0	866	30.0	23.0	240	35.0	25.0	226	2	0.0	50.0	20
+2014	mp	FESIC	ISEN Toulon	1004	29.0	24.0	866	30.0	23.0	240	35.0	25.0	218	7	42.0	15.0	10
+2014	mp	FESIC	ISEP Paris	1004	29.0	24.0	867	30.0	23.0	292	29.0	23.0	290	28	21.0	18.0	25
+2014	mp	FESIC	LASALLE BEAUVAIS	1004	29.0	24.0	750	31.0	23.0	44	43.0	28.0	43	1	0.0	100.0	8
+2014	mp	EPITA	EPITA										128	13	0.0	16.0	20
+2014	mp	EPITA	IPSA Paris										128	10	10.0	0.0	8
+2014	mp	EPITA	IPSA Toulouse										111	7	14.0	58.0	6
+2014	mp	EPITA	EPITA / IPSA MP	274	26.0	22.0	186	24.0	17.0	127	22.0	16.0		30			34
