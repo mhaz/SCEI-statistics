@@ -21,55 +21,53 @@ Statistiques réalisées le 28/09/2020 et portant sur la population globale des 
 - [X] Statistiques générales
 * 2019
 Statistiques réalisées le 25/09/2019 et portant sur la population globale des concours
-*** MP [0%]
-- [ ] Statistiques générales
+*** MP [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** PC [0%]
-- [ ] Statistiques générales
+*** PC [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS /ESPCI
-*** PSI [0%]
-- [ ] Statistiques générales
+*** PSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Mines-Ponts
   - [ ] Concours Communs Polytechniques
   - [ ] E3A
   - [ ] X / ENS
-*** TPC [0%]
-- [ ] Statistiques générales
-- [ ] Statistiques générales
-*** PT [0%]
-- [ ] Statistiques générales
-- [ ] Statistiques par lycées
+*** TPC [100%]
+- [X] Statistiques générales
+*** PT [50%]
+- [X] Statistiques générales
+- Statistiques par lycées
   - [ ] ENSAM
   - [ ] Centrale-Supelec
   - [ ] Ecole Polytechnique
   - [ ] Concours Communs Mines-Ponts
   - [ ] Concours Communs Polytechniques
-*** BCPST [0%]
-- [ ] Statistiques générales
+*** BCPST [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] G2E
   - [ ] Agro-Véto
   - [ ] ENS
-*** TSI [0%]
-- [ ] Statistiques générales
+*** TSI [100%]
+- [X] Statistiques générales
 - Statistiques par lycées [0%]
   - [ ] Centrale-Supelec
   - [ ] Concours Communs Polytechniques
-*** TB [0%]
-- [ ] Statistiques générales
-- [ ] Statistiques générales
+*** TB [100%]
+- [X] Statistiques générales
 * 2018
 Statistiques réalisées le 05/10/2018 et portant sur la population globale des concours
 *** MP [0%]
