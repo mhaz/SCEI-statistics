@@ -1,0 +1,76 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rg_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2015	bcpst	A BIO	AgroParisTech Grignon										789	250	62.0	16.0	250
+2015	bcpst	A BIO	Montpellier Sup Agro (cursus agronome)										1098	97	60.0	28.0	97
+2015	bcpst	A BIO	Montpellier Sup Agro (cursus SAADS)										830	5	20.0	0.0	5
+2015	bcpst	A BIO	Agrocampus Ouest (cursus ingénieur agronome)										1243	100	66.0	24.0	100
+2015	bcpst	A BIO	ENSAT Toulouse										1358	86	62.0	37.0	91
+2015	bcpst	A BIO	ENSAIA Nancy										1627	88	77.0	23.0	93
+2015	bcpst	A BIO	Agrocampus Ouest (cursus ingénieur en horticulture et en paysage)										1930	27	85.0	26.0	39
+2015	bcpst	A BIO	Agrosup Dijon (Cursus Agroalimentaire)										2011	29	75.0	32.0	40
+2015	bcpst	A BIO	Bordeaux Sciences Agro										1717	80	70.0	35.0	83
+2015	bcpst	A BIO	VetAgro Sup Clermont-Ferrand										1983	42	78.0	17.0	50
+2015	bcpst	A BIO	ONIRIS Nantes Atlantique (cursus agroalimentaire)										1983	40	72.0	20.0	50
+2015	bcpst	A BIO	Agrosup Dijon (Cursus Agronome) civil										1825	24	33.0	17.0	26
+2015	bcpst	A BIO	Agrosup Dijon (Cursus agronome) fonctionnaire										1992	25	64.0	24.0	32
+2015	bcpst	A BIO	Concours commun A BIO	2753	68.0	19.0	2183	68.0	22.0	2012	68.0	23.0		893			956
+2015	bcpst	A ENV	ENV Alfort										534	109	72.0	39.0	109
+2015	bcpst	A ENV	VetAgro Sup Lyon										460	109	70.0	37.0	109
+2015	bcpst	A ENV	ONIRIS Nantes Atlantique (cursus vétérinaire)										492	109	75.0	44.0	109
+2015	bcpst	A ENV	ENV Toulouse										539	109	70.0	44.0	109
+2015	bcpst	A ENV	Concours commun A ENV	1815	71.0	22.0	885	69.0	32.0	570	69.0	35.0		436			436
+2015	bcpst	PC BIO	Bordeaux INP-ENSCBP Biologie-Alimentation										573	5	40.0	0.0	14
+2015	bcpst	PC BIO	Chimie ParisTech										128	3	33.0	67.0	2
+2015	bcpst	PC BIO	ENSC Lille										521	3	66.0	34.0	5
+2015	bcpst	PC BIO	ENSC Montpellier										299	2	100.0	0.0	2
+2015	bcpst	PC BIO	ENSIC Nancy										539	6	83.0	34.0	5
+2015	bcpst	PC BIO	ESPCI ParisTech										31	2	50.0	0.0	2
+2015	bcpst	PC BIO	Concours commun A PC BIO	1128	66.0	23.0	679	66.0	30.0	575	66.0	31.0		21			30
+2015	bcpst	ENS	ENS Ulm	695	56.0	18.0	78	42.0	9.0	29	48.0	4.0	29	21	52.0	5.0	21
+2015	bcpst	ENS	ENS de Lyon	704	57.0	19.0	165	47.0	13.0	94	45.0	10.0	77	36	30.0	6.0	36
+2015	bcpst	ENS	ENS Cachan	689	57.0	19.0	168	47.0	14.0	91	43.0	13.0	84	16	43.0	19.0	16
+2015	bcpst	ENS	PONTS ParisTech	224	60.0	22.0	40	57.0	15.0	14	64.0	15.0	14	2	50.0	0.0	4
+2015	bcpst	G2E	Ecole des Mines d'Albi										212	3	66.0	67.0	5
+2015	bcpst	G2E	Ecole des Mines d'Alès										236	1	100.0	100.0	3
+2015	bcpst	G2E	Ecole des Mines Douai										239	0	0.0	0.0	3
+2015	bcpst	G2E	concours des écoles des Mines G2E-BCPST	1498	66.0	22.0	1001	64.0	28.0	254	55.0	37.0		4			11
+2015	bcpst	G2E	ENGEES Strasbourg Civil (apprenti)										514	3	66.0	34.0	5
+2015	bcpst	G2E	ENGEES Strasbourg Civil (étudiant)										486	20	70.0	40.0	20
+2015	bcpst	G2E	ENGEES Strasbourg Fonctionnaire										276	4	50.0	0.0	4
+2015	bcpst	G2E	concours ENGEES G2E-BCPST	1498	66.0	22.0	1001	64.0	28.0	514	64.0	34.0		27			29
+2015	bcpst	G2E	ENSEGID	1498	66.0	22.0	1001	64.0	28.0	473	63.0	34.0	430	17	64.0	30.0	18
+2015	bcpst	G2E	ENSG Nancy	1498	66.0	22.0	1001	64.0	28.0	433	62.0	34.0	310	63	41.0	26.0	64
+2015	bcpst	G2E	ENSG-Géomatique Marne la Vallée Civil										472	3	100.0	34.0	5
+2015	bcpst	G2E	ENSG-Géomatique Marne la Vallée Fonctionnaire										175	1	100.0	100.0	1
+2015	bcpst	G2E	concours ENSG Marne La vallée G2E-BCPST	1498	66.0	22.0	1001	64.0	28.0	502	63.0	34.0		4			6
+2015	bcpst	G2E	ENSI Poitiers Eau et Genie Civil	1498	66.0	22.0	1001	64.0	28.0	501	63.0	34.0	500	2	100.0	50.0	15
+2015	bcpst	G2E	ENSIL Limoges EE	1498	66.0	22.0	1001	64.0	28.0	485	63.0	34.0	483	2	100.0	0.0	6
+2015	bcpst	G2E	ENTPE Lyon Civil	1498	66.0	22.0	1001	64.0	28.0	476	63.0	34.0	443	27	74.0	23.0	28
+2015	bcpst	G2E	ENTPE Lyon Fonctionnaire	801	63.0	27.0	537	61.0	34.0	300	59.0	39.0	144	14	57.0	43.0	14
+2015	bcpst	G2E	EOST Strasbourg	1498	66.0	22.0	1001	64.0	28.0	500	63.0	34.0	339	8	50.0	0.0	8
+2015	bcpst	G2E	Polytech Annecy-Chambéry-Environnement, Bâtiment, Énergie										491	3	33.0	34.0	5
+2015	bcpst	G2E	Polytech Grenoble-Géotechnique										507	1	0.0	0.0	3
+2015	bcpst	G2E	Polytech Montpellier-Sciences et technologies de l'eau										506	1	0.0	0.0	6
+2015	bcpst	G2E	Polytech Nice-Sophia-Génie de l'eau										512	0	0.0	0.0	3
+2015	bcpst	G2E	Polytech Orléans-Génie civil et géo-environnement										508	0	0.0	0.0	8
+2015	bcpst	G2E	Polytech Paris-UPMC-Sciences de la Terre										512	2	0.0	50.0	7
+2015	bcpst	G2E	Polytech Tours-aménagement et environnement										506	3	33.0	0.0	12
+2015	bcpst	G2E	concours Polytech G2E-BCPST	1498	66.0	22.0	1001	64.0	28.0	512	63.0	34.0		10			44
+2015	bcpst	ARCH BIO	ENSTIB Epinal	623	64.0	26.0	478	63.0	28.0	50	62.0	28.0	48	10	70.0	10.0	13
+2015	bcpst	CONCOURS POLYTECH	ENSTBB Bordeaux										954	24	83.0	9.0	25
+2015	bcpst	CONCOURS POLYTECH	ESBS Strasbourg										956	16	62.0	0.0	13
+2015	bcpst	CONCOURS POLYTECH	ESIAB Brest										1210	4	75.0	0.0	8
+2015	bcpst	CONCOURS POLYTECH	ESIR Rennes										1218	1	100.0	100.0	5
+2015	bcpst	CONCOURS POLYTECH	ESIROI Saint Denis de la Réunion										1200	1	0.0	0.0	4
+2015	bcpst	CONCOURS POLYTECH	ESIX Normandie										1216	5	60.0	0.0	10
+2015	bcpst	CONCOURS POLYTECH	ISBS Créteil										1097	1	100.0	100.0	4
+2015	bcpst	CONCOURS POLYTECH	ISIFC Besançon										1214	11	81.0	37.0	16
+2015	bcpst	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Biologique										1087	6	83.0	0.0	10
+2015	bcpst	CONCOURS POLYTECH	Polytech Grenoble-Technologies de l'information pour la santé										1193	0	0.0	0.0	3
+2015	bcpst	CONCOURS POLYTECH	Polytech Lille-Génie biologique et alimentaire										1015	5	80.0	0.0	5
+2015	bcpst	CONCOURS POLYTECH	Polytech Marseille-Génie Biologique, Biotechnologie										1071	6	50.0	17.0	10
+2015	bcpst	CONCOURS POLYTECH	Polytech Marseille-Génie Biomédical										1049	3	66.0	0.0	4
+2015	bcpst	CONCOURS POLYTECH	Polytech Montpellier-Sciences et technologies des Industries alimentaires										1169	5	80.0	20.0	7
+2015	bcpst	CONCOURS POLYTECH	Polytech Nantes-Génie des Procédés et Bioprocédés										1188	2	100.0	0.0	3
+2015	bcpst	CONCOURS POLYTECH	Polytech Nice-Sophia-Génie biologique										1101	7	100.0	0.0	11
+2015	bcpst	CONCOURS POLYTECH	Polytech Paris-UPMC-Agroalimentaire										1042	2	50.0	0.0	5
+2015	bcpst	CONCOURS POLYTECH	Concours POLYTECH A BIO	1776	71.0	21.0	1257	71.0	22.0	1219	71.0	23.0		99			143
