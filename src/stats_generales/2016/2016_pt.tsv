@@ -1,0 +1,193 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rg_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2016	pt	CENTRALE-SUPELEC	CENTRALE CASABLANCA										465	0	0.0	0.0	2
+2016	pt	CENTRALE-SUPELEC	CENTRALE PARIS										29	10	10.0	0.0	10
+2016	pt	CENTRALE-SUPELEC	SUPELEC										93	20	10.0	10.0	24
+2016	pt	CENTRALE-SUPELEC	CENTRALE LYON										98	24	12.5	12.5	24
+2016	pt	CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)										411	8	0.0	0.0	5
+2016	pt	CENTRALE-SUPELEC	CENTRALE LILLE										150	12	0.0	0.0	12
+2016	pt	CENTRALE-SUPELEC	CENTRALE NANTES										125	10	30.0	0.0	20
+2016	pt	CENTRALE-SUPELEC	CENTRALE MARSEILLE										183	2	50.0	0.0	10
+2016	pt	CENTRALE-SUPELEC	¥Concours Centrale-Supélec	1473	13.8	20.4	492	11.2	12.6	483	11.4	12.6		86			107
+2016	pt	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										19	4	25.0	0.0	5
+2016	pt	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										115	5	20.0	20.0	4
+2016	pt	CONCOURS COMMUN MINES-PONTS	MINES de SAINT-ETIENNE										126	2	0.0	0.0	2
+2016	pt	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										31	2	50.0	0.0	2
+2016	pt	CONCOURS COMMUN MINES-PONTS	ISAE-SUPAERO Toulouse										44	6	0.0	0.0	6
+2016	pt	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										54	8	25.0	12.5	8
+2016	pt	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										58	1	0.0	0.0	2
+2016	pt	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										60	1	0.0	0.0	1
+2016	pt	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE cursus Brest-Rennes-Toulouse										82	0	0.0	0.0	2
+2016	pt	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE cursus Sophia										90	1	0.0	100.0	1
+2016	pt	CONCOURS COMMUN MINES-PONTS	¥Concours Commun Mines-Ponts PT	1230	13.5	20.1	190	8.9	17.4	161	9.3	11.2		30			33
+2016	pt	CONCOURS COMMUN ENSAM	Arts et Métiers-ingénieurs militaires	514	11.1	20.8	115	7.0	27.8	24	16.7	37.5	34	8	12.5	50.0	8
+2016	pt	CONCOURS COMMUN ENSAM	Arts et Métiers										804	540	12.0	31.3	541
+2016	pt	CONCOURS COMMUN ENSAM	ENSEA Cergy										1166	13	0.0	46.2	20
+2016	pt	CONCOURS COMMUN ENSAM	¥ARTS ET MÉTIERS	2361	13.0	20.3	1285	11.6	25.7	1170	12.0	25.9		553			561
+2016	pt	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE	383	14.1	11.7	22	9.1	4.5	13	15.4	0.0	11	11	9.1	0.0	11
+2016	pt	CONCOURS ENS DE CACHAN	ENS Cachan	1578	13.6	23.2	422	9.5	26.1	373	9.9	24.1	303	37	10.8	18.9	37
+2016	pt	CONCOURS ENS DE CACHAN	ENS Rennes	1394	13.8	24.1	394	9.6	28.7	349	10.0	26.9	288	6	16.7	0.0	6
+2016	pt	Concours Mines-Télécom	Ecole des Mines d'Albi										323	8	25.0	25.0	8
+2016	pt	Concours Mines-Télécom	Ecole des Mines d'Alès										447	22	27.3	40.9	20
+2016	pt	Concours Mines-Télécom	Ecole des Mines Douai										480	22	18.2	45.5	20
+2016	pt	Concours Mines-Télécom	Ecole des Mines Nantes										52	3	0.0	0.0	3
+2016	pt	Concours Mines-Télécom	ENSTA Bretagne Civil										306	16	12.5	12.5	13
+2016	pt	Concours Mines-Télécom	Mines Saint Etienne-ISMIN										369	4	0.0	0.0	4
+2016	pt	Concours Mines-Télécom	TELECOM PHYSIQUE Strasbourg-RT-INOC										553	1	0.0	0.0	2
+2016	pt	Concours Mines-Télécom	TELECOM PHYSIQUE Strasbourg TIC-Santé										290	0	0.0	0.0	1
+2016	pt	Concours Mines-Télécom	TELECOM SudParis-cursus Evry										284	7	28.6	28.6	5
+2016	pt	Concours Mines-Télécom	¥Concours Mines-Télécom	1680	13.8	23.1	712	14.2	26.1	549	16.2	28.6		83			76
+2016	pt	Concours Mines-Télécom	ENSTA Bretagne Militaire	1680	13.8	23.1	598	14.2	30.6	449	16.5	34.5	47	3	33.3	0.0	3
+2016	pt	Concours Mines-Télécom	ENSG-Géomatique Marne la Vallée Civil										474	1	0.0	0.0	2
+2016	pt	Concours Mines-Télécom	ENSSAT Lannion										609	3	0.0	33.3	8
+2016	pt	Concours Mines-Télécom	TELECOM Nancy										570	16	12.5	12.5	12
+2016	pt	Concours Mines-Télécom	TELECOM St Etienne-Statut apprenti										583	2	0.0	0.0	5
+2016	pt	Concours Mines-Télécom	TELECOM St Etienne-Statut étudiant										603	5	0.0	0.0	10
+2016	pt	Concours Mines-Télécom	¥Concours Mines Télécom G4 PT	1680	13.8	23.1	973	13.4	26.3	613	15.7	28.7		27			37
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM Besançon										1200	43	11.6	23.3	46
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP-ENSEIRB-MATMECA Electronique										643	3	0.0	0.0	2
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP-ENSEIRB-MATMECA Mathématiques et Mécanique										731	4	25.0	25.0	4
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP-ENSEIRB-MATMECA Informatique										625	1	0.0	100.0	1
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP-ENSEIRB-MATMECA Télecom.										811	2	0.0	0.0	1
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique Appliquée										1190	7	14.3	14.3	8
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	EISTI Cergy-Pau										1315	2	50.0	50.0	6
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	ISIMA Clermont-Ferrand										1201	5	0.0	0.0	5
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Phelma (Physique Electronique Télécoms)										496	7	14.3	14.3	3
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Phelma (Physique Matériaux Procédés)										292	3	33.3	0.0	3
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Pagora										616	1	0.0	100.0	1
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-ENSE3										672	17	17.6	17.6	15
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Esisar										730	3	0.0	33.3	3
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-ENSIMAG										366	11	9.1	18.2	10
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSCI Limoges										1240	1	0.0	100.0	2
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	CPE LYON Electronique Informatique										1295	5	20.0	20.0	2
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSEM Nancy Energie										990	5	0.0	20.0	5
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Paris										956	9	0.0	0.0	12
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Energie										1166	5	20.0	40.0	6
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Eau et Genie Civil										1105	3	33.3	0.0	2
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	ISAE-ENSMA Poitiers										501	3	33.3	0.0	5
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	SeaTech Toulon										1096	8	12.5	12.5	8
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Electronique et Traitement du Signal										663	2	0.0	0.0	2
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Génie Electrique et Automatique										680	2	0.0	0.0	2
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Hydraulique et Mécanique des Fluides										705	2	0.0	0.0	2
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Informatique et Mathématiques appliquées										507	3	0.0	33.3	2
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Télécom.réseaux										735	2	0.0	0.0	2
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Civil										341	2	0.0	0.0	3
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et Génie Industriel										1267	4	75.0	25.0	4
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Méca Energ.										1239	6	0.0	16.7	6
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Mécatronique										1309	6	16.7	66.7	6
+2016	pt	CONCOURS COMMUNS POLYTECHNIQUES	¥Concours Commun Polytechnique PT	2323	13.0	20.3	1410	12.0	25.3	1315	12.4	24.6		177			179
+2016	pt	CONCOURS POLYTECH	École Supérieure d'Ingénieurs de Paris-Est Créteil (ESIPE-Créteil)										554	0	0.0	0.0	2
+2016	pt	CONCOURS POLYTECH	ENSIM Le Mans										847	3	0.0	33.3	2
+2016	pt	CONCOURS POLYTECH	ESI Reims										1091	1	0.0	0.0	3
+2016	pt	CONCOURS POLYTECH	ESIREM Dijon										847	0	0.0	0.0	2
+2016	pt	CONCOURS POLYTECH	ESIROI La Réunion										1137	0	0.0	0.0	2
+2016	pt	CONCOURS POLYTECH	ESIX Normandie										1137	2	0.0	0.0	4
+2016	pt	CONCOURS POLYTECH	ESSTIN Nancy										1133	4	0.0	0.0	6
+2016	pt	CONCOURS POLYTECH	ISAT Nevers-département MIT (Mécanique et Ingénierie des Transports)										939	9	0.0	0.0	10
+2016	pt	CONCOURS POLYTECH	ISAT Nevers-département EPEE (Energies et Moteurs)										803	2	0.0	50.0	5
+2016	pt	CONCOURS POLYTECH	ISBS Créteil										623	1	100.0	0.0	1
+2016	pt	CONCOURS POLYTECH	ISEL Le Havre										844	0	0.0	0.0	2
+2016	pt	CONCOURS POLYTECH	ISIFC Besançon										1094	2	0.0	100.0	2
+2016	pt	CONCOURS POLYTECH	ISIS Castres										1153	0	0.0	0.0	3
+2016	pt	CONCOURS POLYTECH	ISTIA Angers										1122	1	0.0	100.0	5
+2016	pt	CONCOURS POLYTECH	ISTY Vélizy										1147	0	0.0	0.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Annecy-Chambéry-Environnement, Bâtiment, Énergie										914	2	0.0	0.0	4
+2016	pt	CONCOURS POLYTECH	Polytech Annecy-Chambéry-Instrumentation, Automatique, Informatique										1132	2	0.0	50.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Annecy-Chambéry-Mécanique, Matériaux										970	3	0.0	0.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Civil										797	2	0.0	50.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Electrique										1109	4	25.0	25.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Physique										1062	2	0.0	50.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Grenoble-Géotechnique et génie civil										1031	4	0.0	25.0	4
+2016	pt	CONCOURS POLYTECH	Polytech Grenoble-Informatique industrielle, Instrumentatlisation										1114	5	0.0	40.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Lille-Informatique, Microélectronique, Automatique										875	3	0.0	0.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Lille-Mécanique										887	5	0.0	40.0	7
+2016	pt	CONCOURS POLYTECH	Polytech Lyon-Systèmes industriels, Robotique										834	3	0.0	33.3	3
+2016	pt	CONCOURS POLYTECH	Polytech Marseille-Génie Civil										1031	5	0.0	40.0	5
+2016	pt	CONCOURS POLYTECH	Polytech Marseille-Génie Industriel et Informatique										1115	3	0.0	33.3	3
+2016	pt	CONCOURS POLYTECH	Polytech Marseille-Informatique										1111	1	0.0	0.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Marseille-Mécanique, Energétique										1009	8	0.0	0.0	7
+2016	pt	CONCOURS POLYTECH	Polytech Marseille-Microélectronique,Télécommunications										1147	1	0.0	0.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Montpellier-Mécanique et Interactions										938	2	0.0	50.0	2
+2016	pt	CONCOURS POLYTECH	Polytech Nantes-Électronique et technologies numériques										1033	2	0.0	0.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Nantes-Génie civil										907	2	0.0	0.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Nantes-Informatique										692	2	0.0	0.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Nantes-Thermique, Énergétique										818	2	50.0	50.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Nice-Sophia-Électronique										1011	3	0.0	0.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Nice-Sophia-Informatique										1138	3	0.0	33.3	3
+2016	pt	CONCOURS POLYTECH	Polytech Nice-Sophia-Mathématiques appliquées, Modélisation										1075	2	0.0	0.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Orléans-Écotechnologie électroniques et optiques										1132	0	0.0	0.0	3
+2016	pt	CONCOURS POLYTECH	Polytech Orléans-Génie civil et géo-environnement										1122	5	20.0	20.0	4
+2016	pt	CONCOURS POLYTECH	Polytech Orléans-Génie industriel										1126	2	0.0	0.0	4
+2016	pt	CONCOURS POLYTECH	Polytech Orléans-Innovation en Conception et Matériaux										1152	6	0.0	0.0	6
+2016	pt	CONCOURS POLYTECH	Polytech Orléans-Technologies pour l'Énergie, l'Aérospatial et la Motorisation										857	6	16.7	50.0	4
+2016	pt	CONCOURS POLYTECH	Polytech Tours-Aménagement et environnement										1153	5	80.0	20.0	5
+2016	pt	CONCOURS POLYTECH	Polytech Tours-Mécanique, Conception de systèmes										980	3	0.0	0.0	3
+2016	pt	CONCOURS POLYTECH	Sup Galilée Villetaneuse										1079	3	33.3	66.7	5
+2016	pt	CONCOURS POLYTECH	¥Concours POLYTECH	1861	13.4	21.4	1365	12.2	22.9	1155	12.8	24.9		126			169
+2016	pt	AUTRES ECOLES	ECE PARIS	518	13.3	23.2	412	12.9	25.5	136	14.7	22.8	136	6	0.0	16.7	30
+2016	pt	AUTRES ECOLES	ECOLE DE L'AIR Méca	326	13.5	22.7	79	12.7	30.4	6	0.0	33.3	6	2	0.0	50.0	2
+2016	pt	AUTRES ECOLES	ECOLE DE L'AIR Pilote	286	14.7	24.8	74	13.5	33.8	7	0.0	14.3	7	1	0.0	100.0	1
+2016	pt	AUTRES ECOLES	EFREI Paris	196	14.3	16.8	185	13.5	16.8	54	7.4	11.1	54	7	14.3	0.0	20
+2016	pt	AUTRES ECOLES	EIGSI La Rochelle	376	18.1	19.9	300	16.7	22.7	138	18.8	27.5	134	13	15.4	38.5	25
+2016	pt	AUTRES ECOLES	EIL Côte d'Opale-Calais (informatique)										72	2	0.0	0.0	10
+2016	pt	AUTRES ECOLES	EIL Côte d'Opale-Longuenesse (Génie Industriel)										82	4	0.0	50.0	20
+2016	pt	AUTRES ECOLES	¥EIL Côte d'Opale Longuenesse-Calais	270	17.4	19.6	239	15.9	20.1	82	18.3	14.6		6			30
+2016	pt	AUTRES ECOLES	ENSAIT Roubaix										59	8	50.0	12.5	16
+2016	pt	AUTRES ECOLES	ENSAIT Roubaix-Formation en alternance										50	1	0.0	0.0	2
+2016	pt	AUTRES ECOLES	¥ENSAIT Roubaix	364	25.0	24.5	227	19.8	31.3	60	25.0	41.7		9			18
+2016	pt	AUTRES ECOLES	ENSIL Limoges Mécatronique	343	16.9	25.4	206	14.6	26.2	45	17.8	17.8	12	4	0.0	0.0	4
+2016	pt	AUTRES ECOLES	ENSISA Mulhouse Automatique et Systèmes										70	4	25.0	25.0	6
+2016	pt	AUTRES ECOLES	ENSISA Mulhouse Informatique et réseaux										43	1	0.0	0.0	6
+2016	pt	AUTRES ECOLES	ENSISA Mulhouse Mécanique										56	12	33.3	16.7	9
+2016	pt	AUTRES ECOLES	ENSISA Mulhouse Textile et Fibres										46	3	33.3	33.3	4
+2016	pt	AUTRES ECOLES	¥ENSISA Mulhouse	347	20.5	23.1	247	17.4	24.3	71	22.5	19.7		20			25
+2016	pt	AUTRES ECOLES	ENSTIB Epinal	256	19.9	27.0	192	19.8	26.0	72	19.4	18.1	70	19	21.1	10.5	20
+2016	pt	AUTRES ECOLES	EPF campus TROYES										181	5	0.0	40.0	11
+2016	pt	AUTRES ECOLES	EPF campus MONTPELLIER										180	9	0.0	44.4	9
+2016	pt	AUTRES ECOLES	¥EPF Sceaux-Troyes-Montpellier	396	18.7	21.7	354	17.8	22.9	247	15.8	26.7		14			20
+2016	pt	AUTRES ECOLES	ESB Nantes	154	18.2	26.6	116	16.4	27.6	22	13.6	22.7	20	8	0.0	12.5	8
+2016	pt	AUTRES ECOLES	ESFF-Sèvres	235	16.2	26.4	177	13.6	29.4	22	0.0	45.5	15	0	0.0	0.0	7
+2016	pt	AUTRES ECOLES	ESIEA Paris-Laval	168	12.5	23.2	157	9.6	22.9	58	6.9	17.2	57	6	0.0	0.0	15
+2016	pt	AUTRES ECOLES	ESIEE Amiens	276	20.3	22.8	188	17.6	25.5	39	20.5	20.5	38	2	0.0	0.0	10
+2016	pt	AUTRES ECOLES	ESIEE Paris	257	16.0	20.2	219	13.7	20.1	67	20.9	9.0	66	8	25.0	12.5	15
+2016	pt	AUTRES ECOLES	ESIGELEC Rouen	434	17.3	21.4	405	17.0	22.5	147	17.0	22.4	147	24	12.5	12.5	40
+2016	pt	AUTRES ECOLES	ESIGETEL Villejuif	170	16.5	21.8	159	14.5	21.4	44	13.6	13.6	44	3	33.3	0.0	10
+2016	pt	AUTRES ECOLES	ESILV Paris-La Défense	435	16.3	23.4	400	15.5	24.2	185	10.8	20.0	123	22	0.0	18.2	20
+2016	pt	AUTRES ECOLES	ESITC Caen	199	23.1	25.1	116	24.1	25.9	10	20.0	20.0	10	3	0.0	33.3	8
+2016	pt	AUTRES ECOLES	ESME SUDRIA Paris	347	19.6	22.2	280	17.5	24.3	119	14.3	22.7	103	2	50.0	0.0	20
+2016	pt	AUTRES ECOLES	ESTACA Laval Aéronautique et spatial										190	3	0.0	66.7	3
+2016	pt	AUTRES ECOLES	ESTACA Laval Automobile										206	4	25.0	25.0	3
+2016	pt	AUTRES ECOLES	ESTACA Paris-Saclay Aéronautique et spatial										176	9	0.0	22.2	8
+2016	pt	AUTRES ECOLES	ESTACA Paris-Saclay Automobile ou Transports Guidés										216	9	11.1	33.3	7
+2016	pt	AUTRES ECOLES	¥ESTACA Paris-Saclay/Laval	624	11.5	24.7	405	10.4	30.6	305	10.8	32.8		25			21
+2016	pt	AUTRES ECOLES	ESTIA Bidart	383	14.4	23.2	317	12.3	24.9	115	16.5	23.5	114	28	21.4	14.3	35
+2016	pt	AUTRES ECOLES	ESTP Paris BAT										259	13	23.1	23.1	9
+2016	pt	AUTRES ECOLES	ESTP Paris Génie Mécanique et Electrique (GME)										270	8	0.0	50.0	5
+2016	pt	AUTRES ECOLES	ESTP Paris TOPOGRAPHIE										317	9	11.1	66.7	7
+2016	pt	AUTRES ECOLES	ESTP Paris TP										273	8	0.0	37.5	10
+2016	pt	AUTRES ECOLES	¥ESTP Paris	629	16.2	27.7	394	16.2	35.8	373	16.6	36.7		38			31
+2016	pt	AUTRES ECOLES	Grenoble INP-Génie Industriel	807	12.1	29.6	276	10.1	39.5	124	11.3	44.4	77	9	22.2	22.2	8
+2016	pt	AUTRES ECOLES	INP-ENI Tarbes	451	18.4	25.3				277	13.4	26.0	233	6	33.3	16.7	6
+2016	pt	AUTRES ECOLES	INSA centre val de loire GSI										55	12	16.7	0.0	12
+2016	pt	AUTRES ECOLES	INSA centre val de loire MRI										74	4	0.0	25.0	6
+2016	pt	AUTRES ECOLES	INSA centre val de loire STI										52	1	0.0	100.0	2
+2016	pt	AUTRES ECOLES	¥INSA Centre Val de Loire	493	14.4	23.3	322	11.2	26.4	75	13.3	21.3		17			20
+2016	pt	AUTRES ECOLES	ISMANS Le Mans	212	17.9	22.2	185	15.1	23.8	44	11.4	25.0	44	9	11.1	22.2	20
+2016	pt	AUTRES ECOLES	ITECH Lyon	106	28.3	25.5	47	21.3	36.2	2	50.0	0.0	2	0	0.0	0.0	5
+2016	pt	AUTRES ECOLES	Mines Douai-ISPA Alençon	327	13.8	25.4	275	12.0	27.3	19	10.5	36.8	16	9	0.0	22.2	5
+2016	pt	AUTRES ECOLES	SIGMA Clermont-Ferrand (ex IFMA)	891	11.7	26.4	559	11.1	32.9	289	13.8	33.2	196	71	11.3	31.0	68
+2016	pt	AUTRES ECOLES	3IL Ingénieurs	150	12.0	23.3	129	10.9	21.7	27	7.4	18.5	24	2	0.0	0.0	8
+2016	pt	FESIC	ECAM Lyon	861	14.8	21.7	677	14.0	24.2	137	15.3	27.0	135	30	13.3	23.3	25
+2016	pt	FESIC	ECAM Rennes	861	14.8	21.7	778	14.3	22.8	80	15.0	20.0	79	7	0.0	14.3	18
+2016	pt	FESIC	ECAM Strasbourg Europe	861	14.8	21.7	814	14.4	22.5	121	16.5	20.7	121	21	19.0	23.8	30
+2016	pt	FESIC	ECAM-EPMI Cergy-Pontoise	861	14.8	21.7	813	14.5	22.9	133	12.8	22.6	133	7	14.3	42.9	15
+2016	pt	FESIC	ESAIP Angers	861	14.8	21.7	801	14.0	22.5	238	14.7	27.3	237	2	0.0	0.0	8
+2016	pt	FESIC	ESEO Angers	861	14.8	21.7	655	13.7	24.6	380	13.9	28.2	378	1	0.0	0.0	15
+2016	pt	FESIC	HEI	861	14.8	21.7	751	14.2	23.3	325	15.4	26.8	320	20	20.0	30.0	25
+2016	pt	FESIC	ISEN Brest	861	14.8	21.7	739	14.1	23.4	171	15.2	30.4	170	0	0.0	0.0	5
+2016	pt	FESIC	ISEN Lille	861	14.8	21.7	739	14.1	23.4	171	15.2	30.4	170	4	25.0	0.0	20
+2016	pt	FESIC	ISEN Toulon	861	14.8	21.7	739	14.1	23.4	171	15.2	30.4	168	4	0.0	25.0	10
+2016	pt	FESIC	ISEP Paris	861	14.8	21.7	758	14.1	23.1	182	11.0	26.4	176	25	8.0	12.0	25
+2016	pt	EPITA	EPITA										44	2	0.0	0.0	7
+2016	pt	EPITA	IPSA Paris										23	2	0.0	0.0	3
+2016	pt	EPITA	IPSA Toulouse										38	2	0.0	0.0	2
+2016	pt	EPITA	¥EPITA / IPSA PT	93	14.0	14.0	66	13.6	9.1	46	8.7	8.7		6			12
