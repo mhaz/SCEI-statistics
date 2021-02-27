@@ -31,3 +31,4 @@ Convention:
 Add the data for 2019's "statistiques generales".
 I noticed there are missing data in TSI's number of candidates for Polytechnique.
 PT's data also seem to contain missing values.
+I also notice that in some years, e.g. 2012, the parsing for a "bank summary" (with the =¥= at the beginning of the line) does not work. I might come back later at this and try to fix it, or just try to identify these lines in another way.
