@@ -27,3 +27,7 @@ Some entries are a summary over the "banque", instead of an Ecole. I can identif
 Convention:
 - Integers are counts
 - Decimals are percentages
+** [2021-02-27 Sat]
+Add the data for 2019's "statistiques generales".
+I noticed there are missing data in TSI's number of candidates for Polytechnique.
+PT's data also seem to contain missing values.
