@@ -1,0 +1,62 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rg_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2011	bcpst	A BIO	AgroParisTech Grignon										795	257	66	19	257
+2011	bcpst	A BIO	Montpellier Sup Agro (cursus agronome)										1020	95	71	30	97
+2011	bcpst	A BIO	Montpellier Sup Agro (cursus SAADS)										805	6	83	34	5
+2011	bcpst	A BIO	Agrocampus Ouest (cursus ingénieur agronome)										1139	100	74	42	100
+2011	bcpst	A BIO	ENSAT Toulouse										1270	96	69	50	96
+2011	bcpst	A BIO	ENSAIA Nancy										1537	104	70	37	102
+2011	bcpst	A BIO	Agrocampus Ouest (cursus ingénieur en horticulture et en paysage)										1653	40	75	28	40
+2011	bcpst	A BIO	Agrosup Dijon (Cursus Agroalimentaire)										2031	42	76	41	39
+2011	bcpst	A BIO	ENITAB Bordeaux (Fonctionnaire)										1355	8	25	88	8
+2011	bcpst	A BIO	ENITAB Bordeaux (Civil)										1682	72	83	45	72
+2011	bcpst	A BIO	VetAgro Sup Clermont-Ferrand (Fonctionnaire)										1989	8	75	13	7
+2011	bcpst	A BIO	VetAgro Sup Clermont-Ferrand (Civil)										1996	43	67	26	43
+2011	bcpst	A BIO	Oniris Nantes (cursus agroalimentaire)										2034	48	83	36	50
+2011	bcpst	A BIO	Agrosup Dijon (Cursus Agronome) civil										1793	43	88	47	41
+2011	bcpst	A BIO	Agrosup Dijon (Cursus agronome) fonctionnaire										1469	11	90	46	7
+2011	bcpst	A BIO	Concours commun A BIO	2946	70	26	2231	71	31	2034	71	32		973			964
+2011	bcpst	A ENV	ENV Alfort										429	94	72	44	94
+2011	bcpst	A ENV	VetAgro Sup Lyon										425	94	71	52	94
+2011	bcpst	A ENV	Oniris Nantes (cursus vétérinaire)										478	94	77	72	94
+2011	bcpst	A ENV	ENV Toulouse										475	94	73	63	94
+2011	bcpst	A ENV	Concours commun A ENV	1984	72	31	901	74	43	555	71	48		376			376
+2011	bcpst	PC BIO	ESPCI ParisTech										203	5	40	40	5
+2011	bcpst	PC BIO	Chimie ParisTech										220	2	50	50	3
+2011	bcpst	PC BIO	ENSC Montpellier										291	2	100	0	4
+2011	bcpst	PC BIO	ENSC Lille										334	5	60	20	5
+2011	bcpst	PC BIO	ENSCBP Bordeaux-Biologie-Alimentation										566	9	77	34	14
+2011	bcpst	PC BIO	Concours commun A PC BIO	1384	68	30	650	67	42	566	67	41		23			31
+2011	bcpst	ENS	ENS Ulm	713	58	24	76	53	14	34	50	9	26	23	56	0	23
+2011	bcpst	ENS	ENS Lyon	755	59	23	166	59	20	92	54	16	84	35	57	20	35
+2011	bcpst	ENS	ENS Cachan	709	59	24	158	58	21	94	53	19	69	16	37	25	16
+2011	bcpst	G2E	ENGEES Strasbourg Civil (étudiant)										408	20	65	25	20
+2011	bcpst	G2E	ENGEES Strasbourg Fonctionnaire										286	4	50	0	4
+2011	bcpst	G2E	concours ENGEES G2E-BCPST	1632	67	26	1071	67	32	533	64	33		24			24
+2011	bcpst	G2E	ENSG Nancy	1632	67	26	1071	67	32	390	62	35	305	66	43	38	68
+2011	bcpst	G2E	ENSIL Limoges EE	1632	67	26	1071	67	32	515	64	34	410	4	100	25	6
+2011	bcpst	G2E	ENTPE Vaulx en Velin Civil	1632	67	26	1071	67	32	404	63	35	404	15	53	54	15
+2011	bcpst	G2E	ENTPE Vaulx en Velin Fonctionnaire	920	62	30	612	62	35	264	59	38	150	13	38	54	12
+2011	bcpst	G2E	EOST Strasbourg	1632	67	26	1071	67	32	420	64	35	377	8	37	13	8
+2011	bcpst	G2E	ENSI Poitiers Eau et Genie Civil	1632	67	26	1071	67	32	513	64	34	464	6	33	67	8
+2011	bcpst	G2E	Environnement, Aménagement, Génie civil, Développement durable-Polytech Paris-UPMC	1632	67	26	1071	67	32	560	65	33	560	5	100	20	7
+2011	bcpst	G2E	Environnement, Aménagement, Génie civil, Développement durable-Polytech Orléans	1632	67	26	1071	67	32	560	65	33	560	13	61	47	17
+2011	bcpst	G2E	ENGEES Strasbourg Civil (apprenti)	1632	67	26	1071	67	32	533	64	33	233	2	50	50	3
+2011	bcpst	ARCH BIO	ENSTIB Epinal	828	62	30	536	63	34	74	67	37	60	12	50	25	16
+2011	bcpst	Concours Archimède	ESBS Strasbourg										828	5	80	20	7
+2011	bcpst	Concours Archimède	ESIL Marseille Biotech										1195	14	71	22	12
+2011	bcpst	Concours Archimède	ESIX Normandie-Génie Agroalimentaire										1309	1	100	100	10
+2011	bcpst	Concours Archimède	ESMISAB Brest										1309	2	100	0	11
+2011	bcpst	Concours Archimède	ENSTBB Bordeaux										1063	26	88	20	26
+2011	bcpst	Concours Archimède	ISBS										945	5	80	0	3
+2011	bcpst	Concours Archimède	ISIFC Besançon										1302	14	78	29	10
+2011	bcpst	Concours Archimède	Biotechnologies, Agroalimentaire, Prévention, Ingénierie pour la santé-Polytech Clermont-Ferrand										1309	6	83	17	10
+2011	bcpst	Concours Archimède	Génie Civil, Bâtiment, Géosciences-Polytech Grenoble										1309	3	100	0	4
+2011	bcpst	Concours Archimède	Ingénierie pour la santé, Génie biomédical-Polytech Grenoble										1309	3	100	67	3
+2011	bcpst	Concours Archimède	Biotechnologies, Agroalimentaire, Prévention, Ingénierie pour la santé-Polytech Lille										1187	3	66	0	6
+2011	bcpst	Concours Archimède	Aménagement, Eau et Environnement-Polytech Montpellier										1044	8	25	38	7
+2011	bcpst	Concours Archimède	Génie biologique, Agroalimentaire, Biotechnologies-Polytech Montpellier										1309	3	66	67	7
+2011	bcpst	Concours Archimède	Génie biologique, Agroalimentaire, Biotechnologies-Polytech Nice										1130	12	58	50	13
+2011	bcpst	Concours Archimède	Aménagement, Eau et Environnement-Polytech Nice										1259	1	100	0	3
+2011	bcpst	Concours Archimède	Génie biologique, Agroalimentaire, Biotechnologies-Polytech Paris-UPMC										1309	3	66	34	7
+2011	bcpst	Concours Archimède	Environnement, Aménagement, Génie civil, Développement durable-Polytech Tours										1309	1	100	0	14
+2011	bcpst	Concours Archimède	Concours commun A ARCH BIO	2110	71	28	1357	71	33	1309	71	33		110			153

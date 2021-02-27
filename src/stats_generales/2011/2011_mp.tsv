@@ -1,0 +1,257 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rg_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2011	mp	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE Info.	827	11	28	204	10	26	154	12	23	124	105	14	20	105
+2011	mp	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE				67	13	41	39	15	39	31	28	17	40	28
+2011	mp	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE P&SI	942	18	34	123	18	32	102	20	31	91	82	20	36	82
+2011	mp	BANQUE ENS	ENS Ulm MPI	1332	14	35	135	8	36	80	7	22	80	34	5	18	35
+2011	mp	BANQUE ENS	ENS Ulm Info.	164	4	27	35	0	23	17	0	18	15	11	0	10	11
+2011	mp	BANQUE ENS	ENS Cachan MP										150	16	18	75	16
+2011	mp	BANQUE ENS	ENS Cachan-Ker Lan MP										185	7	0	58	7
+2011	mp	BANQUE ENS	Concours ENS Cachan groupe MP	1418	15	36	241	11	43	187	12	43		23			23
+2011	mp	BANQUE ENS	ENS Cachan Info.										60	12	0	34	12
+2011	mp	BANQUE ENS	ENS Cachan-Ker Lan Info.										81	15	0	27	15
+2011	mp	BANQUE ENS	Concours ENS Cachan groupe Informatique	201	3	26	97	0	23	82	0	25		27			27
+2011	mp	BANQUE ENS	ENS Lyon MPI	1407	15	36	234	10	41	146	11	39	146	18	0	50	18
+2011	mp	BANQUE ENS	ENS Lyon Info.	210	4	27	91	2	24	67	1	21	51	22	4	41	22
+2011	mp	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										209	42	21	20	46
+2011	mp	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										1199	51	19	36	53
+2011	mp	CONCOURS COMMUN MINES-PONTS	MINES de SAINT-ETIENNE										1323	37	13	38	45
+2011	mp	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										405	56	26	33	57
+2011	mp	CONCOURS COMMUN MINES-PONTS	SUPAERO (ISAE) Toulouse										779	51	19	26	50
+2011	mp	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										796	49	22	39	50
+2011	mp	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										678	52	32	35	50
+2011	mp	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										824	19	36	32	19
+2011	mp	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE										1648	63	19	40	60
+2011	mp	CONCOURS COMMUN MINES-PONTS	ENSAE ParisTech										973	46	19	53	45
+2011	mp	CONCOURS COMMUN MINES-PONTS	Concours Commun Mines Ponts MP	5312	22	26	1707	16	32	1648	16	32		466			475
+2011	mp	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS	3376	20	29	753	16	29	451	15	27	383	143	17	30	145
+2011	mp	BANQUE CENTRALE-SUPELEC	SUPELEC-Campus Gif										621	102	17	40	107
+2011	mp	BANQUE CENTRALE-SUPELEC	SUPELEC-Campus Metz										842	19	26	37	19
+2011	mp	BANQUE CENTRALE-SUPELEC	SUPELEC-Campus Rennes										762	17	17	59	19
+2011	mp	BANQUE CENTRALE-SUPELEC	Supélec	3148	20	30	1004	17	31	891	18	31		138			145
+2011	mp	BANQUE CENTRALE-SUPELEC	CENTRALE LYON	3720	21	30	1069	19	32	874	19	33	825	133	21	41	126
+2011	mp	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	1835	22	33	916	21	34	779	22	34	779	24	25	34	40
+2011	mp	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE	3425	22	31	947	20	37	858	21	38	849	80	15	33	90
+2011	mp	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES	3672	22	31	1137	22	35	1051	22	36	984	119	22	35	135
+2011	mp	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE	3011	24	31	1131	22	33	1007	23	34	1007	60	28	34	72
+2011	mp	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE Cycle International	258	26	21	74	17	25	43	20	38	43	0	0	0	2
+2011	mp	BANQUE CENTRALE-SUPELEC	ECOLE NAVALE Brest	540	14	33	203	13	39	87	8	48	87	26	0	35	26
+2011	mp	BANQUE CENTRALE-SUPELEC	ENSEA Cergy	1594	22	28	1172	23	26	504	25	27	495	63	25	24	60
+2011	mp	BANQUE CENTRALE-SUPELEC	ENSIIE Evry										416	32	15	13	75
+2011	mp	BANQUE CENTRALE-SUPELEC	ENSIIE Strasbourg										416	1	0	100	15
+2011	mp	BANQUE CENTRALE-SUPELEC	ENSIIE	1415	21	28	996	21	26	416	25	25		33			90
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM Besançon										3492	44	20	28	40
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Electronique										3265	39	12	31	35
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Informatique										3175	53	9	19	50
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux MATMECA										2855	38	26	24	33
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Télecom.										2933	28	25	25	26
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Bourges MRI										3758	16	50	32	25
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Bourges STI										3758	9	0	78	16
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSTA Bretagne (ex ENSIETA) Civil										3137	46	32	16	45
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique Appliquée										2873	19	21	22	20
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Informatique										3247	25	20	32	40
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ISIMA Clermont-Ferrand										3758	37	21	33	40
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Phelma (Physique Electronique Télécoms)										1880	59	10	21	58
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Phelma (Physique Matériaux Procédés)										1510	32	31	25	40
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-ENSIMAG										954	106	17	36	110
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-ENSE3										1691	73	30	21	75
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Pagora										3507	7	42	15	13
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Esisar										2371	7	14	29	6
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	CPE LYON Electronique										3627	8	12	38	18
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEM Nancy										3554	41	26	35	39
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSG Nancy										3758	7	42	0	10
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSIC Nancy										3438	11	63	19	10
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	Chimie ParisTech										742	3	66	0	3
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Paris										2924	49	18	25	40
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Toulon										3030	9	33	34	10
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSGTI Pau-Energétique										3555	5	40	40	5
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSGTI Pau-Génie des Procédés										3753	4	50	75	5
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSMA Poitiers										2079	46	28	24	55
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Eau et Genie Civil										2921	5	20	60	9
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Energie										3520	18	38	39	22
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSP Strasbourg										3684	28	21	25	30
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Civil										1645	33	39	34	42
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Fonctionnaire										271	3	0	34	3
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Electronique										2203	15	20	40	18
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Génie Electrique										2089	14	21	50	15
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Hydraulique										1986	14	28	58	19
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Informatique et Mathématiques appliquées										1936	57	15	30	58
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Télécom.réseaux										2004	25	12	28	27
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSIACET Toulouse Génie Industriel										3237	17	64	42	17
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSIACET Toulouse Génie des Procédés										3051	9	44	45	11
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSICA (ISAE) Toulouse										816	45	11	32	45
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et Management des systèmes										3758	7	28	15	6
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Méca Energ.										3758	11	27	46	20
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Mécatronique										3758	5	20	60	10
+2011	mp	CONCOURS COMMUNS POLYTECHNIQUES	Concours Commun Polytechnique MP	7094	26	28	4568	24	29	3757	24	30		1127			1219
+2011	mp	BANQUE EPREUVES C.C.P Inter-Filière	ECOLE DE L'AIR Pilote	590	14	28	131	8	36	50	4	48	-	24	8	63	44
+2011	mp	BANQUE EPREUVES C.C.P Inter-Filière	ECOLE DE L'AIR Base	549	16	29	162	11	36	38	5	48	-	1	0	100	8
+2011	mp	BANQUE EPREUVES C.C.P Inter-Filière	ECOLE DE L'AIR Méca	522	14	29	155	9	37	42	4	48	-	2	0	0	9
+2011	mp	BANQUE EPREUVES C.C.P Inter-Filière	ENSCI Limoges	693	39	35	428	38	30	77	49	37	-	7	71	29	50
+2011	mp	BANQUE EPREUVES C.C.P Inter-Filière	ENSGSI Nancy	936	38	31	423	38	26	84	51	27	-	5	40	20	35
+2011	mp	BANQUE EPREUVES C.C.P Inter-Filière	ESM Saint-Cyr	546	12	28	170	7	38	81	2	44	-	22	4	50	69
+2011	mp	BANQUE EPREUVES C.C.P Inter-Filière	Grenoble INP-Génie Industriel	1740	31	30	588	28	28	166	37	31	-	24	41	46	88
+2011	mp	BANQUE EPREUVES C.C.P	EISTI Cergy-Pau	857	27	25	719	25	23	187	28	25	159	44	22	23	39
+2011	mp	BANQUE EPREUVES C.C.P	ENGEES Strasbourg Civil (apprenti)										364	1	0	100	1
+2011	mp	BANQUE EPREUVES C.C.P	ENGEES Strasbourg Civil (étudiant)										354	11	18	46	10
+2011	mp	BANQUE EPREUVES C.C.P	ENGEES Strasbourg Fonctionnaire										322	2	100	100	2
+2011	mp	BANQUE EPREUVES C.C.P	ENGEES Strasbourg MP	847	41	29	518	40	29	388	40	31		14			13
+2011	mp	BANQUE EPREUVES C.C.P	ENSAI Rennes Civil	1847	29	32	1160	27	33	895	28	33	629	47	31	43	48
+2011	mp	BANQUE EPREUVES C.C.P	ENSAI Rennes Fonctionnaire (Attaché INSEE)	1252	27	31	840	26	35	708	27	36	578	32	31	22	32
+2011	mp	BANQUE EPREUVES C.C.P	ENSTA Bretagne (ex ENSIETA) Militaire	579	14	30	247	12	40	153	11	46	113	18	16	56	18
+2011	mp	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Informatique et réseaux										91	10	30	10	5
+2011	mp	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Mécanique										89	7	28	72	5
+2011	mp	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Système et signaux										104	6	50	17	3
+2011	mp	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Textile et Fibres										111	2	100	50	2
+2011	mp	BANQUE EPREUVES C.C.P	ENSISA Mulhouse MP	1227	33	37	772	30	32	142	33	39		25			15
+2011	mp	BANQUE EPREUVES C.C.P	EOST Strasbourg	625	36	30	304	36	26	67	46	35	52	12	25	34	11
+2011	mp	CONCOURS COMMUN TPE	ENTPE Vaulx en Velin Civil	3430	25	32	1237	22	41	542	29	46	542	12	33	42	20
+2011	mp	CONCOURS COMMUN TPE	ENTPE Vaulx en Velin Fonctionnaire	3430	25	32	1237	22	41	542	29	46	423	30	26	60	30
+2011	mp	CONCOURS COMMUN TPE	ENTPE Vaulx en Velin Etranger				137	22	28	35	25	40	35	0	0	0	1
+2011	mp	CONCOURS COMMUN TPE	EIVP Paris Civil	3430	25	32	1374	22	40	581	29	46	581	7	71	29	20
+2011	mp	CONCOURS COMMUN TPE	EIVP Paris Fonctionnaire	3430	25	32	1237	22	41	543	30	46	363	5	40	60	6
+2011	mp	CONCOURS COMMUN TPE	ENSTIM Fonct. Douai	3430	25	32	1237	22	41	542	29	46	542	4	0	100	6
+2011	mp	CONCOURS TELECOM INT	ENSP Strasbourg-TIC et Santé	3051	25	30	2136	25	30	158	48	26	92	9	66	34	8
+2011	mp	CONCOURS TELECOM INT	ENSSAT Lannion	3051	25	30	2535	25	30	318	30	28	307	21	14	43	10
+2011	mp	CONCOURS TELECOM INT	ESIAL Nancy	3051	25	30	2367	25	30	251	29	25	251	30	16	27	28
+2011	mp	CONCOURS TELECOM INT	Mines St Etienne ISMIN Gardanne	3051	25	30	1574	23	34	180	27	32	163	28	17	25	20
+2011	mp	CONCOURS TELECOM INT	TELECOM St Etienne	3051	25	30	2174	25	31	300	32	29	274	14	21	22	15
+2011	mp	CONCOURS TELECOM INT	TELECOM SudParis-cursus Evry										349	90	26	33	84
+2011	mp	CONCOURS TELECOM INT	TELECOM SudParis-cursus Tunis										448	2	0	50	7
+2011	mp	CONCOURS TELECOM INT	concours Télécom SudParis MP	3051	25	30	1251	24	33	448	29	37		92			91
+2011	mp	CONCOURS DES ENSTIM	Ecole des Mines d'Albi	2755	26	30	1603	26	34	730	32	38	594	26	26	35	25
+2011	mp	CONCOURS DES ENSTIM	Ecole des Mines d'Albi Voie du Concours Mines Ponts				402	22	38	398	22	38	398	0	0	0	3
+2011	mp	CONCOURS DES ENSTIM	Ecole des Mines d'Alès	2755	26	30	1603	26	34	730	32	38	519	40	22	68	40
+2011	mp	CONCOURS DES ENSTIM	Ecole des Mines d'Alès Voie du Concours Mines Ponts				402	22	38	398	22	38	398	0	0	0	4
+2011	mp	CONCOURS DES ENSTIM	Ecole des Mines Douai	2755	26	30	1603	26	34	730	32	38	435	39	38	52	40
+2011	mp	CONCOURS DES ENSTIM	Ecole des Mines Douai Voie du Concours Mines Ponts				402	22	38	398	22	38	398	0	0	0	4
+2011	mp	CONCOURS DES ENSTIM	Ecole des Mines Nantes	2755	26	30	1603	26	34	730	32	38	237	45	28	40	45
+2011	mp	CONCOURS DES ENSTIM	Ecole des Mines Nantes Voie du Concours Mines Ponts				402	22	38	398	22	38	366	3	33	34	3
+2011	mp	CONCOURS ENSAM	Arts et Métiers ParisTech	2461	26	31	219	24	55	153	24	57	126	41	26	61	40
+2011	mp	CONCOURS ESTP	ESTP Paris BAT										645	62	30	47	64
+2011	mp	CONCOURS ESTP	ESTP Paris TOPOGRAPHIE										785	15	33	20	16
+2011	mp	CONCOURS ESTP	ESTP Paris MECA-ELEC										761	24	12	25	24
+2011	mp	CONCOURS ESTP	ESTP Paris TP										606	64	12	49	64
+2011	mp	CONCOURS ESTP	ESTP	2223	27	33	938	27	42	810	27	43		165			168
+2011	mp	CONCOURS ARCHIMEDE	Aménagement, Eau et Environnement-Polytech Nice										1368	3	66	34	3
+2011	mp	CONCOURS ARCHIMEDE	Automatique, Robotique, Systèmes industriels-Polytech Grenoble										1923	2	0	50	5
+2011	mp	CONCOURS ARCHIMEDE	Automatique, Robotique, Systèmes industriels-Polytech Marseille										1906	5	60	60	3
+2011	mp	CONCOURS ARCHIMEDE	Automatique, Robotique, Systèmes industriels-Polytech Paris-UPMC										1341	3	0	0	3
+2011	mp	CONCOURS ARCHIMEDE	ENSC Bordeaux										1928	5	0	40	12
+2011	mp	CONCOURS ARCHIMEDE	ENSIBS Lorient										1928	1	100	0	6
+2011	mp	CONCOURS ARCHIMEDE	ENSIM Le Mans										1928	3	33	0	9
+2011	mp	CONCOURS ARCHIMEDE	ESI Reims Packaging										1928	0	0	0	5
+2011	mp	CONCOURS ARCHIMEDE	ESI Reims Thermique et Energétique										1883	2	0	0	3
+2011	mp	CONCOURS ARCHIMEDE	ESIL Marseille Biomédical										1676	3	66	34	6
+2011	mp	CONCOURS ARCHIMEDE	ESIL Marseille Informatique, réseaux et multimédia										1928	3	0	0	12
+2011	mp	CONCOURS ARCHIMEDE	ESIL Marseille Mat.										1625	2	0	0	2
+2011	mp	CONCOURS ARCHIMEDE	ESIR Rennes (ex IFSIC)										1928	2	50	0	10
+2011	mp	CONCOURS ARCHIMEDE	ESIREM Dijon Info-élec.										1928	0	0	0	6
+2011	mp	CONCOURS ARCHIMEDE	ESIREM Dijon Mat.										1928	1	0	0	6
+2011	mp	CONCOURS ARCHIMEDE	ESIROI										1928	0	0	0	5
+2011	mp	CONCOURS ARCHIMEDE	ESIX Normandie-Génie et Sûreté des Systèmes Industriels										1928	0	0	0	6
+2011	mp	CONCOURS ARCHIMEDE	ESSTIN Nancy										1808	8	50	50	9
+2011	mp	CONCOURS ARCHIMEDE	Environnement, Aménagement, Génie civil, Développement durable-Polytech Annecy-Chambéry										1522	5	40	40	7
+2011	mp	CONCOURS ARCHIMEDE	Environnement, Aménagement, Génie civil, Développement durable-Polytech Clermont-Ferrand										1928	5	40	20	5
+2011	mp	CONCOURS ARCHIMEDE	Environnement, Aménagement, Génie civil, Développement durable-Polytech Lille										1039	5	40	40	4
+2011	mp	CONCOURS ARCHIMEDE	Environnement, Aménagement, Génie civil, Développement durable-Polytech Nantes										1185	3	33	34	4
+2011	mp	CONCOURS ARCHIMEDE	Environnement, Aménagement, Génie civil, Développement durable-Polytech Orléans										1721	10	20	40	5
+2011	mp	CONCOURS ARCHIMEDE	Environnement, Aménagement, Génie civil, Développement durable-Polytech Paris-UPMC										1353	5	60	0	3
+2011	mp	CONCOURS ARCHIMEDE	Environnement, Aménagement, Génie civil, Développement durable-Polytech Tours										1852	8	50	25	6
+2011	mp	CONCOURS ARCHIMEDE	Génie Civil, Bâtiment, Géosciences-Polytech Grenoble										1414	6	16	0	5
+2011	mp	CONCOURS ARCHIMEDE	Génie Civil, Bâtiment, Géosciences-Polytech Marseille										1577	7	0	29	5
+2011	mp	CONCOURS ARCHIMEDE	Génie Civil, Bâtiment, Géosciences-Polytech Nice										1320	3	0	34	3
+2011	mp	CONCOURS ARCHIMEDE	Hygiène, Sécurité, Qualité-Polytech Grenoble										1504	4	75	25	4
+2011	mp	CONCOURS ARCHIMEDE	ISAT Nevers-département Concept Car (CC)										1456	1	0	0	1
+2011	mp	CONCOURS ARCHIMEDE	ISAT Nevers-département Energétique Propulsion Electronique pour l'Environnement (EP2E)										1610	2	0	0	2
+2011	mp	CONCOURS ARCHIMEDE	ISBS										1928	4	100	0	4
+2011	mp	CONCOURS ARCHIMEDE	ISEL										1928	1	100	100	3
+2011	mp	CONCOURS ARCHIMEDE	ISIFC Besançon										1619	3	66	0	3
+2011	mp	CONCOURS ARCHIMEDE	ISITV Toulon Ingénierie Marine										1466	5	80	40	4
+2011	mp	CONCOURS ARCHIMEDE	ISITV Toulon Ingénierie des Matériaux										1928	1	100	0	3
+2011	mp	CONCOURS ARCHIMEDE	ISITV Toulon Télécommunications										1928	3	33	67	5
+2011	mp	CONCOURS ARCHIMEDE	ISTIL EPU Lyon 1										1928	9	33	56	20
+2011	mp	CONCOURS ARCHIMEDE	ISTY Versailles										1928	1	0	0	4
+2011	mp	CONCOURS ARCHIMEDE	Informatique-Polytech Grenoble										1928	6	0	17	11
+2011	mp	CONCOURS ARCHIMEDE	Informatique-Polytech Nantes										1928	5	0	40	7
+2011	mp	CONCOURS ARCHIMEDE	Informatique-Polytech Nice										1918	8	25	13	6
+2011	mp	CONCOURS ARCHIMEDE	Informatique-Polytech Paris-Sud										1928	4	25	0	5
+2011	mp	CONCOURS ARCHIMEDE	Informatique, Modélisation mathématique, Gestion-Polytech Clermont-Ferrand										1928	3	33	0	5
+2011	mp	CONCOURS ARCHIMEDE	Informatique, Modélisation mathématique, Gestion-Polytech Lille										1850	10	10	50	12
+2011	mp	CONCOURS ARCHIMEDE	Informatique, Modélisation mathématique, Gestion-Polytech Montpellier										1864	5	20	60	6
+2011	mp	CONCOURS ARCHIMEDE	Informatique, Modélisation mathématique, Gestion-Polytech Tours										1928	2	100	0	3
+2011	mp	CONCOURS ARCHIMEDE	Ingénierie pour la santé, Génie biomédical-Polytech Grenoble										1928	0	0	0	3
+2011	mp	CONCOURS ARCHIMEDE	Mathématiques appliquées, Modélisation-Polytech Nice										1635	7	28	0	8
+2011	mp	CONCOURS ARCHIMEDE	Matériaux-Polytech Grenoble										1928	2	50	0	3
+2011	mp	CONCOURS ARCHIMEDE	Matériaux-Polytech Lille										1858	6	16	34	4
+2011	mp	CONCOURS ARCHIMEDE	Matériaux-Polytech Montpellier										1861	3	33	0	3
+2011	mp	CONCOURS ARCHIMEDE	Matériaux-Polytech Nantes										1928	4	75	0	3
+2011	mp	CONCOURS ARCHIMEDE	Mécanique-Polytech Lille										1311	4	0	0	4
+2011	mp	CONCOURS ARCHIMEDE	Mécanique-Polytech Montpellier										1891	2	0	50	4
+2011	mp	CONCOURS ARCHIMEDE	Mécanique, Énergie, Matériaux, Mécatronique-Polytech Annecy-Chambéry										1928	2	0	0	5
+2011	mp	CONCOURS ARCHIMEDE	Mécanique, Énergie, Matériaux, Mécatronique-Polytech Clermont-Ferrand										1928	6	66	34	5
+2011	mp	CONCOURS ARCHIMEDE	Mécanique, Énergie, Matériaux, Mécatronique-Polytech Orléans										1928	5	40	0	12
+2011	mp	CONCOURS ARCHIMEDE	Mécanique, Énergie, Matériaux, Mécatronique-Polytech Tours										1928	1	0	0	4
+2011	mp	CONCOURS ARCHIMEDE	Métrologie, Instrumentation-Polytech Lille										1928	4	0	50	6
+2011	mp	CONCOURS ARCHIMEDE	Sup Galilée Villetaneuse										1928	4	0	25	12
+2011	mp	CONCOURS ARCHIMEDE	Électronique, Réseaux et télécommunications-Polytech Marseille										1928	5	40	20	6
+2011	mp	CONCOURS ARCHIMEDE	Électronique, Réseaux et télécommunications-Polytech Nantes										1562	5	40	20	3
+2011	mp	CONCOURS ARCHIMEDE	Électronique, Réseaux et télécommunications-Polytech Nice										1778	4	75	25	3
+2011	mp	CONCOURS ARCHIMEDE	Énergie électrique-Polytech Nantes										1928	3	33	100	4
+2011	mp	CONCOURS ARCHIMEDE	Énergie électrique, Systèmes électroniques, informatiques et optiques-Polytech Annecy-Chambéry										1928	1	100	100	3
+2011	mp	CONCOURS ARCHIMEDE	Énergie électrique, Systèmes électroniques, informatiques et optiques-Polytech Clermont-Ferrand										1928	2	50	50	5
+2011	mp	CONCOURS ARCHIMEDE	Énergie électrique, Systèmes électroniques, informatiques et optiques-Polytech Lille										1849	3	0	100	5
+2011	mp	CONCOURS ARCHIMEDE	Énergie électrique, Systèmes électroniques, informatiques et optiques-Polytech Montpellier										1872	2	0	0	3
+2011	mp	CONCOURS ARCHIMEDE	Énergie électrique, Systèmes électroniques, informatiques et optiques-Polytech Orléans										1928	0	0	0	5
+2011	mp	CONCOURS ARCHIMEDE	Énergie électrique, Systèmes électroniques, informatiques et optiques-Polytech Paris-Sud										1928	4	25	25	4
+2011	mp	CONCOURS ARCHIMEDE	Énergie électrique, Systèmes électroniques, informatiques et optiques-Polytech Paris-UPMC										1823	8	37	38	7
+2011	mp	CONCOURS ARCHIMEDE	Énergie électrique, Systèmes électroniques, informatiques et optiques-Polytech Tours										1928	0	0	0	3
+2011	mp	CONCOURS ARCHIMEDE	Énergétique, Thermique-Polytech Marseille										1791	3	33	34	5
+2011	mp	CONCOURS ARCHIMEDE	Énergétique, Thermique-Polytech Montpellier										1279	3	33	0	3
+2011	mp	CONCOURS ARCHIMEDE	Énergétique, Thermique-Polytech Nantes										1817	2	100	0	3
+2011	mp	CONCOURS ARCHIMEDE	Concours Commun ARCHIMEDE	3374	30	30	2337	30	28	1928	30	31		272			404
+2011	mp	Autres écoles E3A	3IL Limoges	291	26	30	251	27	30	167	25	33	167	11	9	46	12
+2011	mp	Autres écoles E3A	ECE PARIS	913	30	25	744	31	24	341	25	26	290	38	21	35	30
+2011	mp	Autres écoles E3A	EFREI Paris	401	33	28	376	34	27	115	26	33	115	19	31	32	40
+2011	mp	Autres écoles E3A	EI-ISPA Alençon	97	34	30	92	35	30	17	17	30	17	2	0	50	5
+2011	mp	Autres écoles E3A	EIDD Paris	399	34	32	253	36	33	120	36	35	120	4	25	50	10
+2011	mp	Autres écoles E3A	EIGSI	522	36	25	251	39	27	56	32	27	56	1	100	0	5
+2011	mp	Autres écoles E3A	EIL Côte d'Opale-Calais (informatique)										169	5	0	60	5
+2011	mp	Autres écoles E3A	EIL Côte d'Opale-Longuenesse (Génie Industriel)										162	14	35	43	10
+2011	mp	Autres écoles E3A	EIL Côte d'Opale (ex EIPC)	500	35	26	414	35	27	183	33	31		19			15
+2011	mp	Autres écoles E3A	EME	242	47	22	183	53	23	120	54	25	120	1	0	100	11
+2011	mp	Autres écoles E3A	ENI Val de Loire-Blois	435	40	32	219	42	31	31	51	36	19	8	75	50	6
+2011	mp	Autres écoles E3A	ENSAIT Roubaix	470	40	30	322	42	29	71	46	26	67	11	54	19	10
+2011	mp	Autres écoles E3A	ENSIL Limoges EE	818	40	34	451	43	32	102	48	30	55	9	66	12	8
+2011	mp	Autres écoles E3A	ENSIL Limoges ELT	847	33	36	403	33	32	113	31	39	80	13	15	24	10
+2011	mp	Autres écoles E3A	ENSIL Limoges Matériaux	691	35	35	328	35	30	75	36	34	62	7	14	29	4
+2011	mp	Autres écoles E3A	ENSIL Limoges Mécatronique	729	31	37	341	29	33	102	21	39	88	9	11	45	8
+2011	mp	Autres écoles E3A	ENSTIB Epinal	277	40	32	159	41	27	20	60	40	19	5	60	0	6
+2011	mp	Autres écoles E3A	ESB Nantes	174	41	23	107	47	27	18	55	34	18	7	57	43	15
+2011	mp	Autres écoles E3A	ESIEA Laval										93	2	50	100	33
+2011	mp	Autres écoles E3A	ESIEA Paris										93	1	100	100	33
+2011	mp	Autres écoles E3A	ESIEA Paris-Laval	481	27	25	337	29	27	93	27	27		3			66
+2011	mp	Autres écoles E3A	ESIEE Amiens	417	31	23	299	34	20	165	31	23	165	0	0	0	10
+2011	mp	Autres écoles E3A	ESIEE Paris	504	30	30	374	31	29	86	17	25	86	12	8	25	25
+2011	mp	Autres écoles E3A	ESIGELEC Rouen	671	34	27	610	35	27	234	28	30	211	35	45	29	40
+2011	mp	Autres écoles E3A	ESIGETEL Fontainebleau	295	31	33	252	31	32	93	30	42	93	13	15	31	20
+2011	mp	Autres écoles E3A	ESITC Caen	299	39	28	180	43	27	26	69	31	25	9	77	23	12
+2011	mp	Autres écoles E3A	ESME Sudria Ivry sur Seine	311	35	24	251	37	24	136	34	28	136	3	33	34	20
+2011	mp	Autres écoles E3A	ESTIA Bidart	338	35	32	217	39	31	50	36	24	50	7	28	43	20
+2011	mp	Autres écoles E3A	IFMA Clermont-Ferrand	516	33	34	230	33	36	51	23	36	51	17	0	48	16
+2011	mp	Autres écoles E3A	ISIS Castres	210	46	31	165	45	30	37	54	46	37	12	33	42	12
+2011	mp	Autres écoles E3A	ISMANS Le Mans	239	35	26	212	34	25	79	36	28	79	1	100	100	10
+2011	mp	Autres écoles E3A	ITECH Lyon	185	43	26	140	49	27	18	61	34	18	1	0	100	5
+2011	mp	FESIC	ECAM Lyon				200	35	29	61	26	32	61	1	0	100	4
+2011	mp	FESIC	ECAM Rennes Louis de Broglie	915	31	27	820	31	26	85	24	30	69	8	12	25	12
+2011	mp	FESIC	ECAM Strasbourg Europe	915	31	27	814	31	26	384	32	30	374	3	0	67	7
+2011	mp	FESIC	EPMI Cergy	915	31	27	810	31	26	345	31	31	345	14	28	29	16
+2011	mp	FESIC	ESAIP	915	31	27	823	31	26	256	35	29	256	12	41	34	10
+2011	mp	FESIC	ESCOM Compiegne	915	31	27	431	32	30	235	33	29	235	0	0	0	1
+2011	mp	FESIC	ESEO Angers	915	31	27	598	32	27	311	32	30	311	0	0	0	7
+2011	mp	FESIC	HEI	915	31	27	598	32	27	298	34	31	294	15	40	54	20
+2011	mp	FESIC	ISEN Brest	915	31	27	731	32	25	203	31	31	203	2	0	0	6
+2011	mp	FESIC	ISEN Lille	915	31	27	642	33	27	187	31	30	186	4	0	100	10
+2011	mp	FESIC	ISEN Toulon	915	31	27	731	32	25	203	31	31	203	0	0	0	6
+2011	mp	FESIC	ISEP Paris	915	31	27	796	32	26	236	25	32	234	22	22	28	21
+2011	mp	FESIC	LASALLE BEAUVAIS	915	31	27	642	33	27	118	32	34	115	0	0	0	5
+2011	mp	EPITA	EPITA	102	15	18	75	10	14	53	11	17	53	15	6	7	18
