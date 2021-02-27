@@ -9,8 +9,8 @@ Is there a gender difference in the performance at the selective exam "concours 
 There are other interesting questions:
 - Evolution over time of the male / female ratio.
 - Evolution over time of the size of the global population.
-- Does the male / female ratio correlates with female performance?
-- If I do find a gender difference in the performance, does it correlates with the exams' weighting coefficient at the Ecoles? I probably won't answer this one since it takes too much effort to gather the data.
+- Does the male / female ratio correlate with female performance?
+- If I do find a gender difference in the performance, does it correlate with the exams' weighting coefficient at the Ecoles? I probably won't answer this one since it takes too much effort to gather the data.
 ** Explore
 I might also report on interesting features I find while looking at the data. If these are not stated above, then these features are things I didn't look for, but stumble upon.
 
