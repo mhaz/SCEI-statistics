@@ -1,0 +1,310 @@
+year	filiere	banque	ehcole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	integres_places
+2018	psi	BANQUE ENS CACHAN/EC. POLYTECH	ENS Ulm PSI	967	18.9	22.3	46	6.5	19.6	25	12.0	16.0	5	0.0	0.0	20	19	5
+2018	psi	BANQUE ENS CACHAN/EC. POLYTECH	ECOLE POLYTECHNIQUE	941	16.7	20.1	91	7.7	15.4	61	8.2	13.1	57	8.8	14.0	30	30	57
+2018	psi	BANQUE ENS CACHAN/EC. POLYTECH	ENS Paris-Saclay	1371	19.0	21.7	424	14.9	22.2	318	14.2	19.8	37	13.5	32.4	177	161	37
+2018	psi	BANQUE ENS CACHAN/EC. POLYTECH	ENS Rennes	1234	19.2	23.3	367	15.3	25.1	331	14.2	23.3	5	20.0	80.0	313	306	5
+2018	psi	BANQUE CENTRALE-SUPELEC	CentraleSupélec-Campus Gif	2440	20.9	19.1	545	14.7	14.5	532	14.7	14.7	170	14.1	11.8	186	174	167
+2018	psi	BANQUE CENTRALE-SUPELEC	CentraleSupélec-Campus Gif-étr.	99	27.3	21.2	36	25.0	22.2	35	25.7	22.9	12	41.7	25.0	18	17	9
+2018	psi	BANQUE CENTRALE-SUPELEC	CENTRALE LYON	2794	21.9	18.8	621	15.5	16.1	609	15.4	16.3	81	12.3	21.0	385	381	82
+2018	psi	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	1418	24.2	23.3	529	23.1	20.8	503	22.9	20.3	18	55.6	5.6	451	431	30
+2018	psi	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)-étr.	42	19.0	26.2	24	16.7	25.0	20	20.0	25.0	2	0.0	50.0	13	13	2
+2018	psi	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE	2801	22.3	21.6	857	18.7	21.7	828	18.6	21.5	60	20.0	21.7	522	494	60
+2018	psi	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES	2948	22.7	20.3	548	16.6	18.1	537	16.6	18.1	55	20.0	16.4	443	426	75
+2018	psi	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE	2715	22.7	22.4	927	19.3	21.7	870	19.3	21.3	56	19.6	28.6	617	598	60
+2018	psi	BANQUE CENTRALE-SUPELEC	CENTRALE CASABLANCA	389	22.9	30.8	61	13.1	39.3	54	13.0	33.3	0	0.0	0.0	0	0	3
+2018	psi	BANQUE CENTRALE-SUPELEC	ECOLE NAVALE Brest	706	18.0	28.0	210	15.7	36.7	113	15.0	47.8	30	10.0	63.3	43	41	30
+2018	psi	BANQUE CENTRALE-SUPELEC	ENSEA Cergy	1355	24.7	23.0	994	24.2	21.8	622	24.4	20.1	57	17.5	22.8	522	488	60
+2018	psi	BANQUE CENTRALE-SUPELEC	CentraleSupélec-Campus Gif-CI										6	33.3	16.7	5	4	6
+2018	psi	BANQUE CENTRALE-SUPELEC	CENTRALE LYON-CI										1	0.0	100.0	9	9	1
+2018	psi	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE-CI										0	0.0	0.0	0	0	1
+2018	psi	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES-CI										1	100.0	0.0	8	8	5
+2018	psi	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)-CI										2	0.0	0.0	13	13	1
+2018	psi	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE-CI										1	0.0	0.0	10	10	1
+2018	psi	BANQUE CENTRALE-SUPELEC	¥Concours Cycle International CentraleSupélec	100	33.0	13.0	16	31.2	18.8	16	31.2	18.8	11					15
+2018	psi	BANQUE CENTRALE-SUPELEC	CENTRALE CASABLANCA-CI	100	33.0	13.0	16	31.2	18.8	16	31.2	18.8	1	100.0	0.0	16	16	10
+2018	psi	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										57	22.8	14.0	467	456	52
+2018	psi	CONCOURS COMMUN MINES-PONTS	IMT Atlantique cursus Sophia Antipolis										3	0.0	0.0	925	925	3
+2018	psi	CONCOURS COMMUN MINES-PONTS	IMT Atlantique cursus Brest-Nantes-Rennes-Toulouse										69	15.9	20.3	887	853	63
+2018	psi	CONCOURS COMMUN MINES-PONTS	ISAE-SUPAERO Toulouse										79	19.0	13.9	310	285	75
+2018	psi	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										43	27.9	9.3	592	584	41
+2018	psi	CONCOURS COMMUN MINES-PONTS	MINES de SAINT-ETIENNE										43	18.6	11.6	742	701	45
+2018	psi	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										35	34.3	2.9	52	54	35
+2018	psi	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										55	30.9	9.1	197	195	51
+2018	psi	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										17	11.8	17.6	325	326	23
+2018	psi	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										8	25.0	0.0	495	487	8
+2018	psi	CONCOURS COMMUN MINES-PONTS	¥Concours Commun Mines Ponts PSI	3884	22.7	19.4	1249	18.1	16.6	1218	18.1	16.3	409					396
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP-ENSC Cognitique										9	11.1	11.1	1963	2006	8
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP-ENSEIRB-MATMECA Electronique										17	23.5	41.2	1781	1708	16
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP-ENSEIRB-MATMECA Informatique										10	10.0	30.0	1669	1527	8
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP-ENSEIRB-MATMECA Mathématiques et Mécanique										13	15.4	46.2	1601	1574	15
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP-ENSEIRB-MATMECA Télecom.										15	26.7	33.3	2034	1916	16
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	CPE LYON Sciences du numérique										6	0.0	33.3	2483	2482	12
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	EISTI Cergy-Pau										15	0.0	26.7	2979	2820	13
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Civil										36	11.1	11.1	537	526	35
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Fonctionnaire										4	0.0	0.0	93	91	4
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Civil (apprenti)										1	0.0	0.0	3030	3030	2
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Civil (étudiant)										14	21.4	14.3	2565	2518	10
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Fonctionnaire										3	0.0	0.0	1597	1623	3
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ENSGTI Pau-Energétique										17	11.8	29.4	2921	2794	12
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers-Génie de l'Eau et Génie Civil										5	40.0	20.0	2286	2232	7
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Energie										24	25.0	12.5	2761	2601	20
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et Génie Industriel										2	0.0	0.0	2612	2612	7
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Méca Energ.										31	12.9	29.0	2636	2598	30
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Mécatronique										20	10.0	30.0	2538	2452	12
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique Appliquée										11	36.4	9.1	2019	2100	10
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Informatique										6	0.0	33.3	2373	2365	5
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM Besançon										51	25.5	21.6	2175	2049	55
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-ENSE3										79	21.5	22.8	1413	1342	80
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Pagora										10	40.0	30.0	2653	2555	11
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Phelma (Physique Electronique Télécoms)										41	24.4	29.3	963	888	45
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Phelma (Physique Matériaux Procédés)										32	12.5	18.8	690	705	32
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-ENSIMAG										14	7.1	42.9	333	328	10
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP-Esisar										15	13.3	33.3	2091	2006	12
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ISAE-ENSMA Poitiers										61	11.5	11.5	847	783	58
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	ISIMA Clermont-Ferrand										12	25.0	25.0	2680	2627	12
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Lorraine INP-ENSEM-Energie										35	22.9	25.7	2553	2490	37
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Lorraine INP-ENSEM-Spécialité des systèmes numériques										19	10.5	36.8	2576	2555	12
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Lorraine INP-ENSG										6	16.7	50.0	2532	2417	5
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Lorraine INP-ENSIC										5	60.0	20.0	2727	2632	7
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	SeaTech Toulon										32	37.5	25.0	2187	2097	29
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Paris										45	35.6	17.8	1527	1467	48
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	TELECOM PHYSIQUE Strasbourg										29	31.0	10.3	1856	1839	28
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Toulouse INP-ENSEEIHT-Electronique-Energie-Automatique (EEA)										42	19.0	19.0	1191	1066	43
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Toulouse INP-ENSEEIHT-Mécanique des Fluides-Energetique-Environnement (MFEE)										18	11.1	11.1	1063	1039	19
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Toulouse INP-ENSEEIHT-Sciences du Numérique										44	6.8	20.5	1217	1166	42
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Toulouse INP-ENSIACET-Génie des Procédés										13	30.8	15.4	2124	2050	11
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	Toulouse INP-ENSIACET-Génie Industriel										15	60.0	13.3	1740	1635	15
+2018	psi	CONCOURS COMMUNS POLYTECHNIQUES	¥Concours Commun Polytechnique PSI	5403	24.2	19.7	3597	22.2	21.2	3101	23.1	21.9	877					856
+2018	psi	BANQUE EPREUVES C.C.P Inter-Filière	Lorraine INP-EEIGM	483	37.7	22.6	222	38.3	25.2	18	44.4	27.8	4	50.0	0.0	25	21	10
+2018	psi	BANQUE EPREUVES C.C.P Inter-Filière	ENSIL-ENSCI Limoges Céramique Industrielle	477	29.1	25.2	380	29.7	22.4	81	39.5	27.2	18	33.3	27.8	103	100	45
+2018	psi	BANQUE EPREUVES C.C.P Inter-Filière	Lorraine INP-ENSGSI	911	31.1	22.6	458	31.4	22.7	119	45.4	22.7	14	42.9	35.7	58	62	35
+2018	psi	BANQUE EPREUVES C.C.P Inter-Filière	ESM Saint-Cyr	793	18.0	25.6	218	17.4	36.7	111	11.7	50.5	38	5.3	44.7	105	102	76
+2018	psi	BANQUE EPREUVES C.C.P Inter-Filière	Grenoble INP-Génie Industriel	1769	27.6	24.3	799	25.5	28.3	294	34.4	28.9	43	37.2	27.9	158	154	80
+2018	psi	BANQUE EPREUVES C.C.P	ECOLE DE L'AIR Base	792	21.2	26.8	274	20.8	39.1	76	14.5	56.6	1	0.0	100.0	44	44	1
+2018	psi	BANQUE EPREUVES C.C.P	ECOLE DE L'AIR Méca	781	21.1	27.8	265	20.8	40.0	74	14.9	56.8	5	40.0	100.0	23	29	5
+2018	psi	BANQUE EPREUVES C.C.P	ECOLE DE L'AIR Pilote	845	19.3	24.1	289	19.0	33.9	75	9.3	45.3	23	4.3	39.1	19	19	23
+2018	psi	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Informatique et réseaux										7	14.3	0.0	51	54	8
+2018	psi	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Mécanique										9	22.2	11.1	64	68	8
+2018	psi	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Automatique et Systèmes Embarqués										8	25.0	37.5	65	54	8
+2018	psi	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Textile et Fibres										3	100.0	0.0	104	94	4
+2018	psi	BANQUE EPREUVES C.C.P	¥Concours ENSISA Mulhouse PSI	1049	28.7	25.2	714	29.0	23.5	175	28.6	19.4	27					28
+2018	psi	BANQUE EPREUVES C.C.P	Lorraine INP-ENSTIB	498	29.5	24.5	304	30.9	17.4	38	36.8	18.4	5	0.0	20.0	16	17	9
+2018	psi	BANQUE EPREUVES C.C.P	EOST Strasbourg	469	34.3	25.2	200	36.0	24.0	35	45.7	28.6	4	75.0	50.0	12	12	4
+2018	psi	CONCOURS COMMUN TPE	ENTPE Lyon Civil										22	40.9	50.0	288	262	20
+2018	psi	CONCOURS COMMUN TPE	ENTPE Lyon Fonctionnaire										31	35.5	35.5	238	226	31
+2018	psi	CONCOURS COMMUN TPE	¥Concours TPE Civil-Fct. PSI	2361	28.1	24.5	1324	28.0	26.4	519	35.8	27.6	53					51
+2018	psi	CONCOURS COMMUN TPE	ENTPE Lyon Etranger	2361	28.1	24.5	32	31.2	18.8	13	23.1	23.1	1	0.0	100.0	1	1	1
+2018	psi	CONCOURS COMMUN TPE	EIVP Paris Civil	2361	28.1	24.5	1356	28.1	26.3	532	35.5	27.4	17	23.5	58.8	385	359	19
+2018	psi	CONCOURS COMMUN TPE	EIVP Paris Fonctionnaire	2361	28.1	24.5	1324	28.0	26.4	519	35.8	27.6	5	40.0	20.0	146	163	5
+2018	psi	CONCOURS COMMUN TPE	IMT Lille Douai Fonct.	2361	28.1	24.5	1324	28.0	26.4	519	35.8	27.6	3	33.3	0.0	132	128	3
+2018	psi	Concours Mines-Télécom	ENSIIE Evry										17	17.6	41.2	1557	1537	18
+2018	psi	Concours Mines-Télécom	ENSTA Bretagne (filière sous statut étudiant)										40	22.5	22.5	697	667	40
+2018	psi	Concours Mines-Télécom	IMT Mines Albi										53	45.3	18.9	1180	1156	45
+2018	psi	Concours Mines-Télécom	IMT Mines Alès										55	30.9	14.5	1291	1222	53
+2018	psi	Concours Mines-Télécom	IMT Lille Douai										61	32.8	24.6	1388	1275	60
+2018	psi	Concours Mines-Télécom	Mines Saint Etienne-ISMIN										27	29.6	22.2	1231	1244	25
+2018	psi	Concours Mines-Télécom	Télécom Physique Strasbourg Réseaux et Télécoms										14	14.3	28.6	1951	1855	18
+2018	psi	Concours Mines-Télécom	Télécom Physique Strasbourg TI-Santé										7	57.1	14.3	1468	1250	8
+2018	psi	Concours Mines-Télécom	TELECOM SudParis-cursus Evry										36	27.8	11.1	783	754	34
+2018	psi	Concours Mines-Télécom	TELECOM SudParis-cursus Sophia-Antipolis										2	0.0	0.0	915	915	3
+2018	psi	Concours Mines-Télécom	¥Concours Mines-Télécom	4304	23.8	20.5	2229	22.5	21.1	2126	22.7	21.0	312					304
+2018	psi	Concours Mines-Télécom	ENSTA Bretagne (filière sous statut IETA-Direction Générale de l'Armement)	4304	23.8	20.5	1932	22.2	23.7	1843	22.5	23.6	13	23.1	38.5	677	599	13
+2018	psi	Concours Mines-Télécom	ENSG-Géomatique Marne la Vallée Civil										7	28.6	0.0	2013	1967	7
+2018	psi	Concours Mines-Télécom	ENSSAT Lannion										17	17.6	5.9	1892	1810	17
+2018	psi	Concours Mines-Télécom	TELECOM Nancy										17	23.5	29.4	1583	1552	15
+2018	psi	Concours Mines-Télécom	TELECOM St Etienne-Statut étudiant										27	33.3	11.1	1754	1657	21
+2018	psi	Concours Mines-Télécom	TELECOM St Etienne-Statut apprenti										1	0.0	0.0	2022	2022	2
+2018	psi	Concours Mines-Télécom	¥Concours Mines-Télécom Spécifique PSI	4304	23.8	20.5	3078	23.5	21.1	2584	23.5	20.8	69					62
+2018	psi	CONCOURS ENSAM	Arts et Métiers-ingénieurs militaires	724	21.8	24.6	75	24.0	41.3	30	33.3	60.0	6	33.3	50.0	20	20	6
+2018	psi	CONCOURS ENSAM	Arts et Métiers-voie de l'apprentissage										3	0.0	33.3	681	627	6
+2018	psi	CONCOURS ENSAM	Arts et Métiers										256	18.8	32.4	561	536	251
+2018	psi	CONCOURS ENSAM	¥Concours ARTS ET MÉTIERS	3764	23.8	21.4	1019	18.4	27.3	840	18.5	27.0	259					257
+2018	psi	CONCOURS ESTP	ESTP Paris-Bâtiment (B) – campus de Troyes										14	35.7	28.6	1005	966	7
+2018	psi	CONCOURS ESTP	ESTP Paris-Bâtiment (B)-campus de Cachan										58	32.8	32.8	694	661	49
+2018	psi	CONCOURS ESTP	ESTP Paris-Topographie (T)										43	16.3	37.2	1183	1179	22
+2018	psi	CONCOURS ESTP	ESTP Paris-Génie Mécanique et Electrique(GME)										37	29.7	32.4	900	837	30
+2018	psi	CONCOURS ESTP	ESTP Paris-Travaux Publics (TP)										60	25.0	23.3	737	726	52
+2018	psi	CONCOURS ESTP	¥Concours ESTP	1778	25.9	24.6	1400	25.3	25.9	1292	26.1	26.0	212					160
+2018	psi	CONCOURS POLYTECH Inter-Filière	ENSIBS Lorient										7	0.0	0.0	4195	3857	12
+2018	psi	CONCOURS POLYTECH Inter-Filière	ENSIM Le Mans										1	0.0	0.0	3129	3137	6
+2018	psi	CONCOURS POLYTECH Inter-Filière	ESBS Strasbourg										0	0.0	0.0	630	501	3
+2018	psi	CONCOURS POLYTECH Inter-Filière	ESGT le Mans										0	0.0	0.0	3844	3784	15
+2018	psi	CONCOURS POLYTECH Inter-Filière	ESI Reims										4	25.0	0.0	4112	4055	10
+2018	psi	CONCOURS POLYTECH Inter-Filière	ESIAB Brest										0	0.0	0.0	3958	3958	3
+2018	psi	CONCOURS POLYTECH Inter-Filière	ESIPE Créteil-Génie Biomédical et santé (ISBS)										1	100.0	0.0	4247	4265	10
+2018	psi	CONCOURS POLYTECH Inter-Filière	ESIPE Créteil-Système d'information										0	0.0	0.0	4728	4707	4
+2018	psi	CONCOURS POLYTECH Inter-Filière	ESIPE Créteil-Technologie pour la santé										0	0.0	0.0	0	0	2
+2018	psi	CONCOURS POLYTECH Inter-Filière	ESIR Rennes										6	33.3	0.0	4056	3773	20
+2018	psi	CONCOURS POLYTECH Inter-Filière	ESIREM Dijon										2	50.0	0.0	4066	3862	3
+2018	psi	CONCOURS POLYTECH Inter-Filière	ESIROI Saint Denis de La Réunion										0	0.0	0.0	5002	5002	3
+2018	psi	CONCOURS POLYTECH Inter-Filière	ESIX Normandie-Caen-Cherbourg										3	33.3	0.0	4723	4615	4
+2018	psi	CONCOURS POLYTECH Inter-Filière	ISAT Nevers-département MIT (Mécanique et Ingénierie des Transports)										5	40.0	20.0	2261	2338	5
+2018	psi	CONCOURS POLYTECH Inter-Filière	ISAT Nevers-département EPEE (Energies et Moteurs)										5	20.0	0.0	3189	3254	12
+2018	psi	CONCOURS POLYTECH Inter-Filière	ISAT Nevers-Infrastructures et Réseaux de Transports										4	0.0	0.0	4631	4616	4
+2018	psi	CONCOURS POLYTECH Inter-Filière	ISIFC Besançon-Génie Biomédical										2	100.0	0.0	3911	3756	6
+2018	psi	CONCOURS POLYTECH Inter-Filière	ISIS Castres										0	0.0	0.0	3452	3892	5
+2018	psi	CONCOURS POLYTECH Inter-Filière	ISTIA Angers										0	0.0	0.0	3604	3536	4
+2018	psi	CONCOURS POLYTECH Inter-Filière	ISTY Vélizy										1	0.0	100.0	5106	5106	3
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry-Environnement, Bâtiment, Énergie										4	50.0	0.0	3735	3476	15
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry-Informatique données Usages										1	100.0	0.0	4511	4294	5
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry-Instrumentation, Automatique, Informatique										1	0.0	0.0	4041	3614	4
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry-Mécanique, Matériaux										6	16.7	66.7	4161	4189	8
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand-Génie Biologique										0	0.0	0.0	2262	2328	5
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand-Génie Civil										9	11.1	11.1	4172	3663	16
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand-Génie Electrique										1	0.0	100.0	4899	4908	5
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand-Génie Mathématique et Modélisation										2	50.0	0.0	4331	3958	14
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand-Génie Physique										5	40.0	20.0	4786	4491	8
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble-Géotechnique et génie civil										5	40.0	0.0	3783	3774	6
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble-Matériaux										1	0.0	0.0	3928	3710	8
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble-Prévention des risques										3	66.7	0.0	4729	4335	6
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble-Informatique et électronique des systèmes embarqués										5	0.0	0.0	2514	2563	5
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble-Réseaux informatiques										2	0.0	0.0	4295	3990	8
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble-Technologies de l'information pour la santé										2	100.0	50.0	4503	4102	5
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lille-Génie biologique et alimentaire										0	0.0	0.0	4460	4218	4
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lille-Génie Informatique et statistique										3	33.3	0.0	3714	3424	10
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lille-Géotechnique, Génie civil										6	0.0	33.3	3662	3429	10
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lille-Informatique, Microélectronique, Automatique										3	33.3	0.0	3749	3695	8
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lille-Ingénierie et commercialisation des systèmes de mesure										0	0.0	0.0	4918	4918	5
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lille-Matériaux										3	33.3	33.3	3248	3356	8
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lille-Mécanique										7	14.3	28.6	3408	3309	10
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lyon-Génie Bomédical										1	100.0	0.0	2578	2593	4
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lyon-Informatique										2	0.0	50.0	2164	2054	4
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lyon-Matériaux										0	0.0	0.0	2845	2821	4
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lyon-Mathématiques Appliquées et Modélisation										0	0.0	0.0	2654	2257	4
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lyon-Mécanique										2	0.0	50.0	2472	2231	4
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Lyon-Systèmes industriels, Robotique										0	0.0	0.0	3212	3126	4
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Marseille-Génie Biomédical										1	100.0	0.0	3214	2753	9
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Marseille-Génie Civil										3	0.0	0.0	4775	4611	12
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Marseille-Génie Industriel et Informatique										3	0.0	66.7	4729	4212	8
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Marseille-Informatique										5	60.0	20.0	4340	4060	8
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Marseille-Matériaux										1	100.0	0.0	4214	4184	10
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Marseille-Mécanique, Energétique										4	25.0	25.0	4250	3441	16
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Marseille-Microélectronique,Télécommunications										1	0.0	0.0	4977	4870	8
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier-Informatique et Gestion										1	0.0	0.0	3875	3444	3
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier-Matériaux										0	0.0	0.0	3431	3401	7
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier-Mécanique et Interactions										1	0.0	0.0	3450	3356	2
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier-Microélectronique et Automatique										3	0.0	33.3	2860	3040	5
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier-Sciences et technologies de l'eau										1	0.0	0.0	3497	3351	7
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier Génie biologique et agroalimentaire										0	0.0	0.0	2918	3121	5
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nancy-Energie, Mécanique, Matériaux, Environnement										2	50.0	50.0	3503	3361	12
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nancy-Ingénierie de l'Information et des Systèmes										1	0.0	0.0	3252	3166	2
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nancy-Management opérationnel, Maintenance, Maîtrise des risques										3	33.3	33.3	4740	4775	2
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nantes-Électronique et technologies numériques										6	16.7	0.0	3491	3225	8
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nantes-Énergie électrique										1	0.0	100.0	3819	3883	4
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nantes-Génie civil										0	0.0	0.0	2814	2573	4
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nantes-Génie des Procédés et Bioprocédés										0	0.0	0.0	1807	1807	2
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nantes-Informatique										3	0.0	33.3	3197	2958	9
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nantes-Matériaux										1	0.0	0.0	2758	2507	8
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nantes-Thermique, Énergétique										5	0.0	80.0	3705	3477	7
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia-Bâtiments										3	0.0	66.7	4118	4061	13
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia-Électronique										7	14.3	14.3	4670	4415	10
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia-Génie biologique										0	0.0	0.0	1244	1431	3
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia-Génie de l'eau										5	20.0	40.0	4694	4376	10
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia-Informatique										5	20.0	0.0	4460	4218	14
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia-Mathématiques appliquées, Modélisation										4	0.0	0.0	3866	3781	14
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Orléans-Génie civil et géo-environnement										3	33.3	0.0	4615	4406	14
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Orléans-Génie industriel										3	66.7	33.3	4851	4720	12
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Orléans-Innovation en Conception et Matériaux										5	20.0	0.0	4892	4774	8
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Orléans-Technologies pour l'Énergie, l'Aérospatial et la Motorisation										3	33.3	66.7	2924	2830	14
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Orléans-Génie physique et systèmes embarqués										1	0.0	0.0	4091	4121	6
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Sud-Electronique, Energie, Systèmes										3	0.0	33.3	4063	3689	6
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Sud-Informatique										0	0.0	0.0	1746	1746	2
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Sud-Photonique et systèmes optroniques										1	100.0	0.0	4623	4000	5
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Sud-Matériaux										3	0.0	33.3	4127	3867	4
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Sorbonne-Electronique et Informatique										1	0.0	0.0	3253	3180	3
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Sorbonne-Informatique et mathématiques appliquées										0	0.0	0.0	1872	2192	3
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Sorbonne-Matériaux										2	0.0	50.0	4211	3931	10
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Sorbonne-Robotique										1	0.0	0.0	3247	2943	5
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Sorbonne-Sciences de la Terre										2	50.0	50.0	4533	4215	10
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Tours-Électronique, Énergie électrique										1	0.0	0.0	4487	4487	2
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Tours-Génie de l'aménagement et de l'environnement										3	33.3	0.0	4632	4453	7
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Tours-Informatique										3	33.3	33.3	4272	3659	7
+2018	psi	CONCOURS POLYTECH Inter-Filière	Polytech Tours-Mécanique, Conception de systèmes										4	0.0	25.0	3852	3870	5
+2018	psi	CONCOURS POLYTECH Inter-Filière	Sup Galilée Villetaneuse										3	66.7	33.3	4166	3933	18
+2018	psi	CONCOURS POLYTECH Inter-Filière	¥Concours POLYTECH	3105	26.7	22.0	2284	25.5	20.7	2030	26.2	21.5	227					694
+2018	psi	Autres écoles E3A	ECE PARIS	954	27.8	21.1	810	27.8	21.4	292	27.1	28.4	46	13.0	30.4	206	191	45
+2018	psi	Autres écoles E3A	EFREI Paris	705	27.7	19.0	643	28.0	18.0	152	23.7	17.1	20	15.0	20.0	126	112	40
+2018	psi	Autres écoles E3A	EIDD Paris	661	32.2	22.8	471	34.2	22.7	190	34.2	21.1	8	37.5	37.5	154	157	15
+2018	psi	Autres écoles E3A	EIGSI Casablanca	113	35.4	20.4	80	35.0	22.5	25	20.0	28.0	0	0.0	0.0	0	0	10
+2018	psi	Autres écoles E3A	EIGSI La Rochelle	570	35.3	18.1	446	35.7	18.2	165	35.2	15.2	22	31.8	18.2	95	105	30
+2018	psi	Autres écoles E3A	EIL Côte d'Opale-Calais (informatique)										9	44.4	22.2	187	176	15
+2018	psi	Autres écoles E3A	EIL Côte d'Opale-Longuenesse (Génie Industriel)										19	21.1	47.4	174	166	30
+2018	psi	Autres écoles E3A	¥Concours EIL Côte d'Opale Longuenesse-Calais	514	31.5	25.1	448	32.6	24.8	202	32.2	29.2	28					45
+2018	psi	Autres écoles E3A	ELISA Aérospace Saint Quentin (80)	654	28.9	19.0	439	28.9	19.6	125	28.0	17.6	7	14.3	0.0	94	90	15
+2018	psi	Autres écoles E3A	EME	229	47.6	19.2	168	48.8	19.6	69	56.5	18.8	1	100.0	0.0	66	66	20
+2018	psi	Autres écoles E3A	ENSAIT Roubaix										18	33.3	44.4	58	58	15
+2018	psi	Autres écoles E3A	ENSAIT Roubaix-Formation en alternance										0	0.0	0.0	0	0	2
+2018	psi	Autres écoles E3A	¥Concours ENSAIT Roubaix	509	38.1	26.3	335	37.9	27.8	80	45.0	28.8	18					17
+2018	psi	Autres écoles E3A	ENSIL Limoges ELT	674	28.2	23.1	389	28.0	20.8	82	26.8	26.8	13	7.7	30.8	50	47	10
+2018	psi	Autres écoles E3A	ENSIL Limoges Matériaux	626	31.9	23.3	370	34.1	20.8	80	37.5	23.8	5	20.0	0.0	68	57	6
+2018	psi	Autres écoles E3A	ENSIL Limoges Mécatronique	817	26.9	22.3	510	27.1	20.0	144	27.8	20.1	14	28.6	7.1	23	26	12
+2018	psi	Autres écoles E3A	EPF campus TROYES										8	25.0	12.5	220	210	10
+2018	psi	Autres écoles E3A	EPF campus MONTPELLIER										9	55.6	11.1	195	186	6
+2018	psi	Autres écoles E3A	EPF campus SCEAUX										3	0.0	0.0	114	126	4
+2018	psi	Autres écoles E3A	¥Concours EPF Sceaux-Troyes-Montpellier	669	37.4	18.4	408	39.0	19.4	238	42.4	21.8	20					20
+2018	psi	Autres écoles E3A	ESB Nantes	264	36.4	28.4	180	38.3	28.9	25	56.0	28.0	6	66.7	33.3	16	13	14
+2018	psi	Autres écoles E3A	ESIEA Paris-Laval	499	28.7	19.4	450	29.1	19.1	129	25.6	17.8	9	33.3	33.3	82	79	30
+2018	psi	Autres écoles E3A	ESIEE Paris	625	31.4	18.7	537	31.5	18.4	142	27.5	15.5	31	32.3	6.5	87	85	25
+2018	psi	Autres écoles E3A	ESIGELEC Rouen	597	33.0	20.4	548	33.9	19.5	194	39.2	18.0	23	34.8	13.0	133	128	40
+2018	psi	Autres écoles E3A	ESILV Paris-La Défense	900	28.2	21.7	751	27.7	21.7	356	25.3	23.6	53	11.3	9.4	142	143	54
+2018	psi	Autres écoles E3A	ESITC Caen	334	37.4	21.3	285	38.2	18.9	52	26.9	11.5	14	28.6	0.0	24	24	20
+2018	psi	Autres écoles E3A	ESTACA Laval Aéronautique et spatial										2	50.0	0.0	163	163	1
+2018	psi	Autres écoles E3A	ESTACA Laval Automobile										2	50.0	50.0	239	239	3
+2018	psi	Autres écoles E3A	ESTACA Paris-Saclay Aéronautique et spatial										3	0.0	66.7	123	117	3
+2018	psi	Autres écoles E3A	ESTACA Paris-Saclay Automobile ou Transports Guidés										5	0.0	60.0	181	187	5
+2018	psi	Autres écoles E3A	¥Concours ESTACA Paris-Saclay/Laval	1196	25.3	20.5	360	21.7	27.8	360	21.7	27.8	12					12
+2018	psi	Autres écoles E3A	ESTIA Bidart	407	33.2	19.9	346	33.5	19.7	100	25.0	17.0	22	13.6	27.3	69	67	40
+2018	psi	Autres écoles E3A	IMT Lille Douai en Partenariat ISPA	524	32.4	20.4	401	31.7	19.7	29	41.4	37.9	4	25.0	0.0	23	19	8
+2018	psi	Autres écoles E3A	Toulouse INP-ENIT	1055	31.1	21.5	376	25.5	17.8	320	25.0	17.8	6	33.3	33.3	176	172	6
+2018	psi	Autres écoles E3A	INSA centre val de loire GSI										3	33.3	33.3	36	40	6
+2018	psi	Autres écoles E3A	INSA centre val de loire MRI										3	33.3	0.0	66	51	10
+2018	psi	Autres écoles E3A	INSA centre val de loire STI										3	0.0	0.0	69	49	4
+2018	psi	Autres écoles E3A	¥Concours INSA Centre Val de Loire	829	32.1	24.6	469	32.8	21.5	75	41.3	16.0	9					20
+2018	psi	Autres écoles E3A	ISMANS-Groupe CESI Le Mans	259	39.0	20.1	257	38.5	20.2	60	46.7	13.3	5	20.0	20.0	51	45	20
+2018	psi	Autres écoles E3A	Paoli Tech	205	39.0	22.9	123	39.8	23.6	41	39.0	31.7	0	0.0	0.0	0	0	4
+2018	psi	Autres écoles E3A	SIGMA Clermont-Ferrand (ex IFMA)	989	28.5	24.9	487	26.1	26.3	182	28.6	23.6	64	23.4	26.6	81	79	60
+2018	psi	Autres écoles E3A	3IL Ingénieurs	262	28.2	19.8	198	27.3	18.7	27	44.4	11.1	0	0.0	0.0	0	0	15
+2018	psi	FESIC	ECAM Lyon	922	30.4	19.4	775	30.2	19.9	104	28.8	16.3	6	0.0	0.0	95	95	25
+2018	psi	FESIC	ECAM Rennes	922	30.4	19.4	875	30.7	19.8	99	43.4	17.2	11	9.1	9.1	74	68	18
+2018	psi	FESIC	ECAM Strasbourg Europe	922	30.4	19.4	835	29.9	19.9	121	41.3	12.4	14	64.3	7.1	63	66	20
+2018	psi	FESIC	ECAM-EPMI Cergy-Pontoise	922	30.4	19.4	870	31.0	19.9	159	35.8	22.6	13	46.2	23.1	140	120	25
+2018	psi	FESIC	ESAIP Angers / Aix-en-Provence	922	30.4	19.4	859	30.5	19.6	293	36.2	18.4	5	80.0	0.0	279	262	12
+2018	psi	FESIC	ESEO Angers	922	30.4	19.4	577	29.5	19.6	298	32.9	20.5	1	0.0	0.0	128	128	15
+2018	psi	FESIC	HEI	922	30.4	19.4	820	30.1	19.6	324	35.5	18.5	29	27.6	24.1	288	280	25
+2018	psi	FESIC	ISEN Ouest (Brest)	922	30.4	19.4	820	30.1	19.8	149	31.5	15.4	5	40.0	20.0	67	71	20
+2018	psi	FESIC	ISEN Lille	922	30.4	19.4	820	30.1	19.8	145	32.4	15.2	8	25.0	12.5	69	70	25
+2018	psi	FESIC	ISEN Méditerrannée Campus Toulon										4	50.0	0.0	100	85	20
+2018	psi	FESIC	ISEN Méditerrannée Campus Nîmes										5	40.0	20.0	83	72	10
+2018	psi	FESIC	¥Concours concours ISEN Méditerrannée PSI	922	30.4	19.4	820	30.1	19.8	145	32.4	15.2	9					30
+2018	psi	FESIC	ISEP Paris	922	30.4	19.4	820	30.1	19.8	165	25.5	24.2	26	23.1	23.1	106	107	30
+2018	psi	FESIC	UniLaSalle Beauvais	922	30.4	19.4	819	30.2	19.7	56	28.6	25.0	0	0.0	0.0	0	0	4
+2018	psi	EPITA	EPITA										19	10.5	10.5	129	131	12
+2018	psi	EPITA	IPSA Paris										9	33.3	22.2	52	50	9
+2018	psi	EPITA	IPSA Toulouse										8	12.5	25.0	80	76	6
+2018	psi	EPITA	ESME SUDRIA Paris										16	37.5	12.5	156	134	15
+2018	psi	EPITA	¥Concours EPITA / IPSA / ESME PSI	359	27.9	16.2	269	28.3	13.4	214	29.0	12.6	52					42
+2018	psi	CESI	CESI Angoulême										0	0.0	0.0	0	0	8
+2018	psi	CESI	CESI Arras										2	0.0	0.0	28	28	10
+2018	psi	CESI	CESI Bordeaux										2	0.0	50.0	25	25	8
+2018	psi	CESI	CESI Lyon										1	0.0	0.0	26	26	12
+2018	psi	CESI	CESI Mont-Saint-Aignan										0	0.0	0.0	0	0	8
+2018	psi	CESI	CESI Nancy										0	0.0	0.0	0	0	8
+2018	psi	CESI	CESI Nanterre										3	33.3	66.7	24	28	20
+2018	psi	CESI	CESI Saint-Nazaire										1	100.0	0.0	43	43	15
+2018	psi	CESI	¥Concours CESI Ingénieur Généraliste	180	23.3	16.7	96	27.1	16.7	49	26.5	22.4	9					89
+2018	psi	CESI	CESI Aix-en-Provence										0	0.0	0.0	0	0	2
+2018	psi	CESI	CESI Arras										0	0.0	0.0	0	0	4
+2018	psi	CESI	CESI Bordeaux										0	0.0	0.0	0	0	2
+2018	psi	CESI	CESI La Rochelle										0	0.0	0.0	0	0	2
+2018	psi	CESI	CESI Lyon										1	0.0	0.0	3	3	2
+2018	psi	CESI	CESI Mont-Saint-Aignan										0	0.0	0.0	0	0	2
+2018	psi	CESI	CESI Nancy										0	0.0	0.0	0	0	2
+2018	psi	CESI	CESI Nanterre										0	0.0	0.0	0	0	7
+2018	psi	CESI	CESI Nice Sophia Antipolis										0	0.0	0.0	0	0	2
+2018	psi	CESI	CESI Orléans										0	0.0	0.0	0	0	3
+2018	psi	CESI	CESI Pau										0	0.0	0.0	0	0	2
+2018	psi	CESI	CESI Reims										0	0.0	0.0	0	0	2
+2018	psi	CESI	CESI Saint-Nazaire										0	0.0	0.0	0	0	2
+2018	psi	CESI	CESI Strasbourg										0	0.0	0.0	0	0	2
+2018	psi	CESI	CESI Toulouse										0	0.0	0.0	0	0	3
+2018	psi	CESI	¥Concours CESI Ingénieur en Informatique	44	11.4	11.4	30	13.3	6.7	17	11.8	0.0	1					39
