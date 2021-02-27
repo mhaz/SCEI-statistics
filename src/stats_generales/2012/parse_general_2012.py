@@ -46,10 +46,11 @@ def parse_to_file(f, path, filiere, year, sep):
             # Remove the line
             # Inscrits, Admissibles, Classés, Rg du dernier appelé, Intégrés, Places
             if (cell.text == "Nb"): break
+            content = sanitize_string(cell.text)
+            if (content == "Rg dudernier appelé"): break
             if do_print:
                 f.write(year + sep + filiere + sep + banque  + sep)
                 do_print = False
-            content = sanitize_string(cell.text)
             if (idx > 0):
                 content = sanitize_number(content)
             end = sep if idx < len(cells) - 1 else "\n"

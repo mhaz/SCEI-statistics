@@ -1,5 +1,4 @@
 year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rg_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
-2012	bcpst	A BIO	Rg dudernier appelé
 2012	bcpst	A BIO	AgroParisTech Grignon										780	257	64.0	25.0	257
 2012	bcpst	A BIO	Montpellier Sup Agro (cursus agronome)										969	97	75.0	38.0	97
 2012	bcpst	A BIO	Montpellier Sup Agro (cursus SAADS)										730	5	100.0	40.0	5
@@ -14,24 +13,20 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2012	bcpst	A BIO	Agrosup Dijon (Cursus Agronome) civil										1986	34	70.0	48.0	38
 2012	bcpst	A BIO	Agrosup Dijon (Cursus agronome) fonctionnaire										2016	22	68.0	37.0	25
 2012	bcpst	A BIO	Concours commun A BIO	2915	69.0	25.0	2234	68.0	31.0	2016	69.0	32.0		949			977
-2012	bcpst	A ENV	Rg dudernier appelé
 2012	bcpst	A ENV	ENV Alfort										313	94	72.0	35.0	94
 2012	bcpst	A ENV	VetAgro Sup Lyon										403	94	68.0	52.0	94
 2012	bcpst	A ENV	Oniris Nantes (cursus vétérinaire)										461	94	82.0	68.0	94
 2012	bcpst	A ENV	ENV Toulouse										427	94	77.0	52.0	94
 2012	bcpst	A ENV	Concours commun A ENV	1845	71.0	30.0	876	69.0	43.0	550	70.0	47.0		376			376
-2012	bcpst	PC BIO	Rg dudernier appelé
 2012	bcpst	PC BIO	ESPCI ParisTech										193	5	60.0	20.0	4
 2012	bcpst	PC BIO	Chimie ParisTech										233	2	50.0	0.0	3
 2012	bcpst	PC BIO	ENSC Montpellier										116	3	66.0	67.0	3
 2012	bcpst	PC BIO	ENSC Lille										383	2	100.0	0.0	5
 2012	bcpst	PC BIO	ENSCBP Bordeaux-Biologie-Alimentation										565	11	81.0	37.0	14
 2012	bcpst	PC BIO	Concours commun A PC BIO	1189	65.0	31.0	653	64.0	40.0	565	63.0	40.0		23			29
-2012	bcpst	ENS	Rg dudernier appelé
 2012	bcpst	ENS	ENS Ulm	678	57.0	23.0	78	46.0	17.0	35	51.0	9.0	24	21	38.0	5.0	21
 2012	bcpst	ENS	ENS Lyon	680	57.0	24.0	162	48.0	23.0	96	46.0	16.0	87	38	42.0	16.0	38
 2012	bcpst	ENS	ENS Cachan	665	57.0	24.0	156	50.0	22.0	79	48.0	14.0	67	15	60.0	34.0	15
-2012	bcpst	G2E	Rg dudernier appelé
 2012	bcpst	G2E	Aménagement, Eau et Environnement-Polytech Montpellier										560	4	75.0	25.0	7
 2012	bcpst	G2E	Aménagement, Eau et Environnement-Polytech Nice										578	0	0.0	0.0	3
 2012	bcpst	G2E	concours Polytech G2E-BCPST	1656	68.0	27.0	1173	67.0	34.0	640	66.0	36.0		4			10
@@ -51,9 +46,7 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2012	bcpst	G2E	Génie Civil, Bâtiment, Géosciences-Polytech Grenoble										523	3	33.0	34.0	3
 2012	bcpst	G2E	Environnement, Aménagement, Génie civil, Développement durable-Polytech Paris-UPMC										564	7	71.0	43.0	7
 2012	bcpst	G2E	concours Polytech G2E-BCPST	1656	68.0	27.0	1173	67.0	34.0	640	66.0	36.0		22			39
-2012	bcpst	ARCH BIO	Rg dudernier appelé
 2012	bcpst	ARCH BIO	ENSTIB Epinal	644	64.0	31.0	455	64.0	33.0	60	56.0	37.0	60	13	46.0	47.0	16
-2012	bcpst	Concours Archimède	Rg dudernier appelé
 2012	bcpst	Concours Archimède	ESBS Strasbourg										690	8	50.0	0.0	7
 2012	bcpst	Concours Archimède	ESIX Normandie-Génie Agroalimentaire										1218	1	100.0	0.0	10
 2012	bcpst	Concours Archimède	ESMISAB Brest										1218	5	40.0	20.0	11

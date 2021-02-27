@@ -1,5 +1,4 @@
 year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rg_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
-2012	pt	CENTRALE-SUPELEC	Rg dudernier appelé
 2012	pt	CENTRALE-SUPELEC	CENTRALE PARIS	840	11.0	27.0	57	10.0	6.0	41	12.0	5.0	25	10	0.0	0.0	10
 2012	pt	CENTRALE-SUPELEC	SUPELEC-Campus Gif										59	9	0.0	12.0	10
 2012	pt	CENTRALE-SUPELEC	SUPELEC-Campus Metz										87	0	0.0	0.0	7
@@ -10,7 +9,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2012	pt	CENTRALE-SUPELEC	CENTRALE LILLE	1015	11.0	29.0	122	8.0	17.0	115	8.0	18.0	115	8	0.0	25.0	12
 2012	pt	CENTRALE-SUPELEC	CENTRALE NANTES	1155	12.0	28.0	173	7.0	14.0	164	7.0	15.0	159	20	10.0	10.0	20
 2012	pt	CENTRALE-SUPELEC	CENTRALE MARSEILLE	718	12.0	31.0	118	5.0	24.0	100	5.0	23.0	100	6	16.0	17.0	8
-2012	pt	CONCOURS COMMUN MINES-PONTS	Rg dudernier appelé
 2012	pt	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										14	3	33.0	0.0	3
 2012	pt	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										125	1	0.0	100.0	4
 2012	pt	CONCOURS COMMUN MINES-PONTS	MINES de SAINT-ETIENNE										139	1	0.0	100.0	2
@@ -21,17 +19,13 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2012	pt	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										42	1	100.0	0.0	1
 2012	pt	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE										153	1	0.0	0.0	3
 2012	pt	CONCOURS COMMUN MINES-PONTS	Concours Commun Mines-Ponts PT	1066	12.0	26.0	181	8.0	23.0	153	7.0	21.0		20			25
-2012	pt	CONCOURS COMMUN ENSAM	Rg dudernier appelé
 2012	pt	CONCOURS COMMUN ENSAM	Arts et Métiers ParisTech										727	550	10.0	37.0	550
 2012	pt	CONCOURS COMMUN ENSAM	ENSEA Cergy										1152	19	15.0	53.0	25
 2012	pt	CONCOURS COMMUN ENSAM	ARTS ET MÉTIERS ParisTech	2372	12.0	25.0	1248	9.0	33.0	1157	9.0	33.0		569			575
-2012	pt	CONCOURS ECOLE POLYTECHNIQUE	Rg dudernier appelé
 2012	pt	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE	322	9.0	19.0	21	4.0	10.0	12	0.0	17.0	12	10	0.0	20.0	10
-2012	pt	CONCOURS ENS DE CACHAN	Rg dudernier appelé
 2012	pt	CONCOURS ENS DE CACHAN	ENS Cachan										339	37	0.0	46.0	37
 2012	pt	CONCOURS ENS DE CACHAN	ENS Cachan-Ker Lan										307	2	0.0	0.0	2
 2012	pt	CONCOURS ENS DE CACHAN	ENS Cachan	1684	13.0	29.0	419	5.0	33.0	340	5.0	32.0		39			39
-2012	pt	CONCOURS COMMUNS POLYTECHNIQUES	Rg dudernier appelé
 2012	pt	CONCOURS COMMUNS POLYTECHNIQUES	CPE LYON Electronique										1059	1	0.0	0.0	2
 2012	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSCI Limoges										997	2	0.0	50.0	2
 2012	pt	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Electronique										565	2	0.0	0.0	2
@@ -64,7 +58,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2012	pt	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Paris										854	13	0.0	31.0	12
 2012	pt	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Toulon										866	6	0.0	34.0	3
 2012	pt	CONCOURS COMMUNS POLYTECHNIQUES	Concours Commun Polytechnique PT	2281	13.0	26.0	1306	10.0	33.0	1209	10.0	32.0		161			178
-2012	pt	CONCOURS TELECOM INT	Rg dudernier appelé
 2012	pt	CONCOURS TELECOM INT	ENSG Marne la Vallée Civil	902	14.0	32.0	368	10.0	34.0	4	0.0	75.0	4	2	0.0	100.0	3
 2012	pt	CONCOURS TELECOM INT	ENSSAT Lannion	902	14.0	32.0	715	14.0	35.0	113	19.0	34.0	91	11	18.0	37.0	8
 2012	pt	CONCOURS TELECOM INT	ESIAL Nancy	902	14.0	32.0	658	14.0	36.0	105	20.0	28.0	74	12	8.0	25.0	12
@@ -72,14 +65,12 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2012	pt	CONCOURS TELECOM INT	TELECOM PHYSIQUE Strasbourg-TIC et Santé	902	14.0	32.0	223	11.0	33.0	5	20.0	20.0	0	0	0.0	0.0	2
 2012	pt	CONCOURS TELECOM INT	TELECOM St Etienne	902	14.0	32.0	653	14.0	36.0	95	22.0	27.0	83	12	25.0	42.0	10
 2012	pt	CONCOURS TELECOM INT	TELECOM SudParis-cursus Evry	902	14.0	32.0	130	12.0	30.0	31	22.0	33.0	31	4	25.0	25.0	6
-2012	pt	Concours Commun des Ecoles des Mines	Rg dudernier appelé
 2012	pt	Concours Commun des Ecoles des Mines	Ecole des Mines d'Albi										445	9	33.0	23.0	10
 2012	pt	Concours Commun des Ecoles des Mines	Ecole des Mines d'Alès										400	22	4.0	23.0	22
 2012	pt	Concours Commun des Ecoles des Mines	Ecole des Mines Douai										356	17	23.0	24.0	17
 2012	pt	Concours Commun des Ecoles des Mines	Ecole des Mines Nantes										235	8	0.0	25.0	5
 2012	pt	Concours Commun des Ecoles des Mines	ENSTA Bretagne Civil										450	13	15.0	62.0	13
 2012	pt	Concours Commun des Ecoles des Mines	Concours Commun des Ecoles des Mines	1764	14.0	28.0	688	9.0	35.0	470	9.0	38.0		69			67
-2012	pt	Concours Archimède	Rg dudernier appelé
 2012	pt	Concours Archimède	Aménagement, Eau et Environnement-Polytech Tours										1227	3	33.0	0.0	7
 2012	pt	Concours Archimède	Automatique, Robotique, Systèmes industriels-Polytech Grenoble										1227	1	0.0	0.0	3
 2012	pt	Concours Archimède	Automatique, Robotique, Systèmes industriels-Polytech Lyon										1227	1	0.0	0.0	3
@@ -144,7 +135,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2012	pt	Concours Archimède	Mécanique, Énergie, Matériaux, Mécatronique-Polytech Tours										1227	2	0.0	0.0	3
 2012	pt	Concours Archimède	Sup Galilée Villetaneuse										1227	1	0.0	100.0	4
 2012	pt	Concours Archimède	Concours Commun ARCHIMEDE	1958	14.0	29.0	1406	13.0	31.0	1227	12.0	33.0		99			193
-2012	pt	AUTRES ECOLES	Rg dudernier appelé
 2012	pt	AUTRES ECOLES	3IL Limoges	127	14.0	30.0				123	14.0	30.0	123	5	60.0	0.0	8
 2012	pt	AUTRES ECOLES	ECE PARIS	596	17.0	30.0	450	15.0	34.0	241	15.0	35.0	199	29	17.0	35.0	22
 2012	pt	AUTRES ECOLES	EFREI Paris	221	16.0	21.0	206	15.0	22.0	70	18.0	25.0	70	3	0.0	0.0	20
@@ -181,7 +171,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2012	pt	AUTRES ECOLES	ISMANS Le Mans	311	16.0	30.0	289	16.0	32.0	102	19.0	28.0	102	11	27.0	37.0	20
 2012	pt	AUTRES ECOLES	Grenoble INP-Génie Industriel	854	15.0	36.0	232	9.0	49.0	113	11.0	53.0	113	9	11.0	12.0	15
 2012	pt	AUTRES ECOLES	ITECH Lyon	144	27.0	35.0	103	28.0	41.0	7	57.0	15.0	7	0	0.0	0.0	5
-2012	pt	FESIC	Rg dudernier appelé
 2012	pt	FESIC	ECAM Lyon				200	13.0	42.0	58	17.0	45.0	58	1	0.0	0.0	3
 2012	pt	FESIC	ECAM Rennes Louis de Broglie	770	16.0	31.0	688	15.0	33.0	72	19.0	39.0	71	14	14.0	29.0	16
 2012	pt	FESIC	ECAM Strasbourg Europe				714	16.0	32.0	149	16.0	36.0	149	16	31.0	13.0	15
@@ -193,7 +182,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2012	pt	FESIC	ISEN Lille	770	16.0	31.0	562	15.0	36.0	234	14.0	42.0	234	5	20.0	60.0	5
 2012	pt	FESIC	ISEN Toulon	770	16.0	31.0				256	15.0	40.0	256	5	40.0	40.0	5
 2012	pt	FESIC	ISEP Paris	770	16.0	31.0	646	15.0	33.0	240	11.0	40.0	240	13	7.0	31.0	12
-2012	pt	EPITA	Rg dudernier appelé
 2012	pt	EPITA	EPITA										23	2	0.0	0.0	6
 2012	pt	EPITA	IPSA Paris										21	3	33.0	0.0	3
 2012	pt	EPITA	IPSA Toulouse										23	0	0.0	0.0	2
