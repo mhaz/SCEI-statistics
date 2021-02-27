@@ -1,4 +1,4 @@
-year	filiere	banque	ehcole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	integres_places
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
 2019	pc	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE	1297	27.7	24.8	251	19.9	25.1	162	17.9	24.1	130	16.9	26.2	74	73	130
 2019	pc	CONCOURS ECOLE POLYTECHNIQUE	ESPCI Paris	1396	29.8	24.9	417	21.8	24.0	369	21.1	23.0	55	40.0	9.1	210	206	55
 2019	pc	CONCOURS ECOLE POLYTECHNIQUE	ESPCI Paris Etranger	60	30.0	30.0	20	20.0	25.0	13	30.8	30.8	3	33.3	33.3	7	8	2

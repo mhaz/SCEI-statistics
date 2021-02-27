@@ -1,4 +1,4 @@
-year	filiere	banque	ehcole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	integres_places
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
 2018	tsi	Concours Polytechnique	ECOLE POLYTECHNIQUE	580	6.4	21.2	94	6.4	27.7	2	0.0	0.0	2	0.0	0.0	2	2	2
 2018	tsi	CONCOURS CENTRALE-SUPELEC	CentraleSupélec-Campus Gif										5	0.0	0.0	5	7	5
 2018	tsi	CONCOURS CENTRALE-SUPELEC	CentraleSupélec-cursus apprenti-Campus Rennes										13	0.0	15.4	33	34	12

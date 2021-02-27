@@ -1,4 +1,4 @@
-year	filiere	banque	ehcole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	integres_places
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
 2019	mp	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE Info.	861	11.1	24.3	212	9.0	17.9	162	10.5	15.4	102	15.7	14.7	80	77	102
 2019	mp	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE P&SI	767	22.4	25.3	173	18.5	16.8	120	20.8	14.2	81	23.5	16.0	46	46	81
 2019	mp	BANQUE ENS	ENS Ulm MPI	1720	17.8	28.5	141	7.8	19.1	96	8.3	14.6	38	7.9	10.5	37	36	38

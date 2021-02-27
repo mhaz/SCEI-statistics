@@ -1,4 +1,4 @@
-year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	integres_places
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
 2020	pc	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE	1298	26.5	27.6				159	19.5	20.8	130	18.5	18.5	70	70	130
 2020	pc	CONCOURS ECOLE POLYTECHNIQUE	ESPCI Paris	1374	29.7	27.0				376	24.5	23.4	49	28.6	24.5	254	256	55
 2020	pc	CONCOURS ECOLE POLYTECHNIQUE	ESPCI Paris Etranger	68	29.4	23.5				19	21.1	21.1	2	0.0	50.0	12	12	2

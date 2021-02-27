@@ -1,4 +1,4 @@
-year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	integres_places
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
 2020	tsi	Concours Polytechnique	ECOLE POLYTECHNIQUE	669	10.3	15.8				2	0.0	0.0	2	0.0	0.0	2	2	2
 2020	tsi	CONCOURS CENTRALE-SUPELEC	Arts et Métiers										36	8.3	19.4	83	83	35
 2020	tsi	CONCOURS CENTRALE-SUPELEC	Arts et Métiers-voie de l'apprentissage										0	0.0	0.0	0	0	0

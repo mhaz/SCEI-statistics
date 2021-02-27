@@ -1,4 +1,4 @@
-year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	integres_places
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
 2020	tb	Concours  A TB BIO	ENSAT Toulouse										5	80.0	20.0	49	48	5
 2020	tb	Concours  A TB BIO	Agrocampus Ouest (cursus ingénieur agronome)										4	100.0	0.0	31	37	4
 2020	tb	Concours  A TB BIO	Montpellier Sup Agro (cursus agronome)										5	60.0	60.0	46	44	5

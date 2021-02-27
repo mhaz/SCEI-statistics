@@ -1,4 +1,4 @@
-year	filiere	banque	ehcole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	integres_places
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
 2018	pt	CENTRALE-SUPELEC	CENTRALE CASABLANCA										0	0.0	0.0	0	0	4
 2018	pt	CENTRALE-SUPELEC	CentraleSupélec-Campus Gif										20	10.0	5.0	30	28	20
 2018	pt	CENTRALE-SUPELEC	CentraleSupélec-cursus apprenti-Campus Rennes										7	14.3	0.0	97	87	5

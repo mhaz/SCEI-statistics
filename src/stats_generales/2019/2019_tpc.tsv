@@ -1,4 +1,4 @@
-year	filiere	banque	ehcole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	integres_places
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
 2019	tpc	CONCOURS COMMUN INP	ENSICAEN Mat. et Chimie										2	50.0	50.0	24	24	2
 2019	tpc	CONCOURS COMMUN INP	SIGMA Clermont-Ferrand (ex ENSCCF)										2	0.0	0.0	17	17	2
 2019	tpc	CONCOURS COMMUN INP	ESCOM Chimie Compiègne										0	0.0	0.0	0	0	3

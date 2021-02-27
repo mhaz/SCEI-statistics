@@ -1,4 +1,4 @@
-year	filiere	banque	ehcole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	integres_places
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
 2019	pt	CENTRALE-SUPELEC	CentraleSupélec-cursus apprenti-Campus Metz										11	9.1	18.2	209	214	15
 2019	pt	CENTRALE-SUPELEC	CENTRALE CASABLANCA										0	0.0	0.0	0	0	5
 2019	pt	CENTRALE-SUPELEC	CentraleSupélec-cursus apprenti-Campus Rennes										12	8.3	16.7	127	130	15

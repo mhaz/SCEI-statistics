@@ -58,7 +58,7 @@ def parse_to_file(f, path, filiere, year, sep):
 
 sep = '\t'
 
-header = "year" + sep + "filiere" + sep + "banque" + sep + "ecole" + sep + "inscrits_nb" + sep + "inscrits_filles" + sep + "inscrits_cinq_demi" + sep + "admissibles_nb" + sep + "admissibles_filles" + sep + "admissibles_cinq_demi" + sep + "classes_nb" + sep + "classes_filles" + sep + "classes_cinq_demi" + sep + "integres_nb" + sep + "integres_filles" + sep + "integres_cinq_demi" + sep + "integres_rg_median" + sep + "integres_rg_moyen" + sep + "integres_places"
+header = "year" + sep + "filiere" + sep + "banque" + sep + "ecole" + sep + "inscrits_nb" + sep + "inscrits_filles" + sep + "inscrits_cinq_demi" + sep + "admissibles_nb" + sep + "admissibles_filles" + sep + "admissibles_cinq_demi" + sep + "classes_nb" + sep + "classes_filles" + sep + "classes_cinq_demi" + sep + "integres_nb" + sep + "integres_filles" + sep + "integres_cinq_demi" + sep + "integres_rg_median" + sep + "integres_rg_moyen" + sep + "places"
 
 prepas = ["bcpst","psi","tb","mp","pt","tpc","pc","tsi"]
 path = "../../../data/stat2020/"

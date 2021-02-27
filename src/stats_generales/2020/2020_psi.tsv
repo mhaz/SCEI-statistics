@@ -1,4 +1,4 @@
-year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	integres_places
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
 2020	psi	BANQUE ENS CACHAN/EC. POLYTECH	ENS Ulm PSI	1029	19.0	20.5				32	9.4	12.5	6	0.0	16.7	15	12	6
 2020	psi	BANQUE ENS CACHAN/EC. POLYTECH	ECOLE POLYTECHNIQUE	1028	16.8	18.8				69	17.4	5.8	57	19.3	5.3	31	32	57
 2020	psi	BANQUE ENS CACHAN/EC. POLYTECH	ENS Paris-Saclay	1428	19.6	19.9				375	15.7	14.9	39	12.8	25.6	197	187	39

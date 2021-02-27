@@ -1,4 +1,4 @@
-year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	integres_places
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
 2020	bcpst	A BIO	CentraleSupélec-Campus Metz										11	63.6	0.0	107	104	10
 2020	bcpst	A BIO	AgroParisTech Grignon										258	65.5	13.6	468	467	258
 2020	bcpst	A BIO	Montpellier Sup Agro (cursus agronome)										99	67.7	35.4	1004	956	99
