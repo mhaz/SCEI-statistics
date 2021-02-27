@@ -1,0 +1,261 @@
+year	filiere	banque	ehcole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	integres_places
+2019	tsi	Concours Polytechnique	ECOLE POLYTECHNIQUE	563	8.5	22.9	2	0.0	0.0	2	0.0	0.0	2	0.0	0.0	2	2	2
+2019	tsi	CONCOURS CENTRALE-SUPELEC	CentraleSupélec-Campus étudiant										5	0.0	0.0	8	8	5
+2019	tsi	CONCOURS CENTRALE-SUPELEC	CentraleSupélec-cursus apprenti-Campus Metz										7	0.0	42.9	48	47	15
+2019	tsi	CONCOURS CENTRALE-SUPELEC	CentraleSupélec-cursus apprenti-Campus Rennes										8	12.5	12.5	20	20	15
+2019	tsi	CONCOURS CENTRALE-SUPELEC	¥Concours CentraleSupélec TSI	517	9.3	23.0	101	10.9	27.7	95	9.5	28.4	20					35
+2019	tsi	CONCOURS CENTRALE-SUPELEC	CENTRALE LYON	518	9.5	21.6	66	6.1	22.7	64	4.7	23.4	5	0.0	20.0	18	18	5
+2019	tsi	CONCOURS CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	276	6.5	25.0	30	6.7	30.0	28	3.6	28.6	3	33.3	0.0	13	14	1
+2019	tsi	CONCOURS CENTRALE-SUPELEC	CENTRALE LILLE	508	10.4	23.0	60	8.3	20.0	57	7.0	21.1	4	0.0	50.0	33	33	5
+2019	tsi	CONCOURS CENTRALE-SUPELEC	CENTRALE NANTES	545	9.5	21.8	61	6.6	23.0	59	5.1	23.7	8	0.0	12.5	24	21	10
+2019	tsi	CONCOURS CENTRALE-SUPELEC	CENTRALE MARSEILLE	492	8.5	23.4	95	8.4	30.5	89	6.7	31.5	5	0.0	20.0	47	42	5
+2019	tsi	CONCOURS CENTRALE-SUPELEC	CENTRALE CASABLANCA	250	7.6	21.6	50	6.0	34.0	43	2.3	32.6	0	0.0	0.0	0	0	3
+2019	tsi	CONCOURS CENTRALE-SUPELEC	Université de Technologie de Troyes (UTT)	374	5.6	22.5	91	3.3	24.2	78	3.8	25.6	8	0.0	0.0	65	62	10
+2019	tsi	CONCOURS CENTRALE-SUPELEC	Arts et Métiers										36	13.9	38.9	53	49	35
+2019	tsi	CONCOURS CENTRALE-SUPELEC	Arts et Métiers-voie de l'apprentissage										0	0.0	0.0	0	0	0
+2019	tsi	CONCOURS CENTRALE-SUPELEC	ENSEA Cergy										6	0.0	16.7	101	96	10
+2019	tsi	CONCOURS CENTRALE-SUPELEC	ESIEE Amiens										0	0.0	0.0	0	0	5
+2019	tsi	CONCOURS CENTRALE-SUPELEC	¥Concours ARTS ET MÉTIERS ParisTech TSI	695	9.6	20.6	181	7.7	30.9	123	9.8	31.7	42					50
+2019	tsi	CONCOURS CENTRALE-SUPELEC	ESTP Paris-Génie Mécanique et Electrique(GME)										9	22.2	22.2	93	90	10
+2019	tsi	CONCOURS CENTRALE-SUPELEC	ESTP Paris-Bâtiment (B)-campus de Cachan										5	0.0	20.0	52	55	6
+2019	tsi	CONCOURS CENTRALE-SUPELEC	ESTP Paris-Travaux Publics (TP)-campus de Cachan										8	25.0	25.0	64	59	8
+2019	tsi	CONCOURS CENTRALE-SUPELEC	ESTP Paris-Topographie (T)										1	0.0	100.0	121	121	6
+2019	tsi	CONCOURS CENTRALE-SUPELEC	ESTP Paris-Travaux Publics (TP)-campus de Dijon										9	22.2	0.0	114	111	2
+2019	tsi	CONCOURS CENTRALE-SUPELEC	¥Concours ESTP TSI	286	8.4	22.7	209	9.1	23.4	121	12.4	25.6	32					32
+2019	tsi	CONCOURS CENTRALE-SUPELEC	ESIX Normandie-Caen-Cherbourg	557	7.5	19.9	363	6.6	23.1	87	4.6	26.4	32	6.2	34.4	40	45	40
+2019	tsi	CONCOURS CENTRALE-SUPELEC	SIGMA Clermont-Ferrand (ex IFMA)	278	5.8	25.5	74	4.1	39.2	19	10.5	31.6	8	12.5	50.0	11	10	8
+2019	tsi	CONCOURS CENTRALE-SUPELEC	ISMANS-Groupe CESI Le Mans	329	7.3	18.2	300	6.7	18.3	54	9.3	14.8	18	11.1	16.7	31	31	40
+2019	tsi	CONCOURS CENTRALE-SUPELEC	ESTP Paris-Bâtiment (B)-campus de Troyes	286	8.4	22.7	209	9.1	23.4	121	12.4	25.6	12	16.7	16.7	89	89	4
+2019	tsi	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										2	0.0	50.0	20	20	2
+2019	tsi	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech-apprentissage										0	0.0	0.0	0	0	4
+2019	tsi	CONCOURS COMMUN MINES-PONTS	IMT Atlantique cursus Brest-Nantes-Rennes-Toulouse										1	0.0	0.0	49	49	1
+2019	tsi	CONCOURS COMMUN MINES-PONTS	ISAE-SUPAERO Toulouse										1	100.0	0.0	20	20	2
+2019	tsi	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										2	0.0	100.0	69	69	2
+2019	tsi	CONCOURS COMMUN MINES-PONTS	MINES SAINT-ETIENNE										3	0.0	33.3	56	53	2
+2019	tsi	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										1	0.0	0.0	4	4	2
+2019	tsi	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										0	0.0	0.0	0	0	1
+2019	tsi	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										2	0.0	0.0	12	12	2
+2019	tsi	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										1	0.0	100.0	23	23	1
+2019	tsi	CONCOURS COMMUN MINES-PONTS	¥Concours commun Mines-Ponts TSI	563	8.5	22.9	87	8.0	35.6	82	7.3	35.4	13					19
+2019	tsi	CONCOURS COMMUN INP	Bordeaux INP-ENSEIRB-MATMECA Electronique										4	0.0	0.0	91	97	5
+2019	tsi	CONCOURS COMMUN INP	Bordeaux INP-ENSEIRB-MATMECA Informatique										4	0.0	0.0	141	143	2
+2019	tsi	CONCOURS COMMUN INP	Bordeaux INP-ENSEIRB-MATMECA Télecom.										2	0.0	0.0	163	163	1
+2019	tsi	CONCOURS COMMUN INP	CPE LYON Sciences du numérique										3	33.3	0.0	170	199	2
+2019	tsi	CONCOURS COMMUN INP	ENGEES Strasbourg Civil (étudiant)										2	0.0	0.0	320	320	2
+2019	tsi	CONCOURS COMMUN INP	ENSGTI Pau-Energétique										1	0.0	0.0	160	160	2
+2019	tsi	CONCOURS COMMUN INP	ENSI Poitiers Energie										2	0.0	0.0	301	301	4
+2019	tsi	CONCOURS COMMUN INP	ENSIAME Valenciennes Informatique et Génie Industriel										3	0.0	0.0	309	318	2
+2019	tsi	CONCOURS COMMUN INP	ENSIAME Valenciennes Méca Energ.										10	10.0	30.0	322	296	6
+2019	tsi	CONCOURS COMMUN INP	ENSIAME Valenciennes Mécatronique										6	33.3	16.7	315	291	8
+2019	tsi	CONCOURS COMMUN INP	ENSICAEN Electronique et Physique Appliquée										5	0.0	20.0	294	268	4
+2019	tsi	CONCOURS COMMUN INP	ENSICAEN Informatique										2	0.0	50.0	180	180	2
+2019	tsi	CONCOURS COMMUN INP	ENSMM Besançon										13	7.7	15.4	221	201	19
+2019	tsi	CONCOURS COMMUN INP	Grenoble INP-ENSE3										4	0.0	25.0	60	64	3
+2019	tsi	CONCOURS COMMUN INP	Grenoble INP-Pagora										0	0.0	0.0	0	0	1
+2019	tsi	CONCOURS COMMUN INP	Grenoble INP-Phelma (Physique Electronique Télécoms)										4	0.0	0.0	89	92	2
+2019	tsi	CONCOURS COMMUN INP	Grenoble INP-Phelma (Physique Matériaux Procédés)										4	0.0	25.0	82	85	2
+2019	tsi	CONCOURS COMMUN INP	ISAE-ENSMA Poitiers										2	0.0	0.0	71	71	2
+2019	tsi	CONCOURS COMMUN INP	ISIMA Clermont-Ferrand										4	0.0	0.0	248	256	5
+2019	tsi	CONCOURS COMMUN INP	Lorraine INP-ENSEM-Energie										5	20.0	0.0	206	213	4
+2019	tsi	CONCOURS COMMUN INP	SeaTech Toulon										2	0.0	100.0	181	181	2
+2019	tsi	CONCOURS COMMUN INP	SUPMECA Paris										3	0.0	0.0	114	107	3
+2019	tsi	CONCOURS COMMUN INP	TELECOM PHYSIQUE Strasbourg										4	0.0	25.0	197	195	6
+2019	tsi	CONCOURS COMMUN INP	Toulouse INP-ENSEEIHT-Electronique-Energie-Automatique (EEA)										2	0.0	0.0	58	58	2
+2019	tsi	CONCOURS COMMUN INP	Toulouse INP-ENSEEIHT-Mécanique desFluides-Energetique-Environnement (MFEE)										1	0.0	0.0	100	100	1
+2019	tsi	CONCOURS COMMUN INP	Toulouse INP-ENSEEIHT-Sciences du Numérique										1	0.0	0.0	92	92	1
+2019	tsi	CONCOURS COMMUN INP	Toulouse INP-ENSIACET-Génie Industriel										2	0.0	50.0	78	78	2
+2019	tsi	CONCOURS COMMUN INP	¥Concours CCINP TSI	1231	10.8	16.7	578	9.0	22.7	370	6.5	22.2	95					95
+2019	tsi	BANQUE EPREUVES CCINP Inter-Filière	Lorraine INP-ENSGSI	296	7.8	23.0	119	7.6	29.4	32	15.6	34.4	6	0.0	50.0	96	89	35
+2019	tsi	BANQUE EPREUVES CCINP	ECAM Rennes	335	8.7	18.5	291	7.9	20.6	58	12.1	10.3	7	0.0	14.3	26	23	10
+2019	tsi	BANQUE EPREUVES CCINP	EIL Côte d'Opale-Calais (informatique)										10	20.0	10.0	153	139	12
+2019	tsi	BANQUE EPREUVES CCINP	EIL Côte d'Opale-Longuenesse (Génie Industriel)										16	12.5	25.0	152	138	18
+2019	tsi	BANQUE EPREUVES CCINP	¥Concours EIL Côte d'Opale Longuenesse-Calais TSI	363	9.1	17.4	293	7.5	18.4	185	6.5	18.9	26					30
+2019	tsi	BANQUE EPREUVES CCINP	EIVP Paris Civil	1231	10.8	16.7	137	8.8	28.5	90	4.4	31.1	9	11.1	44.4	57	55	7
+2019	tsi	BANQUE EPREUVES CCINP	ENS Paris-Saclay	688	10.8	21.8	55	3.6	27.3	24	4.2	29.2	4	0.0	100.0	15	15	4
+2019	tsi	BANQUE EPREUVES CCINP	ENS Rennes	696	10.6	22.3	103	7.8	30.1	30	6.7	40.0	2	0.0	50.0	27	27	2
+2019	tsi	BANQUE EPREUVES CCINP	ENSAIT Roubaix										5	60.0	0.0	68	59	5
+2019	tsi	BANQUE EPREUVES CCINP	ENSAIT Roubaix-Formation en alternance										0	0.0	0.0	0	0	2
+2019	tsi	BANQUE EPREUVES CCINP	¥Concours ENSAIT Roubaix TSI	367	9.3	24.3	249	8.0	28.9	73	8.2	41.1	5					7
+2019	tsi	BANQUE EPREUVES CCINP	ENSISA Mulhouse Automatique et Systèmes Embarqués										0	0.0	0.0	0	0	3
+2019	tsi	BANQUE EPREUVES CCINP	ENSISA Mulhouse Informatique et réseaux										4	0.0	25.0	36	34	5
+2019	tsi	BANQUE EPREUVES CCINP	ENSISA Mulhouse Mécanique										3	0.0	33.3	33	35	5
+2019	tsi	BANQUE EPREUVES CCINP	ENSISA Mulhouse Textile et Fibres										1	100.0	100.0	48	48	2
+2019	tsi	BANQUE EPREUVES CCINP	¥Concours ENSISA TSI	502	10.0	17.5	251	7.6	19.9	48	8.3	18.8	8					15
+2019	tsi	BANQUE EPREUVES CCINP	ENTPE Lyon Civil										2	0.0	0.0	37	37	2
+2019	tsi	BANQUE EPREUVES CCINP	ENTPE Lyon Fonctionnaire										4	25.0	75.0	26	26	4
+2019	tsi	BANQUE EPREUVES CCINP	¥Concours TPE-Candidats français et de l'Union européenne-filièreTSI	428	7.7	23.8	157	5.7	31.8	80	3.8	31.2	6					6
+2019	tsi	BANQUE EPREUVES CCINP	ESB Nantes	240	6.7	18.8	202	6.9	19.3	41	14.6	12.2	15	20.0	20.0	22	20	15
+2019	tsi	BANQUE EPREUVES CCINP	ESIGELEC Rouen	500	8.2	20.6	432	7.4	22.2	226	4.0	26.1	38	0.0	15.8	179	176	35
+2019	tsi	BANQUE EPREUVES CCINP	ESIPE Créteil-Technologie pour la santé	380	7.1	22.1	183	5.5	28.4	136	5.1	31.6	4	0.0	50.0	112	106	8
+2019	tsi	BANQUE EPREUVES CCINP	ESIREM Dijon	372	8.1	19.6	248	7.7	19.4	50	10.0	14.0	12	8.3	8.3	21	20	12
+2019	tsi	BANQUE EPREUVES CCINP	ESTIA Bidart	363	4.7	17.9	278	4.7	20.9	95	6.3	22.1	33	6.1	24.2	48	48	35
+2019	tsi	BANQUE EPREUVES CCINP	Grenoble INP-Génie Industriel	432	7.4	22.0	40	2.5	35.0	3	0.0	33.3	0	0.0	0.0	0	0	2
+2019	tsi	BANQUE EPREUVES CCINP	ISAT Nevers-département MIT (Mécanique et Ingénierie desTransports)										5	0.0	40.0	92	77	5
+2019	tsi	BANQUE EPREUVES CCINP	ISAT Nevers-département EPEE (Energies et Moteurs)										4	0.0	0.0	64	66	4
+2019	tsi	BANQUE EPREUVES CCINP	ISAT Nevers-Infrastructures et Réseaux de Transports										2	0.0	50.0	69	69	2
+2019	tsi	BANQUE EPREUVES CCINP	¥Concours ISAT TSI	461	7.2	19.5	153	1.3	26.8	122	1.6	32.8	11					11
+2019	tsi	BANQUE EPREUVES CCINP	ISEP Paris	238	5.9	18.1	221	6.3	18.6	148	6.8	16.9	9	0.0	0.0	56	57	10
+2019	tsi	BANQUE EPREUVES CCINP	ISIS Castres Informatique pour la Santé	1231	10.8	16.7	154	5.2	30.5	3	0.0	100.0	0	0.0	0.0	0	0	2
+2019	tsi	BANQUE EPREUVES CCINP	Lorraine INP-ENSTIB	331	9.4	22.7	214	11.2	22.4	52	21.2	28.8	11	9.1	18.2	10	11	7
+2019	tsi	BANQUE EPREUVES CCINP	Toulouse INP-ENIT	539	9.5	19.7	217	6.9	19.8	136	5.9	19.9	6	0.0	16.7	108	96	8
+2019	tsi	BANQUE EPREUVES CCINP	3IL Ingénieurs	239	4.6	15.1	204	2.9	15.2	61	0.0	16.4	3	0.0	33.3	56	57	15
+2019	tsi	Concours Mines-Télécom	IMT Mines Albi										3	33.3	66.7	92	97	2
+2019	tsi	Concours Mines-Télécom	IMT Mines Alès										2	0.0	0.0	105	105	2
+2019	tsi	Concours Mines-Télécom	ENSIIE Evry										4	0.0	0.0	85	89	4
+2019	tsi	Concours Mines-Télécom	ENSTA Bretagne (filière sous statut étudiant)										2	50.0	50.0	57	57	2
+2019	tsi	Concours Mines-Télécom	IMT Lille Douai										1	0.0	100.0	66	66	2
+2019	tsi	Concours Mines-Télécom	Mines Saint Etienne-ISMIN										5	0.0	80.0	116	114	3
+2019	tsi	Concours Mines-Télécom	TELECOM SudParis-cursus Evry										7	0.0	28.6	46	41	5
+2019	tsi	Concours Mines-Télécom	ENSG-Géomatique Marne la Vallée Civil										1	0.0	0.0	185	185	1
+2019	tsi	Concours Mines-Télécom	ENSSAT Lannion										2	0.0	0.0	143	143	3
+2019	tsi	Concours Mines-Télécom	TELECOM Nancy										3	0.0	0.0	67	85	3
+2019	tsi	Concours Mines-Télécom	TELECOM St Etienne-Statut étudiant										1	0.0	0.0	56	56	3
+2019	tsi	Concours Mines-Télécom	TELECOM St Etienne-Statut apprenti										1	0.0	0.0	135	135	2
+2019	tsi	Concours Mines-Télécom	¥Concours Mines-Télécom TSI	670	7.5	23.4	236	4.2	28.0	205	3.9	29.3	32					32
+2019	tsi	Réseau Polytech	Polytech Annecy-Chambéry-Environnement, Bâtiment, Énergie										2	0.0	50.0	168	168	2
+2019	tsi	Réseau Polytech	Polytech Nice-Sophia-Génie de l'eau										3	0.0	100.0	260	246	2
+2019	tsi	Réseau Polytech	Polytech Annecy-Chambéry-Instrumentation, Automatique,Informatique										1	0.0	0.0	49	49	2
+2019	tsi	Réseau Polytech	Polytech Annecy-Chambéry-Mécanique, Matériaux										4	0.0	25.0	343	316	3
+2019	tsi	Réseau Polytech	Polytech Clermont-Ferrand-Génie Electrique										2	0.0	0.0	286	286	2
+2019	tsi	Réseau Polytech	Polytech Clermont-Ferrand-Génie Physique										2	0.0	0.0	236	236	2
+2019	tsi	Réseau Polytech	Polytech Lille-Informatique, Microélectronique, Automatique										2	50.0	50.0	323	323	2
+2019	tsi	Réseau Polytech	Polytech Lyon-Mécanique										2	0.0	0.0	172	172	2
+2019	tsi	Réseau Polytech	Polytech Lyon-Systèmes industriels, Robotique										2	50.0	0.0	222	222	2
+2019	tsi	Réseau Polytech	Polytech Marseille-Génie Civil										5	40.0	20.0	315	304	3
+2019	tsi	Réseau Polytech	Polytech Marseille-Génie Industriel et Informatique										4	75.0	0.0	361	348	3
+2019	tsi	Réseau Polytech	Polytech Marseille-Informatique										4	0.0	50.0	311	312	3
+2019	tsi	Réseau Polytech	Polytech Marseille-Mécanique, Energétique										4	0.0	0.0	326	308	3
+2019	tsi	Réseau Polytech	Polytech Marseille-Microélectronique,Télécommunications										0	0.0	0.0	0	0	2
+2019	tsi	Réseau Polytech	Polytech Montpellier-Microélectronique et Automatique										3	0.0	33.3	320	275	3
+2019	tsi	Réseau Polytech	Polytech Nantes-Énergie électrique										2	0.0	50.0	200	200	2
+2019	tsi	Réseau Polytech	Polytech Orléans-Génie physique et systèmes embarqués										1	0.0	100.0	137	137	3
+2019	tsi	Réseau Polytech	Polytech Orléans-Génie civil et géo-environnement										3	33.3	0.0	286	268	2
+2019	tsi	Réseau Polytech	Polytech Orléans-Génie industriel										1	0.0	0.0	387	387	3
+2019	tsi	Réseau Polytech	Polytech Orléans-Innovation en Conception et Matériaux										2	0.0	0.0	327	327	3
+2019	tsi	Réseau Polytech	Polytech Orléans-Technologies pour l'Énergie, l'Aérospatial et laMotorisation										5	0.0	20.0	186	208	4
+2019	tsi	Réseau Polytech	Polytech Tours-Électronique, Énergie électrique										2	0.0	0.0	309	309	2
+2019	tsi	Réseau Polytech	Polytech Tours-Informatique										3	0.0	0.0	236	191	2
+2019	tsi	Réseau Polytech	Polytech Tours-Mécanique, Conception de systèmes										4	0.0	25.0	320	317	2
+2019	tsi	Réseau Polytech	Polytech Sorbonne-Electronique et Informatique										2	0.0	0.0	256	256	2
+2019	tsi	Réseau Polytech	Polytech Nancy-Energie, Mécanique, Matériaux, Environnement										3	0.0	0.0	294	308	2
+2019	tsi	Réseau Polytech	Polytech Nancy-Ingénierie de l'Information et des Systèmes										2	0.0	50.0	329	329	2
+2019	tsi	Réseau Polytech	Polytech Nancy-Management opérationnel, Maintenance, Maîtrise desrisques										0	0.0	0.0	0	0	2
+2019	tsi	Réseau Polytech	Polytech Tours-Génie de l'aménagement et de l'environnement										1	0.0	0.0	370	370	2
+2019	tsi	Réseau Polytech	¥Concours Polytech TSI	1040	9.5	17.7	577	7.5	19.2	402	6.5	21.9	71					69
+2019	tsi	Groupe INSA	INSA Euro-Méditerranée Génie Electrique										1	0.0	100.0	77	77	1
+2019	tsi	Groupe INSA	INSA Lyon Génie Electrique										2	0.0	0.0	14	14	2
+2019	tsi	Groupe INSA	INSA Rennes Electronique et Informatique Industrielle										2	0.0	0.0	59	59	1
+2019	tsi	Groupe INSA	INSA Rennes Système et Réseaux de Communication										2	0.0	50.0	64	64	2
+2019	tsi	Groupe INSA	INSA Toulouse Automatique et Electronique										2	0.0	0.0	44	44	1
+2019	tsi	Groupe INSA	¥Concours INSA Domaine Génie électrique, électronique, automatiqueTSI	379	5.8	24.0	186	4.8	28.5	150	4.7	27.3	9					7
+2019	tsi	Groupe INSA	INSA Centre Val de Loire Sécurité et Technologies Informatiques										2	50.0	50.0	66	66	1
+2019	tsi	Groupe INSA	INSA Euro-Méditerranée Systèmes d'Information et de Communication										0	0.0	0.0	0	0	1
+2019	tsi	Groupe INSA	INSA Lyon Informatique										6	0.0	16.7	29	29	6
+2019	tsi	Groupe INSA	INSA Lyon Télécommunications, services et usages										1	0.0	0.0	33	33	1
+2019	tsi	Groupe INSA	INSA Toulouse Informatique et Réseaux										6	0.0	16.7	60	56	4
+2019	tsi	Groupe INSA	¥Concours INSA Domaine Informatique, mathématique, modélisation TSI	352	6.0	22.7	110	3.6	29.1	94	4.3	28.7	15					13
+2019	tsi	Groupe INSA	INSA Centre Val de Loire Génie des Systèmes Industriels										1	0.0	0.0	114	114	1
+2019	tsi	Groupe INSA	INSA Euro-Méditerranée Génie Mécanique et Energétique										0	0.0	0.0	0	0	1
+2019	tsi	Groupe INSA	INSA Lyon Génie Mécanique										1	0.0	0.0	4	4	1
+2019	tsi	Groupe INSA	INSA Rennes Génie Mécanique et Automatique										2	0.0	50.0	38	38	2
+2019	tsi	Groupe INSA	INSA Strasbourg Génie Mécanique										1	0.0	100.0	66	66	1
+2019	tsi	Groupe INSA	INSA Strasbourg Mécatronique										2	0.0	50.0	61	61	2
+2019	tsi	Groupe INSA	¥Concours INSA Domaine Génie mécanique, génie industriel et mécatroniqueTSI	482	8.5	22.6	143	6.3	30.8	123	6.5	31.7	7					8
+2019	tsi	Groupe INSA Inter-Filière	ESITech Rouen Technologies du Vivant										3	100.0	66.7	424	390	3
+2019	tsi	Groupe INSA Inter-Filière	INSA Lyon Biosciences										4	75.0	25.0	66	66	4
+2019	tsi	Groupe INSA Inter-Filière	INSA Toulouse Génie Biologique										2	50.0	0.0	80	80	2
+2019	tsi	Groupe INSA Inter-Filière	ISIS Castres Informatique pour la Santé										2	50.0	50.0	607	607	15
+2019	tsi	Groupe INSA Inter-Filière	¥Concours INSA Domaine¥Biotechnologies-santé MP-PC-PSI-BCPST	3235	51.3	23.7	1203	53.2	26.4	1030	52.1	25.8	11					24
+2019	tsi	Groupe INSA Inter-Filière	INSA Lyon Génie Energétique et Environnement										4	50.0	0.0	105	106	4
+2019	tsi	Groupe INSA Inter-Filière	INSA Rouen Normandie Chimie et Procédés										5	100.0	20.0	729	612	5
+2019	tsi	Groupe INSA Inter-Filière	INSA Rouen Normandie Energétique et Propulsion										5	20.0	0.0	654	683	4
+2019	tsi	Groupe INSA Inter-Filière	INSA Rouen Normandie Maîtrise des Risques Industriels										5	100.0	20.0	1042	967	5
+2019	tsi	Groupe INSA Inter-Filière	INSA Strasbourg Génie Climatique et Energétique										11	54.5	18.2	858	853	10
+2019	tsi	Groupe INSA Inter-Filière	INSA Toulouse Génie des Procédés et environnement										8	75.0	12.5	415	412	10
+2019	tsi	Groupe INSA Inter-Filière	Sup'EnR Perpignan Energétique et Energies Renouvelables										5	80.0	0.0	638	707	4
+2019	tsi	Groupe INSA Inter-Filière	¥Concours INSA Domaine¥Energétique – Génie Chimique – EnvironnementMP-PC-PSI	3346	39.1	20.8	1304	40.1	22.0	1198	40.2	21.6	43					42
+2019	tsi	Groupe INSA Inter-Filière	INSA Euro-Méditerranée Génie Electrique										2	0.0	50.0	1381	1381	5
+2019	tsi	Groupe INSA Inter-Filière	INSA Lyon Génie Electrique										7	28.6	14.3	356	333	8
+2019	tsi	Groupe INSA Inter-Filière	INSA Rennes Electronique et Informatique Industrielle										1	0.0	0.0	876	876	1
+2019	tsi	Groupe INSA Inter-Filière	INSA Rennes Système et Réseaux de Communication										4	25.0	50.0	1193	1161	4
+2019	tsi	Groupe INSA Inter-Filière	INSA Strasbourg Génie Electrique										12	25.0	25.0	1147	1080	12
+2019	tsi	Groupe INSA Inter-Filière	INSA Toulouse Automatique et Electronique										3	0.0	33.3	433	302	3
+2019	tsi	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie électrique, électronique, automatiqueMP-PC-PSI-PT	3862	24.1	22.0	1705	24.6	23.2	1550	24.7	23.4	29					33
+2019	tsi	Groupe INSA Inter-Filière	INSA Lyon Génie Civil et Urbanisme										7	28.6	14.3	54	71	7
+2019	tsi	Groupe INSA Inter-Filière	INSA Rennes Génie Civil et Urbain										1	100.0	0.0	255	255	1
+2019	tsi	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Civil et constructions durables										3	0.0	33.3	268	334	2
+2019	tsi	Groupe INSA Inter-Filière	INSA Strasbourg Génie Civil										3	100.0	33.3	231	273	3
+2019	tsi	Groupe INSA Inter-Filière	INSA Strasbourg Topographie										2	50.0	0.0	549	549	2
+2019	tsi	Groupe INSA Inter-Filière	INSA Toulouse Génie Civil										1	100.0	0.0	250	250	1
+2019	tsi	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie civil, urbanisme, topographie MP-PC	1836	38.0	22.9	752	40.8	23.5	685	40.7	22.9	17					16
+2019	tsi	Groupe INSA Inter-Filière	INSA Lyon Génie Civil et Urbanisme										9	33.3	0.0	89	77	9
+2019	tsi	Groupe INSA Inter-Filière	INSA Rennes Génie Civil et Urbain										2	0.0	0.0	308	308	2
+2019	tsi	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Civil et constructions durables										1	0.0	100.0	223	223	2
+2019	tsi	Groupe INSA Inter-Filière	INSA Strasbourg Génie Civil										11	45.5	27.3	380	376	12
+2019	tsi	Groupe INSA Inter-Filière	INSA Strasbourg Topographie										6	0.0	33.3	765	770	8
+2019	tsi	Groupe INSA Inter-Filière	INSA Toulouse Génie Civil										2	0.0	50.0	286	286	2
+2019	tsi	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie civil, urbanisme, topographie PSI-PT	2106	26.8	20.2	951	25.0	25.0	883	25.5	25.7	31					35
+2019	tsi	Groupe INSA Inter-Filière	INSA Centre Val de Loire Sécurité et Technologies Informatiques										1	0.0	0.0	578	578	6
+2019	tsi	Groupe INSA Inter-Filière	INSA Euro-Méditerranée Systèmes d'Information et de Communication										0	0.0	0.0	0	0	1
+2019	tsi	Groupe INSA Inter-Filière	INSA Lyon Télécommunications, services et usages										6	16.7	33.3	338	315	6
+2019	tsi	Groupe INSA Inter-Filière	INSA Rennes Informatique										1	0.0	0.0	101	101	2
+2019	tsi	Groupe INSA Inter-Filière	INSA Rouen Normandie Architecture des Systèmes d'Information										1	0.0	0.0	418	418	1
+2019	tsi	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Mathématique										2	0.0	0.0	223	223	2
+2019	tsi	Groupe INSA Inter-Filière	INSA Toulouse Informatique et Réseaux										6	0.0	33.3	232	203	7
+2019	tsi	Groupe INSA Inter-Filière	INSA Toulouse Mathématiques appliquées										1	100.0	0.0	367	367	1
+2019	tsi	Groupe INSA Inter-Filière	¥Concours INSA Domaine Informatique, mathématique, modélisationPC-PSI-PT	2446	22.2	23.9	770	23.1	26.4	699	23.9	27.6	18					26
+2019	tsi	Groupe INSA Inter-Filière	INSA Centre Val de Loire Génie des Systèmes Industriels										8	12.5	25.0	1160	1156	18
+2019	tsi	Groupe INSA Inter-Filière	INSA Euro-Méditerranée Génie Mécanique et Energétique										0	0.0	0.0	0	0	5
+2019	tsi	Groupe INSA Inter-Filière	INSA Lyon Génie Industriel										8	50.0	12.5	81	107	9
+2019	tsi	Groupe INSA Inter-Filière	INSA Lyon Génie Mécanique										36	11.1	16.7	261	247	35
+2019	tsi	Groupe INSA Inter-Filière	INSA Rennes Génie Mécanique et Automatique										18	11.1	11.1	742	752	20
+2019	tsi	Groupe INSA Inter-Filière	INSA Rouen Normandie Mécanique										3	66.7	0.0	562	564	3
+2019	tsi	Groupe INSA Inter-Filière	INSA Strasbourg Génie Mécanique										20	15.0	20.0	758	781	22
+2019	tsi	Groupe INSA Inter-Filière	INSA Strasbourg Mécatronique										12	16.7	8.3	626	644	12
+2019	tsi	Groupe INSA Inter-Filière	INSA Strasbourg Plasturgie										6	0.0	50.0	1175	1178	12
+2019	tsi	Groupe INSA Inter-Filière	INSA Toulouse Génie Mécanique										4	25.0	0.0	327	291	4
+2019	tsi	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie mécanique, génie industriel et mécatroniquePSI-PT	2902	20.6	21.0	1404	20.8	24.4	1304	21.5	25.3	115					140
+2019	tsi	Groupe INSA Inter-Filière	ESITech Rouen Génie Physique										4	0.0	50.0	1208	1223	7
+2019	tsi	Groupe INSA Inter-Filière	INSA Centre Val de Loire Maîtrise des Risques Industriels										10	30.0	30.0	1300	1234	30
+2019	tsi	Groupe INSA Inter-Filière	INSA Lyon Science et Génie des Matériaux										10	50.0	30.0	225	223	10
+2019	tsi	Groupe INSA Inter-Filière	INSA Rennes Science et Génie des Matériaux										2	50.0	50.0	543	543	3
+2019	tsi	Groupe INSA Inter-Filière	INSA Toulouse Génie Physique										4	75.0	50.0	460	501	5
+2019	tsi	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie physique et matériaux MP-PC-PSI	3640	33.6	22.1	1591	36.6	22.8	1435	36.8	22.6	30					55
+2019	tsi	Groupe INSA Inter-Filière	ESITech Rouen Génie Physique										0	0.0	0.0	0	0	3
+2019	tsi	Groupe INSA Inter-Filière	INSA Centre Val de Loire Maîtrise des Risques Industriels										0	0.0	0.0	0	0	10
+2019	tsi	Groupe INSA Inter-Filière	INSA Lyon Science et Génie des Matériaux										1	0.0	100.0	27	27	1
+2019	tsi	Groupe INSA Inter-Filière	INSA Rennes Science et Génie des Matériaux										1	0.0	0.0	111	111	1
+2019	tsi	Groupe INSA Inter-Filière	INSA Toulouse Génie Physique										1	0.0	0.0	80	80	1
+2019	tsi	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie physique et matériaux TSI-PT	1359	13.2	22.7	435	11.7	28.7	406	12.3	29.6	3					16
+2019	tsi	CESI	CESI Angoulême										1	0.0	0.0	75	75	8
+2019	tsi	CESI	CESI Arras										0	0.0	0.0	0	0	10
+2019	tsi	CESI	CESI Bordeaux										2	50.0	0.0	63	63	8
+2019	tsi	CESI	CESI Lyon										6	16.7	16.7	101	93	12
+2019	tsi	CESI	CESI Mont-Saint-Aignan										1	0.0	0.0	12	12	8
+2019	tsi	CESI	CESI Nancy										1	0.0	0.0	29	29	8
+2019	tsi	CESI	CESI Nanterre										5	40.0	20.0	76	68	20
+2019	tsi	CESI	CESI Nice Sophia Antipolis										0	0.0	0.0	0	0	8
+2019	tsi	CESI	CESI Saint-Nazaire										0	0.0	0.0	0	0	10
+2019	tsi	CESI	¥Concours CESI Ecole d'Ingénieurs-Ingénieur Généraliste	249	24.9	15.7	164	28.0	13.4	117	30.8	12.0	16					92
+2019	tsi	CESI	CESI Aix-en-Provence										0	0.0	0.0	0	0	2
+2019	tsi	CESI	CESI Arras										0	0.0	0.0	0	0	4
+2019	tsi	CESI	CESI Bordeaux										0	0.0	0.0	0	0	2
+2019	tsi	CESI	CESI La Rochelle										0	0.0	0.0	0	0	2
+2019	tsi	CESI	CESI Lille										0	0.0	0.0	0	0	2
+2019	tsi	CESI	CESI Lyon										0	0.0	0.0	0	0	4
+2019	tsi	CESI	CESI Mont-Saint-Aignan										0	0.0	0.0	0	0	2
+2019	tsi	CESI	CESI Nancy										0	0.0	0.0	0	0	2
+2019	tsi	CESI	CESI Nanterre										0	0.0	0.0	0	0	7
+2019	tsi	CESI	CESI Nice Sophia Antipolis										0	0.0	0.0	0	0	2
+2019	tsi	CESI	CESI Orléans										0	0.0	0.0	0	0	3
+2019	tsi	CESI	CESI Pau										0	0.0	0.0	0	0	2
+2019	tsi	CESI	CESI Reims										1	0.0	100.0	6	6	2
+2019	tsi	CESI	CESI Saint-Nazaire										0	0.0	0.0	0	0	5
+2019	tsi	CESI	CESI Strasbourg										0	0.0	0.0	0	0	2
+2019	tsi	CESI	CESI Toulouse										0	0.0	0.0	0	0	3
+2019	tsi	CESI	¥Concours CESI Ecole d'Ingénieurs-Ingénieur en Informatique	60	15.0	8.3	40	15.0	12.5	19	15.8	21.1	1					46
+2019	tsi	EPITA	ESME SUDRIA Paris										5	0.0	20.0	54	49	2
+2019	tsi	EPITA	EPITA										8	0.0	0.0	27	25	3
+2019	tsi	EPITA	IPSA Paris										4	0.0	0.0	11	11	4
+2019	tsi	EPITA	IPSA Toulouse										2	0.0	0.0	14	14	2
+2019	tsi	EPITA	¥Concours EPITA / IPSA / ESME TSI	179	2.8	7.8	92	1.1	9.8	67	0.0	6.0	19					11
