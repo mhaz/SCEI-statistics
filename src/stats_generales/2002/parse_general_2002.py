@@ -43,6 +43,7 @@ def parse_to_file(f, path, filiere, year, sep):
         cells = row.find_all("td")
         # Print the "year,filiere,banque" at beginning of line.
         do_print = True
+        if(len(cells) == 12): continue
         for idx, cell in enumerate(cells):
             # Remove the line
             # Inscrits, Admissibles, Classés, appelés, Intégrés, Places
