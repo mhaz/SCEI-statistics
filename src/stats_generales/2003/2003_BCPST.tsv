@@ -1,0 +1,50 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	appeles	integres_nb	integres_filles	integres_cinq_demi	places
+2003	BCPST	BIO A	INA P-G	¥	¥	¥	¥	¥	¥	¥	¥	¥	293	179	59	13	178
+2003	BCPST	BIO A	ENSA Montpellier	¥	¥	¥	¥	¥	¥	¥	¥	¥	445	92	57	21	91
+2003	BCPST	BIO A	ENSAR Rennes	¥	¥	¥	¥	¥	¥	¥	¥	¥	526	94	60	14	93
+2003	BCPST	BIO A	ENSAT Toulouse	¥	¥	¥	¥	¥	¥	¥	¥	¥	665	85	67	28	85
+2003	BCPST	BIO A	ENSAIA Nancy	¥	¥	¥	¥	¥	¥	¥	¥	¥	978	89	64	20	88
+2003	BCPST	BIO A	ENSHAP Angers	¥	¥	¥	¥	¥	¥	¥	¥	¥	877	39	72	21	38
+2003	BCPST	BIO A	ENSIA Massy	¥	¥	¥	¥	¥	¥	¥	¥	¥	966	49	78	31	46
+2003	BCPST	BIO A	ENSBANA Dijon	¥	¥	¥	¥	¥	¥	¥	¥	¥	1193	36	67	33	39
+2003	BCPST	BIO A	FIF Fonct. Nancy	¥	¥	¥	¥	¥	¥	¥	¥	¥	137	12	58	8	12
+2003	BCPST	BIO A	FIF Civil Nancy	¥	¥	¥	¥	¥	¥	¥	¥	¥	402	17	41	12	17
+2003	BCPST	BIO A	ENITAB Bordeaux	¥	¥	¥	¥	¥	¥	¥	¥	¥	893	54	56	30	54
+2003	BCPST	BIO A	ENITAC Clermont-Ferrand	¥	¥	¥	¥	¥	¥	¥	¥	¥	1124	42	52	26	42
+2003	BCPST	BIO A	ENITIAA Nantes	¥	¥	¥	¥	¥	¥	¥	¥	¥	1193	45	76	20	56
+2003	BCPST	BIO A	ENESAD Dijon	¥	¥	¥	¥	¥	¥	¥	¥	¥	1193	31	58	35	33
+2003	BCPST	BIO A	A BIO	1685	61	17	1273	62	19	1193	62	20	¥	¥	¥	¥	872
+2003	BCPST	PC BIO	ENSC Lille	¥	¥	¥	¥	¥	¥	¥	¥	¥	222	1	0	0	5
+2003	BCPST	PC BIO	ENSC Montpellier	¥	¥	¥	¥	¥	¥	¥	¥	¥	204	4	75	25	4
+2003	BCPST	PC BIO	ENSC Paris	¥	¥	¥	¥	¥	¥	¥	¥	¥	222	2	50	50	3
+2003	BCPST	PC BIO	ESPCI	¥	¥	¥	¥	¥	¥	¥	¥	¥	222	4	75	25	5
+2003	BCPST	PC BIO	A PC BIO	418	63	29	267	64	30	222	63	30	¥	¥	¥	¥	17
+2003	BCPST	ENS	ENS Ulm	¥	¥	¥	¥	¥	¥	28	54	7	23	22	45	9	22
+2003	BCPST	ENS	ENS Ulm ertanger	¥	¥	¥	¥	¥	¥	0	0	0	0	0	0	0	0
+2003	BCPST	ENS	ENS Lyon	¥	¥	¥	¥	¥	¥	85	58	14	63	29	59	17	29
+2003	BCPST	ENS	ENS Lyon etranger	¥	¥	¥	¥	¥	¥	1	100	0	0	0	0	0	0
+2003	BCPST	ENS	ENS Cachan	¥	¥	¥	¥	¥	¥	103	56	11	68	15	73	0	15
+2003	BCPST	ENS	ENS Cachan etranger	¥	¥	¥	¥	¥	¥	1	100	0	32	1	100	0	0
+2003	BCPST	G2E	ENGEES Fonctionnaires	¥	¥	¥	¥	¥	¥	¥	¥	¥	35	8	62	38	8
+2003	BCPST	G2E	ENGEES Civils	¥	¥	¥	¥	¥	¥	¥	¥	¥	181	15	73	7	14
+2003	BCPST	G2E	ENGEES Strasbourg BCPST	894	58	23	689	57	25	387	54	30	¥	¥	¥	¥	22
+2003	BCPST	G2E	ENSG Nancy	894	58	23	689	57	25	357	55	31	263	64	39	33	64
+2003	BCPST	G2E	Polytech 'Orléans-ESEM	894	58	23	689	57	25	448	54	29	446	22	50	41	25
+2003	BCPST	G2E	ESIP GEOL	894	58	23	689	57	25	377	55	31	355	2	0	0	3
+2003	BCPST	G2E	IST Paris6 GG	894	58	23	694	57	25	315	56	30	285	1	0	0	3
+2003	BCPST	ENTPE	ENTPE Fonctionnaire	557	57	30	400	56	34	190	54	43	84	9	56	56	9
+2003	BCPST	ARCH BIO	ENSTIB Epinal	303	57	27	284	56	28	64	38	27	34	13	23	31	10
+2003	BCPST	ARCH BIO	ESIP Poitiers	381	61	26	214	63	35	21	62	52	9	4	50	75	2
+2003	BCPST	ARCH BIO	ESMISAB Brest	563	69	24	432	70	28	99	82	33	83	11	91	27	11
+2003	BCPST	ARCH BIO	ESTBB Bordeaux	701	67	21	482	69	25	148	78	34	63	19	68	5	16
+2003	BCPST	ARCH BIO	IST Paris6 IC	365	65	29	159	67	38	22	73	59	22	1	100	0	3
+2003	BCPST	ARCH BIO	ISTAB Bordeaux	578	69	23	361	72	30	78	77	44	78	6	33	67	20
+2003	BCPST	ARCH GEOL	ENSIL Limoges EE	259	64	30	162	64	34	43	58	42	29	9	67	33	6
+2003	BCPST	EIFFEL	CUST Genie Biol.	¥	¥	¥	¥	¥	¥	¥	¥	¥	132	8	50	0	7
+2003	BCPST	EIFFEL	Polytech'Lille : Sc.Mat.	¥	¥	¥	¥	¥	¥	¥	¥	¥	171	0	0	0	2
+2003	BCPST	EIFFEL	Polytech'Lille : IAAL	¥	¥	¥	¥	¥	¥	¥	¥	¥	171	3	33	33	15
+2003	BCPST	EIFFEL	ISIM Sc+Tech indus A	¥	¥	¥	¥	¥	¥	¥	¥	¥	171	5	80	0	5
+2003	BCPST	EIFFEL	ISIM Sc+Tech Eau	¥	¥	¥	¥	¥	¥	¥	¥	¥	52	5	40	20	5
+2003	BCPST	EIFFEL	Polytech'Grenoble :PRIHSE	¥	¥	¥	¥	¥	¥	¥	¥	¥	151	0	0	0	2
+2003	BCPST	EIFFEL	Polytech' Grenoble: T.I.S	¥	¥	¥	¥	¥	¥	¥	¥	¥	171	1	0	0	2
+2003	BCPST	EIFFEL	Reseau Eiffel BCPST	726	64	22	476	67	22	171	65	23	¥	¥	¥	¥	38
