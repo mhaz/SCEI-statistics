@@ -1,0 +1,119 @@
+ville,etablissemnt,inscrits,dont filles,admissibles,dont filles,classes,dont filles,integres,dont filles
+Aix-En-Provence,Lycée Militaire (0131596P),1,0,0,0,0,0,0,0
+Aix-En-Provence,Lycée Paul Cezanne (0130002G),58,23,23,5,16,4,4,1
+Albi,Lycée Laperouse (0810006S),1,0,0,0,0,0,0,0
+Amiens,Lycée Louis Thuillier (0800009A),21,6,7,2,6,2,3,2
+Angers,Lycée Henri Bergson (0491966W),9,1,3,1,3,1,3,1
+Annecy,Lycée Berthollet (0740003B),42,11,9,0,6,0,2,0
+Antony,Lycée Sainte Marie (0920904H),21,1,6,0,3,0,1,0
+Arras,Lycée Robespierre (0620006V),4,2,0,0,0,0,0,0
+Avignon,Lycée St Joseph (0840072X),11,4,1,0,1,0,0,0
+Balma,Lycée Saliège (0312408Z),55,14,25,3,18,2,4,0
+Bayonne,Lycée René Cassin (0640010N),18,6,10,1,7,1,1,0
+Belfort,Lycée Condorcet (0900002N),1,0,0,0,0,0,0,0
+Besançon,Lycée Victor Hugo (0250007X),22,11,7,0,5,0,1,0
+Bordeaux,Lycée Camille Jullian (0330023W),21,8,6,1,2,0,0,0
+Bordeaux,Lycée Michel Montaigne (0330021U),57,25,32,15,27,13,12,3
+Bourg-En-Bresse,Lycée Lalande (0010013J),6,3,0,0,0,0,0,0
+Bourges,Lycée Alain-Fournier (0180005H),1,1,0,0,0,0,0,0
+Brest,Lycée de Kerichen (0290007A),24,6,6,3,5,3,1,1
+Brest,Lycée Sainte Anne (0290338K),6,4,1,1,0,0,0,0
+Caen,Lycée Privé Sainte-Marie (0141164P),7,2,0,0,0,0,0,0
+Caen,Lycée Victor Hugo (0142059M),28,5,13,2,7,1,4,0
+CASABLANCA,Lycée El Miza Center (99928411),1,0,0,0,0,0,0,0
+Chartres,Lycée Marceau (0280007F),12,2,5,1,5,1,1,0
+Clermont-Ferrand,Lycée Blaise Pascal (0630018C),35,15,15,3,13,3,2,1
+Compiègne,Lycée Pierre d'Ailly (0600014P),16,6,2,1,0,0,0,0
+Corenc,ITEC Boisfleury Europe (0381675P),5,1,1,0,1,0,1,0
+Dijon,Lycée Carnot (0210015C),29,7,10,0,5,0,1,0
+Douai,Lycée Albert Chatelet (0590063Y),7,1,2,1,2,1,1,1
+Dunkerque,Lycée Jean Bart (0590071G),7,4,1,1,1,1,0,0
+Enghien-Les-Bains,Lycée Gustave Monod (0950644J),3,1,1,0,0,0,0,0
+Evreux,Lycée Aristide Briand (0270016W),17,5,1,0,1,0,0,0
+Fontainebleau,Lycée Francois 1er (0770927P),13,5,2,1,1,1,1,1
+Fort-De-France,Lycée Bellevue (9720003W),2,1,0,0,0,0,0,0
+Grenoble,Lycée Champollion (0380027Y),59,20,30,11,24,9,10,3
+La Flèche,Prytanée National Militaire (0720896H),1,0,0,0,0,0,0,0
+La Rochelle,Lycée Jean Dautet (0170028N),8,1,3,0,2,0,0,0
+La Roche-Sur-Yon,Lycée Saint Joseph (0850083D),1,1,0,0,0,0,0,0
+La Roche-Sur-Yon,Pierre Mendes-France (0850025R),1,0,0,0,0,0,0,0
+Le Havre,Lycée François 1er (0760052U),9,2,0,0,0,0,0,0
+Le Mans,Lycée Montesquieu (0720029R),23,5,14,4,11,3,3,0
+Le Raincy,Lycée Albert Schweitzer (0930830X),24,10,7,0,6,0,1,0
+Lens,Lycée Condorcet (0620108F),4,1,0,0,0,0,0,0
+Lille,Lycée Faidherbe (0590119J),49,14,14,3,12,2,5,1
+Limoges,Lycée Gay-Lussac (0870015U),16,3,9,2,5,0,1,0
+Lorient,Lycée Dupuy De Lôme (0560025Y),6,4,0,0,0,0,0,0
+Lyon,Lycée Aux Lazaristes (0690522T),35,9,27,6,24,5,6,1
+Lyon,Lycée du Parc (0690026D),100,25,75,20,64,13,13,4
+Lyon,Lycée Jean Perrin (0690082P),16,2,2,0,0,0,0,0
+Lyon,Lycée La Martiniere Monplaisir (0692866R),36,12,15,2,13,2,6,1
+Marseille,Lycée Thiers (0130040Y),63,27,42,19,29,15,11,5
+Melun,Lycée Jacques Amyot (0770933W),21,11,3,1,3,1,1,1
+Metz,Lycée Fabert (0570054Z),45,11,30,8,21,5,11,2
+Montpellier,Lycée Joffre (0340038G),53,26,25,12,15,8,5,1
+Mulhouse,Lycée Albert Schweitzer (0680031P),5,1,0,0,0,0,0,0
+Nancy,Lycée Henri Poincaré (0540038Y),71,17,25,5,16,3,3,0
+Nantes,Lycée Clémenceau (0440021J),63,17,28,8,20,3,5,0
+Nantes,Lycée St Stanislas (0440163N),11,0,2,0,0,0,0,0
+Neuilly-Sur-Seine,Lycée Louis Pasteur (0920142E),61,18,48,12,41,11,15,5
+Nice,Lycée Massena (0060030A),53,12,26,5,23,4,8,3
+Nimes,Lycée Alphonse Daudet (0300021K),7,0,0,0,0,0,0,0
+Orléans,Lycée Pothier (0450049J),40,14,10,2,8,2,5,1
+Orsay,Lycée Blaise Pascal (0910626L),27,12,20,8,18,7,7,3
+Paris,Lycée Honoré De Balzac (0750705J),19,5,4,2,3,2,0,0
+Paris,Lycée Jacques Decour (0750668U),30,6,13,2,11,1,5,0
+Paris,Lycée Stanislas (0753840S),37,6,31,4,27,3,10,2
+Paris 3e,Lycée Turgot (0750647W),23,7,4,2,2,1,1,1
+Paris 4e,Lycée Charlemagne (0750652B),61,25,32,14,24,11,6,4
+Paris 5e,Lycée Henri IV (0750654D),41,15,41,15,35,13,9,2
+Paris 5e,Lycée Lavoisier (0750656F),29,15,9,4,7,3,0,0
+Paris 5e,Lycée Louis Le Grand (0750655E),127,47,108,39,92,33,18,8
+Paris 6e,Lycée Fénelon (0750660K),32,11,16,6,14,5,5,0
+Paris 6e,Lycée Saint-Louis (0750658H),151,78,99,44,79,35,33,14
+Paris 8e,Lycée Chaptal (0750663N),59,22,29,8,17,3,5,3
+Paris 8e,Lycée Fénelon Sainte-Marie (0753873C),38,7,20,1,12,0,3,0
+Paris 9e,Lycée Condorcet (0750667T),24,9,10,3,6,1,1,0
+Paris 13e,ENCPB (0750685M),11,5,3,2,1,0,0,0
+Paris 15e,Lycée Buffon (0750693W),31,10,13,5,10,4,3,2
+Paris 16e,Lycée Janson de Sailly (0750699C),111,44,67,21,54,16,27,7
+Paris 17e,Lycée Carnot (0750704H),16,6,4,2,3,2,0,0
+Paris 4e,IPESUP (0753144K),21,2,19,1,16,0,6,0
+Pau,Lycée Louis Barthou (0640055M),35,8,6,1,4,1,1,1
+Périgueux,Lycée Bertran de Born (0240024W),12,0,1,0,1,0,0,0
+Perpignan,Lycée François Arago (0660010C),5,1,1,0,1,0,0,0
+Pointe-à-Pitre,L.G.T.Baimbridge (9710003B),5,3,0,0,0,0,0,0
+Poitiers,Lycée Camille Guérin (0860035W),33,13,8,3,5,2,2,0
+Quimper,Lycée Auguste Brizeux (0290069T),11,4,3,2,1,0,1,0
+Reims,Lycée F. Roosevelt (0510034K),13,5,7,3,4,3,1,1
+Rennes,Lycée Chateaubriand (0350710G),62,21,30,7,24,5,9,4
+Rennes,Lycée privé Assomption (0350778F),9,2,2,0,2,0,0,0
+Rouen,Lycée Pierre Corneille (0760090K),61,13,36,8,34,8,7,1
+Saint-Brieuc,Lycée Francois Rabelais (0220056S),9,2,2,1,1,0,0,0
+Sainte-Clotilde,Lycée Leconte de Lisle (9740001H),13,5,3,0,3,0,1,0
+Saint-Etienne,Lycée Claude Fauriel (0420041S),43,18,11,3,6,2,0,0
+Saint-Germain-en-Laye,Lycée Jeanne D'Albret (0782132U),18,5,6,0,4,0,1,0
+Saint-Ismier,Ecole des Pupilles de L'Air (0381513N),3,0,0,0,0,0,0,0
+Saint-Maur-Des-Fosses,Lycée Marcelin Berthelot (0940120V),54,23,24,9,20,7,9,2
+Saint-Nazaire,Lycée Aristide Briand (0440069L),8,1,1,0,0,0,0,0
+Saint-Quentin,Lycée Pierre de La Ramée (0020049T),5,0,0,0,0,0,0,0
+Salon-De-Provence,Lycée de l'Emperi (0130160D),7,0,2,0,0,0,0,0
+Savigny-Sur-Orge,Lycée Jean Baptiste Corot (0910627M),24,8,8,2,5,2,4,2
+Sceaux,Lycée Lakanal (0920145H),73,23,46,13,38,8,17,5
+Strasbourg,Lycée Kleber (0670080Y),47,11,18,7,13,4,2,0
+Tarbes,Lycée Théophile Gautier (0650025Z),5,3,0,0,0,0,0,0
+Toulon,Lycée Dumont D'Urville (0830053G),18,6,1,0,1,0,0,0
+Toulouse,Lycée Bellevue (0310038Y),30,11,10,4,8,3,0,0
+Toulouse,Lycée Déodat de Séverac (0310044E),11,2,2,1,1,0,1,0
+Toulouse,Lycée Pierre de Fermat (0310036W),75,28,45,18,42,16,8,2
+Tourcoing,Lycée Gambetta (0590212K),4,0,0,0,0,0,0,0
+Tours,Lycée Descartes (0370035M),38,10,12,2,10,2,2,0
+Troyes,Lycée Chrestien De Troyes (0100022V),3,0,1,0,0,0,0,0
+Tulle,Lycée Edmond Perrier (0190032G),3,0,1,0,1,0,0,0
+TUNIS,I.P.E.I.T (99922211),1,0,0,0,0,0,0,0
+Valbonne,C.I.V. Valbonne (0061642C),26,4,4,0,4,0,0,0
+Valence,Lycée Camille Vernet (0260035X),2,0,0,0,0,0,0,0
+Valenciennes,Lycée Henri Wallon (0590221V),66,19,12,3,10,3,4,0
+Vanves,Lycée Michelet (0920149M),24,7,6,2,3,1,0,0
+Versailles,Lycée Hoche (0782562L),80,30,53,21,48,20,26,10
+Versailles,Lycée Sainte Geneviève (0783053V),144,36,137,32,127,30,42,10
