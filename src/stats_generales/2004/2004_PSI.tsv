@@ -1,14 +1,10 @@
 year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rg_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
-2004	PSI		Rang du dernier appelé
-2004	PSI		Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PSI	BANQUE ENS CACHAN/EC. POLYTECH	ENS CACHAN FIL Science	1009	18	28	278	16	28	242	16	29	109	10	10	40	10
 2004	PSI	BANQUE ENS CACHAN/EC. POLYTECH	ENS CACHAN FIL Science etranger	¥	¥	¥	¥	¥	¥	2	0	100	0	0	0	0	0
 2004	PSI	BANQUE ENS CACHAN/EC. POLYTECH	ENS CACHAN FIL. SI	1009	18	28	278	16	28	242	16	29	242	26	27	35	30
 2004	PSI	BANQUE ENS CACHAN/EC. POLYTECH	ENS CACHAN FIL. SI etranger	¥	¥	¥	¥	¥	¥	2	0	100	0	0	0	0	0
 2004	PSI	BANQUE ENS CACHAN/EC. POLYTECH	Ecole Polytechnique	711	15	26	93	15	15	56	14	5	48	46	13	4	46
 2004	PSI	BANQUE ENS CACHAN/EC. POLYTECH	Ecole Polytechnique etranger	57	26	25	1	0	100	0	0	0	0	0	0	0	0
-2004	PSI	BANQUE ENS CACHAN/EC. POLYTECH	Rang du dernier appelé
-2004	PSI	BANQUE ENS CACHAN/EC. POLYTECH	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PSI	CONC. COMM. MINES-PONTS	Ponts et Chaussees	¥	¥	¥	¥	¥	¥	¥	¥	¥	163	28	25	11	26
 2004	PSI	CONC. COMM. MINES-PONTS	SUPAERO	¥	¥	¥	¥	¥	¥	¥	¥	¥	254	41	20	22	40
 2004	PSI	CONC. COMM. MINES-PONTS	Techniques Avancees	¥	¥	¥	¥	¥	¥	¥	¥	¥	300	26	31	23	25
@@ -19,8 +15,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PSI	CONC. COMM. MINES-PONTS	MINES Nancy	¥	¥	¥	¥	¥	¥	¥	¥	¥	543	41	22	10	44
 2004	PSI	CONC. COMM. MINES-PONTS	Telecom Bretagne	¥	¥	¥	¥	¥	¥	¥	¥	¥	829	28	14	11	32
 2004	PSI	CONC. COMM. MINES-PONTS	Commun Mines Ponts PSI	2708	19	22	844	17	19	829	17	19	¥	¥	¥	¥	256
-2004	PSI	CONC. COMM. MINES-PONTS	Rang du dernier appelé
-2004	PSI	CONC. COMM. MINES-PONTS	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE Paris	1626	19	23	291	15	20	238	18	21	159	85	15	25	85
 2004	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE Paris etranger	65	18	31	13	31	31	8	38	12	6	3	33	0	3
 2004	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE Paris handicapés	¥	¥	¥	¥	¥	¥	1	0	100	1	0	0	0	1
@@ -44,14 +38,10 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PSI	BANQUE CENTRALE-SUPELEC	ENSEA Cergy handicapés	¥	¥	¥	¥	¥	¥	0	0	0	0	0	0	0	1
 2004	PSI	BANQUE CENTRALE-SUPELEC	IIE-CNAM	373	19	27	269	19	25	181	19	23	160	14	14	36	20
 2004	PSI	BANQUE CENTRALE-SUPELEC	EGIM	1481	21	23	604	20	21	581	20	21	513	35	37	6	36
-2004	PSI	BANQUE CENTRALE-SUPELEC	Rang du dernier appelé
-2004	PSI	BANQUE CENTRALE-SUPELEC	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PSI	CONCOURS COMMUN TPE	Ecole Meteorologie	¥	¥	¥	¥	¥	¥	372	23	35	28	1	0	100	1
 2004	PSI	CONCOURS COMMUN TPE	ENTPE Civil	2025	22	28	794	20	30	372	23	35	343	8	25	50	6
 2004	PSI	CONCOURS COMMUN TPE	ENTPE Fonctionnaire	¥	¥	¥	¥	¥	¥	372	23	35	274	33	30	36	33
 2004	PSI	CONCOURS COMMUN TPE	ENTPE Etr	¥	¥	¥	¥	¥	¥	7	14	43	7	0	0	0	1
-2004	PSI	CONCOURS COMMUN TPE	Rang du dernier appelé
-2004	PSI	CONCOURS COMMUN TPE	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PSI	CONC. COMM. POLYTECHNIQUE	ENSMM Besancon	¥	¥	¥	¥	¥	¥	¥	¥	¥	2041	47	23	17	46
 2004	PSI	CONC. COMM. POLYTECHNIQUE	ENSEIRB Electronique	¥	¥	¥	¥	¥	¥	¥	¥	¥	1962	18	11	50	18
 2004	PSI	CONC. COMM. POLYTECHNIQUE	ENSEIRB Informatique	¥	¥	¥	¥	¥	¥	¥	¥	¥	1691	7	14	29	8
@@ -92,8 +82,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PSI	CONC. COMM. POLYTECHNIQUE	ENSIAME Mecatronique	¥	¥	¥	¥	¥	¥	¥	¥	¥	2299	8	0	25	7
 2004	PSI	CONC. COMM. POLYTECHNIQUE	ENSIAME Info Autom.	¥	¥	¥	¥	¥	¥	¥	¥	¥	2349	3	0	100	3
 2004	PSI	CONC. COMM. POLYTECHNIQUE	Commun Polytechnique PSI	3985	20	22	2859	19	25	2400	20	25	¥	¥	¥	¥	732
-2004	PSI	CONC. COMM. POLYTECHNIQUE	Rang du dernier appelé
-2004	PSI	CONC. COMM. POLYTECHNIQUE	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PSI	BANQUE D'EPREUVES C.C.P	Ecole Navale Brest	594	17	24	192	12	40	82	10	52	49	25	12	44	25
 2004	PSI	BANQUE D'EPREUVES C.C.P	Ecole Navale Brest	¥	¥	¥	¥	¥	¥	2	0	0	2	0	0	0	2
 2004	PSI	BANQUE D'EPREUVES C.C.P	ENSIETA Brest Mili.	829	14	26	293	13	40	141	12	43	86	15	20	53	14
@@ -105,35 +93,23 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PSI	BANQUE D'EPREUVES C.C.P	ENSGI	884	25	27	439	25	29	163	28	30	¥	30	37	37	¥
 2004	PSI	BANQUE D'EPREUVES C.C.P	ENSGSI	439	29	25	262	30	26	102	39	25	¥	11	45	9	¥
 2004	PSI	BANQUE D'EPREUVES C.C.P	ESM ST CYR	338	12	29	198	12	40	98	9	56	¥	38	11	55	¥
-2004	PSI	BANQUE D'EPREUVES C.C.P	Rang du dernier appelé
-2004	PSI	BANQUE D'EPREUVES C.C.P	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PSI	CONCOURS TELECOM INT	Telecom INT	1080	18	28	532	18	28	205	20	32	199	34	12	29	32
 2004	PSI	CONCOURS TELECOM INT	ESIEE-Paris	¥	¥	¥	¥	¥	¥	¥	¥	¥	772	14	21	7	15
 2004	PSI	CONCOURS TELECOM INT	ISMEA Marseille	¥	¥	¥	¥	¥	¥	¥	¥	¥	764	9	11	56	10
 2004	PSI	CONCOURS TELECOM INT	ESIEE/ISMEA PSI	¥	¥	¥	¥	¥	¥	772	19	28	¥	¥	¥	¥	25
-2004	PSI	CONCOURS TELECOM INT	Rang du dernier appelé
-2004	PSI	CONCOURS TELECOM INT	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PSI	CONCOURS EIVP	EIVP Fonc. Paris	¥	¥	¥	¥	¥	¥	401	23	34	286	4	25	50	4
 2004	PSI	CONCOURS EIVP	EIVP Civil Paris	¥	¥	¥	¥	¥	¥	408	23	35	408	2	50	0	6
-2004	PSI	CONCOURS EIVP	Rang du dernier appelé
-2004	PSI	CONCOURS EIVP	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PSI	CONCOURS DES ENSTIM	ENSTIM Albi	¥	¥	¥	¥	¥	¥	¥	¥	¥	161	4	25	50	5
 2004	PSI	CONCOURS DES ENSTIM	ENSTIM Ales	¥	¥	¥	¥	¥	¥	¥	¥	¥	111	8	12	25	8
 2004	PSI	CONCOURS DES ENSTIM	ENSTIM Douai	¥	¥	¥	¥	¥	¥	¥	¥	¥	141	9	44	44	8
 2004	PSI	CONCOURS DES ENSTIM	ENSTIM Nantes	¥	¥	¥	¥	¥	¥	¥	¥	¥	77	4	50	50	4
 2004	PSI	CONCOURS DES ENSTIM	ENSTIM PSI	554	24	29	342	25	31	168	31	32	¥	¥	¥	¥	25
-2004	PSI	CONCOURS DES ENSTIM	Rang du dernier appelé
-2004	PSI	CONCOURS DES ENSTIM	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PSI	CONCOURS ENSAM-ENSAIS	ENSAM	2404	18	23	788	16	32	576	17	35	560	228	13	36	220
-2004	PSI	CONCOURS ENSAM-ENSAIS	Rang du dernier appelé
-2004	PSI	CONCOURS ENSAM-ENSAIS	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PSI	CONCOURS ESTP	ESTP-TP	¥	¥	¥	¥	¥	¥	¥	¥	¥	536	57	16	46	53
 2004	PSI	CONCOURS ESTP	ESTP-BAT	¥	¥	¥	¥	¥	¥	¥	¥	¥	674	54	31	31	53
 2004	PSI	CONCOURS ESTP	ESTP MECA-ELEC	¥	¥	¥	¥	¥	¥	¥	¥	¥	836	29	17	28	26
 2004	PSI	CONCOURS ESTP	ESTP-GEOMETRES	¥	¥	¥	¥	¥	¥	¥	¥	¥	896	14	29	29	16
 2004	PSI	CONCOURS ESTP	Concours ESTP PSI	1323	19	29	1213	20	30	1033	20	32	¥	¥	¥	¥	148
-2004	PSI	CONCOURS ESTP	Rang du dernier appelé
-2004	PSI	CONCOURS ESTP	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PSI	CONCOURS ECRIN	ECOLE LOUIS DE BROG.	198	14	22	175	13	22	87	17	30	87	5	20	60	10
 2004	PSI	CONCOURS ECRIN	EFREI Paris	333	16	23	292	16	24	117	20	31	116	3	33	0	15
 2004	PSI	CONCOURS ECRIN	EISTI Cergy	¥	¥	¥	¥	¥	¥	¥	¥	¥	120	10	10	50	20
@@ -149,8 +125,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PSI	CONCOURS ECRIN	ISEM Toulon	189	20	21	158	19	23	85	19	22	85	0	0	0	8
 2004	PSI	CONCOURS ECRIN	ISEN Lille	202	17	23	167	18	24	100	16	26	100	8	25	25	10
 2004	PSI	CONCOURS ECRIN	ITECH Lyon	¥	¥	¥	¥	¥	¥	0	0	0	0	0	0	0	0
-2004	PSI	CONCOURS ECRIN	Rang du dernier appelé
-2004	PSI	CONCOURS ECRIN	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PSI	CONCOURS ARCHIMEDE	ESIEC Reims	60	40	23	53	38	25	18	39	17	18	5	60	20	7
 2004	PSI	CONCOURS ARCHIMEDE	ESIREM Dijon Info-Elec	65	15	34	57	18	33	21	19	33	21	3	0	33	6
 2004	PSI	CONCOURS ARCHIMEDE	ESIL Marseille Biomédical	108	38	32	62	42	29	25	48	32	24	2	0	50	3
@@ -191,8 +165,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PSI	CONCOURS ARCHIMEDE	ISTASE Saint-Etienne	210	20	23	181	22	24	85	20	25	85	13	15	23	15
 2004	PSI	CONCOURS ARCHIMEDE	ISTIL Lyon	378	22	21	321	21	20	175	19	19	144	21	10	14	15
 2004	PSI	CONCOURS ARCHIMEDE	ISTY Versailles	107	22	21	78	23	24	11	45	9	11	1	0	0	15
-2004	PSI	CONCOURS ARCHIMEDE	Rang du dernier appelé
-2004	PSI	CONCOURS ARCHIMEDE	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PSI	RESEAU EIFFEL	CUST Genie Civil	¥	¥	¥	¥	¥	¥	¥	¥	¥	440	6	33	33	10
 2004	PSI	RESEAU EIFFEL	CUST Genie Elec.	¥	¥	¥	¥	¥	¥	¥	¥	¥	505	0	0	0	10
 2004	PSI	RESEAU EIFFEL	Polytech'Lille : G.I.S.	¥	¥	¥	¥	¥	¥	¥	¥	¥	487	3	0	67	4
@@ -220,8 +192,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PSI	RESEAU EIFFEL	Polytech'Tours : info.	¥	¥	¥	¥	¥	¥	¥	¥	¥	505	0	0	0	10
 2004	PSI	RESEAU EIFFEL	Polytech'Tours : Product.	¥	¥	¥	¥	¥	¥	¥	¥	¥	505	1	100	0	12
 2004	PSI	RESEAU EIFFEL	POLYTECH-EIFFEL PSI	1291	23	24	900	26	25	505	28	24	¥	¥	¥	¥	207
-2004	PSI	RESEAU EIFFEL	Rang du dernier appelé
-2004	PSI	RESEAU EIFFEL	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PSI	AUTRES ECOLES DE LA BANQUE E3A	ESITC CAEN	96	36	27	91	35	29	45	40	36	45	4	75	50	8
 2004	PSI	AUTRES ECOLES DE LA BANQUE E3A	ECE PARIS	326	16	19	293	16	21	150	19	25	129	14	21	14	15
 2004	PSI	AUTRES ECOLES DE LA BANQUE E3A	EIPC	122	27	15	120	28	14	73	23	11	73	12	25	8	20

@@ -1,12 +1,8 @@
 year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rg_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
-2004	MP		Rang du dernier appelé
-2004	MP		Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	CONCOURS ECOLE POLYTECHNIQUE	Ecole Polytechnique Info. français	771	11	33	170	9	30	149	10	28	132	100	10	28	100
 2004	MP	CONCOURS ECOLE POLYTECHNIQUE	Ecole Polytechnique S.I. etranger	330	17	33	32	3	31	16	6	25	16	16	6	25	16
 2004	MP	CONCOURS ECOLE POLYTECHNIQUE	Ecole Polytechnique S.I. français	697	20	38	141	16	37	100	18	33	88	78	21	31	78
 2004	MP	CONCOURS ECOLE POLYTECHNIQUE	Ecole Polytechnique Info. etranger	81	21	41	¥	¥	¥	9	11	56	9	8	12	50	9
-2004	MP	CONCOURS ECOLE POLYTECHNIQUE	Rang du dernier appelé
-2004	MP	CONCOURS ECOLE POLYTECHNIQUE	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	BANQUE ENS	ENS Ulm MPI	1169	21	40	123	9	41	71	14	35	64	40	12	35	40
 2004	MP	BANQUE ENS	ENS Ulm Info	186	17	47	32	3	44	19	0	37	12	8	0	12	8
 2004	MP	BANQUE ENS	ENS Ulm Info etranger	¥	¥	¥	¥	¥	¥	0	0	0	0	0	0	0	0
@@ -27,8 +23,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	MP	BANQUE ENS	ENS Lyon Info	258	5	41	81	2	41	55	4	35	46	19	5	42	19
 2004	MP	BANQUE ENS	ENS Lyon Info etranger	¥	¥	¥	¥	¥	¥	1	0	0	0	0	0	0	0
 2004	MP	BANQUE ENS	ENS Lyon etranger	¥	¥	¥	¥	¥	¥	2	0	50	56	0	0	0	0
-2004	MP	BANQUE ENS	Rang du dernier appelé
-2004	MP	BANQUE ENS	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	CONC. COMM. MINES-PONTS	Ponts et Chaussees	¥	¥	¥	¥	¥	¥	¥	¥	¥	349	46	17	30	46
 2004	MP	CONC. COMM. MINES-PONTS	SUPAERO	¥	¥	¥	¥	¥	¥	¥	¥	¥	553	47	11	23	50
 2004	MP	CONC. COMM. MINES-PONTS	Techniques Avancees	¥	¥	¥	¥	¥	¥	¥	¥	¥	687	47	32	19	43
@@ -39,8 +33,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	MP	CONC. COMM. MINES-PONTS	MINES Nancy	¥	¥	¥	¥	¥	¥	¥	¥	¥	999	58	28	26	58
 2004	MP	CONC. COMM. MINES-PONTS	Telecom Bretagne	¥	¥	¥	¥	¥	¥	¥	¥	¥	1534	68	10	32	64
 2004	MP	CONC. COMM. MINES-PONTS	Commun Mines Ponts MP	4691	21	29	1591	16	31	1535	16	31	¥	¥	¥	¥	424
-2004	MP	CONC. COMM. MINES-PONTS	Rang du dernier appelé
-2004	MP	CONC. COMM. MINES-PONTS	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	BANQUE CENTRALE-SUPELEC	CENTRALE Paris	2919	20	32	733	14	34	491	16	34	385	142	13	39	140
 2004	MP	BANQUE CENTRALE-SUPELEC	CENTRALE Paris etranger	184	27	38	32	9	59	26	8	58	16	5	0	80	5
 2004	MP	BANQUE CENTRALE-SUPELEC	CENTRALE Paris cycle international	206	24	17	26	23	19	12	17	17	12	7	14	14	10
@@ -70,14 +62,10 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	MP	BANQUE CENTRALE-SUPELEC	ENSEA Cergy handicapés	¥	¥	¥	¥	¥	¥	0	0	0	0	0	0	0	1
 2004	MP	BANQUE CENTRALE-SUPELEC	IIE-CNAM	1053	19	36	764	19	37	548	18	39	475	75	13	24	75
 2004	MP	BANQUE CENTRALE-SUPELEC	EGIM	1840	25	31	800	26	36	776	26	37	629	50	30	38	56
-2004	MP	BANQUE CENTRALE-SUPELEC	Rang du dernier appelé
-2004	MP	BANQUE CENTRALE-SUPELEC	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	CONCOURS COMMUN TPE	Ecole Meteorologie	¥	¥	¥	¥	¥	¥	589	25	54	143	1	0	0	1
 2004	MP	CONCOURS COMMUN TPE	ENTPE Civil	2597	24	39	1010	22	50	589	25	54	586	15	20	67	13
 2004	MP	CONCOURS COMMUN TPE	ENTPE Fonctionnaire	¥	¥	¥	¥	¥	¥	589	25	54	467	54	28	57	54
 2004	MP	CONCOURS COMMUN TPE	ENTPE Etr	¥	¥	¥	¥	¥	¥	27	22	74	12	0	0	0	1
-2004	MP	CONCOURS COMMUN TPE	Rang du dernier appelé
-2004	MP	CONCOURS COMMUN TPE	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	CONC. COMM. POLYTECHNIQUE	ENSMM Besancon	¥	¥	¥	¥	¥	¥	¥	¥	¥	3303	34	21	41	33
 2004	MP	CONC. COMM. POLYTECHNIQUE	ENSEIRB Electronique	¥	¥	¥	¥	¥	¥	¥	¥	¥	2541	41	22	39	34
 2004	MP	CONC. COMM. POLYTECHNIQUE	ENSEIRB Informatique	¥	¥	¥	¥	¥	¥	¥	¥	¥	2199	39	10	36	45
@@ -119,8 +107,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	MP	CONC. COMM. POLYTECHNIQUE	ENSIAME Info Autom.	¥	¥	¥	¥	¥	¥	¥	¥	¥	3367	11	9	36	12
 2004	MP	CONC. COMM. POLYTECHNIQUE	ENSIAME Mecatronique	¥	¥	¥	¥	¥	¥	¥	¥	¥	3359	5	60	80	6
 2004	MP	CONC. COMM. POLYTECHNIQUE	Commun Polytechnique MP	5959	23	26	4211	23	29	3367	23	31	¥	¥	¥	¥	1041
-2004	MP	CONC. COMM. POLYTECHNIQUE	Rang du dernier appelé
-2004	MP	CONC. COMM. POLYTECHNIQUE	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	BANQUE D'EPREUVES C.C.P	Ecole Navale Brest	¥	¥	¥	¥	¥	¥	0	0	0	0	0	0	0	0
 2004	MP	BANQUE D'EPREUVES C.C.P	Ecole Navale Brest	577	15	32	171	13	53	90	13	64	60	27	4	63	27
 2004	MP	BANQUE D'EPREUVES C.C.P	ENSIETA Brest Mili.	788	18	33	278	16	47	142	17	58	142	14	14	57	15
@@ -135,39 +121,25 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	MP	BANQUE D'EPREUVES C.C.P	ENSGI	704	17	29	347	36	25	128	55	17	¥	30	60	47	¥
 2004	MP	BANQUE D'EPREUVES C.C.P	ENSGSI	399	38	24	259	44	27	97	56	32	¥	10	60	30	¥
 2004	MP	BANQUE D'EPREUVES C.C.P	ESM ST CYR	333	11	33	181	11	43	82	11	55	¥	25	4	68	¥
-2004	MP	BANQUE D'EPREUVES C.C.P	Rang du dernier appelé
-2004	MP	BANQUE D'EPREUVES C.C.P	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	CONCOURS TELECOM INT	Telecom INT	2019	23	34	884	22	39	432	27	46	379	81	27	46	80
 2004	MP	CONCOURS TELECOM INT	ESIEE-Paris	¥	¥	¥	¥	¥	¥	¥	¥	¥	1236	12	8	8	15
 2004	MP	CONCOURS TELECOM INT	ISMEA Marseille	¥	¥	¥	¥	¥	¥	¥	¥	¥	1230	11	18	18	10
 2004	MP	CONCOURS TELECOM INT	ESIEE/ISMEA MP	¥	¥	¥	¥	¥	¥	1246	23	36	¥	¥	¥	¥	25
-2004	MP	CONCOURS TELECOM INT	Rang du dernier appelé
-2004	MP	CONCOURS TELECOM INT	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	CONCOURS EIVP	EIVP Fonc. Paris	¥	¥	¥	¥	¥	¥	618	25	54	483	5	40	80	6
 2004	MP	CONCOURS EIVP	EIVP Civil Paris	¥	¥	¥	¥	¥	¥	648	25	54	634	15	13	53	14
-2004	MP	CONCOURS EIVP	Rang du dernier appelé
-2004	MP	CONCOURS EIVP	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	CONCOURS DES ENSTIM	ENSTIM Albi	¥	¥	¥	¥	¥	¥	¥	¥	¥	90	2	0	0	5
 2004	MP	CONCOURS DES ENSTIM	ENSTIM Ales	¥	¥	¥	¥	¥	¥	¥	¥	¥	87	6	67	17	8
 2004	MP	CONCOURS DES ENSTIM	ENSTIM Douai	¥	¥	¥	¥	¥	¥	¥	¥	¥	90	0	0	0	3
 2004	MP	CONCOURS DES ENSTIM	ENSTIM Nantes	¥	¥	¥	¥	¥	¥	¥	¥	¥	78	3	0	33	6
 2004	MP	CONCOURS DES ENSTIM	ENSTIM MP	484	30	33	283	33	40	90	39	43	¥	¥	¥	¥	22
-2004	MP	CONCOURS DES ENSTIM	Rang du dernier appelé
-2004	MP	CONCOURS DES ENSTIM	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	CONCOURS ENSAE STATISTIQUE	ENSAE Statistique etranger	¥	¥	¥	¥	¥	¥	0	0	0	0	0	0	0	0
 2004	MP	CONCOURS ENSAE STATISTIQUE	ENSAE Statistique	1640	23	36	642	17	40	621	17	41	509	45	20	49	45
-2004	MP	CONCOURS ENSAE STATISTIQUE	Rang du dernier appelé
-2004	MP	CONCOURS ENSAE STATISTIQUE	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	CONCOURS ESTP	ESTP-TP	¥	¥	¥	¥	¥	¥	¥	¥	¥	506	64	14	45	64
 2004	MP	CONCOURS ESTP	ESTP-BAT	¥	¥	¥	¥	¥	¥	¥	¥	¥	620	65	38	26	64
 2004	MP	CONCOURS ESTP	ESTP MECA-ELEC	¥	¥	¥	¥	¥	¥	¥	¥	¥	676	19	11	47	20
 2004	MP	CONCOURS ESTP	ESTP-GEOMETRES	¥	¥	¥	¥	¥	¥	¥	¥	¥	681	9	22	44	10
 2004	MP	CONCOURS ESTP	ESTP MP	1200	25	31	983	26	33	815	26	37	¥	¥	¥	¥	158
-2004	MP	CONCOURS ESTP	Rang du dernier appelé
-2004	MP	CONCOURS ESTP	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	CONCOURS ENSAM	ENSAM	1279	23	30	132	26	56	88	25	56	86	23	9	65	20
-2004	MP	CONCOURS ENSAM	Rang du dernier appelé
-2004	MP	CONCOURS ENSAM	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	CONCOURS ECRIN	ECOLE LOUIS DE BROG.	205	17	21	184	17	22	99	17	27	99	6	50	17	10
 2004	MP	CONCOURS ECRIN	EFREI Paris	462	23	23	414	23	23	209	23	30	206	19	11	32	15
 2004	MP	CONCOURS ECRIN	EISTI Cergy	¥	¥	¥	¥	¥	¥	¥	¥	¥	230	23	22	26	30
@@ -183,8 +155,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	MP	CONCOURS ECRIN	ISEM Toulon	166	18	15	128	19	16	81	21	20	81	1	0	0	12
 2004	MP	CONCOURS ECRIN	ISEN Lille	198	16	18	141	18	21	88	19	25	88	9	11	44	15
 2004	MP	CONCOURS ECRIN	ITECH Lyon	114	43	24	106	44	23	62	53	26	62	4	75	0	5
-2004	MP	CONCOURS ECRIN	Rang du dernier appelé
-2004	MP	CONCOURS ECRIN	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	CONCOURS ARCHIMEDE	ESIEC Reims	54	57	17	50	60	14	9	56	11	9	2	0	50	7
 2004	MP	CONCOURS ARCHIMEDE	ESIL Marseille Biotech. Info.	205	22	18	176	23	19	84	25	21	84	6	33	0	30
 2004	MP	CONCOURS ARCHIMEDE	ESIL Marseille Mat.	155	34	21	82	39	18	31	52	19	31	0	0	0	5
@@ -224,8 +194,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	MP	CONCOURS ARCHIMEDE	ISTASE Saint-Etienne	191	22	21	161	22	23	69	23	30	69	8	12	62	15
 2004	MP	CONCOURS ARCHIMEDE	ISTIL Lyon	282	29	26	244	32	24	131	31	25	120	19	32	21	15
 2004	MP	CONCOURS ARCHIMEDE	ISTY Versailles	194	20	22	145	18	23	31	13	26	31	8	25	12	20
-2004	MP	CONCOURS ARCHIMEDE	Rang du dernier appelé
-2004	MP	CONCOURS ARCHIMEDE	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	RESEAU EIFFEL	CUST Genie Civil	¥	¥	¥	¥	¥	¥	¥	¥	¥	576	13	38	23	15
 2004	MP	RESEAU EIFFEL	CUST Genie Elec.	¥	¥	¥	¥	¥	¥	¥	¥	¥	576	4	50	0	25
 2004	MP	RESEAU EIFFEL	Polytech'Lille : G.I.S.	¥	¥	¥	¥	¥	¥	¥	¥	¥	576	11	45	0	12
@@ -255,8 +223,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	MP	RESEAU EIFFEL	Polytech'Tours : info.	¥	¥	¥	¥	¥	¥	¥	¥	¥	576	1	0	0	15
 2004	MP	RESEAU EIFFEL	Polytech'Tours : Product.	¥	¥	¥	¥	¥	¥	¥	¥	¥	576	1	0	0	12
 2004	MP	RESEAU EIFFEL	POLYTECH-EIFFEL MP	1313	30	25	1026	33	25	576	34	28	¥	¥	¥	¥	286
-2004	MP	RESEAU EIFFEL	Rang du dernier appelé
-2004	MP	RESEAU EIFFEL	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	MP	AUTRES ECOLES DE LA BANQUE E3A	EIPI-ISPA	19	47	21	16	44	19	4	75	25	4	0	0	0	10
 2004	MP	AUTRES ECOLES DE LA BANQUE E3A	ESITC CAEN	70	34	16	62	35	15	25	52	20	25	1	0	0	6
 2004	MP	AUTRES ECOLES DE LA BANQUE E3A	ECE PARIS	382	17	23	344	17	23	180	18	25	169	33	18	12	25

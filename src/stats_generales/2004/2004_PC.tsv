@@ -1,12 +1,8 @@
 year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rg_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
-2004	PC		Rang du dernier appelé
-2004	PC		Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	CONCOURS ECOLE POLYTECHNIQUE	Ecole Polytechnique	152	22	33	23	17	61	10	20	50	10	10	20	50	10
 2004	PC	CONCOURS ECOLE POLYTECHNIQUE	Ecole Polytechnique	1292	26	39	272	15	40	194	16	37	178	155	14	39	154
 2004	PC	CONCOURS ECOLE POLYTECHNIQUE	ESPCI	1281	29	37	428	19	40	375	19	39	375	60	35	28	58
 2004	PC	CONCOURS ECOLE POLYTECHNIQUE	ESPCI etranger	121	25	36	30	23	53	24	21	58	24	2	0	100	5
-2004	PC	CONCOURS ECOLE POLYTECHNIQUE	Rang du dernier appelé
-2004	PC	CONCOURS ECOLE POLYTECHNIQUE	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	BANQUE ENS	ENS Ulm PC	935	29	37	81	15	47	40	18	35	34	20	15	40	20
 2004	PC	BANQUE ENS	ENS Ulm Info	21	0	29	0	0	0	0	0	0	0	0	0	0	0
 2004	PC	BANQUE ENS	ENS Ulm etranger PC	¥	¥	¥	¥	¥	¥	1	0	0	0	0	0	0	0
@@ -15,8 +11,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PC	BANQUE ENS	ENS Lyon PC	999	31	39	204	22	47	138	22	46	131	31	19	45	31
 2004	PC	BANQUE ENS	ENS Lyon PC	26	8	31	0	0	0	0	0	0	0	0	0	0	0
 2004	PC	BANQUE ENS	ENS Lyon etranger PC	¥	¥	¥	¥	¥	¥	2	0	50	119	0	0	0	0
-2004	PC	BANQUE ENS	Rang du dernier appelé
-2004	PC	BANQUE ENS	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	CONC. COMM. MINES-PONTS	Ponts et Chaussees	¥	¥	¥	¥	¥	¥	¥	¥	¥	209	22	27	32	24
 2004	PC	CONC. COMM. MINES-PONTS	SUPAERO	¥	¥	¥	¥	¥	¥	¥	¥	¥	337	25	16	28	25
 2004	PC	CONC. COMM. MINES-PONTS	Techniques Avancees	¥	¥	¥	¥	¥	¥	¥	¥	¥	383	24	42	17	25
@@ -27,8 +21,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PC	CONC. COMM. MINES-PONTS	MINES Nancy	¥	¥	¥	¥	¥	¥	¥	¥	¥	601	41	24	46	40
 2004	PC	CONC. COMM. MINES-PONTS	Telecom Bretagne	¥	¥	¥	¥	¥	¥	¥	¥	¥	965	34	18	56	32
 2004	PC	CONC. COMM. MINES-PONTS	Commun Mines Ponts PC	3165	30	31	1001	27	39	966	27	40	¥	¥	¥	¥	226
-2004	PC	CONC. COMM. MINES-PONTS	Rang du dernier appelé
-2004	PC	CONC. COMM. MINES-PONTS	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	BANQUE CENTRALE-SUPELEC	CENTRALE Paris	2175	29	34	491	21	41	339	19	42	243	86	21	53	85
 2004	PC	BANQUE CENTRALE-SUPELEC	CENTRALE Paris etranger	120	22	40	21	14	76	14	14	79	10	2	0	100	2
 2004	PC	BANQUE CENTRALE-SUPELEC	CENTRALE Paris cycle international	25	28	0	2	50	0	0	0	0	0	0	0	0	5
@@ -58,14 +50,10 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PC	BANQUE CENTRALE-SUPELEC	ENSEA Cergy handicapés	¥	¥	¥	¥	¥	¥	1	100	100	1	0	0	0	1
 2004	PC	BANQUE CENTRALE-SUPELEC	IIE-CNAM	431	25	42	305	24	45	176	29	49	176	12	25	50	10
 2004	PC	BANQUE CENTRALE-SUPELEC	EGIM	1712	33	31	666	31	38	646	31	39	539	48	25	33	49
-2004	PC	BANQUE CENTRALE-SUPELEC	Rang du dernier appelé
-2004	PC	BANQUE CENTRALE-SUPELEC	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	CONCOURS COMMUN TPE	Ecole Meteorologie	¥	¥	¥	¥	¥	¥	372	38	56	148	2	100	0	2
 2004	PC	CONCOURS COMMUN TPE	ENTPE Civil	2191	32	38	791	31	53	372	38	56	275	7	29	57	6
 2004	PC	CONCOURS COMMUN TPE	ENTPE Fonctionnaire	¥	¥	¥	¥	¥	¥	372	38	56	227	33	52	73	33
 2004	PC	CONCOURS COMMUN TPE	ENTPE Etr	¥	¥	¥	¥	¥	¥	15	33	67	15	0	0	0	1
-2004	PC	CONCOURS COMMUN TPE	Rang du dernier appelé
-2004	PC	CONCOURS COMMUN TPE	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	CCP : ECOLES RECRUTANT SUR LE C	ENSCP Bordeaux	¥	¥	¥	¥	¥	¥	¥	¥	¥	1816	57	54	25	66
 2004	PC	CCP : ECOLES RECRUTANT SUR LE C	ENSICAEN Mat. et Chimie	¥	¥	¥	¥	¥	¥	¥	¥	¥	2635	29	55	34	25
 2004	PC	CCP : ECOLES RECRUTANT SUR LE C	ENSC Clermont-Fd	¥	¥	¥	¥	¥	¥	¥	¥	¥	2371	41	71	34	43
@@ -81,8 +69,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PC	CCP : ECOLES RECRUTANT SUR LE C	ENSIACET Mat Procede	¥	¥	¥	¥	¥	¥	¥	¥	¥	1672	25	32	36	22
 2004	PC	CCP : ECOLES RECRUTANT SUR LE C	ENSIACET G. Chimique	¥	¥	¥	¥	¥	¥	¥	¥	¥	1428	23	61	52	23
 2004	PC	CCP : ECOLES RECRUTANT SUR LE C	Commun Polytechn. PC-CH	4379	36	27	3257	36	33	2790	38	33	¥	¥	¥	¥	640
-2004	PC	CCP : ECOLES RECRUTANT SUR LE C	Rang du dernier appelé
-2004	PC	CCP : ECOLES RECRUTANT SUR LE C	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	CCP : ECOLES RECRUTANT SUR LE C	ENSMM Besancon	¥	¥	¥	¥	¥	¥	¥	¥	¥	2603	22	14	59	20
 2004	PC	CCP : ECOLES RECRUTANT SUR LE C	ENSEIRB Electronique	¥	¥	¥	¥	¥	¥	¥	¥	¥	2150	9	44	22	13
 2004	PC	CCP : ECOLES RECRUTANT SUR LE C	ENSEIRB Informatique	¥	¥	¥	¥	¥	¥	¥	¥	¥	2108	7	14	14	7
@@ -121,8 +107,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PC	CCP : ECOLES RECRUTANT SUR LE C	ENSIAME Info Autom.	¥	¥	¥	¥	¥	¥	¥	¥	¥	2603	0	0	0	2
 2004	PC	CCP : ECOLES RECRUTANT SUR LE C	ENSIAME Mecatronique	¥	¥	¥	¥	¥	¥	¥	¥	¥	2477	0	0	0	2
 2004	PC	CCP : ECOLES RECRUTANT SUR LE C	Commun Polytechn. PC-PH	4607	34	28	3078	33	35	2629	35	36	¥	¥	¥	¥	605
-2004	PC	CCP : ECOLES RECRUTANT SUR LE C	Rang du dernier appelé
-2004	PC	CCP : ECOLES RECRUTANT SUR LE C	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	BANQUE D'EPREUVES C.C.P	Ecole Navale Brest	512	26	34	140	24	53	72	21	58	44	18	11	44	18
 2004	PC	BANQUE D'EPREUVES C.C.P	ENSIETA Brest Mili.	666	24	36	179	23	60	96	25	67	42	8	25	100	8
 2004	PC	BANQUE D'EPREUVES C.C.P	ENSCI Limoges	351	42	29	331	44	30	121	43	35	100	26	38	50	20
@@ -133,35 +117,23 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PC	BANQUE D'EPREUVES C.C.P	ENSGI	764	32	32	341	33	40	108	40	42	¥	16	19	50	¥
 2004	PC	BANQUE D'EPREUVES C.C.P	ENSGSI	444	38	34	281	39	40	87	43	47	¥	9	33	44	¥
 2004	PC	BANQUE D'EPREUVES C.C.P	ESM ST CYR	244	17	37	121	15	50	53	8	55	¥	16	0	56	¥
-2004	PC	BANQUE D'EPREUVES C.C.P	Rang du dernier appelé
-2004	PC	BANQUE D'EPREUVES C.C.P	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	CONCOURS TELECOM INT	Telecom INT	1217	29	37	518	28	47	173	34	52	152	34	26	50	32
 2004	PC	CONCOURS TELECOM INT	ESIEE-Paris	¥	¥	¥	¥	¥	¥	¥	¥	¥	761	8	12	38	15
 2004	PC	CONCOURS TELECOM INT	ISMEA Marseille	¥	¥	¥	¥	¥	¥	¥	¥	¥	757	11	27	45	10
 2004	PC	CONCOURS TELECOM INT	ESIEE/ISMEA PC	¥	¥	¥	¥	¥	¥	761	30	43	¥	¥	¥	¥	25
-2004	PC	CONCOURS TELECOM INT	Rang du dernier appelé
-2004	PC	CONCOURS TELECOM INT	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	CONCOURS EIVP	EIVP Fonc. Paris	¥	¥	¥	¥	¥	¥	395	38	56	169	5	80	60	5
 2004	PC	CONCOURS EIVP	EIVP Civil Paris	¥	¥	¥	¥	¥	¥	412	38	57	405	19	47	47	10
-2004	PC	CONCOURS EIVP	Rang du dernier appelé
-2004	PC	CONCOURS EIVP	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	CONCOURS DES ENSTIM	ENSTIM Albi	¥	¥	¥	¥	¥	¥	¥	¥	¥	158	11	45	36	8
 2004	PC	CONCOURS DES ENSTIM	ENSTIM Ales	¥	¥	¥	¥	¥	¥	¥	¥	¥	131	6	33	67	8
 2004	PC	CONCOURS DES ENSTIM	ENSTIM Douai	¥	¥	¥	¥	¥	¥	¥	¥	¥	104	9	67	22	8
 2004	PC	CONCOURS DES ENSTIM	ENSTIM Nantes	¥	¥	¥	¥	¥	¥	¥	¥	¥	110	3	33	67	3
 2004	PC	CONCOURS DES ENSTIM	ENSTIM PC	624	35	39	415	34	47	158	39	53	¥	¥	¥	¥	27
-2004	PC	CONCOURS DES ENSTIM	Rang du dernier appelé
-2004	PC	CONCOURS DES ENSTIM	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	CONCOURS ESTP	ESTP-TP	¥	¥	¥	¥	¥	¥	¥	¥	¥	370	58	24	41	61
 2004	PC	CONCOURS ESTP	ESTP-BAT	¥	¥	¥	¥	¥	¥	¥	¥	¥	494	66	30	45	61
 2004	PC	CONCOURS ESTP	ESTP MECA-ELEC	¥	¥	¥	¥	¥	¥	¥	¥	¥	596	24	38	29	22
 2004	PC	CONCOURS ESTP	ESTP-GEOMETRES	¥	¥	¥	¥	¥	¥	¥	¥	¥	629	11	27	45	14
 2004	PC	CONCOURS ESTP	ESTP PC	1019	29	33	888	30	35	766	31	38	¥	¥	¥	¥	158
-2004	PC	CONCOURS ESTP	Rang du dernier appelé
-2004	PC	CONCOURS ESTP	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	CONCOURS ENSAM	ENSAM	1008	29	34	127	32	54	59	22	54	46	19	32	58	20
-2004	PC	CONCOURS ENSAM	Rang du dernier appelé
-2004	PC	CONCOURS ENSAM	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	CONCOURS ECRIN	ECOLE LOUIS DE BROG.	181	27	27	159	30	26	89	29	33	89	3	0	0	10
 2004	PC	CONCOURS ECRIN	EFREI Paris	253	34	33	219	34	32	98	32	36	91	6	33	0	15
 2004	PC	CONCOURS ECRIN	EISTI Cergy	¥	¥	¥	¥	¥	¥	¥	¥	¥	107	7	29	43	20
@@ -177,8 +149,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PC	CONCOURS ECRIN	ISEM Toulon	119	29	26	107	31	27	52	25	27	52	2	0	0	5
 2004	PC	CONCOURS ECRIN	ISEN Lille	117	28	29	102	30	27	64	25	27	63	3	0	0	5
 2004	PC	CONCOURS ECRIN	ITECH Lyon	477	60	21	455	61	20	313	65	21	313	41	63	15	45
-2004	PC	CONCOURS ECRIN	Rang du dernier appelé
-2004	PC	CONCOURS ECRIN	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	CONCOURS ARCHIMEDE	ESIEC Reims	126	70	19	115	72	20	33	73	27	33	9	67	33	10
 2004	PC	CONCOURS ARCHIMEDE	ESIL Marseille Biomédical	271	58	19	150	63	13	64	70	12	41	3	67	0	3
 2004	PC	CONCOURS ARCHIMEDE	ESIL Marseille Biotech. Info.	116	30	20	100	29	19	34	21	29	34	3	33	33	10
@@ -217,8 +187,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PC	CONCOURS ARCHIMEDE	ISTASE Saint-Etienne	112	32	29	101	35	30	47	30	26	47	6	50	33	10
 2004	PC	CONCOURS ARCHIMEDE	ISTIL Lyon	257	30	31	211	33	29	112	29	36	99	16	12	25	15
 2004	PC	CONCOURS ARCHIMEDE	ISTY Versailles	88	20	22	70	23	20	12	17	17	12	2	0	50	20
-2004	PC	CONCOURS ARCHIMEDE	Rang du dernier appelé
-2004	PC	CONCOURS ARCHIMEDE	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	RESEAU EIFFEL	Polytech'Lille : IAAL	¥	¥	¥	¥	¥	¥	¥	¥	¥	536	4	50	50	3
 2004	PC	RESEAU EIFFEL	ISIM Sc+Tech indus A	¥	¥	¥	¥	¥	¥	¥	¥	¥	458	8	75	12	6
 2004	PC	RESEAU EIFFEL	CUST Genie Biol.	¥	¥	¥	¥	¥	¥	¥	¥	¥	530	6	83	17	5
@@ -250,8 +218,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PC	RESEAU EIFFEL	Polytech'Tours : info.	¥	¥	¥	¥	¥	¥	¥	¥	¥	578	0	0	0	5
 2004	PC	RESEAU EIFFEL	Polytech'Tours : Product.	¥	¥	¥	¥	¥	¥	¥	¥	¥	578	1	0	0	10
 2004	PC	RESEAU EIFFEL	POLYTECH-EIFFEL PC	1275	38	26	960	41	26	578	43	28	¥	¥	¥	¥	234
-2004	PC	RESEAU EIFFEL	Rang du dernier appelé
-2004	PC	RESEAU EIFFEL	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	AUTRES ECOLES DE LA BANQUE E3A	EIPI-ISPA	50	60	26	47	62	28	16	75	44	16	1	0	100	25
 2004	PC	AUTRES ECOLES DE LA BANQUE E3A	ESITC CAEN	51	27	31	48	29	33	25	40	36	25	5	40	40	6
 2004	PC	AUTRES ECOLES DE LA BANQUE E3A	ECE PARIS	189	20	26	174	21	24	103	23	27	100	14	29	14	15
@@ -260,11 +226,7 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PC	AUTRES ECOLES DE LA BANQUE E3A	ESIEE Amiens	42	19	33	34	21	29	4	25	50	4	1	100	0	5
 2004	PC	AUTRES ECOLES DE LA BANQUE E3A	ESIGELEC	152	26	27	138	27	27	79	24	29	79	8	0	38	20
 2004	PC	AUTRES ECOLES DE LA BANQUE E3A	ESIGETEL Fontainebl.	112	25	27	¥	¥	¥	90	23	26	47	5	20	40	20
-2004	PC	AUTRES ECOLES DE LA BANQUE E3A	Rang du dernier appelé
-2004	PC	AUTRES ECOLES DE LA BANQUE E3A	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	AUTRES ECOLES DE LA BANQUE E3A	ESTIA Bayonne	125	30	27	98	29	31	37	38	38	37	8	12	25	15
-2004	PC	AUTRES ECOLES DE LA BANQUE E3A	Rang du dernier appelé
-2004	PC	AUTRES ECOLES DE LA BANQUE E3A	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	PC	AUTRES ECOLES DE LA BANQUE E3A	ISEP Paris	207	26	31	172	28	31	110	30	36	110	13	38	23	21
 2004	PC	AUTRES ECOLES DE LA BANQUE E3A	ISMANS	241	36	26	214	37	27	150	42	33	150	4	0	50	30
 2004	PC	AUTRES ECOLES DE LA BANQUE E3A	3IL	94	28	24	¥	¥	¥	90	29	23	90	4	25	25	24

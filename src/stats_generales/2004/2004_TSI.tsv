@@ -1,9 +1,5 @@
 year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rg_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
-2004	TSI		Rang du dernier appelé
-2004	TSI		Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	TSI	Concours Polytechnique	Ecole Polytechnique	15	0	33	¥	¥	¥	4	0	0	4	1	0	0	2
-2004	TSI	Concours Polytechnique	Rang du dernier appelé
-2004	TSI	Concours Polytechnique	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE Paris	296	3	26	20	0	20	11	0	0	11	6	0	0	10
 2004	TSI	CONCOURS CENTRALE-SUPELEC	Supelec campus Gif	¥	¥	¥	¥	¥	¥	¥	¥	¥	8	1	0	0	1
 2004	TSI	CONCOURS CENTRALE-SUPELEC	Supelec campus Metz	¥	¥	¥	¥	¥	¥	¥	¥	¥	5	1	0	0	1
@@ -22,8 +18,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	TSI	CONCOURS CENTRALE-SUPELEC	SUPELEC Rennes Hd TSI	¥	¥	¥	¥	¥	¥	¥	¥	¥	0	0	0	0	0
 2004	TSI	CONCOURS CENTRALE-SUPELEC	SUPELEC Gif Hd TSI	¥	¥	¥	¥	¥	¥	¥	¥	¥	0	0	0	0	0
 2004	TSI	CONCOURS CENTRALE-SUPELEC	SUPELEC Hd TSI	¥	¥	¥	¥	¥	¥	0	0	0	¥	¥	¥	¥	0
-2004	TSI	CONCOURS CENTRALE-SUPELEC	Rang du dernier appelé
-2004	TSI	CONCOURS CENTRALE-SUPELEC	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	TSI	CONC. COMM. MINES-PONTS	Ponts et Chaussees	¥	¥	¥	¥	¥	¥	¥	¥	¥	20	2	0	50	2
 2004	TSI	CONC. COMM. MINES-PONTS	SUPAERO	¥	¥	¥	¥	¥	¥	¥	¥	¥	0	0	0	0	0
 2004	TSI	CONC. COMM. MINES-PONTS	Techniques Avancees	¥	¥	¥	¥	¥	¥	¥	¥	¥	0	0	0	0	0
@@ -34,15 +28,11 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	TSI	CONC. COMM. MINES-PONTS	MINES Nancy	¥	¥	¥	¥	¥	¥	¥	¥	¥	14	1	0	0	1
 2004	TSI	CONC. COMM. MINES-PONTS	Telecom Bretagne	¥	¥	¥	¥	¥	¥	¥	¥	¥	37	0	0	0	2
 2004	TSI	CONC. COMM. MINES-PONTS	Commun Mines Ponts TSI	268	3	25	50	0	28	37	0	24	¥	¥	¥	¥	13
-2004	TSI	CONC. COMM. MINES-PONTS	Rang du dernier appelé
-2004	TSI	CONC. COMM. MINES-PONTS	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	TSI	CONCOURS COMMUN ENSAM	ENSAM	¥	¥	¥	¥	¥	¥	¥	¥	¥	75	36	0	42	35
 2004	TSI	CONCOURS COMMUN ENSAM	ENSEA Cergy	¥	¥	¥	¥	¥	¥	¥	¥	¥	105	10	0	20	10
 2004	TSI	CONCOURS COMMUN ENSAM	ESIEE Amiens	¥	¥	¥	¥	¥	¥	¥	¥	¥	128	1	0	0	5
 2004	TSI	CONCOURS COMMUN ENSAM	ESIEE-Paris	¥	¥	¥	¥	¥	¥	¥	¥	¥	128	2	0	0	5
 2004	TSI	CONCOURS COMMUN ENSAM	ENSAM TSI	532	3	22	166	0	29	128	0	29	¥	¥	¥	¥	55
-2004	TSI	CONCOURS COMMUN ENSAM	Rang du dernier appelé
-2004	TSI	CONCOURS COMMUN ENSAM	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	TSI	CONC. COMM. POLYTECHNIQUE	ENSMM Besancon	¥	¥	¥	¥	¥	¥	¥	¥	¥	254	21	19	38	19
 2004	TSI	CONC. COMM. POLYTECHNIQUE	ENSEIRB Electronique	¥	¥	¥	¥	¥	¥	¥	¥	¥	76	4	0	0	4
 2004	TSI	CONC. COMM. POLYTECHNIQUE	ENSEIRB Informatique	¥	¥	¥	¥	¥	¥	¥	¥	¥	100	2	0	50	2
@@ -67,14 +57,10 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	TSI	CONC. COMM. POLYTECHNIQUE	ENSIAME Mecatronique	¥	¥	¥	¥	¥	¥	¥	¥	¥	279	7	0	29	6
 2004	TSI	CONC. COMM. POLYTECHNIQUE	ENSIAME Info Autom.	¥	¥	¥	¥	¥	¥	¥	¥	¥	297	4	0	25	4
 2004	TSI	CONC. COMM. POLYTECHNIQUE	Commun Polytechnique TSI	664	4	21	398	4	25	320	4	23	¥	¥	¥	¥	90
-2004	TSI	CONC. COMM. POLYTECHNIQUE	Rang du dernier appelé
-2004	TSI	CONC. COMM. POLYTECHNIQUE	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	TSI	AUTRES CONCOURS	EIC Cherbourg	318	5	23	205	5	26	40	10	22	40	5	20	60	15
 2004	TSI	AUTRES CONCOURS	IFMA Clermont-Fd	149	3	23	39	0	31	17	0	29	13	7	0	43	7
 2004	TSI	AUTRES CONCOURS	ISMANS	244	5	20	189	5	23	132	5	26	132	4	0	75	30
 2004	TSI	AUTRES CONCOURS	Telecom INT	176	3	31	87	1	30	42	0	33	18	6	0	33	6
-2004	TSI	AUTRES CONCOURS	Rang du dernier appelé
-2004	TSI	AUTRES CONCOURS	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi	Nb	Filles	5-demi
 2004	TSI	BANQUE D'EPREUVES C.C.P	ENS Cachan	244	5	19	40	0	18	29	0	10	20	6	0	0	6
 2004	TSI	BANQUE D'EPREUVES C.C.P	ENSIETA Brest Mili.	251	4	15	46	2	17	20	0	20	8	1	0	0	1
 2004	TSI	BANQUE D'EPREUVES C.C.P	ENSIT Mulhouse	116	8	28	98	6	31	31	6	29	30	12	8	17	10

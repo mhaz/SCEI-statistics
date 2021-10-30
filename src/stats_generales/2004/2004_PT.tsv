@@ -1,5 +1,4 @@
 year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rg_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
-2004	PT		Rang du dernier appelé
 2004	PT	BANQUE CENTRALE-SUPELEC	CENTRALE Paris	606	10	19	59	5	7	40	5	5	30	10	10	0	10
 2004	PT	BANQUE CENTRALE-SUPELEC	Supelec campus Gif	¥	¥	¥	¥	¥	¥	¥	¥	¥	54	10	0	0	10
 2004	PT	BANQUE CENTRALE-SUPELEC	Supelec campus Metz	¥	¥	¥	¥	¥	¥	¥	¥	¥	79	6	17	17	7
@@ -10,7 +9,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PT	BANQUE CENTRALE-SUPELEC	CENTRALE Nantes	790	9	21	127	9	10	119	9	10	114	11	18	9	12
 2004	PT	BANQUE CENTRALE-SUPELEC	SupOptique	275	9	22	41	10	12	33	6	15	14	2	0	0	2
 2004	PT	BANQUE CENTRALE-SUPELEC	EGIM	551	10	25	110	8	16	102	9	17	91	6	17	0	6
-2004	PT	BANQUE CENTRALE-SUPELEC	Rang du dernier appelé
 2004	PT	CONC. COMM. MINES-PONTS	Ponts et Chaussees	¥	¥	¥	¥	¥	¥	¥	¥	¥	18	2	0	0	2
 2004	PT	CONC. COMM. MINES-PONTS	SUPAERO	¥	¥	¥	¥	¥	¥	¥	¥	¥	34	5	0	40	5
 2004	PT	CONC. COMM. MINES-PONTS	Techniques Avancees	¥	¥	¥	¥	¥	¥	¥	¥	¥	56	2	0	50	3
@@ -21,19 +19,15 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PT	CONC. COMM. MINES-PONTS	MINES Nancy	¥	¥	¥	¥	¥	¥	¥	¥	¥	93	3	33	0	3
 2004	PT	CONC. COMM. MINES-PONTS	Telecom Bretagne	¥	¥	¥	¥	¥	¥	¥	¥	¥	114	1	0	0	4
 2004	PT	CONC. COMM. MINES-PONTS	C.C Mines Ponts PT	642	9	18	150	7	12	132	6	10	¥	¥	¥	¥	26
-2004	PT	CONC. COMM. MINES-PONTS	Rang du dernier appelé
 2004	PT	CONCOURS COMMUN ENSAM	ENSAM	¥	¥	¥	¥	¥	¥	¥	¥	¥	796	591	6	29	600
 2004	PT	CONCOURS COMMUN ENSAM	ENSEA Cergy	¥	¥	¥	¥	¥	¥	¥	¥	¥	1108	27	11	30	32
 2004	PT	CONCOURS COMMUN ENSAM	ESIEE-Paris	¥	¥	¥	¥	¥	¥	¥	¥	¥	1060	4	0	25	6
 2004	PT	CONCOURS COMMUN ENSAM	ESIEE Amiens	¥	¥	¥	¥	¥	¥	¥	¥	¥	1028	0	0	0	6
 2004	PT	CONCOURS COMMUN ENSAM	C.C. ENSAM PT	1997	9	20	1226	7	23	1133	8	23	¥	¥	¥	¥	644
-2004	PT	CONCOURS COMMUN ENSAM	Rang du dernier appelé
 2004	PT	CONCOURS ECOLE POLYTECHNIQUE	Ecole Polytechnique	12	8	17	1	0	0	0	0	0	0	0	0	0	0
 2004	PT	CONCOURS ECOLE POLYTECHNIQUE	Ecole Polytechnique	275	7	14	24	0	8	13	0	0	13	12	0	0	12
-2004	PT	CONCOURS ECOLE POLYTECHNIQUE	Rang du dernier appelé
 2004	PT	CONCOURS DE L'ENS DE CACHAN	ENS Cachan	1584	10	21	293	5	23	225	5	22	216	43	12	23	40
 2004	PT	CONCOURS DE L'ENS DE CACHAN	ENS Cachan	¥	¥	¥	¥	¥	¥	3	33	0	0	0	0	0	0
-2004	PT	CONCOURS DE L'ENS DE CACHAN	Rang du dernier appelé
 2004	PT	CONC. COMM. POLYTECHNIQUE	ENSMM Besancon	¥	¥	¥	¥	¥	¥	¥	¥	¥	1001	48	10	23	42
 2004	PT	CONC. COMM. POLYTECHNIQUE	ENSEIRB Electronique	¥	¥	¥	¥	¥	¥	¥	¥	¥	535	3	0	0	2
 2004	PT	CONC. COMM. POLYTECHNIQUE	ENSEIRB Informatique	¥	¥	¥	¥	¥	¥	¥	¥	¥	305	1	0	0	1
@@ -66,7 +60,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PT	CONC. COMM. POLYTECHNIQUE	ISIMA Clermont-Fd	¥	¥	¥	¥	¥	¥	¥	¥	¥	969	5	0	20	6
 2004	PT	CONC. COMM. POLYTECHNIQUE	ENSICAEN : informatique	¥	¥	¥	¥	¥	¥	¥	¥	¥	689	2	0	0	2
 2004	PT	CONC. COMM. POLYTECHNIQUE	C.C. POLYTECHNIQUE PT	1910	9	21	1222	9	24	1046	9	25	¥	¥	¥	¥	184
-2004	PT	CONC. COMM. POLYTECHNIQUE	Rang du dernier appelé
 2004	PT	CONCOURS ECRIN	ECOLE LOUIS DE BROG.	213	10	28	198	10	29	104	10	38	104	9	11	56	15
 2004	PT	CONCOURS ECRIN	EFREI Paris	168	12	27	157	11	26	70	16	20	70	9	11	22	15
 2004	PT	CONCOURS ECRIN	EISTI Cergy	¥	¥	¥	¥	¥	¥	¥	¥	¥	76	5	20	40	20
@@ -82,7 +75,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PT	CONCOURS ECRIN	ISEM Toulon	191	10	28	168	11	29	78	6	40	78	0	0	0	5
 2004	PT	CONCOURS ECRIN	ISEN Lille	189	10	28	165	10	28	74	7	39	74	1	0	0	5
 2004	PT	CONCOURS ECRIN	ITECH Lyon	61	20	28	58	17	29	31	10	32	30	3	0	33	5
-2004	PT	CONCOURS ECRIN	Rang du dernier appelé
 2004	PT	GROUPE ARCHIMEDE	Polytech'Tours : Product.	1156	10	25	802	9	24	455	9	20	455	1	0	0	18
 2004	PT	GROUPE ARCHIMEDE	EIC Cherbourg	231	10	25	186	10	26	72	7	33	72	17	6	24	15
 2004	PT	GROUPE ARCHIMEDE	Polytech'Tours : info.	1156	10	25	802	9	24	455	9	20	455	0	0	0	5
@@ -130,7 +122,6 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2004	PT	GROUPE ARCHIMEDE	POLYTECH-EIFFEL PT	1156	10	25	802	9	24	455	9	20	¥	¥	¥	¥	120
 2004	PT	GROUPE ARCHIMEDE	ESIEC Reims	60	27	37	53	26	38	19	26	26	19	6	17	33	5
 2004	PT	GROUPE ARCHIMEDE	ESIL Marseille Mat.	170	18	29	101	16	30	41	15	34	41	1	0	0	10
-2004	PT	GROUPE ARCHIMEDE	Rang du dernier appelé
 2004	PT	AUTRES ECOLES	3IL	108	11	27	¥	¥	¥	104	12	25	104	3	0	0	12
 2004	PT	AUTRES ECOLES	ENSTIM Albi	¥	¥	¥	¥	¥	¥	¥	¥	¥	164	2	50	0	3
 2004	PT	AUTRES ECOLES	ENSTIM Ales	¥	¥	¥	¥	¥	¥	¥	¥	¥	154	9	11	22	8

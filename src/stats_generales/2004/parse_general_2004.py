@@ -41,6 +41,8 @@ def parse_to_file(f, path, filiere, year, sep):
         if len(heads) == 1:
             banque = sanitize_string(heads[0].text)
         cells = row.find_all("td")
+        # if (len(cells) == 12): continue
+        if len(cells) != 15: continue
         # Print the "year,filiere,banque" at beginning of line.
         do_print = True
         for idx, cell in enumerate(cells):
