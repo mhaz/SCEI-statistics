@@ -17,6 +17,19 @@ Get the statistics of interest.
 Then, using the statistics (variation of female percentage throughout the selection process) and ranking of schools / Ecoles, see how the variation of female percentage evolves.
 From the top ones, see how it evolves. Same for the low tier schools. (it is an elimination process, so expect a opposite trend).
 
+* Parsing "Lycees" data
+Supelec spelling
+=TS= --> =TSI= (2002, 2003)
+=PS= --> =PSI= (2003, 2004)
+
+=../../data/stat2002/recap_lycee_33.html	2002Banque ENS Cachan/X-ESPCI= --> PSI
+=../../data/stat2003/recap_lycee_33_2003.html	2003Banque ENS Cachan/X-ESPCI=
+(Cannot be parsed by last word)
+
+2005 and more recent: can know the prepa from the path (directory name)
+
+Remove the =?= in some years (e.g. 2009)
+
 * Logs
 ** [2021-02-11 Thu]
 Start the repo.
