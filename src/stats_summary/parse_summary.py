@@ -124,6 +124,8 @@ def parse_to_file(filename, files):
                     data_year = l[0]
                     continue
                 assert(len(l[0]) != 0)
+                if "Inter".casefold() in l[0].casefold():
+                    l[0] = "Inter-Filière"
                 to_write = [str(file_year), str(data_year)]
                 for i in range(7):
                     to_write.append(l[i])
