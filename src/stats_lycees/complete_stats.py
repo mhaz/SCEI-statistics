@@ -38,6 +38,7 @@ def main():
     filename = "stats_lycees.csv"
     df = pd.read_csv(filename)
     lycees = df["etablissement"]
+    assert(all([el.count("(") == el.count(")") for el in lycees]))
     with_code = [el for el in lycees if el.count("(") > 0]
     without_code = [el for el in lycees if el.count("(") == 0]
     assert(len(with_code) + len(without_code) == len(lycees))
