@@ -1,0 +1,58 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rg_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2005	bcpst	BIO A	INA P-G										484	181	71.0	13.0	182
+2005	bcpst	BIO A	ENSA Montpellier										648	92	58.0	21.0	93
+2005	bcpst	BIO A	Agrocampus Rennes										807	94	56.0	13.0	95
+2005	bcpst	BIO A	ENSAT Toulouse										933	83	67.0	19.0	90
+2005	bcpst	BIO A	ENSAIA Nancy										1235	89	61.0	30.0	92
+2005	bcpst	BIO A	ENSHAP Angers										1111	37	62.0	28.0	38
+2005	bcpst	BIO A	ENSIA Massy										1222	46	82.0	20.0	46
+2005	bcpst	BIO A	ENSBANA Dijon										1395	37	89.0	14.0	39
+2005	bcpst	BIO A	FIF Fonctionnaire Nancy										173	8	37.0	25.0	8
+2005	bcpst	BIO A	FIF Civil Nancy										589	22	50.0	10.0	21
+2005	bcpst	BIO A	ENITAB Bordeaux										1502	49	65.0	25.0	54
+2005	bcpst	BIO A	ENITAC Clermont-Ferrand										1502	30	60.0	10.0	42
+2005	bcpst	BIO A	ENITIAA Nantes										1502	44	65.0	19.0	50
+2005	bcpst	BIO A	ENESAD Dijon										1502	22	63.0	14.0	35
+2005	bcpst	BIO A	A BIO	2338	65.0	11.0	1629	65.0	13.0	1502	65.0	13.0		834			885
+2005	bcpst	VETO	ENV Alfort										214	45	75.0	3.0	45
+2005	bcpst	VETO	ENV Lyon										182	45	71.0	0.0	45
+2005	bcpst	VETO	ENV Nantes										275	45	64.0	3.0	45
+2005	bcpst	VETO	ENV Toulouse										267	45	68.0	3.0	45
+2005	bcpst	VETO	commun A ENV	1302	67.0	10.0	580	66.0	12.0	530	66.0	12.0		180			180
+2005	bcpst	PC BIO	ESPCI Paris										75	6	83.0	50.0	5
+2005	bcpst	PC BIO	ENSC Paris										179	2	50.0	50.0	3
+2005	bcpst	PC BIO	ENSC Montpellier										196	5	60.0	0.0	4
+2005	bcpst	PC BIO	ENSC Lille										283	2	100.0	50.0	5
+2005	bcpst	PC BIO	A PC BIO	645	64.0	14.0	392	62.0	17.0	327	61.0	17.0		15			17
+2005	bcpst	ENS	ENS Ulm	951	64.0	12.0	68	51.0	9.0	31	38.0	10.0	25	21	38.0	15.0	21
+2005	bcpst	ENS	ENS Lyon	964	65.0	12.0	160	58.0	8.0	103	59.0	5.0	74	28	64.0	4.0	28
+2005	bcpst	ENS	ENS Lyon Etranger							2	100.0	0.0	0	0	0.0	0.0	0
+2005	bcpst	ENS	ENS Cachan	933	65.0	12.0	163	60.0	8.0	110	60.0	7.0	88	15	60.0	0.0	15
+2005	bcpst	ENS	ENS Cachan Etranger				3	66.0	34.0	2	100.0	0.0	61	1	100.0	0.0	0
+2005	bcpst	G2E	ENTPE Vaulx en Velin Fonctionnaire	617	60.0	21.0	445	61.0	25.0	168	61.0	29.0	90	9	66.0	34.0	9
+2005	bcpst	G2E	ENGEES Strasbourg Civil										255	17	58.0	18.0	17
+2005	bcpst	G2E	ENGEES Strasbourg Fonctionnaire										83	5	60.0	0.0	5
+2005	bcpst	G2E	ENGEES G2E-BCST				759	64.0	21.0	347	63.0	25.0		22			22
+2005	bcpst	G2E	ENSG Nancy				759	64.0	21.0	360	63.0	25.0	284	62	58.0	25.0	64
+2005	bcpst	G2E	ENSIL Limoges EE				759	64.0	21.0	378	63.0	26.0	346	4	100.0	0.0	7
+2005	bcpst	G2E	EOST				759	64.0	21.0	273	63.0	26.0	254	2	100.0	50.0	6
+2005	bcpst	G2E	ESIP Poitiers MC-G-GC				759	64.0	21.0	400	64.0	25.0	314	5	80.0	40.0	5
+2005	bcpst	G2E	IST Paris 6 Sci.Terre				759	64.0	21.0	395	63.0	25.0	374	5	80.0	40.0	5
+2005	bcpst	G2E	POLYTECH Orléans				759	64.0	21.0	503	65.0	24.0	492	21	80.0	24.0	25
+2005	bcpst	G2E	Concours G2E	1092	63.2	17.3											
+2005	bcpst	ARCH BIO	ENSTIB Epinal	367	60.0	21.0	242	56.0	21.0	38	52.0	22.0	38	11	54.0	19.0	12
+2005	bcpst	ARCH BIO	ESIL Marseille Biomédical	558	70.0	16.0	390	71.0	15.0	175	72.0	11.0	60	2	50.0	0.0	3
+2005	bcpst	ARCH BIO	ESIL Marseille Biotech	714	71.0	14.0	511	71.0	13.0	220	72.0	11.0	111	8	87.0	0.0	10
+2005	bcpst	ARCH BIO	ESIP Poitiers TEN	446	63.0	19.0	298	62.0	18.0	43	74.0	10.0	11	3	33.0	0.0	3
+2005	bcpst	ARCH BIO	ESMISAB Brest	658	73.0	17.0	453	72.0	18.0	133	75.0	16.0	74	12	75.0	17.0	12
+2005	bcpst	ARCH BIO	ESTBB Bordeaux	901	73.0	14.0	636	72.0	14.0	170	77.0	10.0	50	22	77.0	14.0	22
+2005	bcpst	ARCH BIO	ISIFC Besançon	383	71.0	16.0	256	71.0	15.0	18	77.0	0.0	17	6	100.0	0.0	3
+2005	bcpst	ARCH BIO	IST Paris 6 AGRAL	490	67.0	18.0	329	68.0	18.0	108	64.0	19.0	107	7	28.0	29.0	5
+2005	bcpst	ARCH BIO	ISTAB Bordeaux	595	71.0	16.0	394	71.0	17.0	104	80.0	12.0	101	17	76.0	0.0	20
+2005	bcpst	RESEAU POLYTECH	CUST Clermont-Ferrand Génie Biol.										88	12	75.0	0.0	10
+2005	bcpst	RESEAU POLYTECH	POLYTECH Grenoble Géot.										113	4	25.0	25.0	4
+2005	bcpst	RESEAU POLYTECH	POLYTECH Grenoble TIS										307	6	33.0	17.0	2
+2005	bcpst	RESEAU POLYTECH	POLYTECH Lille IAAL										308	12	66.0	25.0	14
+2005	bcpst	RESEAU POLYTECH	POLYTECH Montpellier STE										117	7	71.0	0.0	5
+2005	bcpst	RESEAU POLYTECH	POLYTECH Montpellier STIA										124	8	75.0	0.0	8
+2005	bcpst	RESEAU POLYTECH	Polytech-Eiffel BCPST	827	67.0	16.0	577	67.0	16.0	308	69.0	14.0		49			43
