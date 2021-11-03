@@ -45,3 +45,9 @@ Add the data for 2019's "statistiques generales".
 I noticed there are missing data in TSI's number of candidates for Polytechnique.
 PT's data also seem to contain missing values.
 I also notice that in some years, e.g. 2012, the parsing for a "bank summary" (with the =¥= at the beginning of the line) does not work. I might come back later at this and try to fix it, or just try to identify these lines in another way.
+
+** [2021-11-03 Wed]
+Data for lycee is inconsistent. There are lycee with no candidates showing "admissibles", "classes", "integres".
+For some other, there are more "admissibles", "classes" or "integres" than "inscrits".
+This is true for considering either total number of students, number of males or number of females.
+I should also verigy that the number of "inscrits", "asmissibles", "classes" and "integres" is coherent from the statistics by lycee and "stats generales".
