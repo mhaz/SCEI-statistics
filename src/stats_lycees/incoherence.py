@@ -47,8 +47,6 @@ def main():
         for i in range(n):
             for [a, b] in checks:
                 if r[a][i] < r[b][i]:
-
-
                     print(r_key,[a, b], [df[el][i] for el in df])
                     # incoherences.add(" ".join([r_key, a, b]))
                     incoherences[" ".join([r_key, a, b])] += 1
