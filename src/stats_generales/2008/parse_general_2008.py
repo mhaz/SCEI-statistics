@@ -48,6 +48,7 @@ def parse_to_file(f, path, filiere, year, sep):
             if (cell.text == "Nb"): break
             content = sanitize_string(cell.text)
             if (content == "Rg dudernier appelé"): break
+            if (content == "Rg dudernier appel"): break
             if do_print:
                 f.write(year + sep + filiere + sep + banque  + sep)
                 do_print = False
