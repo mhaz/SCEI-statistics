@@ -1,0 +1,152 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
+2021	bcpst	A BIO	CentraleSupélec-Campus Metz										11	81.8	27.3	310	300	10
+2021	bcpst	A BIO	AgroParisTech Grignon										260	63.1	13.1	477	470	260
+2021	bcpst	A BIO	Montpellier Sup Agro (cursus agronome)										100	75.0	24.0	994	970	99
+2021	bcpst	A BIO	Montpellier Sup Agro (cursus SAADS)										7	100.0	0.0	885	721	7
+2021	bcpst	A BIO	Agrocampus Ouest (cursus ingénieur agronome)										105	68.6	42.9	1087	1061	105
+2021	bcpst	A BIO	ENSAT Toulouse										91	75.8	35.2	1344	1273	92
+2021	bcpst	A BIO	ENSAIA Nancy										84	65.5	34.5	1706	1674	90
+2021	bcpst	A BIO	Agrocampus Ouest (cursus ingénieur en horticulture et en paysage)										37	75.7	24.3	1619	1590	38
+2021	bcpst	A BIO	Agrosup Dijon (Cursus Agroalimentaire)										33	78.8	12.1	1965	1837	35
+2021	bcpst	A BIO	Bordeaux Sciences Agro										86	64.0	34.9	1451	1411	87
+2021	bcpst	A BIO	VetAgro Sup Clermont-Ferrand										48	68.8	33.3	1931	1858	54
+2021	bcpst	A BIO	ONIRIS Nantes Atlantique (cursus agroalimentaire)										39	71.8	25.6	2026	1937	49
+2021	bcpst	A BIO	Agrosup Dijon (Cursus Agronome) civil										35	62.9	28.6	1725	1681	34
+2021	bcpst	A BIO	Agrosup Dijon (Cursus agronome) fonctionnaire										25	68.0	20.0	1430	1391	25
+2021	bcpst	A BIO	¥Concours A BIO	3055	70.7	20.7	2338	69.7	25.4	2185	69.7	26.2	961					985
+2021	bcpst	X BIO	ECOLE POLYTECHNIQUE	374	62.8	14.2	22	68.2	0.0	22	68.2	0.0	13	61.5	0.0	10	12	13
+2021	bcpst	A ENV	ENV Alfort										110	76.4	43.6	248	242	110
+2021	bcpst	A ENV	VetAgro Sup Lyon										121	71.1	57.0	192	197	121
+2021	bcpst	A ENV	ONIRIS Nantes Atlantique (cursus vétérinaire)										116	67.2	44.8	465	407	116
+2021	bcpst	A ENV	ENV Toulouse										114	72.8	39.5	375	336	114
+2021	bcpst	A ENV	¥Concours A ENV	2055	72.9	25.4	967	72.4	38.8	627	69.5	39.2	461					461
+2021	bcpst	PC BIO	Bordeaux INP-ENSCBP Agroalimentaire-Génie biologique										7	57.1	42.9	635	620	6
+2021	bcpst	PC BIO	Bordeaux INP-ENSCBP Chimie-Génie physique										8	87.5	37.5	472	466	4
+2021	bcpst	PC BIO	Chimie ParisTech										3	0.0	0.0	126	117	3
+2021	bcpst	PC BIO	ENSC Lille										3	100.0	66.7	402	389	5
+2021	bcpst	PC BIO	ENSC Montpellier										2	50.0	0.0	131	131	2
+2021	bcpst	PC BIO	ESPCI Paris										2	50.0	100.0	63	63	2
+2021	bcpst	PC BIO	Grenoble INP-Phelma (Physique Matériaux Procédés)										4	75.0	0.0	393	370	2
+2021	bcpst	PC BIO	Lorraine INP-ENSIC										11	45.5	36.4	564	533	9
+2021	bcpst	PC BIO	¥Concours A PC BIO	1359	70.3	20.8	750	68.5	27.7	708	68.6	28.1	40					33
+2021	bcpst	ENS	ENS Ulm	839	59.8	19.9	83	49.4	13.3	35	51.4	11.4	21	52.4	9.5	16	16	21
+2021	bcpst	ENS	ENS de Lyon	850	59.4	19.8	171	52.0	22.8	96	51.0	16.7	36	47.2	22.2	54	52	36
+2021	bcpst	ENS	ENS Paris-Saclay	831	60.2	20.0	161	52.2	20.5	86	53.5	18.6	14	42.9	0.0	51	52	14
+2021	bcpst	ENS	PONTS ParisTech	324	57.4	20.1	40	37.5	20.0	13	23.1	38.5	1	100.0	0.0	4	4	4
+2021	bcpst	G2E	EIL Côte d'Opale-Dunkerque (Génie Energétique et Environnement)	1657	70.8	18.2	1136	68.7	23.2	620	67.3	26.5	0	0.0	0.0	0	0	5
+2021	bcpst	G2E	ENGEES Strasbourg Civil (apprenti)										2	100.0	0.0	550	550	5
+2021	bcpst	G2E	ENGEES Strasbourg Civil (étudiant)										24	66.7	20.8	382	357	20
+2021	bcpst	G2E	ENGEES Strasbourg Fonctionnaire										6	50.0	16.7	257	264	6
+2021	bcpst	G2E	¥Concours ENGEES G2E-BCPST	1657	70.8	18.2	1136	68.7	23.2	620	67.3	26.5	32					31
+2021	bcpst	G2E	Bordeaux INP-ENSEGID	1657	70.8	18.2	1136	68.7	23.2	620	67.3	26.5	18	61.1	27.8	457	399	18
+2021	bcpst	G2E	ENSG Nancy	1657	70.8	18.2	1136	68.7	23.2	620	67.3	26.5	61	47.5	23.0	186	187	64
+2021	bcpst	G2E	ENSG-Géomatique Marne la Vallée Civil										2	0.0	0.0	594	594	8
+2021	bcpst	G2E	ENSG-Géomatique Marne la Vallée Fonctionnaire										2	100.0	0.0	307	307	2
+2021	bcpst	G2E	¥Concours concours ENSG Marne La vallée G2E-BCPST	1657	70.8	18.2	1136	68.7	23.2	620	67.3	26.5	4					10
+2021	bcpst	G2E	ENSI Poitiers-Génie de l'Eau et Génie Civil	1657	70.8	18.2	1136	68.7	23.2	620	67.3	26.5	9	100.0	11.1	571	564	15
+2021	bcpst	G2E	ENSIL-ENSCI Limoges Eau	1657	70.8	18.2	1136	68.7	23.2	620	67.3	26.5	3	33.3	0.0	580	582	6
+2021	bcpst	G2E	ENTPE Lyon Civil	1657	70.8	18.2	1136	68.7	23.2	620	67.3	26.5	25	52.0	36.0	421	396	25
+2021	bcpst	G2E	ENTPE Lyon Fonctionnaire	846	69.1	20.7	596	67.1	26.0	358	66.8	27.9	21	61.9	23.8	160	127	21
+2021	bcpst	G2E	EOST Strasbourg	1657	70.8	18.2	1136	68.7	23.2	620	67.3	26.5	16	75.0	25.0	470	455	9
+2021	bcpst	G2E	ESGT le Mans	1657	70.8	18.2	1136	68.7	23.2	620	67.3	26.5	3	33.3	33.3	616	583	10
+2021	bcpst	G2E	IMT Lille Douai										5	0.0	40.0	351	279	3
+2021	bcpst	G2E	IMT Mines Albi										6	83.3	0.0	252	251	5
+2021	bcpst	G2E	IMT Mines Alès										5	80.0	40.0	259	223	4
+2021	bcpst	G2E	¥Concours concours des écoles des Mines G2E-BCPST	1657	70.8	18.2	1136	68.7	23.2	620	67.3	26.5	16					12
+2021	bcpst	Lorraine INP - ENSTIB	Lorraine INP-ENSTIB	669	68.5	19.4	46	80.4	23.9	46	80.4	23.9	13	76.9	23.1	21	20	13
+2021	bcpst	CONCOURS POLYTECH	ECPM-ESBS Strasbourg-CHEMBIOTECH										7	100.0	28.6	613	604	2
+2021	bcpst	CONCOURS POLYTECH	ENSTBB Bordeaux										20	60.0	15.0	448	433	20
+2021	bcpst	CONCOURS POLYTECH	EPISEN-Génie Biomédical et santé (ISBS)										3	100.0	0.0	858	841	3
+2021	bcpst	CONCOURS POLYTECH	ESBS Strasbourg										13	84.6	7.7	597	515	8
+2021	bcpst	CONCOURS POLYTECH	ESIAB Brest										5	100.0	0.0	1019	932	5
+2021	bcpst	CONCOURS POLYTECH	ESIR Rennes-Technologies de l'information pour la santé										2	50.0	0.0	942	942	4
+2021	bcpst	CONCOURS POLYTECH	ESIROI Saint Denis de La Réunion										0	0.0	0.0	0	0	2
+2021	bcpst	CONCOURS POLYTECH	ESIX Caen Agroalimentaire										4	50.0	0.0	1291	1188	5
+2021	bcpst	CONCOURS POLYTECH	ISIFC Besançon-Génie Biomédical										8	75.0	25.0	1052	940	10
+2021	bcpst	CONCOURS POLYTECH	Polytech Angers Génie Biologique et Santé										1	0.0	100.0	505	505	4
+2021	bcpst	CONCOURS POLYTECH	Polytech Annecy-Chambéry-Ecologie industrielle et territoriale										1	100.0	0.0	1053	1053	4
+2021	bcpst	CONCOURS POLYTECH	Polytech Clermont-Ferrand-Génie Biologique										8	87.5	37.5	914	906	8
+2021	bcpst	CONCOURS POLYTECH	Polytech Grenoble-Technologies de l'information pour la santé										2	50.0	0.0	1208	1208	2
+2021	bcpst	CONCOURS POLYTECH	Polytech Lille-Génie biologique et alimentaire										6	66.7	16.7	1012	987	5
+2021	bcpst	CONCOURS POLYTECH	Polytech Marseille-Génie Biologique, Biotechnologie										6	100.0	16.7	770	656	6
+2021	bcpst	CONCOURS POLYTECH	Polytech Marseille-Génie Biomédical										2	100.0	0.0	1030	1030	3
+2021	bcpst	CONCOURS POLYTECH	Polytech Montpellier-Sciences et technologies de l'eau										4	100.0	25.0	963	937	5
+2021	bcpst	CONCOURS POLYTECH	Polytech Montpellier Génie biologique et agroalimentaire										8	75.0	25.0	944	958	7
+2021	bcpst	CONCOURS POLYTECH	Polytech Nantes-Génie des Procédés et Bioprocédés										3	66.7	33.3	1116	1120	2
+2021	bcpst	CONCOURS POLYTECH	Polytech Nice-Sophia-Génie biologique										10	80.0	20.0	804	711	10
+2021	bcpst	CONCOURS POLYTECH	Polytech Nice-Sophia-Génie de l'eau										1	100.0	0.0	1337	1337	1
+2021	bcpst	CONCOURS POLYTECH	Polytech Orléans-Génie civil et géo-environnement										2	100.0	100.0	1302	1302	2
+2021	bcpst	CONCOURS POLYTECH	Polytech Orléans-Génie industriel										3	100.0	66.7	1215	1117	3
+2021	bcpst	CONCOURS POLYTECH	Polytech Sorbonne-Agroalimentaire										4	75.0	50.0	994	894	5
+2021	bcpst	CONCOURS POLYTECH	Polytech Sorbonne-Sciences de la Terre										3	33.3	0.0	1204	1179	7
+2021	bcpst	CONCOURS POLYTECH	Polytech Tours-Génie de l'aménagement et de l'environnement										6	83.3	16.7	1208	1130	6
+2021	bcpst	CONCOURS POLYTECH	¥Concours POLYTECH A BIO	1962	72.9	19.7	1441	72.0	23.2	1366	72.2	23.8	132					139
+2021	bcpst	Groupe INSA Inter-Filière	ESITech Rouen Génie Physique	1686	14.4	17.1	876	15.8	19.1	876	15.8	19.1	2	50.0	50.0	94	94	2
+2021	bcpst	Groupe INSA Inter-Filière	ESITech Rouen Génie Physique	4917	32.4	20.1	2740	33.6	23.0	2740	33.6	23.0	4	75.0	75.0	2189	2104	6
+2021	bcpst	Groupe INSA Inter-Filière	ESITech Rouen Technologies du Vivant	4439	47.9	20.4	2290	51.6	23.0	2290	51.6	23.0	3	100.0	0.0	999	795	3
+2021	bcpst	Groupe INSA Inter-Filière	INSA Centre Val de Loire Génie des Systèmes Industriels	3426	22.7	16.5	2012	23.6	19.4	2012	23.6	19.4	6	16.7	0.0	1861	1766	20
+2021	bcpst	Groupe INSA Inter-Filière	INSA Centre Val de Loire Maîtrise des Risques Industriels	1686	14.4	17.1	876	15.8	19.1	876	15.8	19.1	5	20.0	0.0	264	329	5
+2021	bcpst	Groupe INSA Inter-Filière	INSA Centre Val de Loire Maîtrise des Risques Industriels	4917	32.4	20.1	2740	33.6	23.0	2740	33.6	23.0	4	50.0	25.0	2644	2561	25
+2021	bcpst	Groupe INSA Inter-Filière	INSA Centre Val de Loire Sécurité et Technologies Informatiques	3414	25.7	19.1	1127	25.8	21.0	1127	25.8	21.0	0	0.0	0.0	0	0	1
+2021	bcpst	Groupe INSA Inter-Filière	INSA Hauts de France Electronique des Systèmes Embarqués	5246	26.3	19.3	2711	26.8	21.8	2711	26.8	21.8	6	33.3	16.7	2388	2377	11
+2021	bcpst	Groupe INSA Inter-Filière	INSA Hauts de France Génie civil et bâtiment	2538	26.8	16.1	1337	26.2	18.2	1337	26.2	18.2	5	20.0	20.0	1066	1007	5
+2021	bcpst	Groupe INSA Inter-Filière	INSA Hauts de France Génie civil et bâtiment	2649	36.4	21.0	1358	37.4	24.1	1358	37.4	24.1	9	33.3	44.4	1136	1100	8
+2021	bcpst	Groupe INSA Inter-Filière	INSA Hauts de France Génie Industriel	3426	22.7	16.5	2012	23.6	19.4	2012	23.6	19.4	4	75.0	25.0	1663	1683	9
+2021	bcpst	Groupe INSA Inter-Filière	INSA Hauts de France Informatique et Cybersécurité	3414	25.7	19.1	1127	25.8	21.0	1127	25.8	21.0	0	0.0	0.0	0	0	4
+2021	bcpst	Groupe INSA Inter-Filière	INSA Hauts de France Informatique Industrielle et Automatique	5246	26.3	19.3	2711	26.8	21.8	2711	26.8	21.8	1	0.0	0.0	2645	2645	10
+2021	bcpst	Groupe INSA Inter-Filière	INSA Hauts de France Mécanique et Energétique										17	29.4	11.8	1705	1639	28
+2021	bcpst	Groupe INSA Inter-Filière	INSA Hauts de France Mécatronique										9	33.3	11.1	1909	1752	12
+2021	bcpst	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie mécanique, génie industriel et mécatronique PSI-PT	3426	22.7	16.5	2012	23.6	19.4	2012	23.6	19.4	26					40
+2021	bcpst	Groupe INSA Inter-Filière	INSA Lyon Biosciences	4439	47.9	20.4	2290	51.6	23.0	2290	51.6	23.0	3	66.7	33.3	49	68	4
+2021	bcpst	Groupe INSA Inter-Filière	INSA Lyon Génie Civil et Urbanisme	2538	26.8	16.1	1337	26.2	18.2	1337	26.2	18.2	9	55.6	0.0	297	281	8
+2021	bcpst	Groupe INSA Inter-Filière	INSA Lyon Génie Civil et Urbanisme	2649	36.4	21.0	1358	37.4	24.1	1358	37.4	24.1	5	80.0	20.0	101	154	5
+2021	bcpst	Groupe INSA Inter-Filière	INSA Lyon Génie Electrique	5246	26.3	19.3	2711	26.8	21.8	2711	26.8	21.8	8	12.5	25.0	571	558	8
+2021	bcpst	Groupe INSA Inter-Filière	INSA Lyon Génie Energétique et Environnement	4483	38.1	19.6	1607	38.3	22.0	1607	38.3	22.0	4	25.0	50.0	152	147	4
+2021	bcpst	Groupe INSA Inter-Filière	INSA Lyon Génie Industriel										8	12.5	0.0	306	267	7
+2021	bcpst	Groupe INSA Inter-Filière	INSA Lyon Génie Mécanique										23	21.7	0.0	421	385	25
+2021	bcpst	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie mécanique, génie industriel et mécatronique PSI-PT	3426	22.7	16.5	2012	23.6	19.4	2012	23.6	19.4	31					32
+2021	bcpst	Groupe INSA Inter-Filière	INSA Lyon Informatique	3414	25.7	19.1	1127	25.8	21.0	1127	25.8	21.0	3	33.3	33.3	78	87	3
+2021	bcpst	Groupe INSA Inter-Filière	INSA Lyon Science et Génie des Matériaux	1686	14.4	17.1	876	15.8	19.1	876	15.8	19.1	1	0.0	0.0	89	89	1
+2021	bcpst	Groupe INSA Inter-Filière	INSA Lyon Science et Génie des Matériaux	4917	32.4	20.1	2740	33.6	23.0	2740	33.6	23.0	10	30.0	30.0	458	464	10
+2021	bcpst	Groupe INSA Inter-Filière	INSA Lyon Télécommunications, services et usages	3414	25.7	19.1	1127	25.8	21.0	1127	25.8	21.0	4	0.0	25.0	531	481	4
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rennes Electronique et Informatique Industrielle	5246	26.3	19.3	2711	26.8	21.8	2711	26.8	21.8	3	0.0	0.0	1406	1140	3
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rennes Génie Civil et Urbain	2649	36.4	21.0	1358	37.4	24.1	1358	37.4	24.1	2	50.0	0.0	687	687	2
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rennes Génie Civil et Urbain	2538	26.8	16.1	1337	26.2	18.2	1337	26.2	18.2	2	50.0	50.0	505	505	2
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rennes Génie Mécanique et Automatique	3426	22.7	16.5	2012	23.6	19.4	2012	23.6	19.4	4	25.0	25.0	933	861	4
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rennes Informatique	3414	25.7	19.1	1127	25.8	21.0	1127	25.8	21.0	1	0.0	0.0	880	880	2
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rennes Science et Génie des Matériaux	1686	14.4	17.1	876	15.8	19.1	876	15.8	19.1	1	100.0	0.0	176	176	1
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rennes Science et Génie des Matériaux	4917	32.4	20.1	2740	33.6	23.0	2740	33.6	23.0	3	66.7	33.3	1002	1181	3
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rennes Système et Réseaux de Communication	5246	26.3	19.3	2711	26.8	21.8	2711	26.8	21.8	1	0.0	0.0	1983	1983	3
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rouen Normandie Chimie et Procédés										4	75.0	50.0	1207	1024	4
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rouen Normandie Energétique et Propulsion										4	25.0	0.0	1190	1013	4
+2021	bcpst	Groupe INSA Inter-Filière	¥Concours INSA Domaine¥Energétique – Génie Chimique – Environnement MP-PC-PSI	4483	38.1	19.6	1607	38.3	22.0	1607	38.3	22.0	8					8
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Civil et constructions durables	2649	36.4	21.0	1358	37.4	24.1	1358	37.4	24.1	2	0.0	50.0	960	960	2
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Civil et constructions durables	2538	26.8	16.1	1337	26.2	18.2	1337	26.2	18.2	2	50.0	50.0	502	502	2
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Mathématique										2	50.0	50.0	603	603	2
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rouen Normandie Informatique et technologie de l'information										3	33.3	0.0	953	989	2
+2021	bcpst	Groupe INSA Inter-Filière	¥Concours INSA Domaine Informatique, mathématique, modélisation PC-PSI-PT	3414	25.7	19.1	1127	25.8	21.0	1127	25.8	21.0	5					4
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rouen Normandie Maîtrise des Risques Industriels	4483	38.1	19.6	1607	38.3	22.0	1607	38.3	22.0	0	0.0	0.0	0	0	6
+2021	bcpst	Groupe INSA Inter-Filière	INSA Rouen Normandie Mécanique	3426	22.7	16.5	2012	23.6	19.4	2012	23.6	19.4	2	50.0	0.0	1122	1122	3
+2021	bcpst	Groupe INSA Inter-Filière	INSA Strasbourg Génie Civil	2538	26.8	16.1	1337	26.2	18.2	1337	26.2	18.2	10	40.0	10.0	670	682	11
+2021	bcpst	Groupe INSA Inter-Filière	INSA Strasbourg Génie Civil	2649	36.4	21.0	1358	37.4	24.1	1358	37.4	24.1	2	50.0	50.0	480	480	3
+2021	bcpst	Groupe INSA Inter-Filière	INSA Strasbourg Génie Climatique et Energétique	4483	38.1	19.6	1607	38.3	22.0	1607	38.3	22.0	2	100.0	0.0	1021	1021	12
+2021	bcpst	Groupe INSA Inter-Filière	INSA Strasbourg Génie Electrique	5246	26.3	19.3	2711	26.8	21.8	2711	26.8	21.8	6	16.7	50.0	1596	1540	5
+2021	bcpst	Groupe INSA Inter-Filière	INSA Strasbourg Génie Mécanique										17	11.8	23.5	1152	1177	22
+2021	bcpst	Groupe INSA Inter-Filière	INSA Strasbourg Mécatronique										6	33.3	16.7	1185	1191	6
+2021	bcpst	Groupe INSA Inter-Filière	INSA Strasbourg Plasturgie										1	0.0	0.0	1597	1597	16
+2021	bcpst	Groupe INSA Inter-Filière	¥Concours INSA Domaine Génie mécanique, génie industriel et mécatronique PSI-PT	3426	22.7	16.5	2012	23.6	19.4	2012	23.6	19.4	24					44
+2021	bcpst	Groupe INSA Inter-Filière	INSA Strasbourg Topographie	2649	36.4	21.0	1358	37.4	24.1	1358	37.4	24.1	3	33.3	0.0	1008	1110	5
+2021	bcpst	Groupe INSA Inter-Filière	INSA Strasbourg Topographie	2538	26.8	16.1	1337	26.2	18.2	1337	26.2	18.2	6	0.0	16.7	1185	1191	11
+2021	bcpst	Groupe INSA Inter-Filière	INSA Toulouse Automatique et Electronique	5246	26.3	19.3	2711	26.8	21.8	2711	26.8	21.8	2	50.0	50.0	515	515	3
+2021	bcpst	Groupe INSA Inter-Filière	INSA Toulouse Génie Biologique	4439	47.9	20.4	2290	51.6	23.0	2290	51.6	23.0	2	50.0	50.0	439	439	2
+2021	bcpst	Groupe INSA Inter-Filière	INSA Toulouse Génie Civil	2649	36.4	21.0	1358	37.4	24.1	1358	37.4	24.1	1	0.0	0.0	366	366	1
+2021	bcpst	Groupe INSA Inter-Filière	INSA Toulouse Génie Civil	2538	26.8	16.1	1337	26.2	18.2	1337	26.2	18.2	5	20.0	0.0	490	433	5
+2021	bcpst	Groupe INSA Inter-Filière	INSA Toulouse Génie des Procédés et environnement	4483	38.1	19.6	1607	38.3	22.0	1607	38.3	22.0	8	50.0	0.0	738	731	10
+2021	bcpst	Groupe INSA Inter-Filière	INSA Toulouse Génie Mécanique	3426	22.7	16.5	2012	23.6	19.4	2012	23.6	19.4	6	16.7	16.7	659	673	4
+2021	bcpst	Groupe INSA Inter-Filière	INSA Toulouse Génie Physique	1686	14.4	17.1	876	15.8	19.1	876	15.8	19.1	1	0.0	0.0	111	111	1
+2021	bcpst	Groupe INSA Inter-Filière	INSA Toulouse Génie Physique	4917	32.4	20.1	2740	33.6	23.0	2740	33.6	23.0	1	0.0	0.0	594	594	5
+2021	bcpst	Groupe INSA Inter-Filière	INSA Toulouse Informatique et Réseaux										5	0.0	20.0	407	415	6
+2021	bcpst	Groupe INSA Inter-Filière	INSA Toulouse Mathématiques appliquées										2	0.0	0.0	361	361	2
+2021	bcpst	Groupe INSA Inter-Filière	¥Concours INSA Domaine Informatique, mathématique, modélisation PC-PSI-PT	3414	25.7	19.1	1127	25.8	21.0	1127	25.8	21.0	7					8
+2021	bcpst	Groupe INSA Inter-Filière	ISIS Castres Informatique pour la Santé	4439	47.9	20.4	2290	51.6	23.0	2290	51.6	23.0	1	100.0	0.0	1419	1419	2
+2021	bcpst	Groupe INSA Inter-Filière	Sup'EnR Perpignan Energétique et Energies Renouvelables	4483	38.1	19.6	1607	38.3	22.0	1607	38.3	22.0	0	0.0	0.0	0	0	2

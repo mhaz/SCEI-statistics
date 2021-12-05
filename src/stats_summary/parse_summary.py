@@ -40,6 +40,7 @@ def get_files():
             "stat2018/stat_generale_2018.html",
             "stat2019/stat_generale_2019.html",
             "stat2020/stat_generale_2020.html",
+            "stat2021/stat_generale_2021.html",
     ]
 
 
