@@ -64,13 +64,13 @@ def get_title(filepath):
         h4 = soup.find("h4")
         if h4 is not None:
             return h4.get_text(strip=True)
-        assert(False)
+        assert False, f"No h1 nor h4 title found for {filepath}."
 
 
 def parse(year, filenames, header_fn, parse_fn):
     header = header_fn()
 
-    tsv_directory = os.path.join("../tsv", year)
+    tsv_directory = os.path.join("../tsv/stats_generales", year)
     os.makedirs(tsv_directory, exist_ok=True)
 
     for filename in filenames:
@@ -161,7 +161,8 @@ def parse_to_file_v3(f, path, filiere, year, sep):
 
 
 def parse_to_file(f, path, filiere, year, sep, skip_length, content_length):
-    soup = BeautifulSoup(open(path, encoding="iso-8859-15"), "lxml")
+    # soup = BeautifulSoup(open(path, encoding="iso-8859-15"), "lxml")
+    soup = BeautifulSoup(open(path, encoding="utf-8"), "lxml")
 
     tables = soup.find_all("table")
     for table in tables:
@@ -175,13 +176,17 @@ def parse_to_file(f, path, filiere, year, sep, skip_length, content_length):
             cells = [sanitize_string(el.text) for el in row.find_all("td")]
 
             # Skip the line "Nb, Filles, 5-demi, Nb, Filles, 5-demi, Nb, Filles, 5-demi, Nb, Filles, 5-demi"
-            if(len(cells) == skip_length): continue
-            for cell in cells:
-                assert(cell != "Nb")
-                assert(cell != "appelés")
+            if (len(cells) == skip_length): continue
+            # Skip ['appelés']
+            if (len(cells) == 1): continue
+            if not cells: continue # Skip empty lines
+            assert all(cell not in ("Nb", "appelés") for cell in cells), "Invalid cell found."
             contents = [year, filiere, banque] + cells
-            if len(contents) == content_length:
-                f.write(sep.join(contents) + "\n")
+            assert len(contents) == content_length, (
+                f"Incorrect number of columns: expected {content_length} columns, "
+                f"was {len(contents)}."
+            )
+            f.write(sep.join(contents) + "\n")
 
 
 def main():
@@ -192,9 +197,7 @@ def main():
         filenames = statistiques_generales[str(year)]
         if year in range(2002, 2004):
             parse_v1(str(year), filenames)
-        elif year in range(2004, 2013):
-            parse_v2(str(year), filenames)
-        elif year in range(2013, 2018):
+        elif year in range(2004, 2018):
             parse_v2(str(year), filenames)
         elif year in range(2018, 2022):
             parse_v3(str(year), filenames)
