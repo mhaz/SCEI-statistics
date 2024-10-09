@@ -1,0 +1,66 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rang_du_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2008	BCPST	A BIO	AgroParisTech (cursus agronome) Paris-Grignon										658	182	67.0%	19.0%	182
+2008	BCPST	A BIO	AgroParisTech (cursus IAA) Massy										1410	45	77.0%	47.0%	46
+2008	BCPST	A BIO	AgroParisTech (cursus forestier) Nancy (fonctionnaire)										404	11	54.0%	37.0%	11
+2008	BCPST	A BIO	AgroParisTech (cursus forestier) Nancy (civil)										874	20	55.0%	25.0%	20
+2008	BCPST	A BIO	Montpellier Sup Agro (ENSAM)										934	97	65.0%	20.0%	97
+2008	BCPST	A BIO	Agrocampus Rennes (ENSAR)										1049	96	80.0%	47.0%	96
+2008	BCPST	A BIO	ENSAT Toulouse										1226	95	69.0%	47.0%	96
+2008	BCPST	A BIO	ENSAIA Nancy										1549	98	69.0%	40.0%	100
+2008	BCPST	A BIO	INH - ENSHAP Angers										1639	38	65.0%	43.0%	40
+2008	BCPST	A BIO	ENSBANA Dijon										1915	36	77.0%	28.0%	39
+2008	BCPST	A BIO	ENITAB Bordeaux (Fonctionnaire)										1387	10	60.0%	60.0%	10
+2008	BCPST	A BIO	ENITAB Bordeaux (Civil)										1778	53	75.0%	33.0%	55
+2008	BCPST	A BIO	ENITAC Clermont-Ferrand (Fonctionnaire)										1288	4	75.0%	75.0%	4
+2008	BCPST	A BIO	ENITAC Clermont-Ferrand (Civil)										1950	46	67.0%	35.0%	46
+2008	BCPST	A BIO	ENITIAA Nantes										1950	38	71.0%	45.0%	51
+2008	BCPST	A BIO	ENESAD Dijon (Fonctionnaire)										1950	3	100.0%	34.0%	5
+2008	BCPST	A BIO	ENESAD Dijon (Civil)										1781	36	86.0%	31.0%	36
+2008	BCPST	A BIO	Concours commun A BIO	2699	70.0%	24.0%	2097	72.0%	29.0%	1949	71.0%	30.0%		908			934
+2008	BCPST	A ENV	ENV Alfort										455	94	78.0%	45.0%	94
+2008	BCPST	A ENV	ENV Lyon										425	94	73.0%	46.0%	94
+2008	BCPST	A ENV	ENV Nantes										453	94	72.0%	56.0%	94
+2008	BCPST	A ENV	ENV Toulouse										460	94	65.0%	49.0%	94
+2008	BCPST	A ENV	Concours commun A ENV	1693	73.0%	28.0%	869	75.0%	40.0%	555	73.0%	43.0%		376			376
+2008	BCPST	PC BIO	ESPCI Paris										169	5	80.0%	0.0%	5
+2008	BCPST	PC BIO	ENSC Paris										228	3	66.0%	0.0%	3
+2008	BCPST	PC BIO	ENSC Montpellier										312	3	0.0%	34.0%	4
+2008	BCPST	PC BIO	ENSC Lille										340	4	75.0%	75.0%	5
+2008	BCPST	PC BIO	ISTAB Bordeaux (rapprochement avec ENSCPB)										445	1	100.0%	100.0%	14
+2008	BCPST	PC BIO	Concours commun A PC BIO	844	68.0%	29.0%	560	70.0%	35.0%	445	71.0%	38.0%		16			31
+2008	BCPST	ENS	ENS Ulm	749	66.0%	24.0%	78	57.0%	16.0%	32	65.0%	10.0%	22	21	61.0%	5.0%	21
+2008	BCPST	ENS	ENS Lyon	777	65.0%	23.0%	163	58.0%	18.0%	97	54.0%	13.0%	65	31	64.0%	13.0%	31
+2008	BCPST	ENS	ENS Cachan	742	66.0%	23.0%	167	58.0%	19.0%	87	57.0%	15.0%	73	16	62.0%	19.0%	16
+2008	BCPST	G2E	ENGEES Strasbourg Civil										250	18	44.0%	45.0%	17
+2008	BCPST	G2E	ENGEES Strasbourg Fonctionnaire										65	7	57.0%	43.0%	7
+2008	BCPST	G2E	concours ENGEES G2E-BCPST	1365	68.0%	26.0%	874	68.0%	33.0%	381	66.0%	38.0%		25			24
+2008	BCPST	G2E	ENSG Nancy	1365	68.0%	26.0%	874	68.0%	33.0%	396	66.0%	37.0%	313	63	50.0%	35.0%	64
+2008	BCPST	G2E	ENSIL Limoges EE	1365	68.0%	26.0%	874	68.0%	33.0%	461	66.0%	36.0%	358	4	25.0%	50.0%	6
+2008	BCPST	G2E	ENTPE Vaulx en Velin Civil	1365	68.0%	26.0%	874	68.0%	33.0%	368	66.0%	39.0%	272	5	100.0%	60.0%	5
+2008	BCPST	G2E	ENTPE Vaulx en Velin Fonctionnaire	749	64.0%	31.0%	496	64.0%	38.0%	241	63.0%	46.0%	176	13	69.0%	39.0%	13
+2008	BCPST	G2E	EOST Strasbourg	1365	68.0%	26.0%	874	68.0%	33.0%	400	66.0%	37.0%	349	6	50.0%	0.0%	6
+2008	BCPST	G2E	ESIP Poitiers : IPE -C	1365	68.0%	26.0%	874	68.0%	33.0%	476	66.0%	36.0%	427	7	71.0%	15.0%	8
+2008	BCPST	G2E	POLYTECH Paris UPMC Sci.Terre	1365	68.0%	26.0%	874	68.0%	33.0%	520	67.0%	34.0%	502	6	83.0%	0.0%	6
+2008	BCPST	G2E	POLYTECH Orlans EO										0	0	0.0%	0.0%	0
+2008	BCPST	G2E	POLYTECH Orlans GCE										520	16	81.0%	25.0%	17
+2008	BCPST	G2E	POLYTECH Orlans ME										0	0	0.0%	0.0%	0
+2008	BCPST	G2E	concours Polytech'Orlans G2E-BCPST	1365	68.0%	26.0%	874	68.0%	33.0%	520	67.0%	34.0%		16			17
+2008	BCPST	ARCH BIO	ENSTIB Epinal	554	65.0%	31.0%	350	65.0%	33.0%	63	58.0%	26.0%	49	14	50.0%	8.0%	13
+2008	BCPST	Concours A	ENIAA										431	2	0.0%	0.0%	5
+2008	BCPST	Concours A	ESBS Strasbourg										182	8	62.0%	13.0%	7
+2008	BCPST	Concours A	ESIL Marseille Biotech										178	12	91.0%	25.0%	12
+2008	BCPST	Concours A	ESMISAB Brest										435	8	75.0%	0.0%	13
+2008	BCPST	Concours A	ESTBB Bordeaux										246	22	68.0%	23.0%	22
+2008	BCPST	Concours A	ISBS										157	3	66.0%	0.0%	3
+2008	BCPST	Concours A	ISIFC Besanon										435	7	100.0%	0.0%	8
+2008	BCPST	Concours A	Concours ARCHIMEDE							434	73.0%	27.0%		62			70
+2008	BCPST	Concours A	POLYTECH Clermont-Ferrand Gnie Biologique										1015	9	77.0%	45.0%	9
+2008	BCPST	Concours A	POLYTECH Grenoble Got.										1048	3	100.0%	0.0%	4
+2008	BCPST	Concours A	POLYTECH Grenoble TIS										1060	1	100.0%	100.0%	3
+2008	BCPST	Concours A	POLYTECH Lille IAAL										1060	2	100.0%	50.0%	9
+2008	BCPST	Concours A	POLYTECH Montpellier STE										711	5	60.0%	0.0%	4
+2008	BCPST	Concours A	POLYTECH Montpellier STIA										1060	5	80.0%	20.0%	8
+2008	BCPST	Concours A	POLYTECH Nice-Sophia - Gnie Biologique										755	12	58.0%	0.0%	13
+2008	BCPST	Concours A	POLYTECH Paris UPMC Agroalimentaire										1029	1	100.0%	0.0%	5
+2008	BCPST	Concours A	POLYTECH Tours Amnag.										1060	12	75.0%	0.0%	14
+2008	BCPST	Concours A	Concours POLYTECH - ARCHIMEDE	1708	72.0%	28.0%	1133	72.0%	31.0%	1060	72.0%	32.0%		50			69

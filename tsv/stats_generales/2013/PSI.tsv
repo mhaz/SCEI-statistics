@@ -1,0 +1,260 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rang_du_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2013	PSI	BANQUE ENS CACHAN/EC. POLYTECH	ECOLE POLYTECHNIQUE	830	15.0%	24.0%	94	11.0%	22.0%	53	11.0%	16.0%	47	47	12.0%	13.0%	47
+2013	PSI	BANQUE ENS CACHAN/EC. POLYTECH	ENS Cachan										325	39	12.0%	36.0%	39
+2013	PSI	BANQUE ENS CACHAN/EC. POLYTECH	ENS Cachan - Ker Lan										382	7	0.0%	58.0%	7
+2013	PSI	BANQUE ENS CACHAN/EC. POLYTECH	ENS Cachan - PSI	1230	18.0%	29.0%	428	13.0%	29.0%	382	14.0%	29.0%		46			46
+2013	PSI	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										60	29	20.0%	0.0%	26
+2013	PSI	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										868	40	17.0%	25.0%	40
+2013	PSI	CONCOURS COMMUN MINES-PONTS	MINES de SAINT-ETIENNE										833	36	33.0%	14.0%	42
+2013	PSI	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										150	36	22.0%	28.0%	35
+2013	PSI	CONCOURS COMMUN MINES-PONTS	SUPAERO (ISAE) Toulouse										296	44	4.0%	16.0%	42
+2013	PSI	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										395	40	37.0%	15.0%	38
+2013	PSI	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										377	23	30.0%	35.0%	20
+2013	PSI	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										434	8	25.0%	0.0%	7
+2013	PSI	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE										984	26	11.0%	20.0%	30
+2013	PSI	CONCOURS COMMUN MINES-PONTS	Concours Commun Mines Ponts PSI	3543	21.0%	25.0%	1023	16.0%	22.0%	986	17.0%	23.0%		282			280
+2013	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS	2326	20.0%	25.0%	356	14.0%	20.0%	235	15.0%	19.0%	153	93	16.0%	12.0%	93
+2013	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS - étr.	144	26.0%	28.0%	33	15.0%	28.0%	26	7.0%	31.0%	15	8	0.0%	38.0%	8
+2013	PSI	BANQUE CENTRALE-SUPELEC	SUPELEC	2378	19.0%	26.0%	684	15.0%	25.0%	635	15.0%	25.0%	483	119	14.0%	32.0%	115
+2013	PSI	BANQUE CENTRALE-SUPELEC	SUPELEC - étr.	111	30.0%	30.0%				16	0.0%	50.0%	0	0	0.0%	0.0%	1
+2013	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE LYON	2789	20.0%	25.0%	582	14.0%	23.0%	478	14.0%	23.0%	451	81	9.0%	28.0%	82
+2013	PSI	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	1608	22.0%	31.0%	766	21.0%	28.0%	659	22.0%	27.0%	653	29	20.0%	25.0%	30
+2013	PSI	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) - étr.	54	33.0%	30.0%	20	30.0%	30.0%	18	27.0%	34.0%	18	0	0.0%	0.0%	2
+2013	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE	2813	20.0%	27.0%	764	17.0%	25.0%	706	17.0%	26.0%	658	67	16.0%	27.0%	60
+2013	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES	3015	20.0%	28.0%	749	16.0%	25.0%	676	17.0%	26.0%	624	80	15.0%	29.0%	75
+2013	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE	2395	21.0%	30.0%	922	20.0%	27.0%	786	20.0%	26.0%	785	45	13.0%	29.0%	60
+2013	PSI	BANQUE CENTRALE-SUPELEC	ECOLE NAVALE Brest	713	17.0%	32.0%	220	13.0%	44.0%	91	12.0%	50.0%	69	24	4.0%	59.0%	24
+2013	PSI	BANQUE CENTRALE-SUPELEC	ENSEA Cergy	1467	20.0%	29.0%	1051	20.0%	29.0%	396	23.0%	25.0%	395	45	17.0%	29.0%	45
+2013	PSI	BANQUE CENTRALE-SUPELEC	ENSIIE Evry										276	11	45.0%	0.0%	20
+2013	PSI	BANQUE CENTRALE-SUPELEC	ENSIIE Strasbourg										276	3	33.0%	0.0%	10
+2013	PSI	BANQUE CENTRALE-SUPELEC	ENSIIE	1173	20.0%	30.0%	811	20.0%	30.0%	278	25.0%	25.0%		14			30
+2013	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS -CI										4	4	25.0%	0.0%	5
+2013	PSI	BANQUE CENTRALE-SUPELEC	SUPELEC -CI										0	0	0.0%	0.0%	1
+2013	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE LYON -CI										5	1	100.0%	0.0%	1
+2013	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE -CI										0	0	0.0%	0.0%	1
+2013	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES -CI										0	0	0.0%	0.0%	1
+2013	PSI	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) -CI										0	0	0.0%	0.0%	1
+2013	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE -CI										0	0	0.0%	0.0%	1
+2013	PSI	BANQUE CENTRALE-SUPELEC	Cycle International Centrale-Supelec	26	50.0%	20.0%	6	33.0%	0.0%	5	40.0%	0.0%		5			11
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM Besançon										3038	47	19.0%	37.0%	51
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Electronique										2163	21	4.0%	29.0%	18
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Informatique										2136	13	0.0%	24.0%	12
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Mathématiques et Mécanique										1533	18	5.0%	12.0%	15
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Télecom.										2261	20	25.0%	40.0%	17
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Bourges Risques Industriels (MRI)										3038	24	45.0%	34.0%	30
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Bourges Informatique (STI)										3042	3	0.0%	34.0%	10
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique Appliquée										2489	10	10.0%	30.0%	12
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Informatique										3044	9	0.0%	23.0%	15
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	EISTI Cergy - Pau										2819	24	29.0%	34.0%	22
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ISIMA Clermont-Ferrand										3045	3	0.0%	0.0%	12
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - ENSE3										1464	75	17.0%	22.0%	75
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - ENSIMAG										714	17	23.0%	36.0%	15
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Esisar										2556	6	33.0%	17.0%	9
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Pagora										2594	8	50.0%	13.0%	11
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique Matériaux Procédés)										1239	32	25.0%	25.0%	36
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique Electronique Télécoms)										1494	51	23.0%	32.0%	44
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	CPE LYON Electronique										3012	11	18.0%	19.0%	10
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEM Nancy Pluriscientifique										2508	39	0.0%	24.0%	37
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEM Nancy Ingénierie des systèmes numériques										2824	13	15.0%	24.0%	7
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSG Nancy										2734	11	27.0%	46.0%	10
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIC Nancy										2840	4	50.0%	25.0%	5
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Paris										2200	49	28.0%	35.0%	40
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Toulon										2209	15	13.0%	27.0%	15
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSGTI Pau - Energétique										2985	9	33.0%	34.0%	10
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Eau et Genie Civil										2268	3	33.0%	34.0%	7
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Energie										2693	19	26.0%	37.0%	17
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ISAE-ENSMA Poitiers										1510	56	7.0%	20.0%	58
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Civil (étudiant)										2736	7	57.0%	29.0%	11
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Civil (apprenti)										2955	2	50.0%	50.0%	2
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Fonctionnaire										2552	2	100.0%	100.0%	2
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	TELECOM PHYSIQUE Strasbourg										2984	22	22.0%	37.0%	35
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Electronique et Traitement du Signal										1787	22	13.0%	23.0%	20
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Génie Electrique et Automatique										1834	27	18.0%	15.0%	23
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Hydraulique et Mécanique des Fluides										1102	17	23.0%	42.0%	19
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Informatique et Mathématiques appliquées										1757	20	20.0%	30.0%	21
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Télécom.réseaux										1922	21	33.0%	24.0%	21
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIACET Toulouse Génie des Procédés										2224	13	15.0%	24.0%	11
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIACET Toulouse Génie Industriel										2003	15	20.0%	47.0%	15
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Civil										951	34	23.0%	15.0%	32
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Fonctionnaire										193	2	50.0%	0.0%	2
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSICA (ISAE) Toulouse										369	34	23.0%	33.0%	30
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et Management des systèmes										3044	0	0.0%	0.0%	6
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Méca Energ.										3045	17	23.0%	36.0%	30
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Mécatronique										3041	5	40.0%	40.0%	12
+2013	PSI	CONCOURS COMMUNS POLYTECHNIQUES	Concours Commun Polytechnique PSI	4959	22.0%	26.0%	3589	21.0%	29.0%	3048	21.0%	30.0%		870			912
+2013	PSI	BANQUE EPREUVES C.C.P Inter-Filière	ECOLE DE L'AIR Pilote	788	17.0%	28.0%	195	13.0%	44.0%	64	10.0%	57.0%	-	22	9.0%	73.0%	44*
+2013	PSI	BANQUE EPREUVES C.C.P Inter-Filière	ECOLE DE L'AIR Base	727	18.0%	31.0%	197	13.0%	49.0%	45	13.0%	65.0%	-	2	50.0%	50.0%	6*
+2013	PSI	BANQUE EPREUVES C.C.P Inter-Filière	ECOLE DE L'AIR Méca	730	17.0%	30.0%	195	12.0%	48.0%	46	10.0%	61.0%	-	5	20.0%	60.0%	13*
+2013	PSI	BANQUE EPREUVES C.C.P Inter-Filière	EEIGM	534	33.0%	36.0%	287	34.0%	42.0%	39	25.0%	52.0%	-	5	40.0%	100.0%	10*
+2013	PSI	BANQUE EPREUVES C.C.P Inter-Filière	ENSCI Limoges	499	34.0%	35.0%	383	32.0%	34.0%	71	43.0%	40.0%	-	11	45.0%	19.0%	50*
+2013	PSI	BANQUE EPREUVES C.C.P Inter-Filière	ENSGSI Nancy	711	33.0%	32.0%	464	32.0%	33.0%	110	34.0%	33.0%	-	16	31.0%	32.0%	35*
+2013	PSI	BANQUE EPREUVES C.C.P Inter-Filière	ESM Saint-Cyr	709	14.0%	32.0%	191	8.0%	49.0%	84	3.0%	62.0%	-	27	0.0%	60.0%	70*
+2013	PSI	BANQUE EPREUVES C.C.P Inter-Filière	Grenoble INP - Génie Industriel	1657	27.0%	32.0%	617	25.0%	35.0%	226	27.0%	33.0%	-	40	35.0%	25.0%	80*
+2013	PSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Informatique et réseaux										164	11	45.0%	19.0%	6
+2013	PSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Mécanique										153	19	26.0%	43.0%	11
+2013	PSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Automatique et Systèmes										156	12	25.0%	25.0%	6
+2013	PSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Textile et Fibres										162	6	83.0%	50.0%	5
+2013	PSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse PSI	898	29.0%	33.0%	740	27.0%	33.0%	174	35.0%	30.0%		48			28
+2013	PSI	BANQUE EPREUVES C.C.P	ENSTIB Epinal	420	32.0%	35.0%	298	31.0%	34.0%	32	53.0%	32.0%	32	7	14.0%	29.0%	9
+2013	PSI	BANQUE EPREUVES C.C.P	EOST Strasbourg	631	32.0%	36.0%	193	30.0%	34.0%	20	25.0%	45.0%	16	3	0.0%	67.0%	3
+2013	PSI	CONCOURS COMMUN TPE	ENTPE Vaulx en Velin Civil	2800	25.0%	31.0%	1303	23.0%	36.0%	442	35.0%	43.0%	442	17	29.0%	24.0%	18
+2013	PSI	CONCOURS COMMUN TPE	ENTPE Vaulx en Velin Fonctionnaire	2800	25.0%	31.0%	1303	23.0%	36.0%	442	35.0%	43.0%	430	32	46.0%	50.0%	32
+2013	PSI	CONCOURS COMMUN TPE	ENTPE Vaulx en Velin Etranger				38	34.0%	43.0%	13	46.0%	62.0%	13	0	0.0%	0.0%	1
+2013	PSI	CONCOURS COMMUN TPE	EIVP Paris Civil	2800	25.0%	31.0%	1341	23.0%	36.0%	487	35.0%	43.0%	485	17	47.0%	48.0%	20
+2013	PSI	CONCOURS COMMUN TPE	EIVP Paris Fonctionnaire	2800	25.0%	31.0%	1303	23.0%	36.0%	470	35.0%	43.0%	242	6	50.0%	34.0%	6
+2013	PSI	CONCOURS COMMUN TPE	Mines de Douai Fonct.	2800	25.0%	31.0%	1303	23.0%	36.0%	442	35.0%	43.0%	331	2	0.0%	100.0%	2
+2013	PSI	CONCOURS TELECOM INT	ENSG Marne la Vallée Civil				1610	22.0%	31.0%	75	42.0%	30.0%	74	3	66.0%	67.0%	7
+2013	PSI	CONCOURS TELECOM INT	ENSSAT Lannion	2265	23.0%	31.0%	1879	22.0%	32.0%	197	29.0%	27.0%	197	9	22.0%	56.0%	12
+2013	PSI	CONCOURS TELECOM INT	TELECOM Nancy	2265	23.0%	31.0%	1884	22.0%	32.0%	213	31.0%	28.0%	211	16	18.0%	44.0%	15
+2013	PSI	CONCOURS TELECOM INT	Mines St Etienne ISMIN Gardanne	2265	23.0%	31.0%	1369	21.0%	33.0%	166	25.0%	28.0%	127	30	6.0%	7.0%	22
+2013	PSI	CONCOURS TELECOM INT	TELECOM Lille 1	2265	23.0%	31.0%	1876	22.0%	32.0%	135	25.0%	22.0%	120	17	17.0%	24.0%	14
+2013	PSI	CONCOURS TELECOM INT	TELECOM PHYSIQUE Strasbourg - TIC et Santé	2265	23.0%	31.0%	1528	22.0%	31.0%	84	45.0%	30.0%	90	5	0.0%	40.0%	6
+2013	PSI	CONCOURS TELECOM INT	TELECOM St Etienne	2265	23.0%	31.0%	1856	22.0%	32.0%	209	30.0%	32.0%	193	18	44.0%	39.0%	20
+2013	PSI	CONCOURS TELECOM INT	TELECOM SudParis - cursus Evry										199	42	23.0%	29.0%	32
+2013	PSI	CONCOURS TELECOM INT	TELECOM SudParis - cursus Tunis										0	0	0.0%	0.0%	2
+2013	PSI	CONCOURS TELECOM INT	concours Télécom SudParis PSI	2265	23.0%	31.0%	890	21.0%	29.0%	223	25.0%	28.0%		42			34
+2013	PSI	Concours Commun des Ecoles des Mines	Ecole des Mines d'Albi	3567	22.0%	28.0%	1831	21.0%	34.0%	1082	22.0%	38.0%	855	45	37.0%	27.0%	40
+2013	PSI	Concours Commun des Ecoles des Mines	Ecole des Mines d'Albi Voie du Concours Mines Ponts				598	19.0%	27.0%	559	18.0%	27.0%	551	0	0.0%	0.0%	3
+2013	PSI	Concours Commun des Ecoles des Mines	Ecole des Mines d'Alès	3567	22.0%	28.0%	1831	21.0%	34.0%	1082	22.0%	38.0%	605	45	26.0%	38.0%	40
+2013	PSI	Concours Commun des Ecoles des Mines	Ecole des Mines d'Alès Voie du Concours Mines Ponts				598	19.0%	27.0%	559	18.0%	27.0%	539	3	0.0%	0.0%	3
+2013	PSI	Concours Commun des Ecoles des Mines	Ecole des Mines Douai	3567	22.0%	28.0%	1831	21.0%	34.0%	1082	22.0%	38.0%	556	42	30.0%	46.0%	36
+2013	PSI	Concours Commun des Ecoles des Mines	Ecole des Mines Douai Voie du Concours Mines Ponts				598	19.0%	27.0%	559	18.0%	27.0%	554	0	0.0%	0.0%	2
+2013	PSI	Concours Commun des Ecoles des Mines	Ecole des Mines Nantes	3567	22.0%	28.0%	1831	21.0%	34.0%	1082	22.0%	38.0%	208	43	16.0%	47.0%	38
+2013	PSI	Concours Commun des Ecoles des Mines	Ecole des Mines Nantes Voie du Concours Mines Ponts				598	19.0%	27.0%	559	18.0%	27.0%	440	3	0.0%	0.0%	4
+2013	PSI	Concours Commun des Ecoles des Mines	ENSTA Bretagne Militaire				1762	20.0%	33.0%	1040	22.0%	37.0%	667	12	25.0%	67.0%	12
+2013	PSI	Concours Commun des Ecoles des Mines	ENSTA Bretagne Civil	3567	22.0%	28.0%	1831	21.0%	34.0%	1082	22.0%	38.0%	909	43	27.0%	42.0%	37
+2013	PSI	Concours Commun des Ecoles des Mines	ENSTA Bretagne Civil Voie du Concours Mines Ponts				598	19.0%	27.0%	559	18.0%	27.0%	552	0	0.0%	0.0%	3
+2013	PSI	CONCOURS ENSAM	Arts et Métiers ParisTech	3817	21.0%	27.0%	999	17.0%	36.0%	790	18.0%	36.0%	784	256	19.0%	42.0%	255
+2013	PSI	CONCOURS ENSAM	Arts et Métiers - ingénieurs militaires	845	17.0%	31.0%	54	24.0%	39.0%	21	28.0%	39.0%	21	4	50.0%	25.0%	5
+2013	PSI	CONCOURS ESTP	ESTP Paris BAT										907	48	29.0%	53.0%	50
+2013	PSI	CONCOURS ESTP	ESTP Paris TOPOGRAPHIE										1253	24	29.0%	55.0%	22
+2013	PSI	CONCOURS ESTP	ESTP Paris Génie Mécanique et Electrique (GME)										1124	31	16.0%	46.0%	30
+2013	PSI	CONCOURS ESTP	ESTP Paris TP										954	64	14.0%	47.0%	52
+2013	PSI	CONCOURS ESTP	ESTP	2706	22.0%	30.0%	1362	21.0%	38.0%	1253	21.0%	39.0%		167			154
+2013	PSI	CONCOURS POLYTECH	ENSC Bordeaux										1955	4	25.0%	0.0%	6
+2013	PSI	CONCOURS POLYTECH	ENSIBS Lorient										1917	0	0.0%	0.0%	5
+2013	PSI	CONCOURS POLYTECH	ENSIM Le Mans										1925	2	0.0%	0.0%	6
+2013	PSI	CONCOURS POLYTECH	ESI Reims										1878	1	100.0%	100.0%	5
+2013	PSI	CONCOURS POLYTECH	ESIR Rennes (ex IFSIC)										1731	0	0.0%	0.0%	10
+2013	PSI	CONCOURS POLYTECH	ESIREM Dijon Info-élec.										1965	0	0.0%	0.0%	2
+2013	PSI	CONCOURS POLYTECH	ESIREM Dijon Mat.										1813	0	0.0%	0.0%	2
+2013	PSI	CONCOURS POLYTECH	ESIROI Saint Denis de la Réunion										1864	0	0.0%	0.0%	4
+2013	PSI	CONCOURS POLYTECH	ESIX Normandie - Génie et Sûreté des Systèmes Industriels										1914	0	0.0%	0.0%	4
+2013	PSI	CONCOURS POLYTECH	ESSTIN Nancy										1956	5	0.0%	60.0%	9
+2013	PSI	CONCOURS POLYTECH	ISAT Nevers - département MIT (Mécanique et Ingénierie des Transports)										1874	1	0.0%	0.0%	7
+2013	PSI	CONCOURS POLYTECH	ISAT Nevers - département EPEE (Energies et Moteurs)										1944	2	0.0%	50.0%	5
+2013	PSI	CONCOURS POLYTECH	ISBS										1848	0	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	ISEL										1949	1	100.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	ISIFC Besançon										1691	1	100.0%	0.0%	2
+2013	PSI	CONCOURS POLYTECH	ISIS Castres										1950	0	0.0%	0.0%	4
+2013	PSI	CONCOURS POLYTECH	ISITV Toulon Ingénierie des Matériaux										1560	1	0.0%	0.0%	2
+2013	PSI	CONCOURS POLYTECH	ISITV Toulon Ingénierie Marine										1531	12	16.0%	25.0%	10
+2013	PSI	CONCOURS POLYTECH	ISITV Toulon Télécommunications										1634	1	0.0%	100.0%	2
+2013	PSI	CONCOURS POLYTECH	ISTIA										1772	0	0.0%	0.0%	8
+2013	PSI	CONCOURS POLYTECH	ISTY Vélizy UVSQ										1972	0	0.0%	0.0%	4
+2013	PSI	CONCOURS POLYTECH	Polytech Annecy-Chambéry - Environnement, Bâtiment, Énergie										1941	9	33.0%	23.0%	10
+2013	PSI	CONCOURS POLYTECH	Polytech Annecy-Chambéry - Instrumentation, Automatique, Informatique										1942	1	100.0%	0.0%	5
+2013	PSI	CONCOURS POLYTECH	Polytech Annecy-Chambéry - Mécanique, Matériaux										1890	2	0.0%	0.0%	10
+2013	PSI	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Civil										1951	7	42.0%	43.0%	8
+2013	PSI	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Electrique										1976	0	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Mathématique et Modélisation										1976	0	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Physique										1976	1	0.0%	100.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Grenoble - Géotechnique										1501	6	16.0%	50.0%	4
+2013	PSI	CONCOURS POLYTECH	Polytech Grenoble - Matériaux										1968	1	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Grenoble - Prévention des risques										1961	2	50.0%	50.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Grenoble - Systèmes électroniques et informatiques, Réseaux										1960	3	0.0%	0.0%	8
+2013	PSI	CONCOURS POLYTECH	Polytech Grenoble - Technologies de l'information pour la santé										1885	1	100.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Lille - Génie Informatique et statistique										1976	1	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Lille - Géotechnique, Génie civil										1674	6	16.0%	34.0%	5
+2013	PSI	CONCOURS POLYTECH	Polytech Lille - Informatique, Microélectronique, Automatique										1863	4	0.0%	25.0%	5
+2013	PSI	CONCOURS POLYTECH	Polytech Lille - Ingénierie et commercialisation des systèmes de mesure										1976	2	0.0%	50.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Lille - Matériaux										1959	1	0.0%	100.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Lille - Mécanique										1712	7	0.0%	43.0%	6
+2013	PSI	CONCOURS POLYTECH	Polytech Lyon - Génie Bomédical										1848	1	100.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Lyon - Informatique										1617	1	100.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Lyon - Mathématiques Appliquées et Modélisation										1976	0	0.0%	0.0%	5
+2013	PSI	CONCOURS POLYTECH	Polytech Lyon - Mécanique										1773	3	0.0%	34.0%	5
+2013	PSI	CONCOURS POLYTECH	Polytech Lyon - Systèmes industriels, Robotique										1976	1	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Marseille - Génie Biomédical										1885	3	33.0%	34.0%	4
+2013	PSI	CONCOURS POLYTECH	Polytech Marseille - Génie Civil										1759	6	33.0%	0.0%	6
+2013	PSI	CONCOURS POLYTECH	Polytech Marseille - Génie Industriel et Informatique										1975	1	0.0%	100.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Marseille - Informatique										1788	2	0.0%	50.0%	5
+2013	PSI	CONCOURS POLYTECH	Polytech Marseille - Matériaux										1948	1	100.0%	0.0%	7
+2013	PSI	CONCOURS POLYTECH	Polytech Marseille - Mécanique, Energétique										1975	8	25.0%	38.0%	9
+2013	PSI	CONCOURS POLYTECH	Polytech Marseille - Microélectronique,Télécommunications										1257	0	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Montpellier - Électronique, Robotique et Informatique industrielle										1976	1	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Montpellier - Énergétique, Énergies renouvelables										1526	3	66.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Montpellier - Mécanique et Interactions										1948	5	40.0%	20.0%	4
+2013	PSI	CONCOURS POLYTECH	Polytech Nantes - Génie civil										1429	1	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Nantes - Génie des Procédés et Bioprocédés										1782	1	100.0%	100.0%	4
+2013	PSI	CONCOURS POLYTECH	Polytech Nantes - Informatique										1947	1	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Nantes - Matériaux										1976	0	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Nantes - Thermique, Énergétique										1780	3	33.0%	67.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Nice-Sophia - Bâtiments										1862	4	50.0%	25.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Nice-Sophia - Électronique										1976	2	0.0%	100.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Nice-Sophia - Génie de l'eau										1976	4	50.0%	25.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Nice-Sophia - Informatique										1976	0	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Nice-Sophia - Mathématiques appliquées, Modélisation										1976	1	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Orléans - Écotechnologie électroniques et optiques										1976	1	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Orléans - Génie civil et géo-environnement										1976	5	40.0%	40.0%	9
+2013	PSI	CONCOURS POLYTECH	Polytech Orléans - Mécanique, Énergétique, Matériaux, Mécatronique										1976	3	0.0%	0.0%	10
+2013	PSI	CONCOURS POLYTECH	Polytech Paris-Sud - Electronique, Energie, Systèmes										1976	3	0.0%	0.0%	2
+2013	PSI	CONCOURS POLYTECH	Polytech Paris-Sud - Photonique et systèmes optroniques										1976	1	100.0%	0.0%	2
+2013	PSI	CONCOURS POLYTECH	Polytech Paris-UPMC - Electronique et Informatique										1909	5	40.0%	0.0%	4
+2013	PSI	CONCOURS POLYTECH	Polytech Paris-UPMC - Robotique										1516	4	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Paris-UPMC - Sciences de la Terre										1958	4	50.0%	25.0%	4
+2013	PSI	CONCOURS POLYTECH	Polytech Tours - Aménagement										1853	0	0.0%	0.0%	7
+2013	PSI	CONCOURS POLYTECH	Polytech Tours - Électronique, Énergie électrique										1879	0	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Tours - Informatique										1974	0	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Polytech Tours - Mécanique, Conception de systèmes										1839	1	0.0%	0.0%	3
+2013	PSI	CONCOURS POLYTECH	Sup Galilée Villetaneuse										1972	1	0.0%	100.0%	3
+2013	PSI	CONCOURS POLYTECH	Concours POLYTECH	3074	24.0%	28.0%	2240	23.0%	29.0%	1976	23.0%	31.0%		166			344
+2013	PSI	Autres écoles E3A	ECE PARIS	1147	25.0%	28.0%	767	24.0%	33.0%	324	23.0%	33.0%	303	41	14.0%	35.0%	40
+2013	PSI	Autres écoles E3A	EFREI Paris	326	29.0%	28.0%	316	29.0%	28.0%	129	29.0%	32.0%	129	12	25.0%	25.0%	40
+2013	PSI	Autres écoles E3A	EIDD Paris	481	34.0%	30.0%	330	32.0%	33.0%	131	36.0%	37.0%	128	1	0.0%	0.0%	15
+2013	PSI	Autres écoles E3A	EIGSI Casablanca	237	25.0%	32.0%	186	20.0%	34.0%	23	26.0%	48.0%	0	0	0.0%	0.0%	10
+2013	PSI	Autres écoles E3A	EIGSI La Rochelle	736	30.0%	30.0%	615	29.0%	34.0%	138	27.0%	40.0%	133	19	21.0%	22.0%	20
+2013	PSI	Autres écoles E3A	EI-ISPA Alençon	150	36.0%	38.0%	130	33.0%	40.0%	10	60.0%	50.0%	8	0	0.0%	0.0%	5
+2013	PSI	Autres écoles E3A	EIL Côte d'Opale - Calais (informatique)										165	0	0.0%	0.0%	7
+2013	PSI	Autres écoles E3A	EIL Côte d'Opale - Longuenesse (Génie Industriel)										166	6	66.0%	50.0%	20
+2013	PSI	Autres écoles E3A	EIL Côte d'Opale Longuenesse - Calais	537	31.0%	34.0%	466	30.0%	35.0%	167	35.0%	44.0%		6			27
+2013	PSI	Autres écoles E3A	EME	258	39.0%	30.0%	252	38.0%	29.0%	226	39.0%	30.0%	200	6	66.0%	0.0%	5
+2013	PSI	Autres écoles E3A	ENI Val de Loire - Blois	479	32.0%	30.0%	283	28.0%	27.0%	50	40.0%	30.0%	43	9	55.0%	23.0%	8
+2013	PSI	Autres écoles E3A	ENSAIT Roubaix	630	37.0%	34.0%	439	36.0%	36.0%	108	43.0%	34.0%	107	19	42.0%	32.0%	20
+2013	PSI	Autres écoles E3A	ENSIL Limoges ELT	603	29.0%	33.0%	341	21.0%	30.0%	82	19.0%	35.0%	73	10	20.0%	30.0%	12
+2013	PSI	Autres écoles E3A	ENSIL Limoges Matériaux	609	31.0%	35.0%	355	25.0%	34.0%	79	32.0%	38.0%	58	5	20.0%	40.0%	6
+2013	PSI	Autres écoles E3A	ENSIL Limoges Mécatronique	705	26.0%	32.0%	435	19.0%	31.0%	130	20.0%	33.0%	87	17	5.0%	42.0%	12
+2013	PSI	Autres écoles E3A	EPF campus TROYES										93	1	0.0%	0.0%	2
+2013	PSI	Autres écoles E3A	EPF campus MONTPELLIER										68	6	0.0%	17.0%	7
+2013	PSI	Autres écoles E3A	EPF campus SCEAUX										68	7	42.0%	15.0%	6
+2013	PSI	Autres écoles E3A	EPF Sceaux-Troyes-Montpellier	614	35.0%	25.0%	478	34.0%	27.0%	115	29.0%	27.0%		14			15
+2013	PSI	Autres écoles E3A	ESB Nantes	277	31.0%	37.0%	200	29.0%	42.0%	35	14.0%	38.0%	35	13	23.0%	31.0%	12
+2013	PSI	Autres écoles E3A	ESIEA Laval										148	1	0.0%	0.0%	10
+2013	PSI	Autres écoles E3A	ESIEA Paris										151	4	25.0%	0.0%	10
+2013	PSI	Autres écoles E3A	ESIEA Paris-Laval	535	27.0%	29.0%	445	26.0%	32.0%	151	30.0%	40.0%		5			20
+2013	PSI	Autres écoles E3A	ESIEE Paris	544	27.0%	27.0%	410	26.0%	30.0%	111	27.0%	24.0%	108	10	10.0%	20.0%	25
+2013	PSI	Autres écoles E3A	ESIGELEC Rouen	656	30.0%	31.0%	586	30.0%	31.0%	200	36.0%	34.0%	200	32	46.0%	25.0%	40
+2013	PSI	Autres écoles E3A	ESIGETEL Villejuif	282	31.0%	28.0%	256	29.0%	29.0%	57	31.0%	27.0%	57	1	0.0%	0.0%	20
+2013	PSI	Autres écoles E3A	ESILV Paris-La Défense	643	29.0%	28.0%	549	28.0%	30.0%	158	29.0%	37.0%	152	18	11.0%	39.0%	15
+2013	PSI	Autres écoles E3A	ESITC Caen	436	36.0%	33.0%	275	37.0%	34.0%	43	39.0%	28.0%	42	9	33.0%	0.0%	12
+2013	PSI	Autres écoles E3A	ESME SUDRIA Paris	601	30.0%	29.0%	460	29.0%	33.0%	247	28.0%	38.0%	242	2	0.0%	0.0%	15
+2013	PSI	Autres écoles E3A	ESTIA Bidart	558	28.0%	32.0%	406	25.0%	31.0%	167	20.0%	35.0%	154	40	17.0%	28.0%	40
+2013	PSI	Autres écoles E3A	IFMA Clermont-Ferrand	965	26.0%	32.0%	458	22.0%	38.0%	162	22.0%	34.0%	162	55	18.0%	33.0%	59
+2013	PSI	Autres écoles E3A	ISMANS Le Mans	456	29.0%	31.0%	400	26.0%	33.0%	84	26.0%	37.0%	82	6	16.0%	67.0%	25
+2013	PSI	Autres écoles E3A	3IL Limoges	275	31.0%	31.0%	247	28.0%	31.0%	64	32.0%	35.0%	64	3	33.0%	0.0%	10
+2013	PSI	FESIC	ECAM Lyon				199	26.0%	37.0%	54	33.0%	38.0%	54	3	33.0%	0.0%	5
+2013	PSI	FESIC	ECAM Rennes Louis de Broglie	1086	27.0%	28.0%	973	27.0%	29.0%	69	31.0%	28.0%	67	9	33.0%	23.0%	16
+2013	PSI	FESIC	ECAM Strasbourg Europe	1086	27.0%	28.0%	977	27.0%	29.0%	145	34.0%	31.0%	145	11	36.0%	10.0%	17
+2013	PSI	FESIC	EPMI Cergy-Pontoise	1086	27.0%	28.0%	975	27.0%	29.0%	116	25.0%	30.0%	115	6	16.0%	34.0%	12
+2013	PSI	FESIC	ESAIP Angers - Grasse	1086	27.0%	28.0%	1001	27.0%	29.0%	306	28.0%	36.0%	304	11	54.0%	10.0%	15
+2013	PSI	FESIC	ESEO Angers	1086	27.0%	28.0%	667	26.0%	34.0%	398	26.0%	38.0%	398	1	100.0%	0.0%	4
+2013	PSI	FESIC	HEI	1086	27.0%	28.0%	922	27.0%	30.0%	387	27.0%	35.0%	361	24	29.0%	46.0%	20
+2013	PSI	FESIC	ISEN Brest	1086	27.0%	28.0%	899	26.0%	30.0%	229	28.0%	33.0%	225	1	0.0%	100.0%	8
+2013	PSI	FESIC	ISEN Lille	1086	27.0%	28.0%	899	26.0%	30.0%	229	28.0%	33.0%	223	6	33.0%	0.0%	17
+2013	PSI	FESIC	ISEN Toulon	1086	27.0%	28.0%	899	26.0%	30.0%	229	28.0%	33.0%	219	1	0.0%	0.0%	8
+2013	PSI	FESIC	ISEP Paris	1086	27.0%	28.0%	949	27.0%	29.0%	296	27.0%	33.0%	294	10	20.0%	10.0%	25
+2013	PSI	FESIC	LASALLE BEAUVAIS	1086	27.0%	28.0%	726	26.0%	33.0%	41	36.0%	44.0%	37	1	100.0%	0.0%	6
+2013	PSI	EPITA	EPITA										69	2	0.0%	50.0%	4
+2013	PSI	EPITA	IPSA Paris										73	5	20.0%	0.0%	13
+2013	PSI	EPITA	IPSA Toulouse										68	3	33.0%	0.0%	7
+2013	PSI	EPITA	EPITA / IPSA PSI	221	27.0%	25.0%	107	25.0%	18.0%	76	26.0%	15.0%		10			24

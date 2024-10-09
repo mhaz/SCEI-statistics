@@ -1,0 +1,379 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
+2019	PSI	BANQUE ENS CACHAN/EC. POLYTECH	ENS Ulm PSI	820	18,5%	23,3%	46	8,7%	26,1%	28	7,1%	21,4%	5	20,0%	20,0%	18	18	5
+2019	PSI	BANQUE ENS CACHAN/EC. POLYTECH	ECOLE POLYTECHNIQUE	919	16,4%	19,6%	91	14,3%	12,1%	63	15,9%	11,1%	57	14,0%	10,5%	31	31	57
+2019	PSI	BANQUE ENS CACHAN/EC. POLYTECH	ENS Paris-Saclay	1207	18,6%	21,0%	395	16,2%	17,0%	307	14,0%	17,3%	38	5,3%	26,3%	197	194	38
+2019	PSI	BANQUE ENS CACHAN/EC. POLYTECH	ENS Rennes	1103	17,8%	22,0%	369	15,4%	16,5%	332	14,8%	16,6%	2	0,0%	0,0%	270	270	3
+2019	PSI	BANQUE CENTRALE-SUPELEC	CentraleSupÃ©lec - Statut Ã©tudiant	2494	21,5%	19,0%	551	16,9%	10,9%	544	17,1%	10,5%	176	18,2%	10,2%	209	198	175
+2019	PSI	BANQUE CENTRALE-SUPELEC	CentraleSupÃ©lec - Statut Ã©tudiant - Ã©tr.	86	24,4%	18,6%	25	16,0%	4,0%	24	16,7%	4,2%	11	0,0%	0,0%	12	12	9
+2019	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE LYON	2855	22,4%	19,3%	665	19,1%	11,0%	661	19,2%	10,7%	79	27,8%	11,4%	433	421	82
+2019	PSI	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	1393	26,1%	22,5%	513	22,8%	15,4%	502	22,7%	14,9%	17	23,5%	11,8%	361	385	28
+2019	PSI	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) - Ã©tr.	32	34,4%	18,8%	9	22,2%	22,2%	8	25,0%	12,5%	0	0,0%	0,0%	0	0	2
+2019	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE	2891	22,4%	20,6%	864	18,4%	13,4%	848	18,5%	12,7%	60	16,7%	20,0%	535	519	60
+2019	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES	3055	22,7%	20,0%	602	19,3%	12,1%	597	19,4%	11,7%	63	28,6%	14,3%	440	423	75
+2019	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE	2770	22,7%	21,3%	947	18,7%	14,5%	917	19,0%	14,0%	65	24,6%	10,8%	704	678	60
+2019	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE CASABLANCA	437	22,0%	27,7%	65	7,7%	16,9%	63	7,9%	15,9%	0	0,0%	0,0%	0	0	3
+2019	PSI	BANQUE CENTRALE-SUPELEC	CentraleSupÃ©lec - Campus Ã©tudiant - CI										6	33,3%	0,0%	4	4	6
+2019	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE LYON - CI										1	0,0%	0,0%	7	7	1
+2019	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE - CI										1	100,0%	0,0%	10	10	1
+2019	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES - CI										2	50,0%	0,0%	9	9	5
+2019	PSI	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) - CI										2	0,0%	0,0%	13	13	1
+2019	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE - CI										1	0,0%	0,0%	11	11	1
+2019	PSI	BANQUE CENTRALE-SUPELEC	Concours Cycle International Centrale-Supelec PSI	100	33,0%	12,0%	19	26,3%	5,3%	19	26,3%	5,3%	13					15
+2019	PSI	BANQUE CENTRALE-SUPELEC	CENTRALE CASABLANCA - CI	100	33,0%	12,0%	19	26,3%	5,3%	19	26,3%	5,3%	1	0,0%	0,0%	16	16	8
+2019	PSI	BANQUE CENTRALE-SUPELEC	Arts et MÃ©tiers										273	22,7%	23,8%	748	715	257
+2019	PSI	BANQUE CENTRALE-SUPELEC	Arts et MÃ©tiers - ingÃ©nieurs militaires										3	100,0%	66,7%	1035	988	3
+2019	PSI	BANQUE CENTRALE-SUPELEC	Arts et MÃ©tiers - voie de l'apprentissage										7	14,3%	14,3%	908	818	6
+2019	PSI	BANQUE CENTRALE-SUPELEC	Concours ARTS ET MÃTIERS ParisTech PSI	3303	22,6%	21,3%	1529	19,0%	19,9%	1187	20,6%	19,5%	283					266
+2019	PSI	BANQUE CENTRALE-SUPELEC	ENSEA Cergy	3303	22,6%	21,3%	2390	21,5%	21,9%	1514	20,7%	16,6%	59	20,3%	27,1%	1317	1258	70
+2019	PSI	BANQUE CENTRALE-SUPELEC	EPF campus TROYES										10	50,0%	50,0%	421	413	10
+2019	PSI	BANQUE CENTRALE-SUPELEC	EPF campus MONTPELLIER										7	57,1%	57,1%	377	352	6
+2019	PSI	BANQUE CENTRALE-SUPELEC	EPF campus SCEAUX										6	50,0%	16,7%	306	297	4
+2019	PSI	BANQUE CENTRALE-SUPELEC	Concours EPF Sceaux-Troyes-Montpellier PSI	655	33,0%	22,4%	560	33,2%	22,0%	448	35,9%	21,0%	23					20
+2019	PSI	BANQUE CENTRALE-SUPELEC	ESTP Paris - Travaux Publics (TP) - campus de Cachan										65	26,2%	15,4%	752	720	60
+2019	PSI	BANQUE CENTRALE-SUPELEC	ESTP Paris - BÃ¢timent (B) - campus de Cachan										55	41,8%	12,7%	641	612	55
+2019	PSI	BANQUE CENTRALE-SUPELEC	ESTP Paris - GÃ©nie MÃ©canique et Electrique(GME)										28	17,9%	32,1%	796	753	30
+2019	PSI	BANQUE CENTRALE-SUPELEC	ESTP Paris - Topographie (T)										7	42,9%	42,9%	903	908	22
+2019	PSI	BANQUE CENTRALE-SUPELEC	ESTP Paris - BÃ¢timent (B) - campus de Troyes										15	26,7%	26,7%	867	787	12
+2019	PSI	BANQUE CENTRALE-SUPELEC	ESTP Paris - Travaux Publics (TP) - campus de Dijon										6	16,7%	33,3%	876	835	5
+2019	PSI	BANQUE CENTRALE-SUPELEC	Concours ESTP PSI	1439	26,4%	24,5%	1201	26,6%	23,8%	922	27,9%	21,4%	176					184
+2019	PSI	BANQUE CENTRALE-SUPELEC	ECOLE NAVALE Brest	699	21,9%	32,5%	195	20,5%	43,1%	105	22,9%	51,4%	32	25,0%	46,9%	40	42	32
+2019	PSI	CONCOURS COMMUN MINES-PONTS	ENSAE ParisTech										11	9,1%	27,3%	577	562	8
+2019	PSI	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										56	25,0%	12,5%	501	486	55
+2019	PSI	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech - apprentissage										2	50,0%	50,0%	567	567	2
+2019	PSI	CONCOURS COMMUN MINES-PONTS	IMT Atlantique cursus Brest-Nantes-Rennes-Toulouse										67	20,9%	11,9%	933	895	65
+2019	PSI	CONCOURS COMMUN MINES-PONTS	IMT Atlantique cursus Sophia Antipolis										3	0,0%	33,3%	921	966	3
+2019	PSI	CONCOURS COMMUN MINES-PONTS	ISAE - SUPAERO Toulouse										82	7,3%	15,9%	301	265	75
+2019	PSI	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										46	15,2%	17,4%	680	682	41
+2019	PSI	CONCOURS COMMUN MINES-PONTS	MINES SAINT-ETIENNE										45	22,2%	20,0%	892	866	45
+2019	PSI	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										36	27,8%	0,0%	66	57	36
+2019	PSI	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										59	23,7%	11,9%	262	246	55
+2019	PSI	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										22	18,2%	9,1%	426	401	23
+2019	PSI	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										8	0,0%	37,5%	527	496	8
+2019	PSI	CONCOURS COMMUN MINES-PONTS	Concours CCMP PSI	3648	22,4%	18,5%	1237	18,7%	14,6%	1221	18,7%	14,6%	437					416
+2019	PSI	CONCOURS COMMUN INP	Bordeaux INP - ENSC Cognitique										9	44,4%	44,4%	2287	2197	8
+2019	PSI	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA Electronique										24	12,5%	25,0%	2036	2016	17
+2019	PSI	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA Informatique										8	0,0%	25,0%	1852	1698	8
+2019	PSI	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA MathÃ©matiques et MÃ©canique										19	26,3%	42,1%	1844	1741	16
+2019	PSI	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA TÃ©lecom.										15	6,7%	33,3%	2286	2204	14
+2019	PSI	CONCOURS COMMUN INP	CPE LYON Sciences du numÃ©rique										6	0,0%	16,7%	2805	2779	12
+2019	PSI	CONCOURS COMMUN INP	EISTI Cergy - Pau										16	6,2%	31,2%	2480	2488	15
+2019	PSI	CONCOURS COMMUN INP	ENAC Toulouse Civil										37	18,9%	35,1%	821	765	34
+2019	PSI	CONCOURS COMMUN INP	ENAC Toulouse Fonctionnaire										5	0,0%	0,0%	200	191	5
+2019	PSI	CONCOURS COMMUN INP	ENGEES Strasbourg Civil (apprenti)										1	0,0%	0,0%	2418	2418	2
+2019	PSI	CONCOURS COMMUN INP	ENGEES Strasbourg Civil (Ã©tudiant)										13	38,5%	38,5%	2407	2430	10
+2019	PSI	CONCOURS COMMUN INP	ENGEES Strasbourg Fonctionnaire										3	100,0%	33,3%	1917	1640	3
+2019	PSI	CONCOURS COMMUN INP	ENSGTI Pau - EnergÃ©tique										8	25,0%	25,0%	2847	2689	12
+2019	PSI	CONCOURS COMMUN INP	ENSI Poitiers - GÃ©nie de l'Eau et GÃ©nie Civil										6	83,3%	16,7%	2763	2639	7
+2019	PSI	CONCOURS COMMUN INP	ENSI Poitiers Energie										8	50,0%	0,0%	2921	2826	20
+2019	PSI	CONCOURS COMMUN INP	ENSIAME Valenciennes Informatique et GÃ©nie Industriel										11	18,2%	18,2%	2955	2905	7
+2019	PSI	CONCOURS COMMUN INP	ENSIAME Valenciennes MÃ©ca Energ.										27	18,5%	33,3%	2910	2788	30
+2019	PSI	CONCOURS COMMUN INP	ENSIAME Valenciennes MÃ©catronique										12	25,0%	16,7%	2696	2618	12
+2019	PSI	CONCOURS COMMUN INP	ENSICAEN Electronique et Physique AppliquÃ©e										11	9,1%	36,4%	2594	2567	10
+2019	PSI	CONCOURS COMMUN INP	ENSICAEN Informatique										3	0,0%	0,0%	1782	1851	5
+2019	PSI	CONCOURS COMMUN INP	ENSMM BesanÃ§on										46	19,6%	21,7%	2321	2241	56
+2019	PSI	CONCOURS COMMUN INP	Grenoble INP - ENSE3										76	22,4%	19,7%	1508	1376	80
+2019	PSI	CONCOURS COMMUN INP	Grenoble INP - Pagora										7	57,1%	14,3%	2560	2451	11
+2019	PSI	CONCOURS COMMUN INP	Grenoble INP - Phelma (Physique Electronique TÃ©lÃ©coms)										38	23,7%	15,8%	1232	1127	45
+2019	PSI	CONCOURS COMMUN INP	Grenoble INP - Phelma (Physique MatÃ©riaux ProcÃ©dÃ©s)										26	23,1%	15,4%	961	911	32
+2019	PSI	CONCOURS COMMUN INP	Grenoble INP - ENSIMAG										12	16,7%	8,3%	414	367	10
+2019	PSI	CONCOURS COMMUN INP	Grenoble INP - Esisar										11	27,3%	18,2%	2445	2303	12
+2019	PSI	CONCOURS COMMUN INP	ISAE-ENSMA Poitiers										58	13,8%	22,4%	1015	953	58
+2019	PSI	CONCOURS COMMUN INP	ISIMA Clermont-Ferrand										4	25,0%	50,0%	3057	3008	12
+2019	PSI	CONCOURS COMMUN INP	Lorraine INP - ENSEM - Energie										34	26,5%	32,4%	2574	2511	37
+2019	PSI	CONCOURS COMMUN INP	Lorraine INP - ENSEM - SpÃ©cialitÃ© des systÃ¨mes numÃ©riques										14	21,4%	21,4%	2884	2809	12
+2019	PSI	CONCOURS COMMUN INP	Lorraine INP - ENSIC										5	80,0%	0,0%	2667	2653	9
+2019	PSI	CONCOURS COMMUN INP	SeaTech Toulon										30	30,0%	30,0%	2130	2037	29
+2019	PSI	CONCOURS COMMUN INP	SUPMECA Paris										52	19,2%	25,0%	1770	1691	48
+2019	PSI	CONCOURS COMMUN INP	TELECOM PHYSIQUE Strasbourg										29	24,1%	13,8%	2182	1969	28
+2019	PSI	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - Electronique-Energie-Automatique (EEA)										41	14,6%	17,1%	1341	1286	43
+2019	PSI	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - MÃ©canique des Fluides-Energetique-Environnement (MFEE)										22	45,5%	9,1%	1135	1109	19
+2019	PSI	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - Sciences du NumÃ©rique										48	8,3%	22,9%	1320	1270	43
+2019	PSI	CONCOURS COMMUN INP	Toulouse INP - ENSIACET - GÃ©nie des ProcÃ©dÃ©s										14	14,3%	42,9%	2213	2132	11
+2019	PSI	CONCOURS COMMUN INP	Toulouse INP - ENSIACET - GÃ©nie Industriel										16	12,5%	31,2%	1910	1842	15
+2019	PSI	CONCOURS COMMUN INP	Concours CCINP PSI	5248	24,4%	18,4%	3592	23,1%	20,5%	3111	23,7%	20,6%	825					857
+2019	PSI	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	Lorraine INP - EEIGM	414	36,7%	21,3%	224	38,8%	20,5%	24	58,3%	25,0%	1	0,0%	0,0%	47	44	10*
+2019	PSI	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	ENSIL-ENSCI Limoges CÃ©ramique Industrielle	515	35,9%	20,6%	413	37,0%	20,1%	61	52,5%	19,7%	7	57,1%	28,6%	126	115	45*
+2019	PSI	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	Lorraine INP - ENSGSI	838	33,7%	21,4%	455	34,5%	22,0%	117	41,0%	28,2%	9	44,4%	11,1%	96	89	35*
+2019	PSI	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	ESM Saint-Cyr	733	17,6%	30,0%	247	17,4%	44,1%	122	12,3%	50,0%	40	5,0%	57,5%	82	84	76*
+2019	PSI	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	Grenoble INP - GÃ©nie Industriel	1648	29,9%	22,0%	800	27,6%	25,0%	213	31,0%	27,7%	41	31,7%	36,6%	124	161	76*
+2019	PSI	BANQUE EPREUVES CCINP	ECOLE DE L'AIR Base	712	20,5%	30,9%	275	21,1%	44,0%	114	19,3%	61,4%	4	50,0%	100,0%	41	40	4
+2019	PSI	BANQUE EPREUVES CCINP	ECOLE DE L'AIR MÃ©ca	718	20,8%	30,2%	268	20,1%	44,4%	109	20,2%	63,3%	7	42,9%	57,1%	38	42	7
+2019	PSI	BANQUE EPREUVES CCINP	ECOLE DE L'AIR Pilote	793	18,7%	26,7%	296	17,9%	36,5%	99	17,2%	51,5%	21	23,8%	61,9%	13	14	21
+2019	PSI	BANQUE EPREUVES CCINP	ENSISA Mulhouse Automatique et SystÃ¨mes EmbarquÃ©s										14	14,3%	42,9%	120	107	8
+2019	PSI	BANQUE EPREUVES CCINP	ENSISA Mulhouse Informatique et rÃ©seaux										9	44,4%	44,4%	138	119	8
+2019	PSI	BANQUE EPREUVES CCINP	ENSISA Mulhouse MÃ©canique										9	11,1%	33,3%	99	94	8
+2019	PSI	BANQUE EPREUVES CCINP	ENSISA Mulhouse Textile et Fibres										3	100,0%	33,3%	131	120	4
+2019	PSI	BANQUE EPREUVES CCINP	Concours ENSISA PSI	1066	31,3%	21,6%	750	31,6%	21,5%	163	30,1%	23,3%	35					28
+2019	PSI	BANQUE EPREUVES CCINP	EOST Strasbourg	542	37,1%	20,8%	212	40,1%	18,9%	20	55,0%	25,0%	1	100,0%	0,0%	13	13	4
+2019	PSI	BANQUE EPREUVES CCINP	Lorraine INP - ENSTIB	543	34,6%	20,6%	349	37,0%	17,8%	50	38,0%	20,0%	8	25,0%	50,0%	22	22	9
+2019	PSI	CONCOURS COMMUN TPE	ENTPE Lyon Civil										22	40,9%	36,4%	278	248	21
+2019	PSI	CONCOURS COMMUN TPE	ENTPE Lyon Fonctionnaire										27	40,7%	37,0%	219	201	27
+2019	PSI	CONCOURS COMMUN TPE	Concours TPE - Candidats franÃ§ais et de l'Union europÃ©enne - filiÃ¨re PSI	2281	28,3%	21,9%	1305	26,4%	24,0%	474	32,7%	28,5%	49					48
+2019	PSI	CONCOURS COMMUN TPE	ENTPE Lyon Etranger	2281	28,3%	21,9%	25	48,0%	24,0%	9	44,4%	22,2%	1	100,0%	100,0%	5	5	1
+2019	PSI	CONCOURS COMMUN TPE	EIVP Paris Civil	2281	28,3%	21,9%	1330	26,8%	24,0%	483	32,9%	28,4%	17	23,5%	29,4%	415	411	19
+2019	PSI	CONCOURS COMMUN TPE	EIVP Paris Fonctionnaire	2281	28,3%	21,9%	1305	26,4%	24,0%	474	32,7%	28,5%	4	25,0%	25,0%	274	232	4
+2019	PSI	CONCOURS COMMUN TPE	IMT Lille Douai Fonct.	2281	28,3%	21,9%	1305	26,4%	24,0%	474	32,7%	28,5%	0	0,0%	0,0%	0	0	0
+2019	PSI	Concours Mines - TÃ©lÃ©com	IMT Mines Albi										53	34,0%	18,9%	1243	1192	50
+2019	PSI	Concours Mines - TÃ©lÃ©com	IMT Mines AlÃ¨s										57	28,1%	15,8%	1268	1237	54
+2019	PSI	Concours Mines - TÃ©lÃ©com	ENSIIE Evry										19	5,3%	21,1%	1666	1617	17
+2019	PSI	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut Ã©tudiant)										42	40,5%	31,0%	811	756	40
+2019	PSI	Concours Mines - TÃ©lÃ©com	IMT Lille Douai										69	26,1%	21,7%	1494	1443	62
+2019	PSI	Concours Mines - TÃ©lÃ©com	Mines Saint Etienne-ISMIN										23	26,1%	21,7%	1614	1518	28
+2019	PSI	Concours Mines - TÃ©lÃ©com	TÃ©lÃ©com Physique Strasbourg RÃ©seaux et TÃ©lÃ©coms										10	10,0%	30,0%	2068	2009	18
+2019	PSI	Concours Mines - TÃ©lÃ©com	TÃ©lÃ©com Physique Strasbourg TI-SantÃ©										8	62,5%	12,5%	1544	1447	8
+2019	PSI	Concours Mines - TÃ©lÃ©com	TELECOM SudParis - cursus Evry										37	13,5%	35,1%	908	916	34
+2019	PSI	Concours Mines - TÃ©lÃ©com	TELECOM SudParis - cursus Sophia-Antipolis										3	33,3%	66,7%	1088	1076	3
+2019	PSI	Concours Mines - TÃ©lÃ©com	Concours Mines-TÃ©lÃ©com PSI	4102	24,4%	19,2%	2256	22,4%	20,0%	2165	22,5%	20,1%	321					314
+2019	PSI	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut IETA - Direction GÃ©nÃ©rale de l'Armement)	4102	24,4%	19,2%	1977	21,8%	22,4%	1907	21,9%	22,4%	12	8,3%	58,3%	655	607	12
+2019	PSI	Concours Mines - TÃ©lÃ©com	ENSG-GÃ©omatique Marne la VallÃ©e Civil										5	40,0%	40,0%	2358	2305	7
+2019	PSI	Concours Mines - TÃ©lÃ©com	ENSG Nancy										10	50,0%	30,0%	2272	2069	5
+2019	PSI	Concours Mines - TÃ©lÃ©com	ENSSAT Lannion										22	18,2%	31,8%	2221	2175	16
+2019	PSI	Concours Mines - TÃ©lÃ©com	TELECOM Nancy										15	13,3%	13,3%	1986	1878	15
+2019	PSI	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut Ã©tudiant										22	31,8%	22,7%	2189	2087	21
+2019	PSI	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut apprenti										1	0,0%	0,0%	2380	2380	3
+2019	PSI	Concours Mines - TÃ©lÃ©com	Concours Mines-TÃ©lÃ©com SpÃ©cifique PSI	4102	24,4%	19,2%	2997	23,8%	20,4%	2565	23,7%	20,7%	75					67
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ENSIBS Lorient										4	25,0%	25,0%	4132*	3804*	14*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ENSIM Le Mans										2	50,0%	0,0%	2275*	2591*	10*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ESBS Strasbourg										1	100,0%	0,0%	1302*	1222*	3*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ESGT le Mans										1	0,0%	0,0%	3170*	2990*	15*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ESI Reims - Packaging										1	100,0%	0,0%	3730*	3139*	8*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ESI Reims - Energetique										1	0,0%	0,0%	4121*	4099*	5*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIAB Brest										1	100,0%	0,0%	4001*	3843*	3*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIPE CrÃ©teil - GÃ©nie BiomÃ©dical et santÃ© (ISBS)										3	33,3%	33,3%	3586*	3328*	10*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIPE CrÃ©teil - SystÃ¨me d'information										1	0,0%	0,0%	4356*	4304*	3*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIPE CrÃ©teil - Technologie pour la santÃ©										0	0,0%	0,0%	4338*	4338*	3*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIR Rennes										3	0,0%	0,0%	3782*	3070*	20*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIREM Dijon										1	0,0%	0,0%	4120*	3927*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIROI Saint Denis de La RÃ©union										0	0,0%	0,0%	0*	0*	3*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIX Normandie - Caen - Cherbourg										0	0,0%	0,0%	4152*	4152*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ISAT Nevers - dÃ©partement MIT (MÃ©canique et IngÃ©nierie des Transports)										3	33,3%	0,0%	1345*	1328*	5*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ISAT Nevers - dÃ©partement EPEE (Energies et Moteurs)										9	11,1%	0,0%	3141*	3085*	12*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ISAT Nevers - Infrastructures et RÃ©seaux de Transports										2	0,0%	0,0%	3522*	3381*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ISIFC BesanÃ§on - GÃ©nie BiomÃ©dical										1	100,0%	100,0%	1942*	1927*	6*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ISTIA Angers										1	100,0%	0,0%	2756*	2673*	6*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	ISTY VÃ©lizy										0	0,0%	0,0%	3785*	3785*	3*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - Environnement, BÃ¢timent, Ãnergie										5	60,0%	20,0%	3897*	3688*	16*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - Informatique donnÃ©es Usages										1	0,0%	0,0%	3499*	3214*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - Instrumentation, Automatique, Informatique										2	0,0%	50,0%	3945*	3959*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - MÃ©canique, MatÃ©riaux										7	0,0%	14,3%	3437*	3388*	8*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Biologique										0	0,0%	0,0%	2681*	2698*	5*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Civil										3	66,7%	33,3%	3787*	3316*	16*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Electrique										5	20,0%	20,0%	4083*	3977*	5*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie MathÃ©matique et ModÃ©lisation										1	0,0%	0,0%	3434*	3298*	14*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Physique										1	0,0%	100,0%	3811*	3625*	8*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - GÃ©otechnique et gÃ©nie civil										1	100,0%	0,0%	3055*	3198*	6*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - MatÃ©riaux										1	100,0%	0,0%	2522*	2642*	6*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - PrÃ©vention des risques										2	0,0%	0,0%	3568*	3136*	6*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - Informatique et Ã©lectronique des systÃ¨mes embarquÃ©s										1	0,0%	0,0%	2079*	2044*	5*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - Informatique										1	0,0%	0,0%	2535*	2377*	8*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - Technologies de l'information pour la santÃ©										1	0,0%	0,0%	3166*	2824*	5*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - GÃ©nie biologique et alimentaire										0	0,0%	0,0%	1370*	1630*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - GÃ©nie Informatique et statistique										2	0,0%	50,0%	2336*	2269*	10*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - GÃ©otechnique, GÃ©nie civil										6	0,0%	16,7%	2583*	2543*	10*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - Informatique, MicroÃ©lectronique, Automatique										3	0,0%	33,3%	2090*	1761*	6*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - IngÃ©nierie et commercialisation des systÃ¨mes de mesure										1	0,0%	0,0%	4011*	3938*	5*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - MatÃ©riaux										3	0,0%	0,0%	3467*	3180*	8*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - MÃ©canique										6	0,0%	16,7%	2380*	2378*	10*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - GÃ©nie BiomÃ©dical										1	0,0%	0,0%	1516*	1565*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - Informatique										0	0,0%	0,0%	2378*	2376*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - MatÃ©riaux										0	0,0%	0,0%	1439*	1465*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - MathÃ©matiques AppliquÃ©es et ModÃ©lisation										1	0,0%	0,0%	1346*	1378*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - MÃ©canique										1	0,0%	0,0%	1039*	885*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - SystÃ¨mes industriels, Robotique										2	50,0%	0,0%	2536*	2557*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - GÃ©nie BiomÃ©dical										4	50,0%	25,0%	3152*	2689*	9*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - GÃ©nie Civil										7	28,6%	0,0%	3795*	3436*	12*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - GÃ©nie Industriel et Informatique										4	0,0%	25,0%	3979*	3762*	8*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - Informatique										3	33,3%	0,0%	3491*	3253*	8*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - MatÃ©riaux										4	25,0%	25,0%	4173*	4086*	10*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - MÃ©canique, EnergÃ©tique										8	37,5%	37,5%	3603*	3370*	16*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - MicroÃ©lectronique,TÃ©lÃ©communications										3	33,3%	0,0%	4279*	3954*	8*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - Informatique et Gestion										2	0,0%	0,0%	3158*	3186*	3*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - MatÃ©riaux										1	100,0%	0,0%	2698*	2745*	7*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - MÃ©canique et Interactions										1	100,0%	0,0%	1785*	1785*	2*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - MicroÃ©lectronique et Automatique										2	0,0%	0,0%	2589*	2479*	5*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - Sciences et technologies de l'eau										3	33,3%	0,0%	2501*	2125*	7*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier GÃ©nie biologique et agroalimentaire										0	0,0%	0,0%	2763*	2753*	5*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nancy - Energie, MÃ©canique, MatÃ©riaux, Environnement										7	14,3%	0,0%	3117*	2896*	14*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nancy - IngÃ©nierie de l'Information et des SystÃ¨mes										2	50,0%	0,0%	3264*	3066*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nancy - Management opÃ©rationnel, Maintenance, MaÃ®trise des risques										2	50,0%	0,0%	3266*	3157*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Ãlectronique et technologies numÃ©riques										3	0,0%	33,3%	3140*	2983*	8*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Ãnergie Ã©lectrique										2	0,0%	0,0%	4216*	3959*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - GÃ©nie civil										2	0,0%	0,0%	2373*	2605*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - GÃ©nie des ProcÃ©dÃ©s et BioprocÃ©dÃ©s										0	0,0%	0,0%	2213*	2213*	2*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Informatique										5	20,0%	20,0%	1345*	1412*	9*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - MatÃ©riaux										0	0,0%	0,0%	3226*	3225*	8*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Thermique, ÃnergÃ©tique										4	25,0%	50,0%	3242*	2971*	7*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - BÃ¢timents										6	33,3%	33,3%	4130*	3590*	12*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - Ãlectronique										6	0,0%	0,0%	3932*	3641*	10*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - GÃ©nie biologique										0	0,0%	0,0%	1782*	1557*	3*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - GÃ©nie de l'eau										2	100,0%	0,0%	3227*	2951*	10*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - Informatique										0	0,0%	0,0%	1886*	2166*	14*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - MathÃ©matiques appliquÃ©es, ModÃ©lisation										4	25,0%	0,0%	3119*	2943*	15*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - GÃ©nie civil et gÃ©o-environnement										7	28,6%	14,3%	4002*	3835*	14*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - GÃ©nie industriel										1	100,0%	0,0%	3790*	3759*	12*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - Innovation en Conception et MatÃ©riaux										5	20,0%	20,0%	4186*	4108*	8*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - Technologies pour l'Ãnergie, l'AÃ©rospatial et la Motorisation										4	25,0%	25,0%	1927*	1835*	14*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - GÃ©nie physique et systÃ¨mes embarquÃ©s										1	0,0%	0,0%	3672*	3633*	6*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Sud - Electronique, Energie, SystÃ¨mes										2	50,0%	0,0%	3463*	3477*	6*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Sud - Informatique										1	100,0%	0,0%	1356*	1356*	2*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Sud - Photonique et systÃ¨mes optroniques										0	0,0%	0,0%	4047*	3541*	5*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Sud - MatÃ©riaux										0	0,0%	0,0%	3325*	3325*	4*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - Electronique et Informatique										0	0,0%	0,0%	1939*	1925*	3*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - MathÃ©matiques AppliquÃ©es et Informatique										1	100,0%	0,0%	2107*	2109*	3*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - MatÃ©riaux										0	0,0%	0,0%	2442*	2554*	8*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - Robotique										4	0,0%	25,0%	1916*	1651*	5*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - Sciences de la Terre										3	66,7%	0,0%	4004*	3508*	10*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - Ãlectronique, Ãnergie Ã©lectrique										2	0,0%	0,0%	4077*	3294*	2*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - GÃ©nie de l'amÃ©nagement et de l'environnement										7	42,9%	0,0%	1566*	1416*	7*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - Informatique										0	0,0%	0,0%	2863*	2624*	7*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - MÃ©canique, Conception de systÃ¨mes										5	0,0%	0,0%	3650*	3610*	5*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Sup GalilÃ©e Villetaneuse										3	0,0%	100,0%	3707	3492	20*
+2019	PSI	CONCOURS POLYTECH Inter-FiliÃ¨re	Concours POLYTECH MP - PC - PSI	2455	27,4%	18,5%	1829	27,7%	17,9%	1584	28,2%	18,4%	226					703
+2019	PSI	Autres Ã©coles E3A	ECE PARIS	778	28,5%	17,7%	688	29,4%	17,7%	294	30,3%	18,4%	37	24,3%	16,2%	211	200	45
+2019	PSI	Autres Ã©coles E3A	EFREI Paris	689	26,9%	16,8%	608	26,6%	16,3%	166	26,5%	13,9%	25	32,0%	4,0%	120	117	40
+2019	PSI	Autres Ã©coles E3A	EIDD Paris	543	34,8%	16,4%	399	36,6%	17,0%	245	39,2%	20,4%	17	23,5%	41,2%	192	194	15
+2019	PSI	Autres Ã©coles E3A	EIGSI Casablanca	104	30,8%	20,2%	81	32,1%	18,5%	23	39,1%	26,1%	0	0,0%	0,0%	0	0	10
+2019	PSI	Autres Ã©coles E3A	EIGSI La Rochelle	499	33,1%	17,4%	421	34,9%	18,1%	155	39,4%	20,0%	27	33,3%	18,5%	112	111	30
+2019	PSI	Autres Ã©coles E3A	EIL CÃ´te d'Opale - Calais (informatique)										11	18,2%	27,3%	161	152	15
+2019	PSI	Autres Ã©coles E3A	EIL CÃ´te d'Opale - Longuenesse (GÃ©nie Industriel)										13	38,5%	23,1%	166	167	30
+2019	PSI	Autres Ã©coles E3A	Concours EIL CÃ´te d'Opale Longuenesse - Calais PSI	409	31,3%	19,8%	365	31,5%	18,6%	188	36,2%	19,7%	24					45
+2019	PSI	Autres Ã©coles E3A	ELISA AÃ©rospace Saint Quentin (80)	644	29,3%	18,2%	493	30,2%	20,7%	201	28,9%	21,9%	13	46,2%	38,5%	170	168	15
+2019	PSI	Autres Ã©coles E3A	ENSAIT Roubaix										12	50,0%	25,0%	76	73	15
+2019	PSI	Autres Ã©coles E3A	ENSAIT Roubaix - Formation en alternance										1	100,0%	0,0%	62	62	2
+2019	PSI	Autres Ã©coles E3A	Concours ENSAIT Roubaix PSI	501	39,5%	22,2%	358	43,6%	23,2%	92	47,8%	23,9%	13					17
+2019	PSI	Autres Ã©coles E3A	ENSIL - ENSCI Limoges ELT	530	27,7%	23,8%	367	29,2%	23,2%	89	32,6%	20,2%	6	16,7%	0,0%	64	61	10
+2019	PSI	Autres Ã©coles E3A	ENSIL - ENSCI Limoges MatÃ©riaux	535	35,7%	21,7%	388	37,9%	21,1%	100	43,0%	15,0%	6	50,0%	16,7%	42	42	6
+2019	PSI	Autres Ã©coles E3A	ENSIL - ENSCI Limoges MÃ©catronique	646	27,7%	22,0%	478	28,5%	21,5%	139	30,9%	20,1%	13	76,9%	0,0%	28	30	12
+2019	PSI	Autres Ã©coles E3A	ESB Nantes	224	35,3%	21,9%	170	36,5%	22,4%	23	34,8%	26,1%	2	50,0%	0,0%	6	6	14
+2019	PSI	Autres Ã©coles E3A	ESIEA Paris - Laval	456	28,9%	16,7%	399	30,3%	16,5%	118	34,7%	14,4%	7	57,1%	28,6%	84	80	30
+2019	PSI	Autres Ã©coles E3A	ESIEE Paris	511	27,4%	16,0%	448	27,5%	15,2%	166	25,9%	16,3%	27	14,8%	18,5%	61	62	20
+2019	PSI	Autres Ã©coles E3A	ESIGELEC Rouen	545	32,7%	18,7%	503	33,4%	18,5%	182	37,4%	15,4%	27	33,3%	0,0%	138	131	40
+2019	PSI	Autres Ã©coles E3A	ESILV Paris-La DÃ©fense	818	26,9%	19,6%	718	27,7%	19,9%	380	26,6%	20,8%	59	13,6%	23,7%	137	134	55
+2019	PSI	Autres Ã©coles E3A	ESITC Caen	324	31,5%	18,5%	287	32,8%	18,5%	51	29,4%	15,7%	11	36,4%	9,1%	19	22	20
+2019	PSI	Autres Ã©coles E3A	ESTACA Laval AÃ©ronautique et spatial										3	0,0%	33,3%	142	114	2
+2019	PSI	Autres Ã©coles E3A	ESTACA Laval Automobile										8	12,5%	50,0%	251	219	4
+2019	PSI	Autres Ã©coles E3A	ESTACA Paris-Saclay AÃ©ronautique et spatial										6	16,7%	50,0%	121	112	6
+2019	PSI	Autres Ã©coles E3A	ESTACA Paris-Saclay Automobile ou Transports GuidÃ©s										9	0,0%	33,3%	177	183	10
+2019	PSI	Autres Ã©coles E3A	Concours ESTACA PSI	1014	24,4%	20,5%	398	25,1%	28,9%	398	25,1%	28,9%	26					22
+2019	PSI	Autres Ã©coles E3A	ESTIA Bidart	365	31,5%	20,3%	329	32,5%	20,7%	103	33,0%	21,4%	25	28,0%	16,0%	70	65	40
+2019	PSI	Autres Ã©coles E3A	IMT Lille Douai en Partenariat ISPA	502	31,3%	18,7%	409	32,5%	18,6%	49	34,7%	16,3%	6	33,3%	16,7%	17	16	8
+2019	PSI	Autres Ã©coles E3A	Toulouse INP - ENIT	709	33,1%	19,3%	313	36,1%	18,8%	255	38,0%	17,6%	4	0,0%	0,0%	229	228	6
+2019	PSI	Autres Ã©coles E3A	ISMANS-Groupe CESI Le Mans	299	36,5%	14,7%	289	36,3%	14,2%	71	39,4%	12,7%	5	0,0%	0,0%	49	52	20
+2019	PSI	Autres Ã©coles E3A	Paoli Tech	206	38,8%	26,2%	133	42,1%	24,8%	99	47,5%	30,3%	2	0,0%	50,0%	95	95	4
+2019	PSI	Autres Ã©coles E3A	SIGMA Clermont-Ferrand (ex IFMA)	886	28,9%	23,1%	482	29,5%	27,2%	186	35,5%	24,2%	63	31,7%	19,0%	86	83	60
+2019	PSI	Autres Ã©coles E3A	3IL IngÃ©nieurs	256	28,1%	18,4%	200	30,5%	17,5%	78	38,5%	20,5%	2	50,0%	0,0%	54	54	15
+2019	PSI	FESIC	ECAM Lyon	892	31,5%	15,6%	715	33,4%	15,7%	183	40,4%	17,5%	18	27,8%	27,8%	125	124	20
+2019	PSI	FESIC	ECAM Rennes	892	31,5%	15,6%	822	32,5%	15,2%	65	40,0%	27,7%	7	28,6%	28,6%	39	38	18
+2019	PSI	FESIC	ECAM Strasbourg Europe	892	31,5%	15,6%	729	33,3%	15,9%	88	42,0%	14,8%	9	11,1%	11,1%	62	62	20
+2019	PSI	FESIC	ECAM-EPMI Cergy-Pontoise	892	31,5%	15,6%	812	32,8%	15,9%	126	38,1%	15,1%	9	33,3%	55,6%	102	89	25
+2019	PSI	FESIC	ESAIP Angers / Aix-en-Provence	892	31,5%	15,6%	827	32,4%	15,1%	402	36,1%	15,9%	9	22,2%	11,1%	377	354	12
+2019	PSI	FESIC	ESEO Angers - Paris VÃ©lizy	892	31,5%	15,6%	580	35,2%	16,9%	380	37,4%	16,6%	3	0,0%	33,3%	371	342	20
+2019	PSI	FESIC	HEI	892	31,5%	15,6%	810	32,8%	15,4%	305	39,3%	16,7%	23	43,5%	13,0%	266	253	25
+2019	PSI	FESIC	ISEN YncrÃ©a Ouest - Brest										0	0,0%	0,0%	0	0	20
+2019	PSI	FESIC	ISEN YncrÃ©a Ouest - Nantes										1	0,0%	100,0%	91	91	10
+2019	PSI	FESIC	Concours concours ISEN Ouest PSI	892	31,5%	15,6%	712	33,3%	15,6%	122	32,0%	13,9%	1					30
+2019	PSI	FESIC	ISEN Lille	892	31,5%	15,6%	712	33,3%	15,6%	121	32,2%	14,0%	2	50,0%	0,0%	103	103	15
+2019	PSI	FESIC	ISEN YncrÃ©a MÃ©diterrannÃ©e - Toulon										5	20,0%	0,0%	98	87	20
+2019	PSI	FESIC	ISEN YncrÃ©a MÃ©diterrannÃ©e - NÃ®mes										1	100,0%	0,0%	75	75	20
+2019	PSI	FESIC	Concours concours ISEN MÃ©diterrannÃ©e PSI	892	31,5%	15,6%	712	33,3%	15,6%	122	32,0%	13,9%	6					40
+2019	PSI	FESIC	ISEP Paris	892	31,5%	15,6%	789	33,3%	15,6%	151	33,8%	17,9%	11	9,1%	0,0%	118	120	30
+2019	PSI	FESIC	UniLaSalle Beauvais - Sciences de la Terre et Environnement	892	31,5%	15,6%	715	33,4%	15,7%	73	46,6%	13,7%	0	0,0%	0,0%	0	0	4
+2019	PSI	FESIC	UniLasalle â Rennes EME	892	31,5%	15,6%	715	33,4%	15,7%	319	38,9%	16,0%	1	100,0%	0,0%	317	317	10
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen Technologies du Vivant										3*	100,0%	66,7%	424*	390*	3*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Biosciences										4*	75,0%	25,0%	66*	66*	4*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Biologique										2*	50,0%	0,0%	80*	80*	2*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	ISIS Castres Informatique pour la SantÃ©										2*	50,0%	50,0%	607	607	15*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	Concours INSA DomaineÂ Biotechnologies-santÃ© MP-PC-PSI-BCPST	3235*	51,3%	23,7%	1203*	53,2%	26,4%	1030*	52,1%	25,8%	11*					24*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie EnergÃ©tique et Environnement										4*	50,0%	0,0%	105*	106*	4*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie Chimie et ProcÃ©dÃ©s										5*	100,0%	20,0%	729*	612*	5*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie EnergÃ©tique et Propulsion										5*	20,0%	0,0%	654*	683*	4*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie MaÃ®trise des Risques Industriels										5*	100,0%	20,0%	1042*	967*	5*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Climatique et EnergÃ©tique										11*	54,5%	18,2%	858*	853*	10*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie des ProcÃ©dÃ©s et environnement										8*	75,0%	12,5%	415*	412*	10*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	Sup'EnR Perpignan EnergÃ©tique et Energies Renouvelables										5*	80,0%	0,0%	638	707	4*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	Concours INSA DomaineÂ EnergÃ©tique â GÃ©nie Chimique â Environnement MP-PC-PSI	3346*	39,1%	20,8%	1304*	40,1%	22,0%	1198*	40,2%	21,6%	43*					42*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Euro-MÃ©diterranÃ©e GÃ©nie Electrique										2*	0,0%	50,0%	1381*	1381*	5*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Electrique										7*	28,6%	14,3%	356*	333*	8*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Electronique et Informatique Industrielle										1*	0,0%	0,0%	876*	876*	1*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rennes SystÃ¨me et RÃ©seaux de Communication										4*	25,0%	50,0%	1193*	1161*	4*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Electrique										12*	25,0%	25,0%	1147*	1080*	12*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse Automatique et Electronique										3*	0,0%	33,3%	433	302	3*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie Ã©lectrique, Ã©lectronique, automatique MP-PC-PSI-PT	3862*	24,1%	22,0%	1705*	24,6%	23,2%	1550*	24,7%	23,4%	29*					33*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Civil et Urbanisme										7*	28,6%	14,3%	54*	71*	7*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie Civil et Urbain										1*	100,0%	0,0%	255*	255*	1*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie GÃ©nie Civil et constructions durables										3*	0,0%	33,3%	268*	334*	2*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Civil										3*	100,0%	33,3%	231*	273*	3*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg Topographie										2*	50,0%	0,0%	549*	549*	2*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Civil										1*	100,0%	0,0%	250	250	1*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie civil, urbanisme, topographie MP-PC	1836*	38,0%	22,9%	752*	40,8%	23,5%	685*	40,7%	22,9%	17*					16*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Civil et Urbanisme										9*	33,3%	0,0%	89*	77*	9*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie Civil et Urbain										2*	0,0%	0,0%	308*	308*	2*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie GÃ©nie Civil et constructions durables										1*	0,0%	100,0%	223*	223*	2*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Civil										11*	45,5%	27,3%	380*	376*	12*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg Topographie										6*	0,0%	33,3%	765*	770*	8*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Civil										2*	0,0%	50,0%	286	286	2*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie civil, urbanisme, topographie PSI-PT	2106*	26,8%	20,2%	951*	25,0%	25,0%	883*	25,5%	25,7%	31*					35*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire SÃ©curitÃ© et Technologies Informatiques										1*	0,0%	0,0%	578*	578*	6*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Euro-MÃ©diterranÃ©e SystÃ¨mes d'Information et de Communication										0*	0,0%	0,0%	0*	0*	1*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Lyon TÃ©lÃ©communications, services et usages										6*	16,7%	33,3%	338*	315*	6*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Informatique										1*	0,0%	0,0%	101*	101*	2*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie Architecture des SystÃ¨mes d'Information										1*	0,0%	0,0%	418*	418*	1*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie GÃ©nie MathÃ©matique										2*	0,0%	0,0%	223*	223*	2*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse Informatique et RÃ©seaux										6*	0,0%	33,3%	232*	203*	7*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse MathÃ©matiques appliquÃ©es										1*	100,0%	0,0%	367	367	1*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine Informatique, mathÃ©matique, modÃ©lisation PC-PSI-PT	2446*	22,2%	23,9%	770*	23,1%	26,4%	699*	23,9%	27,6%	18*					26*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire GÃ©nie des SystÃ¨mes Industriels										8*	12,5%	25,0%	1160*	1156*	18*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Euro-MÃ©diterranÃ©e GÃ©nie MÃ©canique et EnergÃ©tique										0*	0,0%	0,0%	0*	0*	5*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Industriel										8*	50,0%	12,5%	81*	107*	9*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie MÃ©canique										36*	11,1%	16,7%	261*	247*	35*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie MÃ©canique et Automatique										18*	11,1%	11,1%	742*	752*	20*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie MÃ©canique										3*	66,7%	0,0%	562*	564*	3*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie MÃ©canique										20*	15,0%	20,0%	758*	781*	22*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg MÃ©catronique										12*	16,7%	8,3%	626*	644*	12*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg Plasturgie										6*	0,0%	50,0%	1175*	1178*	12*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie MÃ©canique										4*	25,0%	0,0%	327	291	4*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie mÃ©canique, gÃ©nie industriel et mÃ©catronique PSI-PT	2902*	20,6%	21,0%	1404*	20,8%	24,4%	1304*	21,5%	25,3%	115*					140*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen GÃ©nie Physique										4*	0,0%	50,0%	1208*	1223*	7*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire MaÃ®trise des Risques Industriels										10*	30,0%	30,0%	1300*	1234*	30*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Science et GÃ©nie des MatÃ©riaux										10*	50,0%	30,0%	225*	223*	10*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Science et GÃ©nie des MatÃ©riaux										2*	50,0%	50,0%	543*	543*	3*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Physique										4*	75,0%	50,0%	460	501	5*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie physique et matÃ©riaux MP-PC-PSI	3640*	33,6%	22,1%	1591*	36,6%	22,8%	1435*	36,8%	22,6%	30*					55*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen GÃ©nie Physique										0*	0,0%	0,0%	0*	0*	3*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire MaÃ®trise des Risques Industriels										0*	0,0%	0,0%	0*	0*	10*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Science et GÃ©nie des MatÃ©riaux										1*	0,0%	100,0%	27*	27*	1*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Science et GÃ©nie des MatÃ©riaux										1*	0,0%	0,0%	111*	111*	1*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Physique										1*	0,0%	0,0%	80	80	1*
+2019	PSI	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie physique et matÃ©riaux TSI-PT	1359*	13,2%	22,7%	435*	11,7%	28,7%	406*	12,3%	29,6%	3*					16*
+2019	PSI	CESI	CESI AngoulÃªme										1*	0,0%	0,0%	75*	75*	8*
+2019	PSI	CESI	CESI Arras										0*	0,0%	0,0%	0*	0*	10*
+2019	PSI	CESI	CESI Bordeaux										2*	50,0%	0,0%	63*	63*	8*
+2019	PSI	CESI	CESI Lyon										6*	16,7%	16,7%	101*	93*	12*
+2019	PSI	CESI	CESI Mont-Saint-Aignan										1*	0,0%	0,0%	12*	12*	8*
+2019	PSI	CESI	CESI Nancy										1*	0,0%	0,0%	29*	29*	8*
+2019	PSI	CESI	CESI Nanterre										5*	40,0%	20,0%	76*	68*	20*
+2019	PSI	CESI	CESI Nice Sophia Antipolis										0*	0,0%	0,0%	0*	0*	8*
+2019	PSI	CESI	CESI Saint-Nazaire										0*	0,0%	0,0%	0	0	10*
+2019	PSI	CESI	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur GÃ©nÃ©raliste	249*	24,9%	15,7%	164*	28,0%	13,4%	117*	30,8%	12,0%	16*					92*
+2019	PSI	CESI	CESI Aix-en-Provence										0*	0,0%	0,0%	0*	0*	2*
+2019	PSI	CESI	CESI Arras										0*	0,0%	0,0%	0*	0*	4*
+2019	PSI	CESI	CESI Bordeaux										0*	0,0%	0,0%	0*	0*	2*
+2019	PSI	CESI	CESI La Rochelle										0*	0,0%	0,0%	0*	0*	2*
+2019	PSI	CESI	CESI Lille										0*	0,0%	0,0%	0*	0*	2*
+2019	PSI	CESI	CESI Lyon										0*	0,0%	0,0%	0*	0*	4*
+2019	PSI	CESI	CESI Mont-Saint-Aignan										0*	0,0%	0,0%	0*	0*	2*
+2019	PSI	CESI	CESI Nancy										0*	0,0%	0,0%	0*	0*	2*
+2019	PSI	CESI	CESI Nanterre										0*	0,0%	0,0%	0*	0*	7*
+2019	PSI	CESI	CESI Nice Sophia Antipolis										0*	0,0%	0,0%	0*	0*	2*
+2019	PSI	CESI	CESI OrlÃ©ans										0*	0,0%	0,0%	0*	0*	3*
+2019	PSI	CESI	CESI Pau										0*	0,0%	0,0%	0*	0*	2*
+2019	PSI	CESI	CESI Reims										1*	0,0%	100,0%	6*	6*	2*
+2019	PSI	CESI	CESI Saint-Nazaire										0*	0,0%	0,0%	0*	0*	5*
+2019	PSI	CESI	CESI Strasbourg										0*	0,0%	0,0%	0*	0*	2*
+2019	PSI	CESI	CESI Toulouse										0*	0,0%	0,0%	0	0	3*
+2019	PSI	CESI	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur en Informatique	60*	15,0%	8,3%	40*	15,0%	12,5%	19*	15,8%	21,1%	1*					46*
+2019	PSI	EPITA	EPITA										10	10,0%	10,0%	78	93	18
+2019	PSI	EPITA	IPSA Paris										9	11,1%	0,0%	78	75	14
+2019	PSI	EPITA	IPSA Toulouse										6	16,7%	33,3%	64	63	7
+2019	PSI	EPITA	ESME SUDRIA Paris										11	0,0%	18,2%	133	127	16
+2019	PSI	EPITA	Concours EPITA / IPSA / ESME PSI	396	23,5%	17,4%	257	20,6%	16,3%	205	22,0%	16,1%	36					55

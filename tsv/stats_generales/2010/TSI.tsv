@@ -1,0 +1,123 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rang_du_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2010	TSI	Concours Polytechnique	ECOLE POLYTECHNIQUE				64	3.0%	21.0%	8	0.0%	0.0%	6	5	0.0%	0.0%	5
+2010	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE PARIS	306	8.0%	25.0%	38	2.0%	11.0%	20	5.0%	10.0%	20	10	10.0%	0.0%	10
+2010	TSI	CONCOURS CENTRALE-SUPELEC	SUPELEC- Campus Gif										31	5	0.0%	0.0%	5
+2010	TSI	CONCOURS CENTRALE-SUPELEC	SUPELEC- Campus Metz										29	0	0.0%	0.0%	1
+2010	TSI	CONCOURS CENTRALE-SUPELEC	SUPELEC- Campus Rennes										29	2	0.0%	50.0%	1
+2010	TSI	CONCOURS CENTRALE-SUPELEC	Supélec	295	6.0%	25.0%	43	0.0%	14.0%	35	0.0%	18.0%		7			7
+2010	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE LYON	330	7.0%	25.0%	27	3.0%	12.0%	24	4.0%	13.0%	23	3	0.0%	34.0%	4
+2010	TSI	CONCOURS CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	174	8.0%	31.0%	52	3.0%	29.0%	23	4.0%	31.0%	13	2	50.0%	0.0%	2
+2010	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE LILLE	334	7.0%	25.0%	40	2.0%	8.0%	33	3.0%	10.0%	33	1	0.0%	0.0%	5
+2010	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE NANTES	398	7.0%	23.0%	64	0.0%	18.0%	54	0.0%	21.0%	54	15	0.0%	14.0%	15
+2010	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE MARSEILLE	323	7.0%	27.0%	74	0.0%	25.0%	48	0.0%	23.0%	48	1	0.0%	0.0%	5
+2010	TSI	CONCOURS CENTRALE-SUPELEC	ENSIIE (I.I.E. CNAM )	216	6.0%	28.0%	44	2.0%	28.0%	26	0.0%	27.0%	26	0	0.0%	0.0%	5
+2010	TSI	BANQUE DE NOTES CENTRALE	TELECOM SudParis - cursus Evry	127	5.0%	24.0%	66	1.0%	23.0%	22	0.0%	32.0%	16	6	0.0%	0.0%	6
+2010	TSI	BANQUE DE NOTES CENTRALE	IFMA Clermont-Ferrand	202	4.0%	19.0%	45	2.0%	9.0%	7	14.0%	0.0%	7	3	0.0%	0.0%	7
+2010	TSI	BANQUE DE NOTES CENTRALE	ISMANS Le Mans	227	7.0%	21.0%	203	7.0%	22.0%	57	5.0%	25.0%	57	5	0.0%	20.0%	10
+2010	TSI	BANQUE DE NOTES CENTRALE	TELECOM St Etienne	74	8.0%	21.0%	42	4.0%	22.0%	18	11.0%	23.0%	16	5	0.0%	20.0%	5
+2010	TSI	BANQUE DE NOTES CENTRALE	ESIX Normandie - Génie et Sûreté des Systèmes Industriels	141	8.0%	22.0%	107	7.0%	22.0%	22	18.0%	32.0%	22	5	20.0%	20.0%	15
+2010	TSI	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										9	2	0.0%	0.0%	2
+2010	TSI	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										49	2	0.0%	0.0%	2
+2010	TSI	CONCOURS COMMUN MINES-PONTS	MINES de SAINT-ETIENNE										33	2	0.0%	0.0%	2
+2010	TSI	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										15	0	0.0%	0.0%	1
+2010	TSI	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										37	2	0.0%	0.0%	1
+2010	TSI	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										53	4	0.0%	50.0%	4
+2010	TSI	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										0	0	0.0%	0.0%	2
+2010	TSI	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE										58	2	0.0%	50.0%	2
+2010	TSI	CONCOURS COMMUN MINES-PONTS	SUPAERO (ISAE) Toulouse										23	3	0.0%	34.0%	2
+2010	TSI	CONCOURS COMMUN MINES-PONTS	Concours Commun Mines Ponts TSI	283	6.0%	23.0%	64	3.0%	21.0%	58	3.0%	19.0%		17			18
+2010	TSI	CONCOURS COMMUN ENSAM	Arts et Métiers ParisTech										93	35	5.0%	26.0%	35
+2010	TSI	CONCOURS COMMUN ENSAM	ENSEA Cergy										126	8	0.0%	25.0%	10
+2010	TSI	CONCOURS COMMUN ENSAM	ESIEE Amiens										126	0	0.0%	0.0%	5
+2010	TSI	CONCOURS COMMUN ENSAM	ESIEE Paris										126	0	0.0%	0.0%	4
+2010	TSI	CONCOURS COMMUN ENSAM	ARTS ET MÉTIERS ParisTech	525	6.0%	23.0%	170	4.0%	25.0%	126	3.0%	24.0%		43			54
+2010	TSI	BANQUE EPREUVES C.C.P Inter-Filière	ENSGSI Nancy	171	7.0%	22.0%	52	5.0%	18.0%	13	7.0%	24.0%	-	2	0.0%	50.0%	35*
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM Besançon										210	17	0.0%	18.0%	19
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Bourges MRI										199	3	0.0%	0.0%	4
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Bourges STI										309	3	0.0%	0.0%	6
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Electronique										177	6	0.0%	17.0%	4
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Informatique										227	3	0.0%	34.0%	2
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEIRB-MATMECA Bordeaux Télecom.										171	2	50.0%	0.0%	2
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIETA Brest Civil										193	2	0.0%	50.0%	2
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique Appliquée										223	2	0.0%	50.0%	3
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ISIMA Clermont-Ferrand										294	6	0.0%	0.0%	5
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Pagora										147	1	0.0%	0.0%	1
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - ENSE3										80	3	0.0%	34.0%	3
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	CPE LYON Electronique										255	3	0.0%	67.0%	2
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEM Nancy										173	4	25.0%	0.0%	6
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Paris										153	3	0.0%	34.0%	3
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSMA Poitiers										103	3	0.0%	34.0%	2
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIP Poitiers Energie										163	4	0.0%	0.0%	4
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSP Strasbourg										309	2	0.0%	0.0%	5
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Toulon										113	2	0.0%	0.0%	1
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Electronique										36	1	0.0%	0.0%	1
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEEIHT Toulouse Génie Electrique										102	1	0.0%	0.0%	1
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSICA (ISAE) Toulouse										25	0	0.0%	0.0%	1
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et Management des systèmes										286	0	0.0%	0.0%	2
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Méca Energ.										261	7	28.0%	29.0%	8
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Mécatronique										304	9	11.0%	23.0%	9
+2010	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Concours Commun Polytechnique TSI	753	9.0%	19.0%	451	6.0%	24.0%	309	6.0%	23.0%		87			96
+2010	TSI	BANQUE EPREUVES C.C.P	3IL Limoges	98	4.0%	18.0%	96	4.0%	18.0%	95	4.0%	18.0%	89	4	0.0%	0.0%	6
+2010	TSI	BANQUE EPREUVES C.C.P	EIPC Longuenesse	150	9.0%	21.0%	146	8.0%	22.0%	77	11.0%	25.0%		7	14.0%	43.0%	5
+2010	TSI	BANQUE EPREUVES C.C.P	ENS Cachan	340	7.0%	21.0%	58	1.0%	33.0%	35	2.0%	26.0%	33	4	0.0%	25.0%	4
+2010	TSI	BANQUE EPREUVES C.C.P	ENSAIT Roubaix	124	13.0%	22.0%	92	15.0%	24.0%	34	17.0%	33.0%	33	7	28.0%	43.0%	7
+2010	TSI	BANQUE EPREUVES C.C.P	ENSIETA Brest Militaire	118	10.0%	9.0%	25	4.0%	12.0%	18	5.0%	6.0%	13	2	0.0%	50.0%	2
+2010	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Informatique et réseaux										65	0	0.0%	0.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Mécanique										52	6	0.0%	0.0%	5
+2010	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Système et signaux										58	5	0.0%	20.0%	4
+2010	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Textile et Fibres										57	6	50.0%	0.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse TSI	242	9.0%	22.0%	224	10.0%	22.0%	72	18.0%	19.0%		17			15
+2010	TSI	BANQUE EPREUVES C.C.P	ENSTIB Epinal	156	8.0%	24.0%	120	8.0%	24.0%	33	9.0%	19.0%	13	7	0.0%	43.0%	7
+2010	TSI	BANQUE EPREUVES C.C.P	Ecole des Mines d'Albi										65	1	0.0%	0.0%	2
+2010	TSI	BANQUE EPREUVES C.C.P	Ecole des Mines d'Alès										63	1	0.0%	0.0%	2
+2010	TSI	BANQUE EPREUVES C.C.P	Ecole des Mines Douai										59	2	0.0%	100.0%	2
+2010	TSI	BANQUE EPREUVES C.C.P	Ecole des Mines Nantes										37	2	0.0%	100.0%	2
+2010	TSI	BANQUE EPREUVES C.C.P	Concours des Ecoles des Mines d'Albi, Alès, Douai, Nantes	376	6.0%	23.0%	103	2.0%	30.0%	65	4.0%	30.0%		6			8
+2010	TSI	BANQUE EPREUVES C.C.P	ENTPE Vaulx en Velin Fonctionnaire	379	7.0%	25.0%	117	2.0%	30.0%	106	2.0%	32.0%	58	6	0.0%	50.0%	6
+2010	TSI	BANQUE EPREUVES C.C.P	ESIGELEC Rouen	225	8.0%	17.0%	220	8.0%	17.0%	133	6.0%	19.0%	133	22	9.0%	10.0%	25
+2010	TSI	BANQUE EPREUVES C.C.P	ESIREM Dijon Info-élec.											5	0.0%	40.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	ESIREM Dijon Mat.											1	0.0%	100.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	ESIREM Dijon TSI	148	6.0%	21.0%	95	5.0%	23.0%	30	10.0%	30.0%		6			6
+2010	TSI	BANQUE EPREUVES C.C.P	ESTIA Bidart	199	5.0%	26.0%	152	5.0%	32.0%	63	3.0%	42.0%	63	18	0.0%	67.0%	20
+2010	TSI	BANQUE EPREUVES C.C.P	ESTP Paris BAT										45	3	0.0%	100.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	ESTP Paris MECA-ELEC										81	1	0.0%	0.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	ESTP Paris TOPOGRAPHIE										81	2	0.0%	0.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	ESTP Paris TP										78	3	0.0%	34.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	ESTP Paris	300	6.0%	27.0%				81	1.0%	34.0%		9			12
+2010	TSI	BANQUE EPREUVES C.C.P	ISAT Nevers - département Concept Car (CC)											3	0.0%	34.0%	2
+2010	TSI	BANQUE EPREUVES C.C.P	ISAT Nevers - département Energétique Propulsion Electronique pour l¿Environnement (EP2E)											3	0.0%	34.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	ISAT Nevers TSI	201	7.0%	19.0%	90	5.0%	23.0%	30	6.0%	24.0%		6			5
+2010	TSI	BANQUE EPREUVES C.C.P	ISEP Paris	118	6.0%	21.0%	76	5.0%	19.0%	16	12.0%	25.0%	16	6	16.0%	34.0%	4
+2010	TSI	BANQUE EPREUVES C.C.P	Mines St Etienne ISMIN Gardanne	190	6.0%	27.0%	91	3.0%	24.0%	71	4.0%	24.0%	44	3	0.0%	0.0%	5
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Clermont-Ferrand Mathématiques, Physique, Électronique										328	3	0.0%	67.0%	5
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Grenoble Informatique industrielle, Instrumentation										299	3	0.0%	67.0%	1
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Grenoble Géotechnique										201	1	0.0%	100.0%	1
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Grenoble Prévention des risques										132	1	0.0%	0.0%	1
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Grenoble Matériaux										269	2	50.0%	0.0%	1
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Lille Géotechnique, Génie civil										35	1	0.0%	100.0%	1
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Lille Informatique, Microélectronique, Automatique										328	2	0.0%	0.0%	4
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Lille Mécanique										177	2	0.0%	50.0%	1
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Marseille Génie industriel, Informatique										328	1	100.0%	0.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Marseille Génie civil										188	2	0.0%	0.0%	2
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Marseille Microélectronique et télécommunications										326	2	100.0%	50.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Marseille Mécanique et énergétique										216	3	0.0%	34.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Montpellier Électronique, Robotique, Informatique industrielle										255	2	0.0%	0.0%	2
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Montpellier Informatique et gestion										280	1	0.0%	0.0%	1
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Nantes Génie électrique										285	4	0.0%	25.0%	4
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Nantes Génie civil										101	0	0.0%	0.0%	1
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Nantes Matériaux										228	2	0.0%	50.0%	2
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Nantes Électronique et technologies numériques										328	2	0.0%	0.0%	5
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Nantes Thermique, Énergétique										123	1	0.0%	0.0%	1
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Nice-Sophia Électronique										298	4	25.0%	25.0%	4
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Orléans Écotechnologies électroniques et optiques										328	1	0.0%	0.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Orléans Génie civil, Géosciences, Environnement										223	5	20.0%	40.0%	2
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Orléans Mécanique, Matériaux, Énergétique										328	9	0.0%	12.0%	6
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Paris-UPMC Électronique, Informatique, Systèmes embarqués										213	0	0.0%	0.0%	1
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Annecy-Chambéry Environnement, Bâtiment, Énergie										142	3	0.0%	0.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Annecy-Chambéry Instrumentation, Automatique, Informatique										328	4	50.0%	25.0%	5
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Annecy-Chambéry Mécanique, Matériaux										283	6	0.0%	34.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Tours Électronique, Énergie électrique										328	4	25.0%	25.0%	2
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Tours Informatique										328	1	0.0%	0.0%	2
+2010	TSI	BANQUE EPREUVES C.C.P	Polytech Tours Mécanique, Conception de systèmes										324	4	50.0%	25.0%	3
+2010	TSI	BANQUE EPREUVES C.C.P	Reseau Polytech	570	8.0%	20.0%	420	8.0%	22.0%	328	8.0%	24.0%		76			76
+2010	TSI	EPITA	EPITA	13	15.0%	24.0%	3	0.0%	34.0%	2	0.0%	50.0%	2	1	0.0%	0.0%	2

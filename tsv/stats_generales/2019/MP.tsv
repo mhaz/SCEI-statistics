@@ -1,0 +1,412 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
+2019	MP	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE Info.	861	11,1%	24,3%	212	9,0%	17,9%	162	10,5%	15,4%	102	15,7%	14,7%	80	77	102
+2019	MP	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE P&SI	767	22,4%	25,3%	173	18,5%	16,8%	120	20,8%	14,2%	81	23,5%	16,0%	46	46	81
+2019	MP	BANQUE ENS	ENS Ulm MPI	1720	17,8%	28,5%	141	7,8%	19,1%	96	8,3%	14,6%	38	7,9%	10,5%	37	36	38
+2019	MP	BANQUE ENS	ENS Ulm Info.	341	8,8%	24,6%	44	9,1%	25,0%	25	12,0%	20,0%	13	7,7%	7,7%	13	13	13
+2019	MP	BANQUE ENS	ENS Paris-Saclay MP	1802	18,3%	28,1%	265	7,9%	22,3%	195	7,7%	23,1%	18	11,1%	44,4%	138	136	18
+2019	MP	BANQUE ENS	ENS Paris-Saclay Info.	366	8,7%	22,4%	106	7,5%	18,9%	75	6,7%	22,7%	15	6,7%	13,3%	41	38	15
+2019	MP	BANQUE ENS	ENS de Lyon MPI	1823	17,9%	28,1%	251	7,6%	23,5%	155	8,4%	21,9%	20	5,0%	50,0%	95	95	20
+2019	MP	BANQUE ENS	ENS de Lyon Info.	380	8,9%	22,4%	112	7,1%	17,0%	73	6,8%	17,8%	22	9,1%	22,7%	35	34	22
+2019	MP	BANQUE ENS	ENS Rennes MP	1713	18,7%	28,3%	317	12,6%	26,2%	259	13,1%	29,3%	12	25,0%	41,7%	199	186	12
+2019	MP	BANQUE ENS	ENS Rennes Info.	361	8,3%	23,5%	104	8,7%	18,3%	79	6,3%	16,5%	9	0,0%	11,1%	58	54	9
+2019	MP	BANQUE CENTRALE-SUPELEC	CentraleSupÃ©lec - statut Ã©tudiant	3435	20,8%	22,3%	922	15,9%	16,2%	870	16,4%	16,4%	259	14,7%	13,9%	378	362	263
+2019	MP	BANQUE CENTRALE-SUPELEC	CentraleSupÃ©lec - statut Ã©tudiant Ã©tr.	223	20,2%	29,1%	76	11,8%	27,6%	74	10,8%	27,0%	23	13,0%	56,5%	44	42	20
+2019	MP	BANQUE CENTRALE-SUPELEC	CENTRALE LYON	3709	22,4%	22,0%	1132	17,8%	18,7%	1086	18,2%	18,9%	116	18,1%	24,1%	745	722	127
+2019	MP	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	1623	25,1%	25,9%	564	23,8%	20,9%	537	23,6%	20,1%	13	0,0%	46,2%	415	421	38
+2019	MP	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) - Ã©tr.	78	24,4%	26,9%	24	20,8%	25,0%	22	22,7%	22,7%	0	0,0%	0,0%	0	0	2
+2019	MP	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE	3461	23,6%	23,5%	985	21,7%	21,7%	945	21,8%	21,9%	84	23,8%	20,2%	831	784	90
+2019	MP	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES	3606	23,4%	22,8%	876	18,4%	20,1%	848	18,8%	20,3%	110	20,0%	21,8%	717	677	130
+2019	MP	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE	3264	23,9%	22,9%	1217	22,3%	20,8%	1120	22,1%	20,5%	81	33,3%	28,4%	924	882	80
+2019	MP	BANQUE CENTRALE-SUPELEC	CENTRALE CASABLANCA	538	21,0%	28,1%	121	11,6%	26,4%	108	11,1%	26,9%	0	0,0%	0,0%	0	0	8
+2019	MP	BANQUE CENTRALE-SUPELEC	CentraleSupÃ©lec - Campus Ã©tudiant - CI										24	16,7%	29,2%	30	26	22
+2019	MP	BANQUE CENTRALE-SUPELEC	CENTRALE LYON - CI										8	12,5%	37,5%	52	51	8
+2019	MP	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE - CI										5	40,0%	20,0%	67	67	3
+2019	MP	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES - CI										2	50,0%	0,0%	59	59	5
+2019	MP	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) - CI										8	12,5%	25,0%	136	128	3
+2019	MP	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE - CI										1	100,0%	0,0%	76	76	2
+2019	MP	BANQUE CENTRALE-SUPELEC	Concours Cycle International Centrale-Supelec MP	857	28,7%	15,1%	240	21,7%	18,8%	224	22,3%	19,2%	48					43
+2019	MP	BANQUE CENTRALE-SUPELEC	CENTRALE CASABLANCA - CI	857	28,7%	15,1%	240	21,7%	18,8%	224	22,3%	19,2%	6	50,0%	33,3%	176	174	30
+2019	MP	BANQUE CENTRALE-SUPELEC	Arts et MÃ©tiers										2	50,0%	50,0%	86	86	39
+2019	MP	BANQUE CENTRALE-SUPELEC	Arts et MÃ©tiers - ingÃ©nieurs militaires										0	0,0%	0,0%	0	0	0
+2019	MP	BANQUE CENTRALE-SUPELEC	Arts et MÃ©tiers - voie de l'apprentissage										0	0,0%	0,0%	0	0	1
+2019	MP	BANQUE CENTRALE-SUPELEC	Concours ARTS ET MÃTIERS ParisTech MP	2386	25,4%	24,7%	378	20,6%	29,6%	137	23,4%	38,0%	2					40
+2019	MP	BANQUE CENTRALE-SUPELEC	ENSEA Cergy	2386	25,4%	24,7%	1672	25,1%	26,0%	999	25,6%	24,9%	50	24,0%	38,0%	898	847	60
+2019	MP	BANQUE CENTRALE-SUPELEC	UniversitÃ© de Technologie de Troyes (UTT)	612	25,7%	19,9%	220	27,7%	12,3%	169	26,0%	11,2%	1	0,0%	0,0%	142	142	20
+2019	MP	BANQUE CENTRALE-SUPELEC	EPF campus TROYES										6	50,0%	16,7%	302	296	5
+2019	MP	BANQUE CENTRALE-SUPELEC	EPF campus MONTPELLIER										6	50,0%	33,3%	278	231	5
+2019	MP	BANQUE CENTRALE-SUPELEC	EPF campus SCEAUX										6	33,3%	0,0%	240	238	5
+2019	MP	BANQUE CENTRALE-SUPELEC	Concours EPF Sceaux-Troyes-Montpellier MP	488	35,7%	16,8%	414	37,2%	16,7%	328	38,7%	14,6%	18					15
+2019	MP	BANQUE CENTRALE-SUPELEC	ESTP Paris - Travaux Publics (TP) - campus de Cachan										48	25,0%	16,7%	406	386	64
+2019	MP	BANQUE CENTRALE-SUPELEC	ESTP Paris - BÃ¢timent (B) - campus de Cachan										49	46,9%	14,3%	389	379	62
+2019	MP	BANQUE CENTRALE-SUPELEC	ESTP Paris - GÃ©nie MÃ©canique et Electrique(GME)										12	50,0%	8,3%	371	375	24
+2019	MP	BANQUE CENTRALE-SUPELEC	ESTP Paris - Topographie (T)										2	0,0%	0,0%	449	449	10
+2019	MP	BANQUE CENTRALE-SUPELEC	ESTP Paris - BÃ¢timent (B) - campus de Troyes										1	100,0%	0,0%	431	431	12
+2019	MP	BANQUE CENTRALE-SUPELEC	ESTP Paris - Travaux Publics (TP) - campus de Dijon										3	100,0%	0,0%	415	411	5
+2019	MP	BANQUE CENTRALE-SUPELEC	Concours ESTP MP	1001	28,4%	23,2%	801	29,7%	20,8%	498	34,3%	17,7%	115					177
+2019	MP	BANQUE CENTRALE-SUPELEC	ECOLE NAVALE Brest	487	18,9%	32,0%	203	16,7%	39,4%	81	17,3%	50,6%	30	10,0%	53,3%	31	30	30
+2019	MP	CONCOURS COMMUN MINES-PONTS	Chimie ParisTech										1	0,0%	0,0%	1334	1334	2
+2019	MP	CONCOURS COMMUN MINES-PONTS	ENSAE ParisTech										55	27,3%	38,2%	1019	991	55
+2019	MP	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										59	30,5%	27,1%	890	828	60
+2019	MP	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech - apprentissage										1	100,0%	0,0%	950	950	2
+2019	MP	CONCOURS COMMUN MINES-PONTS	IMT Atlantique cursus Brest-Nantes-Rennes-Toulouse										86	20,9%	17,4%	1451	1404	85
+2019	MP	CONCOURS COMMUN MINES-PONTS	IMT Atlantique cursus Sophia Antipolis										4	25,0%	0,0%	1119	1167	3
+2019	MP	CONCOURS COMMUN MINES-PONTS	ISAE - SUPAERO Toulouse										73	26,0%	23,3%	637	607	75
+2019	MP	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										47	17,0%	40,4%	1208	1184	52
+2019	MP	CONCOURS COMMUN MINES-PONTS	MINES SAINT-ETIENNE										48	35,4%	27,1%	1372	1327	48
+2019	MP	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										50	26,0%	8,0%	148	148	50
+2019	MP	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										80	35,0%	30,0%	468	465	80
+2019	MP	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										61	19,7%	19,7%	658	623	65
+2019	MP	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										15	13,3%	13,3%	922	899	18
+2019	MP	CONCOURS COMMUN MINES-PONTS	Concours CCMP MP	5692	23,3%	20,4%	1879	18,7%	20,7%	1810	19,0%	20,6%	580					595
+2019	MP	CONCOURS COMMUN INP	Bordeaux INP - ENSC Cognitique										7	71,4%	28,6%	2160	2140	8
+2019	MP	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA Electronique										37	13,5%	16,2%	2383	2351	36
+2019	MP	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA Informatique										56	7,1%	17,9%	1821	1774	54
+2019	MP	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA MathÃ©matiques et MÃ©canique										38	13,2%	21,1%	2068	1963	39
+2019	MP	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA TÃ©lecom.										30	26,7%	23,3%	2214	2209	25
+2019	MP	CONCOURS COMMUN INP	CPE LYON Sciences du numÃ©rique										19	10,5%	10,5%	3407	3335	12
+2019	MP	CONCOURS COMMUN INP	EISTI Cergy - Pau										60	20,0%	25,0%	3483	3338	48
+2019	MP	CONCOURS COMMUN INP	ENAC Toulouse Civil										37	35,1%	37,8%	1061	1016	39
+2019	MP	CONCOURS COMMUN INP	ENAC Toulouse Fonctionnaire										5	60,0%	40,0%	338	360	5
+2019	MP	CONCOURS COMMUN INP	ENGEES Strasbourg Civil (apprenti)										1	0,0%	100,0%	3015	3015	1
+2019	MP	CONCOURS COMMUN INP	ENGEES Strasbourg Civil (Ã©tudiant)										11	63,6%	9,1%	3040	3044	9
+2019	MP	CONCOURS COMMUN INP	ENGEES Strasbourg Fonctionnaire										3	33,3%	0,0%	2635	2545	3
+2019	MP	CONCOURS COMMUN INP	ENSC Lille										2	0,0%	0,0%	2830	2830	2
+2019	MP	CONCOURS COMMUN INP	ENSGTI Pau - EnergÃ©tique										10	30,0%	20,0%	3714	3498	10
+2019	MP	CONCOURS COMMUN INP	ENSI Poitiers - GÃ©nie de l'Eau et GÃ©nie Civil										4	25,0%	0,0%	2937	2998	6
+2019	MP	CONCOURS COMMUN INP	ENSI Poitiers Energie										19	31,6%	26,3%	3619	3353	17
+2019	MP	CONCOURS COMMUN INP	ENSIAME Valenciennes Informatique et GÃ©nie Industriel										8	37,5%	0,0%	2879	2909	7
+2019	MP	CONCOURS COMMUN INP	ENSIAME Valenciennes MÃ©ca Energ.										17	17,6%	17,6%	3704	3503	18
+2019	MP	CONCOURS COMMUN INP	ENSIAME Valenciennes MÃ©catronique										11	9,1%	18,2%	3439	3348	10
+2019	MP	CONCOURS COMMUN INP	ENSICAEN Electronique et Physique AppliquÃ©e										19	15,8%	42,1%	3311	3240	20
+2019	MP	CONCOURS COMMUN INP	ENSICAEN Informatique										27	7,4%	33,3%	2745	2614	30
+2019	MP	CONCOURS COMMUN INP	ENSMM BesanÃ§on										33	18,2%	21,2%	2978	2939	46
+2019	MP	CONCOURS COMMUN INP	Grenoble INP - ENSE3										52	32,7%	13,5%	1809	1703	70
+2019	MP	CONCOURS COMMUN INP	Grenoble INP - Pagora										7	42,9%	14,3%	3049	3075	10
+2019	MP	CONCOURS COMMUN INP	Grenoble INP - Phelma (Physique Electronique TÃ©lÃ©coms)										48	22,9%	14,6%	1334	1241	58
+2019	MP	CONCOURS COMMUN INP	Grenoble INP - Phelma (Physique MatÃ©riaux ProcÃ©dÃ©s)										33	30,3%	27,3%	1028	950	38
+2019	MP	CONCOURS COMMUN INP	Grenoble INP - ENSIMAG										124	11,3%	20,2%	614	589	125
+2019	MP	CONCOURS COMMUN INP	Grenoble INP - Esisar										6	0,0%	50,0%	2161	2066	11
+2019	MP	CONCOURS COMMUN INP	ISAE-ENSMA Poitiers										55	20,0%	29,1%	1515	1340	55
+2019	MP	CONCOURS COMMUN INP	ISIMA Clermont-Ferrand										40	20,0%	22,5%	3238	3069	40
+2019	MP	CONCOURS COMMUN INP	Lorraine INP - ENSEM - Energie										24	25,0%	29,2%	3381	3276	35
+2019	MP	CONCOURS COMMUN INP	Lorraine INP - ENSEM - SpÃ©cialitÃ© des systÃ¨mes numÃ©riques										17	23,5%	17,6%	2957	2813	14
+2019	MP	CONCOURS COMMUN INP	Lorraine INP - ENSIC										5	60,0%	20,0%	2614	2334	9
+2019	MP	CONCOURS COMMUN INP	SeaTech Toulon										16	6,2%	37,5%	3118	3009	22
+2019	MP	CONCOURS COMMUN INP	SUPMECA Paris										40	22,5%	15,0%	2660	2573	42
+2019	MP	CONCOURS COMMUN INP	TELECOM PHYSIQUE Strasbourg										23	34,8%	13,0%	2346	2254	31
+2019	MP	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - Electronique-Energie-Automatique (EEA)										43	27,9%	25,6%	1682	1611	31
+2019	MP	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - MÃ©canique des Fluides-Energetique-Environnement (MFEE)										17	23,5%	23,5%	1223	1140	17
+2019	MP	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - Sciences du NumÃ©rique										95	13,7%	18,9%	1281	1218	87
+2019	MP	CONCOURS COMMUN INP	Toulouse INP - ENSIACET - GÃ©nie des ProcÃ©dÃ©s										10	40,0%	30,0%	2878	2781	11
+2019	MP	CONCOURS COMMUN INP	Toulouse INP - ENSIACET - GÃ©nie Industriel										22	22,7%	22,7%	2592	2574	17
+2019	MP	CONCOURS COMMUN INP	Concours CCINP MP	7433	26,8%	19,6%	4997	24,3%	21,1%	4210	24,8%	21,5%	1131					1168
+2019	MP	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	Lorraine INP - EEIGM	442	37,8%	19,5%	241	39,0%	17,4%	20	55,0%	10,0%	4	25,0%	0,0%	47	44	10*
+2019	MP	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	ENSIL-ENSCI Limoges CÃ©ramique Industrielle	502	35,7%	16,3%	326	36,2%	14,1%	28	53,6%	14,3%	6	33,3%	0,0%	126	115	45*
+2019	MP	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	Lorraine INP - ENSGSI	737	35,4%	20,4%	372	34,4%	18,3%	87	43,7%	29,9%	8	37,5%	37,5%	96	89	35*
+2019	MP	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	ESM Saint-Cyr	515	19,4%	30,5%	150	14,7%	44,0%	69	8,7%	52,2%	21	0,0%	38,1%	82	84	76*
+2019	MP	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	Grenoble INP - GÃ©nie Industriel	1382	32,7%	17,9%	600	30,7%	19,0%	91	44,0%	19,8%	31	48,4%	32,3%	124	161	76*
+2019	MP	BANQUE EPREUVES CCINP	ECOLE DE L'AIR Base	486	21,4%	29,2%	206	15,5%	41,7%	51	17,6%	62,7%	2	50,0%	100,0%	17	17	2
+2019	MP	BANQUE EPREUVES CCINP	ECOLE DE L'AIR MÃ©ca	482	21,4%	30,5%	202	15,3%	44,6%	52	19,2%	65,4%	5	40,0%	100,0%	30	25	5
+2019	MP	BANQUE EPREUVES CCINP	ECOLE DE L'AIR Pilote	549	20,2%	28,4%	208	15,4%	38,0%	40	12,5%	50,0%	15	6,7%	60,0%	12	12	15
+2019	MP	BANQUE EPREUVES CCINP	ENSAI Rennes Civil	1789	30,6%	23,5%	1126	28,0%	25,0%	787	29,9%	27,4%	53	22,6%	50,9%	374	335	51
+2019	MP	BANQUE EPREUVES CCINP	ENSAI Rennes Fonctionnaire (AttachÃ© INSEE)	1264	29,8%	23,2%	920	28,0%	25,5%	660	29,2%	29,1%	21	23,8%	42,9%	367	340	22
+2019	MP	BANQUE EPREUVES CCINP	ENSISA Mulhouse Automatique et SystÃ¨mes EmbarquÃ©s										6	33,3%	33,3%	77	74	3
+2019	MP	BANQUE EPREUVES CCINP	ENSISA Mulhouse Informatique et rÃ©seaux										10	20,0%	40,0%	55	54	5
+2019	MP	BANQUE EPREUVES CCINP	ENSISA Mulhouse MÃ©canique										3	33,3%	0,0%	72	75	5
+2019	MP	BANQUE EPREUVES CCINP	ENSISA Mulhouse Textile et Fibres										7	85,7%	71,4%	123	111	2
+2019	MP	BANQUE EPREUVES CCINP	Concours ENSISA MP	1140	31,5%	22,9%	763	31,1%	19,1%	148	36,5%	24,3%	26					15
+2019	MP	BANQUE EPREUVES CCINP	EOST Strasbourg	579	34,5%	20,0%	352	35,8%	16,2%	60	38,3%	21,7%	9	55,6%	33,3%	37	34	11
+2019	MP	BANQUE EPREUVES CCINP	Lorraine INP - ENSTIB	476	34,2%	20,2%	295	35,6%	14,9%	25	44,0%	20,0%	4	50,0%	50,0%	15	15	6
+2019	MP	CONCOURS COMMUN TPE	ENTPE Lyon Civil										19	42,1%	42,1%	334	329	21
+2019	MP	CONCOURS COMMUN TPE	ENTPE Lyon Fonctionnaire										27	44,4%	44,4%	189	187	27
+2019	MP	CONCOURS COMMUN TPE	Concours TPE - Candidats franÃ§ais et de l'Union europÃ©enne - filiÃ¨re MP	2503	29,6%	22,7%	1480	29,3%	24,1%	406	44,3%	26,1%	46					48
+2019	MP	CONCOURS COMMUN TPE	ENTPE Lyon Etranger	2503	29,6%	22,7%	96	32,3%	19,8%	28	35,7%	17,9%	1	0,0%	100,0%	15	15	1
+2019	MP	CONCOURS COMMUN TPE	EIVP Paris Civil	2503	29,6%	22,7%	1576	29,4%	23,8%	434	43,8%	25,6%	18	66,7%	16,7%	336	298	23
+2019	MP	CONCOURS COMMUN TPE	EIVP Paris Fonctionnaire	2503	29,6%	22,7%	1480	29,3%	24,1%	406	44,3%	26,1%	4	75,0%	0,0%	183	181	4
+2019	MP	CONCOURS COMMUN TPE	IMT Lille Douai Fonct.	2503	29,6%	22,7%	1480	29,3%	24,1%	406	44,3%	26,1%	0	0,0%	0,0%	0	0	0
+2019	MP	Concours Mines - TÃ©lÃ©com	IMT Mines Albi										62	41,9%	17,7%	1662	1652	53
+2019	MP	Concours Mines - TÃ©lÃ©com	IMT Mines AlÃ¨s										63	50,8%	12,7%	1527	1516	63
+2019	MP	Concours Mines - TÃ©lÃ©com	ENSIIE Evry										71	16,9%	25,4%	1922	1865	72
+2019	MP	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut Ã©tudiant)										42	38,1%	40,5%	1022	1008	43
+2019	MP	Concours Mines - TÃ©lÃ©com	IMT Lille Douai										76	27,6%	23,7%	1720	1663	72
+2019	MP	Concours Mines - TÃ©lÃ©com	Mines Saint Etienne-ISMIN										36	16,7%	25,0%	1523	1522	38
+2019	MP	Concours Mines - TÃ©lÃ©com	TÃ©lÃ©com Physique Strasbourg RÃ©seaux et TÃ©lÃ©coms										22	22,7%	22,7%	2340	2279	18
+2019	MP	Concours Mines - TÃ©lÃ©com	TÃ©lÃ©com Physique Strasbourg TI-SantÃ©										7	71,4%	14,3%	1672	1666	8
+2019	MP	Concours Mines - TÃ©lÃ©com	TELECOM SudParis - cursus Evry										83	25,3%	33,7%	924	895	84
+2019	MP	Concours Mines - TÃ©lÃ©com	TELECOM SudParis - cursus Sophia-Antipolis										5	40,0%	20,0%	770	693	4
+2019	MP	Concours Mines - TÃ©lÃ©com	Concours Mines-TÃ©lÃ©com MP	5138	25,4%	20,4%	2869	24,4%	21,3%	2676	24,7%	21,1%	467					455
+2019	MP	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut IETA - Direction GÃ©nÃ©rale de l'Armement)	5138	25,4%	20,4%	2375	23,3%	24,3%	2236	23,6%	23,9%	14	50,0%	35,7%	768	764	14
+2019	MP	Concours Mines - TÃ©lÃ©com	ENSG-GÃ©omatique Marne la VallÃ©e Civil										10	10,0%	10,0%	2418	2257	11
+2019	MP	Concours Mines - TÃ©lÃ©com	ENSG Nancy										5	20,0%	60,0%	2540	2569	5
+2019	MP	Concours Mines - TÃ©lÃ©com	ENSSAT Lannion										27	18,5%	37,0%	2560	2448	25
+2019	MP	Concours Mines - TÃ©lÃ©com	TELECOM Nancy										60	21,7%	25,0%	2137	2060	55
+2019	MP	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut Ã©tudiant										20	15,0%	20,0%	2411	2334	21
+2019	MP	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut apprenti										2	50,0%	0,0%	2504	2504	3
+2019	MP	Concours Mines - TÃ©lÃ©com	Concours Mines-TÃ©lÃ©com SpÃ©cifique MP	5138	25,4%	20,4%	3757	25,3%	20,9%	3193	25,7%	21,1%	124					120
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ENSIBS Lorient										6	16,7%	16,7%	4132*	3804*	14*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ENSIM Le Mans										4	50,0%	0,0%	2275*	2591*	10*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESBS Strasbourg										0	0,0%	0,0%	1302*	1222*	3*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESGT le Mans										3	66,7%	33,3%	3170*	2990*	15*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESI Reims - Packaging										0	0,0%	0,0%	3730*	3139*	8*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESI Reims - Energetique										1	100,0%	100,0%	4121*	4099*	5*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIAB Brest										0	0,0%	0,0%	4001*	3843*	3*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIPE CrÃ©teil - GÃ©nie BiomÃ©dical et santÃ© (ISBS)										3	100,0%	0,0%	3586*	3328*	10*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIPE CrÃ©teil - SystÃ¨me d'information										2	50,0%	0,0%	4356*	4304*	3*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIPE CrÃ©teil - Technologie pour la santÃ©										0	0,0%	0,0%	4338*	4338*	3*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIR Rennes										6	33,3%	16,7%	3782*	3070*	20*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIREM Dijon										1	0,0%	0,0%	4120*	3927*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIROI Saint Denis de La RÃ©union										0	0,0%	0,0%	0*	0*	3*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIX Normandie - Caen - Cherbourg										1	0,0%	0,0%	4152*	4152*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ISAT Nevers - dÃ©partement MIT (MÃ©canique et IngÃ©nierie des Transports)										0	0,0%	0,0%	1345*	1328*	5*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ISAT Nevers - dÃ©partement EPEE (Energies et Moteurs)										3	0,0%	33,3%	3141*	3085*	12*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ISAT Nevers - Infrastructures et RÃ©seaux de Transports										2	50,0%	50,0%	3522*	3381*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ISIFC BesanÃ§on - GÃ©nie BiomÃ©dical										4	50,0%	25,0%	1942*	1927*	6*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ISTIA Angers										3	0,0%	0,0%	2756*	2673*	6*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ISTY VÃ©lizy										1	100,0%	0,0%	3785*	3785*	3*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - Environnement, BÃ¢timent, Ãnergie										7	28,6%	0,0%	3897*	3688*	16*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - Informatique donnÃ©es Usages										2	0,0%	0,0%	3499*	3214*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - Instrumentation, Automatique, Informatique										2	50,0%	0,0%	3945*	3959*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - MÃ©canique, MatÃ©riaux										2	50,0%	50,0%	3437*	3388*	8*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Biologique										0	0,0%	0,0%	2681*	2698*	5*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Civil										9	55,6%	11,1%	3787*	3316*	16*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Electrique										2	0,0%	0,0%	4083*	3977*	5*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie MathÃ©matique et ModÃ©lisation										11	18,2%	18,2%	3434*	3298*	14*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Physique										1	0,0%	100,0%	3811*	3625*	8*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - GÃ©otechnique et gÃ©nie civil										1	0,0%	0,0%	3055*	3198*	6*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - MatÃ©riaux										3	33,3%	33,3%	2522*	2642*	6*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - PrÃ©vention des risques										2	50,0%	0,0%	3568*	3136*	6*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - Informatique et Ã©lectronique des systÃ¨mes embarquÃ©s										2	0,0%	50,0%	2079*	2044*	5*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - Informatique										9	22,2%	11,1%	2535*	2377*	8*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - Technologies de l'information pour la santÃ©										5	100,0%	0,0%	3166*	2824*	5*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - GÃ©nie biologique et alimentaire										0	0,0%	0,0%	1370*	1630*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - GÃ©nie Informatique et statistique										6	0,0%	16,7%	2336*	2269*	10*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - GÃ©otechnique, GÃ©nie civil										2	0,0%	0,0%	2583*	2543*	10*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - Informatique, MicroÃ©lectronique, Automatique										3	0,0%	0,0%	2090*	1761*	6*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - IngÃ©nierie et commercialisation des systÃ¨mes de mesure										4	75,0%	0,0%	4011*	3938*	5*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - MatÃ©riaux										2	0,0%	0,0%	3467*	3180*	8*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - MÃ©canique										5	20,0%	20,0%	2380*	2378*	10*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - GÃ©nie BiomÃ©dical										2	100,0%	0,0%	1516*	1565*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - Informatique										3	33,3%	0,0%	2378*	2376*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - MatÃ©riaux										0	0,0%	0,0%	1439*	1465*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - MathÃ©matiques AppliquÃ©es et ModÃ©lisation										0	0,0%	0,0%	1346*	1378*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - MÃ©canique										1	100,0%	0,0%	1039*	885*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - SystÃ¨mes industriels, Robotique										2	0,0%	50,0%	2536*	2557*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - GÃ©nie BiomÃ©dical										2	50,0%	50,0%	3152*	2689*	9*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - GÃ©nie Civil										6	0,0%	50,0%	3795*	3436*	12*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - GÃ©nie Industriel et Informatique										5	40,0%	0,0%	3979*	3762*	8*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - Informatique										5	20,0%	20,0%	3491*	3253*	8*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - MatÃ©riaux										2	50,0%	100,0%	4173*	4086*	10*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - MÃ©canique, EnergÃ©tique										0	0,0%	0,0%	3603*	3370*	16*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - MicroÃ©lectronique,TÃ©lÃ©communications										4	25,0%	25,0%	4279*	3954*	8*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - Informatique et Gestion										1	0,0%	0,0%	3158*	3186*	3*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - MatÃ©riaux										2	0,0%	0,0%	2698*	2745*	7*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - MÃ©canique et Interactions										0	0,0%	0,0%	1785*	1785*	2*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - MicroÃ©lectronique et Automatique										3	0,0%	0,0%	2589*	2479*	5*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - Sciences et technologies de l'eau										2	50,0%	0,0%	2501*	2125*	7*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier GÃ©nie biologique et agroalimentaire										0	0,0%	0,0%	2763*	2753*	5*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nancy - Energie, MÃ©canique, MatÃ©riaux, Environnement										5	60,0%	40,0%	3117*	2896*	14*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nancy - IngÃ©nierie de l'Information et des SystÃ¨mes										6	33,3%	0,0%	3264*	3066*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nancy - Management opÃ©rationnel, Maintenance, MaÃ®trise des risques										2	50,0%	0,0%	3266*	3157*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Ãlectronique et technologies numÃ©riques										6	16,7%	16,7%	3140*	2983*	8*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Ãnergie Ã©lectrique										1	0,0%	0,0%	4216*	3959*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - GÃ©nie civil										2	0,0%	50,0%	2373*	2605*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - GÃ©nie des ProcÃ©dÃ©s et BioprocÃ©dÃ©s										0	0,0%	0,0%	2213*	2213*	2*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Informatique										3	0,0%	0,0%	1345*	1412*	9*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - MatÃ©riaux										2	50,0%	0,0%	3226*	3225*	8*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Thermique, ÃnergÃ©tique										4	50,0%	0,0%	3242*	2971*	7*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - BÃ¢timents										3	100,0%	0,0%	4130*	3590*	12*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - Ãlectronique										4	25,0%	25,0%	3932*	3641*	10*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - GÃ©nie biologique										0	0,0%	0,0%	1782*	1557*	3*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - GÃ©nie de l'eau										3	66,7%	33,3%	3227*	2951*	10*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - Informatique										12	33,3%	16,7%	1886*	2166*	14*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - MathÃ©matiques appliquÃ©es, ModÃ©lisation										11	18,2%	9,1%	3119*	2943*	15*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - GÃ©nie civil et gÃ©o-environnement										4	0,0%	0,0%	4002*	3835*	14*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - GÃ©nie industriel										4	50,0%	25,0%	3790*	3759*	12*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - Innovation en Conception et MatÃ©riaux										1	0,0%	0,0%	4186*	4108*	8*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - Technologies pour l'Ãnergie, l'AÃ©rospatial et la Motorisation										5	20,0%	0,0%	1927*	1835*	14*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - GÃ©nie physique et systÃ¨mes embarquÃ©s										2	50,0%	0,0%	3672*	3633*	6*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Sud - Electronique, Energie, SystÃ¨mes										1	0,0%	0,0%	3463*	3477*	6*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Sud - Informatique										1	0,0%	0,0%	1356*	1356*	2*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Sud - Photonique et systÃ¨mes optroniques										4	0,0%	25,0%	4047*	3541*	5*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Sud - MatÃ©riaux										0	0,0%	0,0%	3325*	3325*	4*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - Electronique et Informatique										3	0,0%	0,0%	1939*	1925*	3*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - MathÃ©matiques AppliquÃ©es et Informatique										2	100,0%	100,0%	2107*	2109*	3*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - MatÃ©riaux										1	100,0%	0,0%	2442*	2554*	8*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - Robotique										1	0,0%	0,0%	1916*	1651*	5*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - Sciences de la Terre										1	100,0%	100,0%	4004*	3508*	10*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - Ãlectronique, Ãnergie Ã©lectrique										1	0,0%	0,0%	4077*	3294*	2*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - GÃ©nie de l'amÃ©nagement et de l'environnement										2	100,0%	50,0%	1566*	1416*	7*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - Informatique										7	28,6%	42,9%	2863*	2624*	7*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - MÃ©canique, Conception de systÃ¨mes										4	0,0%	25,0%	3650*	3610*	5*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Sup GalilÃ©e Villetaneuse										12	0,0%	33,3%	3707	3492	20*
+2019	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Concours POLYTECH MP - PC - PSI	2571	30,4%	19,8%	1715	30,0%	15,7%	1441	30,0%	17,3%	280					703
+2019	MP	Autres Ã©coles E3A	ECE PARIS	739	33,6%	14,3%	588	33,5%	13,6%	224	33,9%	17,4%	38	31,6%	10,5%	162	157	40
+2019	MP	Autres Ã©coles E3A	EFREI Paris	737	31,5%	18,0%	632	31,0%	16,1%	178	29,2%	20,8%	30	26,7%	20,0%	126	115	40
+2019	MP	Autres Ã©coles E3A	EIDD Paris	516	35,7%	18,8%	358	38,5%	16,2%	245	41,2%	16,3%	14	42,9%	14,3%	163	151	15
+2019	MP	Autres Ã©coles E3A	EIGSI Casablanca	84	29,8%	10,7%	57	35,1%	8,8%	15	33,3%	13,3%	0	0,0%	0,0%	0	0	5
+2019	MP	Autres Ã©coles E3A	EIGSI La Rochelle	334	35,6%	12,6%	246	38,6%	10,6%	96	37,5%	11,5%	10	40,0%	0,0%	76	77	10
+2019	MP	Autres Ã©coles E3A	EIL CÃ´te d'Opale - Calais (informatique)										9	44,4%	22,2%	114	108	15
+2019	MP	Autres Ã©coles E3A	EIL CÃ´te d'Opale - Longuenesse (GÃ©nie Industriel)										4	75,0%	25,0%	121	118	15
+2019	MP	Autres Ã©coles E3A	Concours EIL CÃ´te d'Opale Longuenesse - Calais MP	380	34,7%	20,8%	257	37,4%	15,6%	137	38,7%	11,7%	13					30
+2019	MP	Autres Ã©coles E3A	ELISA AÃ©rospace Saint Quentin (80)	435	30,8%	14,5%	319	31,0%	14,4%	107	35,5%	22,4%	8	25,0%	50,0%	86	80	12
+2019	MP	Autres Ã©coles E3A	ENSAIT Roubaix										13	69,2%	23,1%	53	52	10
+2019	MP	Autres Ã©coles E3A	ENSAIT Roubaix - Formation en alternance										0	0,0%	0,0%	0	0	1
+2019	MP	Autres Ã©coles E3A	Concours ENSAIT Roubaix MP	417	40,3%	19,7%	305	41,6%	15,1%	69	50,7%	20,3%	13					11
+2019	MP	Autres Ã©coles E3A	ENSIL - ENSCI Limoges EE	454	40,1%	22,2%	290	42,4%	14,8%	48	66,7%	20,8%	4	50,0%	25,0%	31	28	8
+2019	MP	Autres Ã©coles E3A	ENSIL - ENSCI Limoges ELT	509	30,6%	24,2%	295	31,2%	16,9%	45	31,1%	17,8%	13	30,8%	30,8%	21	21	10
+2019	MP	Autres Ã©coles E3A	ENSIL - ENSCI Limoges MatÃ©riaux	431	34,8%	22,7%	261	35,6%	14,6%	36	52,8%	8,3%	3	33,3%	0,0%	18	17	4
+2019	MP	Autres Ã©coles E3A	ENSIL - ENSCI Limoges MÃ©catronique	510	29,6%	24,1%	312	29,2%	17,6%	58	32,8%	19,0%	9	33,3%	33,3%	42	39	8
+2019	MP	Autres Ã©coles E3A	ESB Nantes	153	38,6%	13,7%	110	42,7%	11,8%	12	58,3%	16,7%	2	50,0%	0,0%	6	6	8
+2019	MP	Autres Ã©coles E3A	ESIEA Paris - Laval	469	29,0%	13,6%	401	28,9%	13,5%	154	26,0%	18,8%	7	57,1%	14,3%	113	110	35
+2019	MP	Autres Ã©coles E3A	ESIEE Amiens	426	34,5%	13,1%	357	35,6%	11,8%	79	34,2%	12,7%	2	0,0%	0,0%	74	74	10
+2019	MP	Autres Ã©coles E3A	ESIEE Paris	482	32,4%	14,9%	423	33,3%	13,0%	175	35,4%	13,1%	32	43,8%	18,8%	92	85	25
+2019	MP	Autres Ã©coles E3A	ESIGELEC Rouen	537	36,3%	15,6%	469	37,7%	15,6%	175	42,9%	14,3%	30	36,7%	33,3%	144	133	40
+2019	MP	Autres Ã©coles E3A	ESILV Paris-La DÃ©fense	761	31,4%	17,3%	615	30,9%	17,6%	315	29,8%	21,9%	60	41,7%	16,7%	131	131	55
+2019	MP	Autres Ã©coles E3A	ESITC Caen	203	33,5%	18,2%	161	36,0%	14,3%	21	61,9%	0,0%	7	57,1%	0,0%	7	10	14
+2019	MP	Autres Ã©coles E3A	ESTACA Laval AÃ©ronautique et spatial										2	0,0%	0,0%	76	76	2
+2019	MP	Autres Ã©coles E3A	ESTACA Laval Automobile										4	0,0%	75,0%	106	104	2
+2019	MP	Autres Ã©coles E3A	ESTACA Paris-Saclay AÃ©ronautique et spatial										4	50,0%	75,0%	46	56	4
+2019	MP	Autres Ã©coles E3A	ESTACA Paris-Saclay Automobile ou Transports GuidÃ©s										6	0,0%	66,7%	146	141	6
+2019	MP	Autres Ã©coles E3A	Concours ESTACA MP	553	29,7%	18,6%	239	28,9%	19,7%	239	28,9%	19,7%	16					14
+2019	MP	Autres Ã©coles E3A	ESTIA Bidart	283	34,6%	15,9%	224	37,9%	14,3%	52	36,5%	15,4%	10	20,0%	30,0%	33	27	20
+2019	MP	Autres Ã©coles E3A	IMT Lille Douai en Partenariat ISPA	388	35,1%	20,4%	294	33,7%	18,7%	22	54,5%	22,7%	0	0,0%	0,0%	0	0	10
+2019	MP	Autres Ã©coles E3A	Toulouse INP - ENIT	423	35,0%	21,5%	117	34,2%	12,0%	96	33,3%	13,5%	2	0,0%	0,0%	54	54	2
+2019	MP	Autres Ã©coles E3A	ISMANS-Groupe CESI Le Mans	187	34,2%	15,5%	177	33,9%	14,7%	42	28,6%	16,7%	8	12,5%	12,5%	33	32	10
+2019	MP	Autres Ã©coles E3A	ITECH Lyon	163	42,3%	15,3%	122	47,5%	13,9%	10	70,0%	20,0%	1	0,0%	100,0%	9	9	5
+2019	MP	Autres Ã©coles E3A	Paoli Tech	172	40,7%	22,1%	112	41,1%	17,9%	83	42,2%	14,5%	3	0,0%	66,7%	69	73	4
+2019	MP	Autres Ã©coles E3A	SIGMA Clermont-Ferrand (ex IFMA)	415	31,1%	21,4%	275	30,5%	19,6%	65	36,9%	21,5%	18	16,7%	22,2%	20	21	16
+2019	MP	Autres Ã©coles E3A	3IL IngÃ©nieurs	252	27,4%	17,1%	208	26,9%	13,5%	90	24,4%	11,1%	5	20,0%	20,0%	76	74	20
+2019	MP	FESIC	ECAM Lyon	730	34,7%	15,1%	618	35,8%	13,9%	184	33,7%	17,4%	11	27,3%	18,2%	141	128	10
+2019	MP	FESIC	ECAM Rennes	730	34,7%	15,1%	632	35,8%	14,1%	36	52,8%	13,9%	8	50,0%	12,5%	17	17	12
+2019	MP	FESIC	ECAM Strasbourg Europe	730	34,7%	15,1%	643	35,9%	14,3%	67	38,8%	25,4%	10	20,0%	60,0%	49	45	10
+2019	MP	FESIC	ECAM-EPMI Cergy-Pontoise	730	34,7%	15,1%	679	35,5%	14,6%	125	36,8%	20,8%	15	46,7%	40,0%	111	104	20
+2019	MP	FESIC	ESAIP Angers / Aix-en-Provence	730	34,7%	15,1%	668	35,5%	14,2%	350	36,6%	14,9%	10	30,0%	10,0%	329	294	12
+2019	MP	FESIC	ESEO Angers - Paris VÃ©lizy	730	34,7%	15,1%	493	36,5%	13,2%	343	36,7%	12,8%	8	12,5%	0,0%	250	253	20
+2019	MP	FESIC	HEI	730	34,7%	15,1%	636	35,8%	14,0%	249	37,8%	15,3%	22	31,8%	9,1%	207	201	25
+2019	MP	FESIC	ISEN YncrÃ©a Ouest - Brest										1	0,0%	100,0%	147	147	15
+2019	MP	FESIC	ISEN YncrÃ©a Ouest - Nantes										1	0,0%	0,0%	133	133	10
+2019	MP	FESIC	Concours concours ISEN Ouest MP	730	34,7%	15,1%	594	36,0%	14,0%	148	41,2%	15,5%	2					25
+2019	MP	FESIC	ISEN Lille	730	34,7%	15,1%	594	36,0%	14,0%	140	41,4%	13,6%	13	15,4%	23,1%	93	87	15
+2019	MP	FESIC	ISEN YncrÃ©a MÃ©diterrannÃ©e - Toulon										1	100,0%	0,0%	100	100	15
+2019	MP	FESIC	ISEN YncrÃ©a MÃ©diterrannÃ©e - NÃ®mes										0	0,0%	0,0%	0	0	15
+2019	MP	FESIC	Concours concours ISEN MÃ©diterrannÃ©e MP	730	34,7%	15,1%	594	36,0%	14,0%	146	41,8%	15,1%	1					30
+2019	MP	FESIC	ISEP Paris	730	34,7%	15,1%	652	35,4%	14,1%	162	34,0%	21,0%	8	0,0%	12,5%	112	112	30
+2019	MP	FESIC	UniLaSalle Beauvais - Sciences de la Terre et Environnement	730	34,7%	15,1%	618	35,8%	13,9%	60	40,0%	16,7%	0	0,0%	0,0%	0	0	4
+2019	MP	FESIC	UniLasalle â Rennes EME	730	34,7%	15,1%	567	36,5%	13,8%	287	39,0%	13,9%	1	0,0%	0,0%	286	286	10
+2019	MP	Groupe INSA	INSA Centre Val de Loire SÃ©curitÃ© et Technologies Informatiques										5	40,0%	20,0%	219	236	7
+2019	MP	Groupe INSA	INSA Euro-MÃ©diterranÃ©e SystÃ¨mes d'Information et de Communication										1	0,0%	0,0%	481	481	1
+2019	MP	Groupe INSA	INSA Lyon Informatique										6	16,7%	33,3%	36	34	6
+2019	MP	Groupe INSA	INSA Lyon TÃ©lÃ©communications, services et usages										4	0,0%	50,0%	122	121	4
+2019	MP	Groupe INSA	INSA Rennes GÃ©nie MathÃ©matique										1	0,0%	0,0%	34	34	1
+2019	MP	Groupe INSA	INSA Rennes Informatique										1	100,0%	0,0%	70	70	1
+2019	MP	Groupe INSA	INSA Rouen Normandie Architecture des SystÃ¨mes d'Information										3	0,0%	33,3%	189	211	3
+2019	MP	Groupe INSA	INSA Rouen Normandie GÃ©nie MathÃ©matique										11	27,3%	9,1%	242	275	16
+2019	MP	Groupe INSA	INSA Toulouse Informatique et RÃ©seaux										5	20,0%	80,0%	112	118	3
+2019	MP	Groupe INSA	INSA Toulouse MathÃ©matiques appliquÃ©es										2	0,0%	50,0%	126	126	1
+2019	MP	Groupe INSA	Concours INSA Domaine Informatique, mathÃ©matique, modÃ©lisation MP	1219	26,7%	19,4%	536	25,7%	20,0%	489	24,9%	19,8%	39					43
+2019	MP	Groupe INSA	INSA Centre Val de Loire GÃ©nie des SystÃ¨mes Industriels										5	60,0%	20,0%	360	345	6
+2019	MP	Groupe INSA	INSA Lyon GÃ©nie Industriel										3	66,7%	0,0%	67	62	3
+2019	MP	Groupe INSA	INSA Lyon GÃ©nie MÃ©canique										10	20,0%	20,0%	90	81	10
+2019	MP	Groupe INSA	INSA Rennes GÃ©nie MÃ©canique et Automatique										1	0,0%	0,0%	187	187	1
+2019	MP	Groupe INSA	INSA Rouen Normandie MÃ©canique										3	0,0%	33,3%	234	240	3
+2019	MP	Groupe INSA	INSA Strasbourg GÃ©nie MÃ©canique										3	0,0%	66,7%	301	296	2
+2019	MP	Groupe INSA	INSA Strasbourg Plasturgie										3	33,3%	66,7%	369	363	2
+2019	MP	Groupe INSA	Concours INSA Domaine GÃ©nie mÃ©canique, gÃ©nie industriel et mÃ©catronique MP	1043	30,0%	21,4%	524	28,8%	21,9%	476	27,7%	21,6%	28					27
+2019	MP	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen Technologies du Vivant										3*	100,0%	66,7%	424*	390*	3*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Biosciences										4*	75,0%	25,0%	66*	66*	4*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Biologique										2*	50,0%	0,0%	80*	80*	2*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	ISIS Castres Informatique pour la SantÃ©										2*	50,0%	50,0%	607	607	15*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	Concours INSA DomaineÂ Biotechnologies-santÃ© MP-PC-PSI-BCPST	3235*	51,3%	23,7%	1203*	53,2%	26,4%	1030*	52,1%	25,8%	11*					24*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie EnergÃ©tique et Environnement										4*	50,0%	0,0%	105*	106*	4*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie Chimie et ProcÃ©dÃ©s										5*	100,0%	20,0%	729*	612*	5*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie EnergÃ©tique et Propulsion										5*	20,0%	0,0%	654*	683*	4*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie MaÃ®trise des Risques Industriels										5*	100,0%	20,0%	1042*	967*	5*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Climatique et EnergÃ©tique										11*	54,5%	18,2%	858*	853*	10*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie des ProcÃ©dÃ©s et environnement										8*	75,0%	12,5%	415*	412*	10*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	Sup'EnR Perpignan EnergÃ©tique et Energies Renouvelables										5*	80,0%	0,0%	638	707	4*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	Concours INSA DomaineÂ EnergÃ©tique â GÃ©nie Chimique â Environnement MP-PC-PSI	3346*	39,1%	20,8%	1304*	40,1%	22,0%	1198*	40,2%	21,6%	43*					42*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Euro-MÃ©diterranÃ©e GÃ©nie Electrique										2*	0,0%	50,0%	1381*	1381*	5*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Electrique										7*	28,6%	14,3%	356*	333*	8*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Electronique et Informatique Industrielle										1*	0,0%	0,0%	876*	876*	1*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rennes SystÃ¨me et RÃ©seaux de Communication										4*	25,0%	50,0%	1193*	1161*	4*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Electrique										12*	25,0%	25,0%	1147*	1080*	12*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse Automatique et Electronique										3*	0,0%	33,3%	433	302	3*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie Ã©lectrique, Ã©lectronique, automatique MP-PC-PSI-PT	3862*	24,1%	22,0%	1705*	24,6%	23,2%	1550*	24,7%	23,4%	29*					33*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Civil et Urbanisme										7*	28,6%	14,3%	54*	71*	7*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie Civil et Urbain										1*	100,0%	0,0%	255*	255*	1*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie GÃ©nie Civil et constructions durables										3*	0,0%	33,3%	268*	334*	2*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Civil										3*	100,0%	33,3%	231*	273*	3*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg Topographie										2*	50,0%	0,0%	549*	549*	2*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Civil										1*	100,0%	0,0%	250	250	1*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie civil, urbanisme, topographie MP-PC	1836*	38,0%	22,9%	752*	40,8%	23,5%	685*	40,7%	22,9%	17*					16*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Civil et Urbanisme										9*	33,3%	0,0%	89*	77*	9*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie Civil et Urbain										2*	0,0%	0,0%	308*	308*	2*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie GÃ©nie Civil et constructions durables										1*	0,0%	100,0%	223*	223*	2*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Civil										11*	45,5%	27,3%	380*	376*	12*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg Topographie										6*	0,0%	33,3%	765*	770*	8*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Civil										2*	0,0%	50,0%	286	286	2*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie civil, urbanisme, topographie PSI-PT	2106*	26,8%	20,2%	951*	25,0%	25,0%	883*	25,5%	25,7%	31*					35*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire SÃ©curitÃ© et Technologies Informatiques										1*	0,0%	0,0%	578*	578*	6*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Euro-MÃ©diterranÃ©e SystÃ¨mes d'Information et de Communication										0*	0,0%	0,0%	0*	0*	1*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Lyon TÃ©lÃ©communications, services et usages										6*	16,7%	33,3%	338*	315*	6*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Informatique										1*	0,0%	0,0%	101*	101*	2*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie Architecture des SystÃ¨mes d'Information										1*	0,0%	0,0%	418*	418*	1*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie GÃ©nie MathÃ©matique										2*	0,0%	0,0%	223*	223*	2*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse Informatique et RÃ©seaux										6*	0,0%	33,3%	232*	203*	7*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse MathÃ©matiques appliquÃ©es										1*	100,0%	0,0%	367	367	1*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine Informatique, mathÃ©matique, modÃ©lisation PC-PSI-PT	2446*	22,2%	23,9%	770*	23,1%	26,4%	699*	23,9%	27,6%	18*					26*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire GÃ©nie des SystÃ¨mes Industriels										8*	12,5%	25,0%	1160*	1156*	18*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Euro-MÃ©diterranÃ©e GÃ©nie MÃ©canique et EnergÃ©tique										0*	0,0%	0,0%	0*	0*	5*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Industriel										8*	50,0%	12,5%	81*	107*	9*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie MÃ©canique										36*	11,1%	16,7%	261*	247*	35*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie MÃ©canique et Automatique										18*	11,1%	11,1%	742*	752*	20*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie MÃ©canique										3*	66,7%	0,0%	562*	564*	3*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie MÃ©canique										20*	15,0%	20,0%	758*	781*	22*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg MÃ©catronique										12*	16,7%	8,3%	626*	644*	12*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg Plasturgie										6*	0,0%	50,0%	1175*	1178*	12*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie MÃ©canique										4*	25,0%	0,0%	327	291	4*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie mÃ©canique, gÃ©nie industriel et mÃ©catronique PSI-PT	2902*	20,6%	21,0%	1404*	20,8%	24,4%	1304*	21,5%	25,3%	115*					140*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen GÃ©nie Physique										4*	0,0%	50,0%	1208*	1223*	7*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire MaÃ®trise des Risques Industriels										10*	30,0%	30,0%	1300*	1234*	30*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Science et GÃ©nie des MatÃ©riaux										10*	50,0%	30,0%	225*	223*	10*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Science et GÃ©nie des MatÃ©riaux										2*	50,0%	50,0%	543*	543*	3*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Physique										4*	75,0%	50,0%	460	501	5*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie physique et matÃ©riaux MP-PC-PSI	3640*	33,6%	22,1%	1591*	36,6%	22,8%	1435*	36,8%	22,6%	30*					55*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen GÃ©nie Physique										0*	0,0%	0,0%	0*	0*	3*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire MaÃ®trise des Risques Industriels										0*	0,0%	0,0%	0*	0*	10*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Science et GÃ©nie des MatÃ©riaux										1*	0,0%	100,0%	27*	27*	1*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Science et GÃ©nie des MatÃ©riaux										1*	0,0%	0,0%	111*	111*	1*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Physique										1*	0,0%	0,0%	80	80	1*
+2019	MP	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie physique et matÃ©riaux TSI-PT	1359*	13,2%	22,7%	435*	11,7%	28,7%	406*	12,3%	29,6%	3*					16*
+2019	MP	CESI	CESI AngoulÃªme										1*	0,0%	0,0%	75*	75*	8*
+2019	MP	CESI	CESI Arras										0*	0,0%	0,0%	0*	0*	10*
+2019	MP	CESI	CESI Bordeaux										2*	50,0%	0,0%	63*	63*	8*
+2019	MP	CESI	CESI Lyon										6*	16,7%	16,7%	101*	93*	12*
+2019	MP	CESI	CESI Mont-Saint-Aignan										1*	0,0%	0,0%	12*	12*	8*
+2019	MP	CESI	CESI Nancy										1*	0,0%	0,0%	29*	29*	8*
+2019	MP	CESI	CESI Nanterre										5*	40,0%	20,0%	76*	68*	20*
+2019	MP	CESI	CESI Nice Sophia Antipolis										0*	0,0%	0,0%	0*	0*	8*
+2019	MP	CESI	CESI Saint-Nazaire										0*	0,0%	0,0%	0	0	10*
+2019	MP	CESI	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur GÃ©nÃ©raliste	249*	24,9%	15,7%	164*	28,0%	13,4%	117*	30,8%	12,0%	16*					92*
+2019	MP	CESI	CESI Aix-en-Provence										0*	0,0%	0,0%	0*	0*	2*
+2019	MP	CESI	CESI Arras										0*	0,0%	0,0%	0*	0*	4*
+2019	MP	CESI	CESI Bordeaux										0*	0,0%	0,0%	0*	0*	2*
+2019	MP	CESI	CESI La Rochelle										0*	0,0%	0,0%	0*	0*	2*
+2019	MP	CESI	CESI Lille										0*	0,0%	0,0%	0*	0*	2*
+2019	MP	CESI	CESI Lyon										0*	0,0%	0,0%	0*	0*	4*
+2019	MP	CESI	CESI Mont-Saint-Aignan										0*	0,0%	0,0%	0*	0*	2*
+2019	MP	CESI	CESI Nancy										0*	0,0%	0,0%	0*	0*	2*
+2019	MP	CESI	CESI Nanterre										0*	0,0%	0,0%	0*	0*	7*
+2019	MP	CESI	CESI Nice Sophia Antipolis										0*	0,0%	0,0%	0*	0*	2*
+2019	MP	CESI	CESI OrlÃ©ans										0*	0,0%	0,0%	0*	0*	3*
+2019	MP	CESI	CESI Pau										0*	0,0%	0,0%	0*	0*	2*
+2019	MP	CESI	CESI Reims										1*	0,0%	100,0%	6*	6*	2*
+2019	MP	CESI	CESI Saint-Nazaire										0*	0,0%	0,0%	0*	0*	5*
+2019	MP	CESI	CESI Strasbourg										0*	0,0%	0,0%	0*	0*	2*
+2019	MP	CESI	CESI Toulouse										0*	0,0%	0,0%	0	0	3*
+2019	MP	CESI	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur en Informatique	60*	15,0%	8,3%	40*	15,0%	12,5%	19*	15,8%	21,1%	1*					46*
+2019	MP	EPITA	EPITA										28	10,7%	17,9%	90	98	25
+2019	MP	EPITA	IPSA Paris										12	25,0%	0,0%	82	81	12
+2019	MP	EPITA	IPSA Toulouse										7	42,9%	28,6%	154	155	9
+2019	MP	EPITA	ESME SUDRIA Paris										8	25,0%	0,0%	176	154	12
+2019	MP	EPITA	Concours EPITA / IPSA / ESME MP	368	24,5%	15,5%	269	24,2%	15,2%	219	25,1%	13,7%	55					58

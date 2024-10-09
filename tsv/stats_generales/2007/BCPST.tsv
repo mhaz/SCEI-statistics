@@ -1,0 +1,66 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rang_du_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2007	BCPST	A BIO	AgroParisTech (INA P-G)										633	186	61.0%	13.0%	182
+2007	BCPST	A BIO	AgroParisTech (ENSIA Massy)										1399	44	81.0%	30.0%	46
+2007	BCPST	A BIO	AgroParisTech (FIF Fonctionnaire Nancy)										341	9	22.0%	0.0%	9
+2007	BCPST	A BIO	AgroParisTech (FIF Civil Nancy)										821	21	47.0%	29.0%	21
+2007	BCPST	A BIO	Montpellier Sup Agro (ENSAM)										880	98	61.0%	26.0%	97
+2007	BCPST	A BIO	Agrocampus Rennes (ENSAR)										1037	101	72.0%	41.0%	97
+2007	BCPST	A BIO	ENSAT Toulouse										1213	100	65.0%	41.0%	93
+2007	BCPST	A BIO	ENSAIA Nancy										1493	98	74.0%	43.0%	96
+2007	BCPST	A BIO	INH - ENSHAP Angers										1470	40	72.0%	28.0%	39
+2007	BCPST	A BIO	ENSBANA Dijon										1877	32	90.0%	25.0%	39
+2007	BCPST	A BIO	ENITAB Bordeaux (Fonctionnaire)										1343	9	44.0%	67.0%	9
+2007	BCPST	A BIO	ENITAB Bordeaux (Civil)										1699	54	57.0%	28.0%	55
+2007	BCPST	A BIO	ENITAC Clermont-Ferrand (Fonctionnaire)										1358	5	60.0%	80.0%	5
+2007	BCPST	A BIO	ENITAC Clermont-Ferrand (Civil)										1914	39	56.0%	42.0%	43
+2007	BCPST	A BIO	ENITIAA Nantes										1906	49	87.0%	39.0%	50
+2007	BCPST	A BIO	ENESAD Dijon (Fonctionnaire)										1012	5	80.0%	60.0%	5
+2007	BCPST	A BIO	ENESAD Dijon (Civil)										1801	38	76.0%	35.0%	38
+2007	BCPST	A BIO	Concours commun A BIO	2726	69.0%	23.0%	2077	70.0%	28.0%	1911	70.0%	29.0%		928			924
+2007	BCPST	A ENV	ENV Alfort										398	93	77.0%	55.0%	93
+2007	BCPST	A ENV	ENV Lyon										380	93	78.0%	49.0%	93
+2007	BCPST	A ENV	ENV Nantes										471	93	77.0%	47.0%	93
+2007	BCPST	A ENV	ENV Toulouse										440	93	74.0%	49.0%	93
+2007	BCPST	A ENV	Concours commun A ENV	1687	73.0%	29.0%	860	74.0%	40.0%	550	73.0%	44.0%		372			372
+2007	BCPST	PC BIO	ESPCI Paris										96	5	60.0%	40.0%	5
+2007	BCPST	PC BIO	ENSC Paris										171	3	33.0%	34.0%	2
+2007	BCPST	PC BIO	ENSC Montpellier										205	4	50.0%	50.0%	4
+2007	BCPST	PC BIO	ENSC Lille										401	1	100.0%	0.0%	5
+2007	BCPST	PC BIO	Concours commun A PC BIO	751	67.0%	28.0%	455	67.0%	36.0%	400	66.0%	37.0%		13			16
+2007	BCPST	ENS	ENS Ulm	872	65.0%	22.0%	76	48.0%	15.0%	35	42.0%	15.0%	24	22	27.0%	14.0%	22
+2007	BCPST	ENS	ENS Lyon	890	65.0%	22.0%	154	54.0%	21.0%	96	54.0%	16.0%	94	34	55.0%	21.0%	35
+2007	BCPST	ENS	ENS Cachan	864	65.0%	23.0%	167	56.0%	21.0%	97	53.0%	18.0%	70	16	68.0%	25.0%	16
+2007	BCPST	G2E	ENGEES Strasbourg Civil										352	19	57.0%	22.0%	19
+2007	BCPST	G2E	ENGEES Strasbourg Fonctionnaire										115	7	71.0%	29.0%	7
+2007	BCPST	G2E	concours ENGEES G2E-BCPST				809	70.0%	27.0%	366	68.0%	32.0%		26			26
+2007	BCPST	G2E	ENSG Nancy				809	70.0%	27.0%	375	66.0%	31.0%	317	63	65.0%	29.0%	65
+2007	BCPST	G2E	ENSIL Limoges EE				809	70.0%	27.0%	458	68.0%	30.0%	363	6	83.0%	50.0%	6
+2007	BCPST	G2E	ENTPE Vaulx en Velin Civil				809	70.0%	27.0%	265	65.0%	34.0%	257	3	66.0%	0.0%	4
+2007	BCPST	G2E	ENTPE Vaulx en Velin Fonctionnaire	676	63.0%	28.0%	444	64.0%	33.0%	162	63.0%	40.0%	87	11	54.0%	10.0%	11
+2007	BCPST	G2E	EOST Strasbourg				809	70.0%	27.0%	417	67.0%	31.0%	362	9	55.0%	12.0%	6
+2007	BCPST	G2E	ESIP Poitiers Eau et Environnement										363	2	50.0%	0.0%	3
+2007	BCPST	G2E	ESIP Poitiers Génie Civil										393	3	33.0%	34.0%	5
+2007	BCPST	G2E	concours ESIP G2E-BCST				809	70.0%	27.0%	392	67.0%	32.0%		5			8
+2007	BCPST	G2E	POLYTECH Paris UPMC Sci.Terre				809	70.0%	27.0%	458	68.0%	30.0%	395	3	66.0%	34.0%	5
+2007	BCPST	G2E	POLYTECH Orléans EO										0	0	0.0%	0.0%	0
+2007	BCPST	G2E	POLYTECH Orléans GCE										459	11	54.0%	19.0%	22
+2007	BCPST	G2E	POLYTECH Orléans ME										0	0	0.0%	0.0%	0
+2007	BCPST	G2E	concours Polytech'Orléans G2E-BCPST				809	70.0%	27.0%	458	68.0%	30.0%		11			22
+2007	BCPST	ARCH BIO	ENSTIB Epinal	471	64.0%	28.0%	298	64.0%	30.0%	42	47.0%	24.0%	42	9	22.0%	12.0%	13
+2007	BCPST	Concours A	ESBS Strasbourg										210	12	91.0%	0.0%	7
+2007	BCPST	Concours A	ESIL Marseille Biotech										143	11	45.0%	19.0%	12
+2007	BCPST	Concours A	ESMISAB Brest										365	13	76.0%	8.0%	13
+2007	BCPST	Concours A	ESTBB Bordeaux										211	21	80.0%	5.0%	22
+2007	BCPST	Concours A	ISIFC Besançon										366	5	80.0%	40.0%	4
+2007	BCPST	Concours A	ISTAB Bordeaux										339	11	63.0%	28.0%	12
+2007	BCPST	Concours A	Concours A (6 écoles d'Archimède)	1456	71.0%	26.0%	1006	70.0%	29.0%	382	69.0%	24.0%		73			70
+2007	BCPST	Concours P	POLYTECH Clermont-Ferrand Génie Biologique										446	7	57.0%	15.0%	10
+2007	BCPST	Concours P	POLYTECH Grenoble Géot.										446	4	50.0%	25.0%	5
+2007	BCPST	Concours P	POLYTECH Grenoble TIS										392	3	33.0%	0.0%	3
+2007	BCPST	Concours P	POLYTECH Lille IAAL										446	3	33.0%	0.0%	11
+2007	BCPST	Concours P	POLYTECH Montpellier STE										311	5	60.0%	0.0%	4
+2007	BCPST	Concours P	POLYTECH Montpellier STIA										424	9	44.0%	23.0%	4
+2007	BCPST	Concours P	POLYTECH Nice-Sophia - Génie Biologique										446	16	75.0%	25.0%	15
+2007	BCPST	Concours P	POLYTECH Paris UPMC Agroalimentaire										446	2	100.0%	0.0%	7
+2007	BCPST	Concours P	POLYTECH Tours Aménag.										413	14	85.0%	15.0%	14
+2007	BCPST	Concours P	Concours P (7 Polytech)	1244	71.0%	26.0%	838	71.0%	27.0%	446	72.0%	25.0%		63			73

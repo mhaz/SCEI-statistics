@@ -1,0 +1,297 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rang_du_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2017	MP	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE Info.	822	10,9%	22,4%	221	5,9%	18,1%	147	6,8%	17,0%	135	102	8,8%	16,7%	102
+2017	MP	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE P&SI	817	19,1%	31,0%	186	17,2%	23,7%	96	20,8%	14,6%	95	80	23,8%	16,2%	80
+2017	MP	BANQUE ENS	ENS Ulm MPI	1620	16,5%	28,6%	147	2,7%	23,1%	95	3,2%	16,8%	59	38	0,0%	15,8%	38
+2017	MP	BANQUE ENS	ENS Ulm Info.	291	12,4%	22,0%	42	4,8%	19,0%	28	3,6%	17,9%	16	13	7,7%	7,7%	13
+2017	MP	BANQUE ENS	ENS Cachan Paris-Saclay MP	1724	16,8%	27,8%	280	8,2%	26,4%	205	8,8%	24,9%	180	18	5,6%	50,0%	18
+2017	MP	BANQUE ENS	ENS Cachan Paris-Saclay Info.	330	13,0%	21,2%	111	5,4%	18,9%	82	3,7%	17,1%	53	14	7,1%	14,3%	14
+2017	MP	BANQUE ENS	ENS de Lyon MPI	1755	16,6%	28,5%	257	6,6%	26,8%	160	8,1%	21,9%	136	20	10,0%	20,0%	20
+2017	MP	BANQUE ENS	ENS de Lyon Info.	335	14,0%	21,5%	122	4,9%	18,0%	73	6,8%	15,1%	49	22	4,5%	27,3%	22
+2017	MP	BANQUE ENS	ENS Rennes MP	1613	17,2%	29,3%	316	8,5%	29,1%	269	9,3%	28,6%	208	12	8,3%	58,3%	12
+2017	MP	BANQUE ENS	ENS Rennes Info.	306	14,1%	22,9%	110	7,3%	20,9%	89	7,9%	21,3%	62	9	0,0%	11,1%	9
+2017	MP	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS	3311	18,8%	23,2%	767	13,3%	15,6%	722	13,6%	15,8%	404	137	16,8%	12,4%	142
+2017	MP	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS - Ã©tr.	207	27,1%	27,1%	73	17,8%	28,8%	71	18,3%	28,2%	44	18	38,9%	33,3%	18
+2017	MP	BANQUE CENTRALE-SUPELEC	SUPELEC	3096	19,3%	23,1%	997	14,1%	17,8%	958	14,2%	17,8%	903	156	12,8%	20,5%	145
+2017	MP	BANQUE CENTRALE-SUPELEC	SUPELEC - Ã©tr.	162	27,8%	27,2%	43	16,3%	30,2%	42	16,7%	31,0%	40	2	50,0%	100,0%	2
+2017	MP	BANQUE CENTRALE-SUPELEC	CENTRALE LYON	3722	20,4%	22,7%	1144	15,2%	18,4%	1100	15,2%	18,4%	876	120	14,2%	25,8%	127
+2017	MP	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	1703	24,4%	25,6%	776	23,2%	21,1%	725	23,3%	20,6%	697	38	44,7%	21,1%	40
+2017	MP	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) - Ã©tr.	62	32,3%	25,8%	38	36,8%	26,3%	31	41,9%	16,1%	30	0	0,0%	0,0%	2
+2017	MP	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE	3318	21,9%	23,7%	972	18,4%	21,9%	936	18,3%	21,8%	919	85	24,7%	29,4%	90
+2017	MP	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES	3545	21,9%	23,4%	865	16,6%	19,9%	837	16,6%	20,1%	820	107	9,3%	20,6%	135
+2017	MP	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE	3026	22,1%	23,2%	1254	19,2%	19,9%	1137	19,1%	19,6%	982	76	17,1%	25,0%	80
+2017	MP	BANQUE CENTRALE-SUPELEC	CENTRALE CASABLANCA	559	18,6%	29,9%	62	4,8%	25,8%	58	5,2%	24,1%	48	0	0,0%	0,0%	10
+2017	MP	BANQUE CENTRALE-SUPELEC	ECOLE NAVALE Brest	492	17,9%	32,1%	209	16,7%	41,6%	93	18,3%	49,5%	65	28	7,1%	50,0%	28
+2017	MP	BANQUE CENTRALE-SUPELEC	ENSEA Cergy	1502	22,6%	22,1%	1081	22,6%	19,2%	689	22,5%	17,4%	679	49	14,3%	14,3%	60
+2017	MP	BANQUE CENTRALE-SUPELEC	UniversitÃ© de Technologie de Troyes (UTT)	542	25,1%	22,5%	138	22,5%	9,4%	116	24,1%	9,5%	112	0	0,0%	0,0%	10
+2017	MP	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS - CI										26	17	17,6%	11,8%	15
+2017	MP	BANQUE CENTRALE-SUPELEC	SUPELEC - CI										38	5	20,0%	60,0%	5
+2017	MP	BANQUE CENTRALE-SUPELEC	CENTRALE LYON - CI										47	8	12,5%	37,5%	8
+2017	MP	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE - CI										54	3	0,0%	0,0%	3
+2017	MP	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES - CI										50	2	50,0%	0,0%	5
+2017	MP	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) - CI										111	1	0,0%	100,0%	3
+2017	MP	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE - CI										62	2	0,0%	0,0%	2
+2017	MP	BANQUE CENTRALE-SUPELEC	Cycle International Centrale-Supelec	739	26,4%	12,2%	313	21,1%	13,4%	277	23,5%	13,7%		38			41
+2017	MP	BANQUE CENTRALE-SUPELEC	CENTRALE CASABLANCA - CI	739	26,4%	12,2%	313	21,1%	13,4%	277	23,5%	13,7%	234	27	18,5%	7,4%	70
+2017	MP	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										216	48	27,1%	6,2%	48
+2017	MP	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										1203	48	31,2%	20,8%	50
+2017	MP	CONCOURS COMMUN MINES-PONTS	MINES de SAINT-ETIENNE										1357	40	22,5%	35,0%	40
+2017	MP	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										517	75	21,3%	17,3%	70
+2017	MP	CONCOURS COMMUN MINES-PONTS	ISAE - SUPAERO Toulouse										817	66	15,2%	18,2%	70
+2017	MP	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										876	55	20,0%	25,5%	56
+2017	MP	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										894	60	16,7%	18,3%	58
+2017	MP	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										1005	14	35,7%	21,4%	23
+2017	MP	CONCOURS COMMUN MINES-PONTS	IMT Atlantique ex TÃ©lÃ©com Bretagne cursus Brest-Rennes-Toulouse										1627	57	21,1%	28,1%	65
+2017	MP	CONCOURS COMMUN MINES-PONTS	IMT Atlantique ex TÃ©lÃ©com Bretagne cursus Sophia										1259	3	33,3%	33,3%	3
+2017	MP	CONCOURS COMMUN MINES-PONTS	ENSAE ParisTech										1063	52	25,0%	34,6%	50
+2017	MP	CONCOURS COMMUN MINES-PONTS	Concours Commun Mines Ponts MP	5607	21,3%	20,9%	1867	16,7%	20,5%	1778	16,8%	20,6%		518			533
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM BesanÃ§on										3342	31	22,6%	32,3%	44
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSC Bordeaux										2892	7	57,1%	0,0%	6
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Electronique										2835	38	10,5%	23,7%	35
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Informatique										2425	53	18,9%	22,6%	52
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA MathÃ©matiques et MÃ©canique										2334	33	18,2%	18,2%	33
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA TÃ©lecom.										2734	32	21,9%	28,1%	28
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique AppliquÃ©e										3421	17	29,4%	58,8%	20
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Informatique										3301	21	0,0%	42,9%	30
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	EISTI Cergy - Pau										3915	46	17,4%	26,1%	46
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ISIMA Clermont-Ferrand										3682	46	15,2%	26,1%	40
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - ENSE3										2247	45	28,9%	17,8%	70
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - ENSIMAG										997	120	15,0%	30,0%	120
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Esisar										2352	8	12,5%	25,0%	11
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Pagora										3808	8	37,5%	25,0%	10
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique Electronique TÃ©lÃ©coms)										1767	48	22,9%	29,2%	58
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique MatÃ©riaux ProcÃ©dÃ©s)										1338	31	19,4%	29,0%	38
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSC Lille										3221	0	0,0%	0,0%	2
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	CPE LYON Electronique Informatique										3804	13	0,0%	46,2%	12
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSEM Nancy Energie										3550	28	21,4%	28,6%	35
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSEM Nancy SpÃ©cialitÃ© des systÃ¨mes numÃ©riques										3374	8	25,0%	12,5%	10
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSG Nancy										3127	5	40,0%	20,0%	5
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSIC Nancy										3509	11	54,5%	9,1%	7
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	Chimie ParisTech										764	0	0,0%	0,0%	3
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Paris										2775	40	25,0%	22,5%	45
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSGTI Pau - EnergÃ©tique										3818	8	25,0%	37,5%	10
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Eau et Genie Civil										3581	7	0,0%	28,6%	6
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Energie										3798	15	33,3%	33,3%	17
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ISAE-ENSMA Poitiers										1954	56	17,9%	25,0%	55
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Civil (Ã©tudiant)										3684	7	85,7%	28,6%	8
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Civil (apprenti)										3241	1	100,0%	0,0%	1
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Fonctionnaire										3300	4	50,0%	25,0%	4
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	TELECOM PHYSIQUE Strasbourg										2957	33	30,3%	6,1%	31
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	SeaTech Toulon										3337	20	50,0%	35,0%	20
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Electronique et Traitement du Signal										2173	19	5,3%	26,3%	16
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse GÃ©nie Electrique et Automatique										1858	14	21,4%	7,1%	15
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Hydraulique et MÃ©canique des Fluides										1798	18	44,4%	16,7%	17
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Informatique et MathÃ©matiques appliquÃ©es										1567	59	13,6%	23,7%	58
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse TÃ©lÃ©com.rÃ©seaux										1891	28	25,0%	7,1%	27
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSIACET Toulouse GÃ©nie Industriel										2876	15	33,3%	33,3%	17
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSIACET Toulouse GÃ©nie des ProcÃ©dÃ©s										3008	7	57,1%	14,3%	11
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Civil										1345	41	17,1%	24,4%	39
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Fonctionnaire										172	6	0,0%	0,0%	6
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et GÃ©nie Industriel										3481	5	0,0%	40,0%	7
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes MÃ©ca Energ.										3699	11	9,1%	27,3%	18
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes MÃ©catronique										3447	11	18,2%	9,1%	10
+2017	MP	CONCOURS COMMUNS POLYTECHNIQUES	Concours Commun Polytechnique MP	7152	24,7%	19,3%	4802	22,6%	20,5%	3946	22,8%	21,7%		1074			1153
+2017	MP	BANQUE EPREUVES C.C.P Inter-FiliÃ¨re	ECOLE DE L'AIR Pilote	528	18,4%	29,0%	205	15,6%	43,4%	30	3,3%	66,7%	74*	12	0,0%	91,7%	44*
+2017	MP	BANQUE EPREUVES C.C.P Inter-FiliÃ¨re	ECOLE DE L'AIR Base	514	20,0%	30,5%	201	17,9%	45,3%	46	10,9%	60,9%	80*	3	33,3%	33,3%	6*
+2017	MP	BANQUE EPREUVES C.C.P Inter-FiliÃ¨re	ECOLE DE L'AIR MÃ©ca	490	19,4%	29,4%	187	17,1%	43,3%	60	18,3%	60,0%	132*	3	66,7%	66,7%	13*
+2017	MP	BANQUE EPREUVES C.C.P Inter-FiliÃ¨re	EEIGM Nancy - Groupe INP	606	34,5%	16,5%	298	42,3%	14,8%	15	53,3%	6,7%	32*	2	0,0%	0,0%	10*
+2017	MP	BANQUE EPREUVES C.C.P Inter-FiliÃ¨re	ENSIL-ENSCI Limoges, MatÃ©riaux CÃ©ramiques	487	33,9%	17,7%	296	35,1%	14,9%	26	69,2%	15,4%	167*	2	50,0%	50,0%	45*
+2017	MP	BANQUE EPREUVES C.C.P Inter-FiliÃ¨re	ENSGSI Nancy - Groupe INP	864	33,8%	17,8%	467	31,9%	15,2%	96	39,6%	15,6%	180*	7	71,4%	14,3%	35*
+2017	MP	BANQUE EPREUVES C.C.P Inter-FiliÃ¨re	ESM Saint-Cyr	536	15,7%	29,1%	179	13,4%	42,5%	86	7,0%	44,2%	216*	34	2,9%	44,1%	74*
+2017	MP	BANQUE EPREUVES C.C.P Inter-FiliÃ¨re	Grenoble INP - GÃ©nie Industriel	1660	30,8%	18,4%	655	29,6%	19,1%	115	40,0%	16,5%	332*	15	66,7%	13,3%	80*
+2017	MP	BANQUE EPREUVES C.C.P	ENSAI Rennes Civil	1819	27,4%	22,9%	1182	26,6%	23,6%	828	27,1%	26,4%	446	50	32,0%	30,0%	48
+2017	MP	BANQUE EPREUVES C.C.P	ENSAI Rennes Fonctionnaire (AttachÃ© INSEE)	1184	25,4%	24,8%	862	26,2%	25,9%	653	27,3%	28,9%	532	28	21,4%	42,9%	28
+2017	MP	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Informatique et rÃ©seaux										85	6	0,0%	33,3%	5
+2017	MP	BANQUE EPREUVES C.C.P	ENSISA Mulhouse MÃ©canique										106	7	14,3%	14,3%	5
+2017	MP	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Automatique et SystÃ¨mes EmbarquÃ©s										97	6	16,7%	33,3%	3
+2017	MP	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Textile et Fibres										108	3	66,7%	66,7%	2
+2017	MP	BANQUE EPREUVES C.C.P	ENSISA Mulhouse MP	1040	29,8%	18,3%	708	29,2%	15,5%	141	29,1%	25,5%		22			15
+2017	MP	BANQUE EPREUVES C.C.P	ENSTIB Epinal	383	31,9%	18,8%	255	35,7%	12,9%	26	50,0%	3,8%	21	7	28,6%	0,0%	6
+2017	MP	BANQUE EPREUVES C.C.P	EOST Strasbourg	561	34,8%	19,3%	350	37,7%	16,9%	74	47,3%	14,9%	37	11	36,4%	18,2%	11
+2017	MP	CONCOURS COMMUN TPE	ENTPE Lyon Civil	2511	27,7%	23,7%	1557	26,7%	26,6%	438	37,0%	29,0%	357	15	66,7%	26,7%	15
+2017	MP	CONCOURS COMMUN TPE	ENTPE Lyon Fonctionnaire	2511	27,7%	23,7%	1557	26,7%	26,6%	438	37,0%	29,0%	343	29	44,8%	20,7%	29
+2017	MP	CONCOURS COMMUN TPE	ENTPE Lyon Etranger	2511	27,7%	23,7%	151	33,8%	17,9%	23	34,8%	17,4%	12	1	0,0%	0,0%	1
+2017	MP	CONCOURS COMMUN TPE	EIVP Paris Civil	2511	27,7%	23,7%	1708	27,3%	25,8%	470	37,0%	28,3%	461	23	52,2%	21,7%	23
+2017	MP	CONCOURS COMMUN TPE	EIVP Paris Fonctionnaire	2511	27,7%	23,7%	1557	26,7%	26,6%	443	36,8%	29,1%	362	4	100,0%	0,0%	4
+2017	MP	CONCOURS COMMUN TPE	Mines de Douai Fonct.	2511	27,7%	23,7%	1557	26,7%	26,6%	438	37,0%	29,0%	265	4	25,0%	75,0%	4
+2017	MP	Concours Mines - TÃ©lÃ©com	Ecole des Mines d'Albi										1938	52	44,2%	30,8%	55
+2017	MP	Concours Mines - TÃ©lÃ©com	Ecole des Mines d'AlÃ¨s										2151	59	23,7%	20,3%	56
+2017	MP	Concours Mines - TÃ©lÃ©com	ENSIIE Evry										2515	97	18,6%	18,6%	85
+2017	MP	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut Ã©tudiant)										1507	47	21,3%	19,1%	45
+2017	MP	Concours Mines - TÃ©lÃ©com	IMT Atlantique - ingÃ©nieur Mines Nantes										900	61	31,1%	37,7%	58
+2017	MP	Concours Mines - TÃ©lÃ©com	IMT Lille Douai - ingÃ©nieur Mines Douai										2108	55	21,8%	16,4%	55
+2017	MP	Concours Mines - TÃ©lÃ©com	IMT Lille Douai - ingÃ©nieur TÃ©lÃ©com Lille										1991	16	18,8%	18,8%	16
+2017	MP	Concours Mines - TÃ©lÃ©com	Mines Saint Etienne-ISMIN										1797	24	20,8%	33,3%	25
+2017	MP	Concours Mines - TÃ©lÃ©com	TELECOM PHYSIQUE Strasbourg - RT-INOC										2458	8	37,5%	37,5%	8
+2017	MP	Concours Mines - TÃ©lÃ©com	TÃ©lÃ©com Physique Strasbourg TI-SantÃ©										1940	8	50,0%	12,5%	8
+2017	MP	Concours Mines - TÃ©lÃ©com	TELECOM SudParis - cursus Evry										1287	92	21,7%	37,0%	85
+2017	MP	Concours Mines - TÃ©lÃ©com	TELECOM SudParis - cursus Sophia-Antipolis										992	2	0,0%	50,0%	4
+2017	MP	Concours Mines - TÃ©lÃ©com	Concours Mines-TÃ©lÃ©com	4965	23,4%	21,1%	2809	23,0%	22,6%	2570	22,8%	23,0%		521			500
+2017	MP	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut IETA - Direction GÃ©nÃ©rale de l'Armement)	4965	23,4%	21,1%	2507	21,7%	23,1%	2118	21,0%	25,5%	1148	13	15,4%	46,2%	13
+2017	MP	Concours Mines - TÃ©lÃ©com	ENSG-GÃ©omatique Marne la VallÃ©e Civil										2497	10	40,0%	0,0%	9
+2017	MP	Concours Mines - TÃ©lÃ©com	ENSSAT Lannion										2760	28	17,9%	14,3%	27
+2017	MP	Concours Mines - TÃ©lÃ©com	TELECOM Nancy										2415	52	7,7%	11,5%	50
+2017	MP	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut Ã©tudiant										2451	16	6,2%	25,0%	21
+2017	MP	Concours Mines - TÃ©lÃ©com	Concours Mines TÃ©lÃ©com SpÃ©cifique MP	4965	23,4%	21,1%	3945	23,9%	21,0%	3193	23,5%	21,5%		106			107
+2017	MP	CONCOURS ENSAM	Arts et MÃ©tiers	1923	26,2%	24,1%	234	24,8%	39,3%	180	23,9%	40,6%	180	44	27,3%	52,3%	40
+2017	MP	CONCOURS ESTP	ESTP Paris - BÃ¢timent (B) â campus de Troyes										763	6	33,3%	50,0%	3
+2017	MP	CONCOURS ESTP	ESTP Paris - BÃ¢timent (B) - campus de Cachan										745	62	41,9%	19,4%	62
+2017	MP	CONCOURS ESTP	ESTP Paris - Topographie (T)										794	12	0,0%	16,7%	10
+2017	MP	CONCOURS ESTP	ESTP Paris - GÃ©nie MÃ©canique et Electrique(GME)										757	18	16,7%	22,2%	24
+2017	MP	CONCOURS ESTP	ESTP Paris - Travaux Publics (TP)										689	58	20,7%	24,1%	63
+2017	MP	CONCOURS ESTP	ESTP	1126	28,3%	24,8%	932	29,2%	24,6%	796	30,3%	25,1%		156			162
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIPE CrÃ©teil - SystÃ¨mes d'information										5075*	0	0,0%	0,0%	10*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ENSIBS Lorient										5060*	3	33,3%	0,0%	12*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ENSIM Le Mans										4985*	2	50,0%	0,0%	6*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESBS Strasbourg										766*	0	0,0%	0,0%	3*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESI Reims										4816*	4	25,0%	25,0%	10*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIAB Brest										4062*	0	0,0%	0,0%	3*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIR Rennes										5075*	3	33,3%	33,3%	20*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIREM Dijon										5058*	0	0,0%	0,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIROI Saint Denis de La RÃ©union										5075*	0	0,0%	0,0%	4*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIX Normandie										5033*	0	0,0%	0,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESSTIN - Polytech Nancy										4967*	3	66,7%	66,7%	20*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ISAT Nevers - dÃ©partement MIT (MÃ©canique et IngÃ©nierie des Transports)										2624*	0	0,0%	0,0%	7*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ISAT Nevers - dÃ©partement EPEE (Energies et Moteurs)										4191*	1	0,0%	0,0%	14*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIPE CrÃ©teil - GÃ©nie BiomÃ©dial et SantÃ© (ISBS)										4066*	0	0,0%	0,0%	10*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ISEL Le Havre										5073*	0	0,0%	0,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ISIFC BesanÃ§on										3641*	2	100,0%	50,0%	6*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ISIS Castres										5031*	2	50,0%	0,0%	9*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ISTIA Angers										5075*	0	0,0%	0,0%	4*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ISTY VÃ©lizy										4979*	1	0,0%	100,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - Environnement, BÃ¢timent, Ãnergie										4753*	2	50,0%	0,0%	15*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - Instrumentation, Automatique, Informatique										4728*	2	50,0%	0,0%	3*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - MÃ©canique, MatÃ©riaux										4747*	2	50,0%	0,0%	8*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Biologique										2099*	0	0,0%	0,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Civil										5037*	4	50,0%	25,0%	16*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Electrique										5003*	3	66,7%	0,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie MathÃ©matique et ModÃ©lisation										4975*	8	37,5%	37,5%	14*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Physique										5057*	0	0,0%	0,0%	8*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - GÃ©otechnique et gÃ©nie civil										4692*	3	100,0%	0,0%	10*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - MatÃ©riaux										3832*	0	0,0%	0,0%	10*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - PrÃ©vention des risques										5075*	1	0,0%	0,0%	6*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - Informatique et Ã©lectronique des systÃ¨mes embarquÃ©s										4180*	3	33,3%	0,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - RÃ©seaux informatiques										4375*	4	50,0%	50,0%	8*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - Technologies de l'information pour la santÃ©										5013*	2	100,0%	0,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - GÃ©nie biologique et alimentaire										2457*	1	100,0%	0,0%	4*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - GÃ©nie Informatique et statistique										4161*	7	42,9%	14,3%	12*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - GÃ©otechnique, GÃ©nie civil										4547*	1	0,0%	0,0%	10*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - Informatique, MicroÃ©lectronique, Automatique										4085*	5	20,0%	40,0%	8*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - IngÃ©nierie et commercialisation des systÃ¨mes de mesure										5056*	0	0,0%	0,0%	6*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - MatÃ©riaux										4698*	1	100,0%	0,0%	8*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - MÃ©canique										3097*	4	0,0%	50,0%	10*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - GÃ©nie BomÃ©dical										2424*	0	0,0%	0,0%	6*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - Informatique										2549*	4	0,0%	25,0%	4*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - MatÃ©riaux										3123*	1	0,0%	0,0%	4*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - MathÃ©matiques AppliquÃ©es et ModÃ©lisation										3805*	3	33,3%	33,3%	6*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - MÃ©canique										2151*	4	0,0%	50,0%	4*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - SystÃ¨mes industriels, Robotique										3374*	1	0,0%	100,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - GÃ©nie BiomÃ©dical										3757*	2	100,0%	50,0%	9*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - GÃ©nie Civil										4774*	4	25,0%	25,0%	14*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - GÃ©nie Industriel et Informatique										5073*	2	0,0%	0,0%	8*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - Informatique										4643*	4	50,0%	0,0%	9*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - MatÃ©riaux										4829*	2	50,0%	0,0%	10*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - MÃ©canique, EnergÃ©tique										4637*	4	0,0%	25,0%	20*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - MicroÃ©lectronique,TÃ©lÃ©communications										5063*	2	0,0%	50,0%	8*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - MicroÃ©lectronique et Automatique										3685*	1	0,0%	0,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - Informatique et Gestion										4528*	2	0,0%	0,0%	4*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - MatÃ©riaux										2546*	2	50,0%	0,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - MÃ©canique et Interactions										3947*	0	0,0%	0,0%	2*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - Sciences et technologies de l'eau										4026*	3	0,0%	33,3%	7*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier GÃ©nie biologique et agroalimentaire										2186*	0	0,0%	0,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Ãlectronique et technologies numÃ©riques										4550*	3	0,0%	0,0%	8*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Ãnergie Ã©lectrique										4318*	0	0,0%	0,0%	4*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - GÃ©nie civil										4221*	3	0,0%	0,0%	7*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - GÃ©nie des ProcÃ©dÃ©s et BioprocÃ©dÃ©s										2649*	0	0,0%	0,0%	3*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Informatique										3523*	6	16,7%	16,7%	11*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - MatÃ©riaux										4043*	1	0,0%	0,0%	6*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Thermique, ÃnergÃ©tique										3775*	2	50,0%	50,0%	9*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - BÃ¢timents										4881*	4	25,0%	0,0%	12*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - Ãlectronique										5034*	6	0,0%	16,7%	10*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - GÃ©nie biologique										1487*	0	0,0%	0,0%	3*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - GÃ©nie de l'eau										4907*	0	0,0%	0,0%	9*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - Informatique										4270*	11	0,0%	18,2%	14*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - MathÃ©matiques appliquÃ©es, ModÃ©lisation										4311*	7	0,0%	14,3%	17*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - Ãcotechnologie Ã©lectroniques et optiques										5075*	1	0,0%	100,0%	4*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - GÃ©nie civil et gÃ©o-environnement										5075*	1	100,0%	0,0%	16*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - GÃ©nie industriel										5028*	4	75,0%	25,0%	12*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - Innovation en Conception et MatÃ©riaux										5054*	0	0,0%	0,0%	8*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - Technologies pour l'Ãnergie, l'AÃ©rospatial et la Motorisation										4363*	6	16,7%	16,7%	14*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Sud - Electronique, Energie, SystÃ¨mes										4407*	2	0,0%	50,0%	6*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Sud - Informatique										2456*	5	20,0%	40,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Sud - Photonique et systÃ¨mes optroniques										4796*	4	0,0%	25,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Sud - MatÃ©riaux										4246*	1	100,0%	0,0%	4*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-UPMC - Electronique et Informatique										3970*	2	50,0%	50,0%	7*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-UPMC - MatÃ©riaux										3865*	0	0,0%	0,0%	10*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-UPMC - Robotique										4172*	1	100,0%	0,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-UPMC - Sciences de la Terre										5045*	6	50,0%	16,7%	8*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-UPMC Informatique et mathÃ©matiques appliquÃ©es										3286*	2	0,0%	50,0%	4*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - AmÃ©nagement et environnement										4622*	2	50,0%	0,0%	8*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - Ãlectronique, Ãnergie Ã©lectrique										4890*	0	0,0%	0,0%	4*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - Informatique										4909*	3	0,0%	66,7%	7*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - MÃ©canique, Conception de systÃ¨mes										4069*	1	0,0%	0,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Sup GalilÃ©e Villetaneuse										4841*	15	13,3%	13,3%	15*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIPE CrÃ©teil - Technologie pour la santÃ©										5075*	2	50,0%	50,0%	5*
+2017	MP	CONCOURS POLYTECH Inter-FiliÃ¨re	Concours POLYTECH	2782	27,6%	21,1%	1850	29,0%	19,1%	1532	29,4%	20,0%		216			734
+2017	MP	Autres Ã©coles E3A	ECE PARIS	825	27,5%	19,0%	727	28,3%	18,2%	266	26,3%	22,6%	256	32	25,0%	40,6%	35
+2017	MP	Autres Ã©coles E3A	Ecole des Mines Douai/ISPA AlenÃ§on	424	31,6%	18,2%	315	32,7%	14,9%	23	47,8%	17,4%	22	4	0,0%	0,0%	10
+2017	MP	Autres Ã©coles E3A	EFREI Paris	397	25,7%	18,9%	369	26,6%	19,2%	110	25,5%	20,9%	109	18	22,2%	27,8%	35
+2017	MP	Autres Ã©coles E3A	EIDD Paris	451	27,1%	19,5%	322	26,7%	17,4%	181	24,3%	19,3%	181	18	16,7%	16,7%	15
+2017	MP	Autres Ã©coles E3A	EIGSI Casablanca	74	21,6%	23,0%	51	27,5%	21,6%	7	42,9%	28,6%	0	0	0,0%	0,0%	5
+2017	MP	Autres Ã©coles E3A	EIGSI La Rochelle	297	34,0%	16,8%	236	36,0%	16,5%	70	35,7%	12,9%	68	7	42,9%	14,3%	10
+2017	MP	Autres Ã©coles E3A	EIL CÃ´te d'Opale - Calais (informatique)										99	2	0,0%	50,0%	15
+2017	MP	Autres Ã©coles E3A	EIL CÃ´te d'Opale - Longuenesse (GÃ©nie Industriel)										103	3	0,0%	66,7%	15
+2017	MP	Autres Ã©coles E3A	EIL CÃ´te d'Opale Longuenesse - Calais	337	30,6%	22,0%	232	30,2%	18,5%	104	28,8%	12,5%		5			30
+2017	MP	Autres Ã©coles E3A	ELISA AÃ©rospace Saint Quentin (80)	363	30,0%	20,7%	274	34,3%	21,9%	149	38,3%	24,2%	149	5	60,0%	20,0%	10
+2017	MP	Autres Ã©coles E3A	EME	159	41,5%	20,8%	134	45,5%	18,7%	53	54,7%	20,8%	53	3	66,7%	33,3%	12
+2017	MP	Autres Ã©coles E3A	ENSAIT Roubaix										52	11	90,9%	9,1%	10
+2017	MP	Autres Ã©coles E3A	ENSAIT Roubaix - Formation en alternance										42	2	100,0%	0,0%	2
+2017	MP	Autres Ã©coles E3A	ENSAIT Roubaix	412	41,0%	21,8%	277	46,9%	18,1%	54	63,0%	25,9%		13			12
+2017	MP	Autres Ã©coles E3A	ENSIL Limoges EE	408	36,8%	23,0%	265	38,1%	18,5%	45	57,8%	26,7%	40	6	66,7%	16,7%	8
+2017	MP	Autres Ã©coles E3A	ENSIL Limoges ELT	478	27,6%	22,6%	309	26,5%	17,5%	60	35,0%	25,0%	53	9	22,2%	0,0%	10
+2017	MP	Autres Ã©coles E3A	ENSIL Limoges MatÃ©riaux	369	31,4%	24,9%	231	30,7%	19,9%	34	38,2%	29,4%	33	3	0,0%	66,7%	4
+2017	MP	Autres Ã©coles E3A	EPF campus SCEAUX	412	34,7%	17,7%	341	37,8%	16,4%	216	40,7%	17,6%	145	0	0,0%	0,0%	3
+2017	MP	Autres Ã©coles E3A	ENSIL Limoges MÃ©catronique	481	27,0%	24,1%	321	26,5%	19,0%	71	32,4%	19,7%	34	11	27,3%	9,1%	8
+2017	MP	Autres Ã©coles E3A	EPF campus TROYES										206	1	100,0%	0,0%	10
+2017	MP	Autres Ã©coles E3A	EPF campus MONTPELLIER										195	6	16,7%	50,0%	6
+2017	MP	Autres Ã©coles E3A	EPF Sceaux-Troyes-Montpellier	412	34,7%	17,7%	341	37,8%	16,4%	216	40,7%	17,6%		7			16
+2017	MP	Autres Ã©coles E3A	ESB Nantes	131	29,0%	23,7%	95	34,7%	22,1%	11	27,3%	9,1%	11	2	50,0%	0,0%	8
+2017	MP	Autres Ã©coles E3A	ESIEA Paris - Laval	477	25,6%	17,4%	407	26,3%	15,0%	151	23,8%	17,9%	147	10	30,0%	10,0%	35
+2017	MP	Autres Ã©coles E3A	ESIEE Amiens	435	27,1%	17,0%	333	28,5%	14,7%	57	33,3%	14,0%	56	2	0,0%	0,0%	20
+2017	MP	Autres Ã©coles E3A	ESIEE Paris	447	29,1%	17,0%	398	29,6%	15,3%	111	27,9%	10,8%	111	14	28,6%	14,3%	20
+2017	MP	Autres Ã©coles E3A	ESIGELEC Rouen	514	33,1%	21,6%	458	32,8%	19,2%	150	34,7%	21,3%	148	25	32,0%	20,0%	40
+2017	MP	Autres Ã©coles E3A	ESIGETEL Villejuif	291	28,2%	17,2%	271	27,7%	17,0%	76	22,4%	19,7%	76	5	0,0%	20,0%	20
+2017	MP	Autres Ã©coles E3A	ESILV Paris-La DÃ©fense	701	26,8%	19,7%	580	27,9%	19,1%	286	25,5%	22,4%	217	56	25,0%	21,4%	50
+2017	MP	Autres Ã©coles E3A	ESITC Caen	185	34,1%	19,5%	135	39,3%	17,0%	18	50,0%	5,6%	15	3	33,3%	0,0%	14
+2017	MP	Autres Ã©coles E3A	ESME SUDRIA Paris	482	29,0%	18,9%	395	31,4%	17,7%	196	33,2%	20,4%	196	3	66,7%	66,7%	10
+2017	MP	Autres Ã©coles E3A	ESTACA Laval AÃ©ronautique et spatial										130	5	60,0%	40,0%	2
+2017	MP	Autres Ã©coles E3A	ESTACA Laval Automobile										161	2	0,0%	50,0%	2
+2017	MP	Autres Ã©coles E3A	ESTACA Paris-Saclay AÃ©ronautique et spatial										78	4	75,0%	25,0%	2
+2017	MP	Autres Ã©coles E3A	ESTACA Paris-Saclay Automobile ou Transports GuidÃ©s										157	6	16,7%	16,7%	6
+2017	MP	Autres Ã©coles E3A	ESTACA Paris-Saclay/Laval	552	27,4%	21,7%	261	34,9%	27,6%	163	33,7%	31,3%		17			12
+2017	MP	Autres Ã©coles E3A	ESTIA Bidart	243	28,0%	20,2%	192	28,6%	20,3%	54	29,6%	18,5%	54	19	21,1%	26,3%	20
+2017	MP	Autres Ã©coles E3A	INP - ENI Tarbes	482	33,8%	21,4%	168	39,3%	15,5%	136	36,0%	16,2%	108	1	0,0%	0,0%	2
+2017	MP	Autres Ã©coles E3A	INSA centre val de loire GSI										90	7	28,6%	0,0%	8
+2017	MP	Autres Ã©coles E3A	INSA centre val de loire MRI										89	5	0,0%	0,0%	10
+2017	MP	Autres Ã©coles E3A	INSA centre val de loire STI										57	6	0,0%	16,7%	6
+2017	MP	Autres Ã©coles E3A	INSA Centre Val de Loire	559	29,9%	21,1%	312	29,8%	17,6%	90	25,6%	10,0%		18			24
+2017	MP	Autres Ã©coles E3A	ISMANS-Groupe CESI Le Mans	139	32,4%	24,5%	128	32,0%	23,4%	35	20,0%	37,1%	34	3	0,0%	0,0%	10
+2017	MP	Autres Ã©coles E3A	ITECH Lyon	150	36,7%	26,7%	108	43,5%	23,1%	9	100,0%	0,0%	9	3	100,0%	0,0%	5
+2017	MP	Autres Ã©coles E3A	Paoli Tech	150	38,7%	24,0%	78	43,6%	21,8%	22	40,9%	18,2%	22	0	0,0%	0,0%	4
+2017	MP	Autres Ã©coles E3A	SIGMA Clermont-Ferrand (ex IFMA)	400	29,8%	23,8%	278	32,4%	20,9%	64	31,2%	10,9%	40	19	26,3%	15,8%	16
+2017	MP	Autres Ã©coles E3A	3IL IngÃ©nieurs	263	23,6%	19,0%	209	25,4%	18,7%	62	29,0%	12,9%	61	5	20,0%	0,0%	15
+2017	MP	FESIC	ECAM Lyon	732	29,5%	16,4%	637	30,6%	15,5%	69	20,3%	11,6%	68	9	11,1%	11,1%	20
+2017	MP	FESIC	ECAM Rennes	732	29,5%	16,4%	653	30,6%	15,9%	135	33,3%	20,0%	132	3	33,3%	33,3%	12
+2017	MP	FESIC	ECAM Strasbourg Europe	732	29,5%	16,4%	667	30,4%	16,0%	49	28,6%	26,5%	48	5	60,0%	20,0%	10
+2017	MP	FESIC	ECAM-EPMI Cergy-Pontoise	732	29,5%	16,4%	685	30,2%	16,4%	95	35,8%	17,9%	95	10	50,0%	40,0%	20
+2017	MP	FESIC	ESAIP Angers / Aix-en-Provence	732	29,5%	16,4%	676	30,3%	16,1%	299	30,8%	18,7%	293	4	0,0%	50,0%	15
+2017	MP	FESIC	ESEO Angers	732	29,5%	16,4%	593	31,4%	16,0%	378	33,3%	17,7%	376	2	0,0%	0,0%	15
+2017	MP	FESIC	HEI	732	29,5%	16,4%	645	30,7%	15,5%	302	34,4%	16,9%	302	10	40,0%	0,0%	25
+2017	MP	FESIC	ISEN Ouest	732	29,5%	16,4%	633	31,0%	15,6%	146	30,8%	17,8%	147	0	0,0%	0,0%	10
+2017	MP	FESIC	ISEN Lille	732	29,5%	16,4%	633	31,0%	15,6%	151	30,5%	19,2%	149	6	16,7%	16,7%	20
+2017	MP	FESIC	ISEN MÃ©diterrannÃ©e	732	29,5%	16,4%	633	31,0%	15,6%	146	30,8%	17,8%	147	1	0,0%	0,0%	15
+2017	MP	FESIC	ISEP Paris	732	29,5%	16,4%	638	30,7%	15,5%	145	23,4%	14,5%	144	30	30,0%	16,7%	30
+2017	MP	FESIC	UniLaSalle (Sciences de la Terre et Environnement)	732	29,5%	16,4%	670	30,6%	16,0%	88	29,5%	23,9%	88	0	0,0%	0,0%	4
+2017	MP	EPITA	EPITA										140	20	0,0%	10,0%	15
+2017	MP	EPITA	IPSA Paris										124	6	16,7%	0,0%	5
+2017	MP	EPITA	IPSA Toulouse										98	6	16,7%	33,3%	5
+2017	MP	EPITA	EPITA / IPSA MP	285	20,7%	16,1%	202	21,3%	10,9%	140	20,7%	10,0%		32			25

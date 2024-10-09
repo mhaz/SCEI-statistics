@@ -1,0 +1,69 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rang_du_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2014	BCPST	A BIO	AgroParisTech Grignon										757	251	62.0%	16.0%	250
+2014	BCPST	A BIO	Montpellier Sup Agro (cursus agronome)										953	99	69.0%	36.0%	99
+2014	BCPST	A BIO	Montpellier Sup Agro (cursus SAADS)										765	7	85.0%	29.0%	7
+2014	BCPST	A BIO	Agrocampus Ouest (cursus ingénieur agronome)										1197	103	64.0%	27.0%	100
+2014	BCPST	A BIO	ENSAT Toulouse										1221	91	75.0%	53.0%	91
+2014	BCPST	A BIO	ENSAIA Nancy										1492	108	68.0%	37.0%	93
+2014	BCPST	A BIO	Agrocampus Ouest (cursus ingénieur en horticulture et en paysage)										1739	45	64.0%	29.0%	41
+2014	BCPST	A BIO	Agrosup Dijon (Cursus Agroalimentaire)										1988	52	69.0%	27.0%	41
+2014	BCPST	A BIO	Bordeaux Sciences Agro (ex ENITAB)										1556	86	67.0%	46.0%	84
+2014	BCPST	A BIO	VetAgro Sup Clermont-Ferrand										1970	59	71.0%	31.0%	59
+2014	BCPST	A BIO	ONIRIS Nantes Atlantique (cursus agroalimentaire)										1950	56	78.0%	36.0%	50
+2014	BCPST	A BIO	Agrosup Dijon (Cursus Agronome) civil										1744	47	76.0%	28.0%	36
+2014	BCPST	A BIO	Agrosup Dijon (Cursus agronome) fonctionnaire										1800	25	80.0%	40.0%	26
+2014	BCPST	A BIO	Concours commun A BIO	2991	69.0%	26.0%	2235	69.0%	31.0%	2056	69.0%	32.0%		1029			977
+2014	BCPST	A ENV	ENV Alfort										503	109	69.0%	45.0%	109
+2014	BCPST	A ENV	VetAgro Sup Lyon										341	109	75.0%	50.0%	109
+2014	BCPST	A ENV	ONIRIS Nantes Atlantique (cursus vétérinaire)										533	109	66.0%	53.0%	109
+2014	BCPST	A ENV	ENV Toulouse										557	109	75.0%	51.0%	109
+2014	BCPST	A ENV	Concours commun A ENV	1967	72.0%	30.0%	887	69.0%	42.0%	569	67.0%	44.0%		436			436
+2014	BCPST	PC BIO	ESPCI ParisTech										130	2	0.0%	100.0%	3
+2014	BCPST	PC BIO	Chimie ParisTech										212	1	0.0%	100.0%	3
+2014	BCPST	PC BIO	ENSC Montpellier										155	2	50.0%	50.0%	2
+2014	BCPST	PC BIO	ENSC Lille										401	3	100.0%	34.0%	5
+2014	BCPST	PC BIO	ENSCBP Bordeaux - Biologie-Alimentation										595	2	50.0%	50.0%	14
+2014	BCPST	PC BIO	ENSIC Nancy										597	4	75.0%	50.0%	5
+2014	BCPST	PC BIO	Concours commun A PC BIO	1341	68.0%	30.0%	699	64.0%	38.0%	599	64.0%	40.0%		14			32
+2014	BCPST	ENS	ENS Ulm	686	59.0%	20.0%	78	48.0%	17.0%	33	57.0%	13.0%	25	21	47.0%	5.0%	21
+2014	BCPST	ENS	ENS de Lyon	688	59.0%	20.0%	161	52.0%	16.0%	94	47.0%	14.0%	82	35	42.0%	23.0%	35
+2014	BCPST	ENS	ENS Cachan	677	58.0%	21.0%	169	53.0%	18.0%	83	48.0%	19.0%	80	12	66.0%	9.0%	12
+2014	BCPST	ENS	PONTS ParisTech	228	64.0%	25.0%	50	48.0%	18.0%	19	57.0%	27.0%	16	4	75.0%	0.0%	4
+2014	BCPST	G2E	ENGEES Strasbourg Civil (apprenti)										571	4	75.0%	50.0%	5
+2014	BCPST	G2E	ENGEES Strasbourg Civil (étudiant)										504	22	68.0%	28.0%	22
+2014	BCPST	G2E	ENGEES Strasbourg Fonctionnaire										145	2	100.0%	0.0%	2
+2014	BCPST	G2E	concours ENGEES G2E-BCPST	1687	67.0%	27.0%	1183	65.0%	32.0%	642	66.0%	35.0%		28			29
+2014	BCPST	G2E	ENSEGID	1687	67.0%	27.0%	1183	65.0%	32.0%	595	66.0%	35.0%	435	17	64.0%	42.0%	15
+2014	BCPST	G2E	ENSG Nancy	1687	67.0%	27.0%	1183	65.0%	32.0%	378	66.0%	36.0%	377	58	43.0%	33.0%	68
+2014	BCPST	G2E	ENSI Poitiers Eau et Genie Civil	1687	67.0%	27.0%	1183	65.0%	32.0%	621	66.0%	35.0%	608	8	50.0%	88.0%	8
+2014	BCPST	G2E	ENSIL Limoges EE	1687	67.0%	27.0%	1183	65.0%	32.0%	616	66.0%	35.0%	552	6	83.0%	34.0%	6
+2014	BCPST	G2E	ENTPE Lyon Civil	1687	67.0%	27.0%	1183	65.0%	32.0%	496	64.0%	37.0%	456	28	50.0%	36.0%	28
+2014	BCPST	G2E	ENTPE Lyon Fonctionnaire	960	64.0%	31.0%	677	64.0%	37.0%	331	61.0%	42.0%	183	14	71.0%	29.0%	14
+2014	BCPST	G2E	EOST Strasbourg	1687	67.0%	27.0%	1183	65.0%	32.0%	540	65.0%	36.0%	353	9	44.0%	34.0%	8
+2014	BCPST	G2E	Polytech Grenoble - Géotechnique										647	1	100.0%	0.0%	3
+2014	BCPST	G2E	Polytech Montpellier - Sciences et technologies de l'eau										647	5	60.0%	60.0%	6
+2014	BCPST	G2E	Polytech Nice-Sophia - Génie de l'eau										666	3	66.0%	0.0%	3
+2014	BCPST	G2E	Polytech Orléans - Génie civil et géo-environnement										667	2	50.0%	0.0%	14
+2014	BCPST	G2E	Polytech Paris-UPMC - Sciences de la Terre										648	6	33.0%	67.0%	7
+2014	BCPST	G2E	Polytech Tours - Aménagement										661	3	33.0%	34.0%	12
+2014	BCPST	G2E	Polytech Annecy-Chambéry - Environnement, Bâtiment, Énergie										667	4	50.0%	50.0%	3
+2014	BCPST	G2E	concours Polytech G2E-BCPST	1687	67.0%	27.0%	1183	65.0%	32.0%	667	67.0%	35.0%		24			48
+2014	BCPST	ARCH BIO	ENSTIB Epinal	765	63.0%	28.0%	543	65.0%	29.0%	55	65.0%	24.0%	55	12	58.0%	0.0%	14
+2014	BCPST	CONCOURS POLYTECH	ESBS Strasbourg										812	13	61.0%	8.0%	12
+2014	BCPST	CONCOURS POLYTECH	ESIX Normandie										1326	4	100.0%	25.0%	10
+2014	BCPST	CONCOURS POLYTECH	ESIAB Brest										1319	7	85.0%	43.0%	8
+2014	BCPST	CONCOURS POLYTECH	ENSTBB Bordeaux										916	25	72.0%	20.0%	26
+2014	BCPST	CONCOURS POLYTECH	Polytech Marseille - Génie Biomédical										1220	3	100.0%	0.0%	4
+2014	BCPST	CONCOURS POLYTECH	ISBS Créteil										1076	5	60.0%	0.0%	4
+2014	BCPST	CONCOURS POLYTECH	ISIFC Besançon										1292	15	100.0%	34.0%	12
+2014	BCPST	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Biologique										1200	9	88.0%	12.0%	10
+2014	BCPST	CONCOURS POLYTECH	Polytech Grenoble - Technologies de l'information pour la santé										1264	2	100.0%	50.0%	3
+2014	BCPST	CONCOURS POLYTECH	Polytech Lille - Génie biologique et alimentaire										1208	4	100.0%	0.0%	4
+2014	BCPST	CONCOURS POLYTECH	Polytech Montpellier - Sciences et technologies des Industries alimentaires										1252	7	71.0%	0.0%	7
+2014	BCPST	CONCOURS POLYTECH	Polytech Nice-Sophia - Génie biologique										1099	11	90.0%	28.0%	11
+2014	BCPST	CONCOURS POLYTECH	Polytech Paris-UPMC - Agroalimentaire										1240	3	100.0%	0.0%	7
+2014	BCPST	CONCOURS POLYTECH	ESIR Rennes										1326	6	33.0%	34.0%	5
+2014	BCPST	CONCOURS POLYTECH	Polytech Nantes - Génie des Procédés et Bioprocédés										1264	2	50.0%	0.0%	3
+2014	BCPST	CONCOURS POLYTECH	ESIROI Saint Denis de la Réunion										1284	1	100.0%	0.0%	4
+2014	BCPST	CONCOURS POLYTECH	Polytech Marseille - Génie Biologique, Biotechnologie										1109	6	83.0%	17.0%	10
+2014	BCPST	CONCOURS POLYTECH	Concours POLYTECH A BIO	1990	72.0%	27.0%	1366	71.0%	30.0%	1326	72.0%	30.0%		123			140

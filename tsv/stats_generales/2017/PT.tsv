@@ -1,0 +1,197 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rang_du_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2017	PT	CENTRALE-SUPELEC	CENTRALE CASABLANCA										431	0	0,0%	0,0%	2
+2017	PT	CENTRALE-SUPELEC	CENTRALE PARIS										29	10	10,0%	10,0%	10
+2017	PT	CENTRALE-SUPELEC	SUPELEC										116	20	5,0%	5,0%	24
+2017	PT	CENTRALE-SUPELEC	CENTRALE LYON										107	24	12,5%	12,5%	24
+2017	PT	CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)										342	5	20,0%	20,0%	5
+2017	PT	CENTRALE-SUPELEC	CENTRALE LILLE										175	12	8,3%	0,0%	12
+2017	PT	CENTRALE-SUPELEC	CENTRALE NANTES										115	9	22,2%	11,1%	20
+2017	PT	CENTRALE-SUPELEC	CENTRALE MARSEILLE										183	2	0,0%	50,0%	10
+2017	PT	CENTRALE-SUPELEC	Concours Centrale-SupÃ©lec	1502	12,6%	19,0%	437	12,6%	11,2%	433	12,7%	11,1%		82			107
+2017	PT	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										22	5	40,0%	0,0%	5
+2017	PT	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										112	4	0,0%	25,0%	4
+2017	PT	CONCOURS COMMUN MINES-PONTS	MINES de SAINT-ETIENNE										84	1	0,0%	0,0%	2
+2017	PT	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										30	2	50,0%	0,0%	2
+2017	PT	CONCOURS COMMUN MINES-PONTS	ISAE - SUPAERO Toulouse										37	6	0,0%	0,0%	6
+2017	PT	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										72	8	12,5%	0,0%	8
+2017	PT	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										62	1	0,0%	0,0%	1
+2017	PT	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										62	0	0,0%	0,0%	1
+2017	PT	CONCOURS COMMUN MINES-PONTS	IMT Atlantique ex TÃ©lÃ©com Bretagne cursus Brest-Rennes-Toulouse										169	1	0,0%	0,0%	1
+2017	PT	CONCOURS COMMUN MINES-PONTS	IMT Atlantique ex TÃ©lÃ©com Bretagne cursus Sophia										145	1	0,0%	0,0%	1
+2017	PT	CONCOURS COMMUN MINES-PONTS	Concours Commun Mines-Ponts PT	1192	13,8%	18,9%	184	9,8%	15,8%	183	9,8%	15,3%		29			31
+2017	PT	CONCOURS COMMUN ENSAM	Arts et MÃ©tiers - ingÃ©nieurs militaires	513	12,9%	21,8%	107	15,9%	22,4%	31	32,3%	32,3%	37	3	0,0%	66,7%	8
+2017	PT	CONCOURS COMMUN ENSAM	Arts et MÃ©tiers										801	534	15,2%	27,2%	542
+2017	PT	CONCOURS COMMUN ENSAM	ENSEA Cergy										1178	11	9,1%	54,5%	20
+2017	PT	CONCOURS COMMUN ENSAM	ARTS ET MÃTIERS	2372	12,3%	19,6%	1283	12,1%	23,9%	1184	12,3%	23,3%		545			562
+2017	PT	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE	343	9,0%	10,8%	22	4,5%	9,1%	14	7,1%	7,1%	12	11	9,1%	0,0%	11
+2017	PT	CONCOURS ENS DE CACHAN	ENS Cachan Paris-Saclay	1699	14,0%	22,0%	428	9,8%	23,1%	346	9,2%	20,8%	203	37	8,1%	24,3%	37
+2017	PT	CONCOURS ENS DE CACHAN	ENS Rennes	1553	13,7%	22,4%	400	10,8%	24,8%	347	10,7%	23,6%	259	7	0,0%	42,9%	7
+2017	PT	Concours Mines - TÃ©lÃ©com	Ecole des Mines d'Albi										330	6	0,0%	33,3%	8
+2017	PT	Concours Mines - TÃ©lÃ©com	Ecole des Mines d'AlÃ¨s										435	21	4,8%	4,8%	20
+2017	PT	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut Ã©tudiant)										237	13	0,0%	38,5%	13
+2017	PT	Concours Mines - TÃ©lÃ©com	IMT Atlantique - ingÃ©nieur Mines Nantes										51	3	33,3%	0,0%	3
+2017	PT	Concours Mines - TÃ©lÃ©com	IMT Lille Douai - ingÃ©nieur Mines Douai										446	20	15,0%	5,0%	20
+2017	PT	Concours Mines - TÃ©lÃ©com	Mines Saint Etienne-ISMIN										343	7	14,3%	28,6%	4
+2017	PT	Concours Mines - TÃ©lÃ©com	TELECOM PHYSIQUE Strasbourg - RT-INOC										475	0	0,0%	0,0%	2
+2017	PT	Concours Mines - TÃ©lÃ©com	TELECOM SudParis - cursus Evry										106	8	12,5%	0,0%	7
+2017	PT	Concours Mines - TÃ©lÃ©com	Concours Mines-TÃ©lÃ©com	1856	13,5%	20,4%	710	12,7%	21,7%	482	15,1%	21,8%		78			77
+2017	PT	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut IETA - Direction GÃ©nÃ©rale de l'Armement)	1856	13,5%	20,4%	605	12,4%	25,3%	403	15,4%	25,8%	265	3	0,0%	33,3%	3
+2017	PT	Concours Mines - TÃ©lÃ©com	ENSG-GÃ©omatique Marne la VallÃ©e Civil										447	1	0,0%	0,0%	2
+2017	PT	Concours Mines - TÃ©lÃ©com	ENSSAT Lannion										540	6	16,7%	50,0%	5
+2017	PT	Concours Mines - TÃ©lÃ©com	TELECOM Nancy										480	12	8,3%	16,7%	12
+2017	PT	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut Ã©tudiant										521	6	0,0%	16,7%	7
+2017	PT	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut apprenti										538	1	0,0%	100,0%	4
+2017	PT	Concours Mines - TÃ©lÃ©com	Concours Mines TÃ©lÃ©com SpÃ©cifique PT	1856	13,5%	20,4%	1047	13,6%	22,7%	570	15,3%	23,3%		26			30
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM BesanÃ§on										1137	38	15,8%	26,3%	47
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Electronique										797	3	0,0%	33,3%	2
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA MathÃ©matiques et MÃ©canique										724	5	0,0%	20,0%	4
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Informatique										741	2	0,0%	0,0%	1
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA TÃ©lecom.										764	1	0,0%	100,0%	1
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique AppliquÃ©e										1102	8	0,0%	12,5%	8
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	EISTI Cergy - Pau										1274	5	0,0%	40,0%	5
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	ISIMA Clermont-Ferrand										1171	6	16,7%	16,7%	5
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique Electronique TÃ©lÃ©coms)										438	3	0,0%	0,0%	3
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique MatÃ©riaux ProcÃ©dÃ©s)										299	3	0,0%	33,3%	3
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Pagora										649	0	0,0%	0,0%	1
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - ENSE3										613	14	0,0%	28,6%	15
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Esisar										759	0	0,0%	0,0%	3
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - ENSIMAG										322	10	0,0%	10,0%	10
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSIL-ENSCI Limoges, MatÃ©riaux CÃ©ramiques										1277	0	0,0%	0,0%	2
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	CPE LYON Electronique Informatique										1141	2	0,0%	0,0%	2
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSEM Nancy Energie										928	8	12,5%	12,5%	5
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Paris										927	14	14,3%	14,3%	12
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Energie										1195	7	14,3%	57,1%	6
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Eau et Genie Civil										1060	1	0,0%	0,0%	2
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	ISAE-ENSMA Poitiers										603	4	0,0%	0,0%	5
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	SeaTech Toulon										1073	8	0,0%	25,0%	8
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Electronique et Traitement du Signal										717	1	0,0%	100,0%	2
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse GÃ©nie Electrique et Automatique										646	3	0,0%	0,0%	2
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Hydraulique et MÃ©canique des Fluides										581	2	50,0%	0,0%	2
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Informatique et MathÃ©matiques appliquÃ©es										462	2	0,0%	50,0%	2
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse TÃ©lÃ©com.rÃ©seaux										739	3	0,0%	0,0%	2
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Civil										479	4	0,0%	25,0%	3
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et GÃ©nie Industriel										1306	8	0,0%	50,0%	4
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes MÃ©ca Energ.										1223	5	0,0%	60,0%	6
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes MÃ©catronique										1227	4	0,0%	50,0%	6
+2017	PT	CONCOURS COMMUNS POLYTECHNIQUES	Concours Commun Polytechnique PT	2358	12,8%	19,8%	1414	12,0%	24,5%	1313	12,2%	23,3%		174			179
+2017	PT	CONCOURS POLYTECH	ENSIM Le Mans										1153	2	0,0%	50,0%	2
+2017	PT	CONCOURS POLYTECH	ESI Reims										1164	0	0,0%	0,0%	3
+2017	PT	CONCOURS POLYTECH	ESIR Rennes										1032	3	0,0%	0,0%	3
+2017	PT	CONCOURS POLYTECH	ESIROI Saint Denis de La RÃ©union										802	0	0,0%	0,0%	1
+2017	PT	CONCOURS POLYTECH	ESIX Normandie										1176	2	0,0%	50,0%	4
+2017	PT	CONCOURS POLYTECH	ESSTIN - Polytech Nancy										1127	10	20,0%	20,0%	6
+2017	PT	CONCOURS POLYTECH	ISAT Nevers - dÃ©partement MIT (MÃ©canique et IngÃ©nierie des Transports)										760	5	0,0%	60,0%	10
+2017	PT	CONCOURS POLYTECH	ISAT Nevers - dÃ©partement EPEE (Energies et Moteurs)										1000	3	0,0%	66,7%	5
+2017	PT	CONCOURS POLYTECH	ISIFC BesanÃ§on										955	1	100,0%	100,0%	2
+2017	PT	CONCOURS POLYTECH	ESIPE CrÃ©teil - GÃ©nie BiomÃ©dial et SantÃ© (ISBS)										876	1	0,0%	0,0%	1
+2017	PT	CONCOURS POLYTECH	ESIPE CrÃ©teil - SystÃ¨mes d'information										1065	1	0,0%	0,0%	2
+2017	PT	CONCOURS POLYTECH	ESIPE CrÃ©teil - Technologie pour la santÃ©										1052	0	0,0%	0,0%	2
+2017	PT	CONCOURS POLYTECH	ISIS Castres										1144	1	100,0%	0,0%	3
+2017	PT	CONCOURS POLYTECH	ISTIA Angers										1156	0	0,0%	0,0%	4
+2017	PT	CONCOURS POLYTECH	ISTY VÃ©lizy										1149	1	0,0%	100,0%	3
+2017	PT	CONCOURS POLYTECH	Polytech Annecy-ChambÃ©ry - Environnement, BÃ¢timent, Ãnergie										1028	4	0,0%	0,0%	4
+2017	PT	CONCOURS POLYTECH	Polytech Annecy-ChambÃ©ry - Instrumentation, Automatique, Informatique										1041	4	0,0%	0,0%	3
+2017	PT	CONCOURS POLYTECH	Polytech Annecy-ChambÃ©ry - MÃ©canique, MatÃ©riaux										882	3	0,0%	0,0%	3
+2017	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - GÃ©nie Civil										896	2	100,0%	50,0%	3
+2017	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - GÃ©nie Electrique										1169	2	0,0%	0,0%	4
+2017	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - GÃ©nie Physique										1055	3	0,0%	0,0%	3
+2017	PT	CONCOURS POLYTECH	Polytech Grenoble - GÃ©otechnique et gÃ©nie civil										1053	3	33,3%	33,3%	4
+2017	PT	CONCOURS POLYTECH	Polytech Grenoble - Informatique et Ã©lectronique des systÃ¨mes embarquÃ©s										926	4	25,0%	50,0%	3
+2017	PT	CONCOURS POLYTECH	Polytech Lille - Informatique, MicroÃ©lectronique, Automatique										685	3	0,0%	66,7%	3
+2017	PT	CONCOURS POLYTECH	Polytech Lille - MÃ©canique										863	6	0,0%	16,7%	7
+2017	PT	CONCOURS POLYTECH	Polytech Lyon - SystÃ¨mes industriels, Robotique										649	2	0,0%	50,0%	3
+2017	PT	CONCOURS POLYTECH	Polytech Marseille - GÃ©nie Civil										960	3	33,3%	33,3%	6
+2017	PT	CONCOURS POLYTECH	Polytech Marseille - GÃ©nie Industriel et Informatique										1154	3	0,0%	0,0%	3
+2017	PT	CONCOURS POLYTECH	Polytech Marseille - MÃ©canique, EnergÃ©tique										950	5	20,0%	40,0%	8
+2017	PT	CONCOURS POLYTECH	Polytech Marseille - MicroÃ©lectronique,TÃ©lÃ©communications										1154	3	33,3%	33,3%	3
+2017	PT	CONCOURS POLYTECH	Polytech Montpellier - MÃ©canique et Interactions										782	2	0,0%	0,0%	2
+2017	PT	CONCOURS POLYTECH	Polytech Nantes - Ãlectronique et technologies numÃ©riques										846	4	0,0%	0,0%	3
+2017	PT	CONCOURS POLYTECH	Polytech Nantes - Ãnergie Ã©lectrique										1049	2	0,0%	0,0%	2
+2017	PT	CONCOURS POLYTECH	Polytech Nantes - GÃ©nie civil										1106	2	0,0%	50,0%	3
+2017	PT	CONCOURS POLYTECH	Polytech Nantes - Informatique										696	3	0,0%	33,3%	3
+2017	PT	CONCOURS POLYTECH	Polytech Nantes - Thermique, ÃnergÃ©tique										887	3	0,0%	33,3%	3
+2017	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - Ãlectronique										1081	3	0,0%	33,3%	3
+2017	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - GÃ©nie de l'eau										1089	4	25,0%	0,0%	3
+2017	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - Informatique										1109	2	0,0%	0,0%	3
+2017	PT	CONCOURS POLYTECH	Polytech OrlÃ©ans - Ãcotechnologie Ã©lectroniques et optiques										1157	0	0,0%	0,0%	3
+2017	PT	CONCOURS POLYTECH	Polytech OrlÃ©ans - GÃ©nie civil et gÃ©o-environnement										1164	5	40,0%	40,0%	6
+2017	PT	CONCOURS POLYTECH	Polytech OrlÃ©ans - GÃ©nie industriel										1170	2	0,0%	50,0%	6
+2017	PT	CONCOURS POLYTECH	Polytech OrlÃ©ans - Innovation en Conception et MatÃ©riaux										1170	4	0,0%	50,0%	6
+2017	PT	CONCOURS POLYTECH	Polytech OrlÃ©ans - Technologies pour l'Ãnergie, l'AÃ©rospatial et la Motorisation										1020	4	0,0%	0,0%	4
+2017	PT	CONCOURS POLYTECH	Polytech Paris-UPMC - Robotique										906	1	0,0%	100,0%	3
+2017	PT	CONCOURS POLYTECH	Polytech Tours - AmÃ©nagement et environnement										1177	3	0,0%	0,0%	5
+2017	PT	CONCOURS POLYTECH	Polytech Tours - MÃ©canique, Conception de systÃ¨mes										918	2	0,0%	50,0%	4
+2017	PT	CONCOURS POLYTECH	Sup GalilÃ©e Villetaneuse										1107	4	0,0%	0,0%	5
+2017	PT	CONCOURS POLYTECH	Concours POLYTECH	1917	13,2%	21,0%	1399	12,2%	22,8%	1180	12,5%	24,7%		130			178
+2017	PT	AUTRES ECOLES	ECE PARIS	548	14,6%	20,6%	481	13,9%	21,4%	180	16,7%	20,0%	162	26	15,4%	11,5%	20
+2017	PT	AUTRES ECOLES	ECOLE DE L'AIR MÃ©ca	386	10,1%	22,0%	95	10,5%	34,7%	11	9,1%	18,2%	11	0	0,0%	0,0%	0
+2017	PT	AUTRES ECOLES	ECOLE DE L'AIR Pilote	324	9,3%	23,8%	85	9,4%	36,5%	7	14,3%	28,6%	4	1	0,0%	0,0%	1
+2017	PT	AUTRES ECOLES	Ecole des Mines Douai/ISPA AlenÃ§on	368	18,5%	23,6%	274	17,5%	29,2%	30	26,7%	26,7%	30	4	0,0%	25,0%	10
+2017	PT	AUTRES ECOLES	EFREI Paris	177	14,1%	16,9%	167	15,0%	15,0%	44	15,9%	11,4%	43	7	0,0%	0,0%	20
+2017	PT	AUTRES ECOLES	EIGSI La Rochelle	375	18,1%	19,7%	301	18,9%	22,6%	141	27,0%	21,3%	141	22	22,7%	9,1%	20
+2017	PT	AUTRES ECOLES	EIL CÃ´te d'Opale - Calais (informatique)										102	4	0,0%	0,0%	10
+2017	PT	AUTRES ECOLES	EIL CÃ´te d'Opale - Longuenesse (GÃ©nie Industriel)										104	13	38,5%	15,4%	20
+2017	PT	AUTRES ECOLES	EIL CÃ´te d'Opale Longuenesse - Calais	270	15,9%	18,9%	239	16,7%	19,2%	104	19,2%	21,2%		17			30
+2017	PT	AUTRES ECOLES	ELISA AÃ©rospace Saint Quentin (80)	272	14,0%	21,7%	142	16,2%	31,7%	55	14,5%	34,5%	55	3	0,0%	0,0%	10
+2017	PT	AUTRES ECOLES	ENSAIT Roubaix										52	15	26,7%	33,3%	16
+2017	PT	AUTRES ECOLES	ENSAIT Roubaix - Formation en alternance										48	0	0,0%	0,0%	2
+2017	PT	AUTRES ECOLES	ENSAIT Roubaix	368	23,6%	23,4%	232	22,8%	29,7%	55	27,3%	29,1%		15			18
+2017	PT	AUTRES ECOLES	ENSIL Limoges MÃ©catronique	318	13,5%	21,1%	201	13,4%	21,9%	48	12,5%	16,7%	23	7	28,6%	28,6%	4
+2017	PT	AUTRES ECOLES	ENSISA Mulhouse Automatique et SystÃ¨mes EmbarquÃ©s										73	4	0,0%	50,0%	6
+2017	PT	AUTRES ECOLES	ENSISA Mulhouse Informatique et rÃ©seaux										67	3	0,0%	33,3%	6
+2017	PT	AUTRES ECOLES	ENSISA Mulhouse MÃ©canique										58	9	11,1%	11,1%	9
+2017	PT	AUTRES ECOLES	ENSISA Mulhouse Textile et Fibres										69	4	50,0%	25,0%	4
+2017	PT	AUTRES ECOLES	ENSISA Mulhouse	402	17,4%	19,2%	267	17,2%	23,2%	73	16,4%	17,8%		20			25
+2017	PT	AUTRES ECOLES	EPF campus SCEAUX	445	19,8%	21,1%	400	19,5%	23,0%	252	23,4%	24,6%	137	4	25,0%	25,0%	3
+2017	PT	AUTRES ECOLES	ENSTIB Epinal	273	18,7%	20,9%	192	17,7%	18,8%	77	20,8%	15,6%	35	16	18,8%	12,5%	18
+2017	PT	AUTRES ECOLES	EPF campus TROYES										255	10	30,0%	30,0%	10
+2017	PT	AUTRES ECOLES	EPF campus MONTPELLIER										166	7	42,9%	28,6%	7
+2017	PT	AUTRES ECOLES	EPF Sceaux-Troyes-Montpellier	445	19,8%	21,1%	400	19,5%	23,0%	252	23,4%	24,6%		17			17
+2017	PT	AUTRES ECOLES	ESB Nantes	148	25,7%	20,3%	92	30,4%	25,0%	16	56,2%	12,5%	16	7	57,1%	14,3%	10
+2017	PT	AUTRES ECOLES	ESFF - SÃ¨vres	271	13,3%	22,9%	203	12,8%	24,1%	30	20,0%	23,3%	14	7	28,6%	42,9%	7
+2017	PT	AUTRES ECOLES	ESIEA Paris - Laval	287	13,6%	18,8%	268	13,1%	19,0%	103	11,7%	19,4%	99	9	11,1%	11,1%	20
+2017	PT	AUTRES ECOLES	ESIEE Amiens	318	15,7%	17,6%	214	13,6%	19,6%	31	12,9%	12,9%	30	1	0,0%	0,0%	10
+2017	PT	AUTRES ECOLES	ESIEE Paris	288	17,0%	21,5%	241	16,2%	21,6%	76	14,5%	19,7%	76	8	0,0%	25,0%	15
+2017	PT	AUTRES ECOLES	ESIGELEC Rouen	434	14,1%	19,4%	395	13,9%	20,3%	145	12,4%	16,6%	144	16	18,8%	0,0%	35
+2017	PT	AUTRES ECOLES	ESIGETEL Villejuif	169	19,5%	17,8%	162	19,8%	17,3%	38	21,1%	10,5%	38	0	0,0%	0,0%	10
+2017	PT	AUTRES ECOLES	ESILV Paris-La DÃ©fense	464	12,7%	20,9%	417	12,7%	21,8%	199	13,1%	23,6%	117	26	7,7%	26,9%	25
+2017	PT	AUTRES ECOLES	ESITC Caen	199	20,1%	16,6%	85	24,7%	23,5%	14	28,6%	28,6%	13	2	0,0%	0,0%	8
+2017	PT	AUTRES ECOLES	ESME SUDRIA Paris	363	17,9%	19,6%	281	17,8%	22,4%	119	15,1%	17,6%	119	1	0,0%	0,0%	10
+2017	PT	AUTRES ECOLES	ESTACA Laval AÃ©ronautique et spatial										198	3	0,0%	0,0%	2
+2017	PT	AUTRES ECOLES	ESTACA Laval Automobile										242	3	0,0%	33,3%	2
+2017	PT	AUTRES ECOLES	ESTACA Paris-Saclay AÃ©ronautique et spatial										235	5	40,0%	40,0%	3
+2017	PT	AUTRES ECOLES	ESTACA Paris-Saclay Automobile ou Transports GuidÃ©s										242	10	10,0%	40,0%	9
+2017	PT	AUTRES ECOLES	ESTACA Paris-Saclay/Laval	678	12,1%	25,2%	314	14,0%	37,3%	247	12,6%	39,3%		21			16
+2017	PT	AUTRES ECOLES	ESTIA Bidart	379	18,2%	23,5%	312	18,6%	26,3%	135	20,7%	19,3%	104	31	19,4%	9,7%	30
+2017	PT	AUTRES ECOLES	ESTP Paris - BÃ¢timent (B) - campus de Cachan										220	12	0,0%	33,3%	9
+2017	PT	AUTRES ECOLES	ESTP Paris - BÃ¢timent (B) â campus de Troyes										260	5	0,0%	40,0%	3
+2017	PT	AUTRES ECOLES	ESTP Paris - GÃ©nie MÃ©canique et Electrique(GME)										248	6	16,7%	66,7%	5
+2017	PT	AUTRES ECOLES	ESTP Paris - Topographie (T)										324	14	42,9%	50,0%	7
+2017	PT	AUTRES ECOLES	ESTP Paris - Travaux Publics (TP)										237	10	20,0%	60,0%	10
+2017	PT	AUTRES ECOLES	ESTP Paris	671	16,5%	27,1%	370	15,4%	34,3%	359	15,0%	34,3%		47			34
+2017	PT	AUTRES ECOLES	Grenoble INP - GÃ©nie Industriel	767	13,7%	25,6%	280	13,6%	31,4%	92	16,3%	27,2%	62	7	14,3%	28,6%	8
+2017	PT	AUTRES ECOLES	INP - ENI Tarbes	557	18,0%	23,3%	272	16,2%	26,8%	251	16,3%	27,5%	217	6	0,0%	16,7%	6
+2017	PT	AUTRES ECOLES	INSA centre val de loire GSI										71	13	23,1%	7,7%	12
+2017	PT	AUTRES ECOLES	INSA centre val de loire MRI										87	6	16,7%	0,0%	6
+2017	PT	AUTRES ECOLES	INSA centre val de loire STI										69	3	0,0%	0,0%	2
+2017	PT	AUTRES ECOLES	INSA Centre Val de Loire	504	17,5%	22,6%	315	15,2%	24,8%	91	16,5%	7,7%		22			20
+2017	PT	AUTRES ECOLES	ISMANS-Groupe CESI Le Mans	198	14,6%	16,2%	190	15,3%	16,8%	58	13,8%	24,1%	58	8	12,5%	37,5%	20
+2017	PT	AUTRES ECOLES	ITECH Lyon	105	31,4%	24,8%	55	40,0%	29,1%	6	66,7%	0,0%	5	2	50,0%	0,0%	5
+2017	PT	AUTRES ECOLES	SIGMA Clermont-Ferrand (ex IFMA)	987	13,2%	24,1%	568	13,9%	31,9%	279	15,1%	31,9%	161	69	15,9%	17,4%	68
+2017	PT	AUTRES ECOLES	3IL IngÃ©nieurs	160	11,9%	14,4%	136	11,8%	12,5%	37	13,5%	16,2%	36	4	0,0%	25,0%	8
+2017	PT	FESIC	UniLaSalle (Sciences de la Terre et Environnement)	931	14,5%	21,4%	791	13,9%	23,3%	56	16,1%	26,8%	0	0	0,0%	0,0%	4
+2017	PT	FESIC	ECAM Lyon	931	14,5%	21,4%	689	14,2%	25,1%	154	16,9%	27,3%	152	28	10,7%	32,1%	30
+2017	PT	FESIC	ECAM Rennes	931	14,5%	21,4%	825	13,8%	22,8%	170	16,5%	27,1%	167	6	16,7%	0,0%	18
+2017	PT	FESIC	ECAM Strasbourg Europe	931	14,5%	21,4%	862	14,3%	22,0%	128	15,6%	17,2%	128	26	15,4%	7,7%	30
+2017	PT	FESIC	ECAM-EPMI Cergy-Pontoise	931	14,5%	21,4%	881	14,2%	22,2%	145	13,8%	20,0%	144	18	16,7%	22,2%	15
+2017	PT	FESIC	ESAIP Angers / Aix-en-Provence	931	14,5%	21,4%	862	14,3%	22,0%	260	14,2%	29,2%	259	3	0,0%	0,0%	8
+2017	PT	FESIC	ESEO Angers	931	14,5%	21,4%	651	14,3%	25,8%	385	15,6%	29,6%	382	1	0,0%	0,0%	15
+2017	PT	FESIC	HEI	931	14,5%	21,4%	814	14,0%	23,1%	324	15,7%	28,7%	322	26	11,5%	30,8%	25
+2017	PT	FESIC	ISEN Ouest	931	14,5%	21,4%	827	13,8%	22,9%	196	12,8%	30,1%	162	1	0,0%	0,0%	5
+2017	PT	FESIC	ISEN Lille	931	14,5%	21,4%	827	13,8%	22,9%	198	12,6%	30,3%	197	10	0,0%	10,0%	20
+2017	PT	FESIC	ISEN MÃ©diterrannÃ©e	931	14,5%	21,4%	827	13,8%	22,9%	196	12,8%	30,1%	198	2	0,0%	0,0%	15
+2017	PT	FESIC	ISEP Paris	931	14,5%	21,4%	791	13,9%	23,3%	181	14,4%	23,2%	179	18	5,6%	22,2%	25
+2017	PT	EPITA	EPITA										50	3	0,0%	100,0%	6
+2017	PT	EPITA	IPSA Paris										39	3	0,0%	0,0%	3
+2017	PT	EPITA	IPSA Toulouse										36	3	0,0%	33,3%	2
+2017	PT	EPITA	EPITA / IPSA PT	113	12,4%	19,5%	75	10,7%	18,7%	52	9,6%	21,2%		9			11

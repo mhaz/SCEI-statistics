@@ -1,0 +1,191 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rang_du_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2015	PT	CENTRALE-SUPELEC	CENTRALE PARIS	767	12.0%	18.0%				60	11.0%	0.0%	25	10	10.0%	0.0%	10
+2015	PT	CENTRALE-SUPELEC	SUPELEC	829	11.0%	22.0%				147	6.0%	7.0%	90	24	8.0%	5.0%	24
+2015	PT	CENTRALE-SUPELEC	CENTRALE LYON	1046	13.0%	19.0%				155	5.0%	4.0%	85	25	0.0%	0.0%	24
+2015	PT	CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	441	10.0%	27.0%				37	10.0%	3.0%	20	0	0.0%	0.0%	3
+2015	PT	CENTRALE-SUPELEC	CENTRALE LILLE	957	12.0%	22.0%				155	7.0%	6.0%	127	10	0.0%	0.0%	12
+2015	PT	CENTRALE-SUPELEC	CENTRALE NANTES	1063	13.0%	21.0%				144	7.0%	5.0%	122	13	0.0%	0.0%	20
+2015	PT	CENTRALE-SUPELEC	CENTRALE MARSEILLE	773	13.0%	22.0%	198	12.0%	15.0%	189	12.0%	15.0%	152	6	66.0%	17.0%	10
+2015	PT	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										10	2	50.0%	0.0%	4
+2015	PT	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										144	3	33.0%	34.0%	4
+2015	PT	CONCOURS COMMUN MINES-PONTS	MINES de SAINT-ETIENNE										66	2	50.0%	0.0%	2
+2015	PT	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										30	2	0.0%	0.0%	2
+2015	PT	CONCOURS COMMUN MINES-PONTS	SUPAERO (ISAE) Toulouse										39	6	0.0%	0.0%	7
+2015	PT	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										50	6	16.0%	0.0%	3
+2015	PT	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										72	2	0.0%	0.0%	2
+2015	PT	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										68	1	0.0%	0.0%	1
+2015	PT	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE cursus Brest-Rennes-Toulouse										137	1	0.0%	0.0%	3
+2015	PT	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE cursus Sophia										0	0	0.0%	0.0%	1
+2015	PT	CONCOURS COMMUN MINES-PONTS	Concours Commun Mines-Ponts PT	1069	12.0%	19.0%	166	10.0%	22.0%	150	11.0%	16.0%		25			29
+2015	PT	CONCOURS COMMUN ENSAM	Arts et Métiers - ingénieurs militaires	459	9.0%	19.0%	112	15.0%	30.0%	35	14.0%	38.0%	33	9	0.0%	45.0%	9
+2015	PT	CONCOURS COMMUN ENSAM	Arts et Métiers										792	539	13.0%	26.0%	541
+2015	PT	CONCOURS COMMUN ENSAM	ENSEA Cergy										1162	10	10.0%	30.0%	25
+2015	PT	CONCOURS COMMUN ENSAM	ARTS ET MÉTIERS	2217	12.0%	18.0%	1279	12.0%	23.0%	1162	13.0%	23.0%		549			566
+2015	PT	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE	327	10.0%	11.0%	24	8.0%	0.0%	13	15.0%	0.0%	11	11	18.0%	0.0%	11
+2015	PT	CONCOURS ENS DE CACHAN	ENS Cachan	1502	12.0%	21.0%	419	9.0%	24.0%	373	9.0%	22.0%	301	37	13.0%	28.0%	37
+2015	PT	CONCOURS ENS DE CACHAN	ENS Rennes							5	0.0%	40.0%	156	0	0.0%	0.0%	0
+2015	PT	CONCOURS ENS DE CACHAN	ENS Rennes	1280	12.0%	23.0%	391	8.0%	27.0%	345	9.0%	26.0%	338	9	11.0%	34.0%	9
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM Besançon										1245	44	4.0%	16.0%	46
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Electronique										777	3	33.0%	0.0%	2
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Mathématiques et Mécanique										735	3	0.0%	0.0%	4
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Informatique										735	0	0.0%	0.0%	1
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Télecom.										876	1	100.0%	0.0%	1
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique Appliquée										1139	4	0.0%	0.0%	10
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	EISTI Cergy - Pau										1304	5	20.0%	0.0%	6
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	ISIMA Clermont-Ferrand										1305	5	0.0%	40.0%	5
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique Electronique Télécoms)										669	4	25.0%	50.0%	3
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique Matériaux Procédés)										420	3	66.0%	34.0%	3
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Pagora										830	0	0.0%	0.0%	1
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - ENSE3										547	14	21.0%	29.0%	15
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Esisar										923	3	0.0%	34.0%	3
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - ENSIMAG										601	14	7.0%	22.0%	10
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSCI Limoges										1285	0	0.0%	0.0%	2
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	CPE LYON Electronique Informatique										1197	1	0.0%	0.0%	2
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSEM Nancy Energie										989	4	50.0%	0.0%	5
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Paris										874	9	11.0%	23.0%	12
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Energie										1213	5	20.0%	40.0%	6
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Eau et Genie Civil										1103	2	0.0%	50.0%	2
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	ISAE-ENSMA Poitiers										453	5	20.0%	0.0%	5
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	SeaTech Toulon										980	10	0.0%	50.0%	8
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Electronique et Traitement du Signal										754	2	0.0%	50.0%	2
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Génie Electrique et Automatique										793	2	0.0%	0.0%	2
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Hydraulique et Mécanique des Fluides										713	2	0.0%	100.0%	2
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Informatique et Mathématiques appliquées										728	2	0.0%	0.0%	2
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Télécom.réseaux										851	2	0.0%	0.0%	2
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Civil										437	2	100.0%	0.0%	2
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et Management des systèmes										1301	2	0.0%	50.0%	6
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Méca Energ.										1236	8	0.0%	38.0%	9
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Mécatronique										1297	8	0.0%	25.0%	6
+2015	PT	CONCOURS COMMUNS POLYTECHNIQUES	Concours Commun Polytechnique PT	2165	12.0%	19.0%	1404	12.0%	23.0%	1308	12.0%	22.0%		169			185
+2015	PT	CONCOURS TELECOM INT	ENSG-Géomatique Marne la Vallée Civil	775	12.0%	23.0%	601	11.0%	25.0%	19	21.0%	22.0%	15	3	0.0%	34.0%	2
+2015	PT	CONCOURS TELECOM INT	ENSSAT Lannion	775	12.0%	23.0%	601	11.0%	25.0%	58	22.0%	26.0%	51	11	9.0%	37.0%	8
+2015	PT	CONCOURS TELECOM INT	TELECOM Nancy	775	12.0%	23.0%	601	11.0%	25.0%	118	14.0%	23.0%	48	14	28.0%	8.0%	12
+2015	PT	CONCOURS TELECOM INT	Mines St Etienne ISMIN Gardanne	775	12.0%	23.0%	251	12.0%	23.0%	27	7.0%	19.0%	10	4	0.0%	0.0%	4
+2015	PT	CONCOURS TELECOM INT	TELECOM PHYSIQUE Strasbourg - TIC et Santé	775	12.0%	23.0%	334	12.0%	25.0%	15	33.0%	27.0%	8	0	0.0%	0.0%	2
+2015	PT	CONCOURS TELECOM INT	TELECOM St Etienne	775	12.0%	23.0%	601	11.0%	25.0%	96	15.0%	28.0%	56	9	22.0%	12.0%	10
+2015	PT	CONCOURS TELECOM INT	TELECOM SudParis - cursus Evry	775	12.0%	23.0%	199	12.0%	21.0%	36	13.0%	28.0%	25	6	0.0%	0.0%	5
+2015	PT	Concours Commun des Ecoles des Mines	Ecole des Mines d'Albi										371	8	0.0%	25.0%	8
+2015	PT	Concours Commun des Ecoles des Mines	Ecole des Mines d'Alès										427	17	23.0%	42.0%	15
+2015	PT	Concours Commun des Ecoles des Mines	Ecole des Mines Douai										419	15	6.0%	47.0%	15
+2015	PT	Concours Commun des Ecoles des Mines	Ecole des Mines Nantes										175	3	0.0%	67.0%	3
+2015	PT	Concours Commun des Ecoles des Mines	ENSTA Bretagne Civil										427	13	7.0%	24.0%	13
+2015	PT	Concours Commun des Ecoles des Mines	Concours Commun des Ecoles des Mines	1687	13.0%	21.0%	695	12.0%	28.0%	529	13.0%	31.0%		56			54
+2015	PT	Concours Commun des Ecoles des Mines	ENSTA Bretagne Militaire				675	12.0%	28.0%	513	14.0%	30.0%	154	3	33.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	ENSIL Limoges Mécatronique	344	17.0%	26.0%	201	16.0%	27.0%	52	23.0%	22.0%	15	7	0.0%	0.0%	4
+2015	PT	CONCOURS POLYTECH	ENSIM Le Mans	1710	13.0%	21.0%	1247	12.0%	22.0%	1088	13.0%	24.0%	724	1	0.0%	0.0%	2
+2015	PT	CONCOURS POLYTECH	ENSTIB Epinal	222	19.0%	31.0%	170	17.0%	33.0%	51	19.0%	26.0%	51	14	14.0%	22.0%	20
+2015	PT	CONCOURS POLYTECH	ESI Reims										1064	0	0.0%	0.0%	5
+2015	PT	CONCOURS POLYTECH	ESIREM Dijon										988	0	0.0%	0.0%	2
+2015	PT	CONCOURS POLYTECH	ESIROI Saint Denis de la Réunion										774	1	0.0%	0.0%	2
+2015	PT	CONCOURS POLYTECH	ESIX Normandie										1079	2	50.0%	0.0%	4
+2015	PT	CONCOURS POLYTECH	ESSTIN Nancy										1060	3	33.0%	0.0%	6
+2015	PT	CONCOURS POLYTECH	Concours POLYTECH	1710	13.0%	21.0%	1247	12.0%	22.0%	1088	13.0%	24.0%		6			19
+2015	PT	CONCOURS POLYTECH	INP - ENI Tarbes	334	16.0%	24.0%				201	16.0%	21.0%	182	4	25.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	ISAT Nevers - département MIT (Mécanique et Ingénierie des Transports)										1036	7	0.0%	15.0%	10
+2015	PT	CONCOURS POLYTECH	ISAT Nevers - département EPEE (Energies et Moteurs)										1074	5	0.0%	20.0%	5
+2015	PT	CONCOURS POLYTECH	ISBS Créteil										617	1	0.0%	0.0%	1
+2015	PT	CONCOURS POLYTECH	ISEL Le Havre										1078	1	0.0%	100.0%	2
+2015	PT	CONCOURS POLYTECH	ISIFC Besançon										1083	1	0.0%	0.0%	1
+2015	PT	CONCOURS POLYTECH	ISIS Castres										839	0	0.0%	0.0%	4
+2015	PT	CONCOURS POLYTECH	ISTIA Angers										1087	0	0.0%	0.0%	5
+2015	PT	CONCOURS POLYTECH	ISTY Vélizy										910	1	0.0%	0.0%	6
+2015	PT	CONCOURS POLYTECH	Polytech Annecy-Chambéry - Environnement, Bâtiment, Énergie										1073	4	50.0%	25.0%	4
+2015	PT	CONCOURS POLYTECH	Polytech Annecy-Chambéry - Instrumentation, Automatique, Informatique										1005	2	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Annecy-Chambéry - Mécanique, Matériaux										1087	1	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Civil										905	3	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Electrique										1032	0	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Mathématique et Modélisation										1011	0	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Physique										1034	0	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Grenoble - Géotechnique										1039	1	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Grenoble - Matériaux										971	0	0.0%	0.0%	4
+2015	PT	CONCOURS POLYTECH	Polytech Grenoble - Prévention des risques										1025	0	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Grenoble - Systèmes électroniques et informatiques, Réseaux										1048	1	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Lille - Informatique, Microélectronique, Automatique										1085	1	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Lille - Mécanique										937	8	12.0%	0.0%	7
+2015	PT	CONCOURS POLYTECH	Polytech Lyon - Mécanique										679	0	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Lyon - Systèmes industriels, Robotique										1032	0	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Marseille - Génie Civil										1031	6	16.0%	17.0%	5
+2015	PT	CONCOURS POLYTECH	Polytech Marseille - Génie Industriel et Informatique										1088	2	50.0%	50.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Marseille - Informatique										997	0	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Marseille - Mécanique, Energétique										1068	2	50.0%	50.0%	7
+2015	PT	CONCOURS POLYTECH	Polytech Marseille - Microélectronique,Télécommunications										1077	4	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Montpellier - Mécanique et Interactions										958	2	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Nantes - Électronique et technologies numériques										1077	1	0.0%	100.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Nantes - Génie civil										604	3	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Nantes - Informatique										994	3	0.0%	34.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Nantes - Thermique, Énergétique										832	3	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - Électronique										1088	2	0.0%	50.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - Informatique										920	3	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - Mathématiques appliquées, Modélisation										1078	2	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Orléans - Écotechnologie électroniques et optiques										1088	1	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Orléans - Génie civil et géo-environnement										1088	4	0.0%	0.0%	4
+2015	PT	CONCOURS POLYTECH	Polytech Orléans - Innovation en Conception et Matériaux										1088	2	50.0%	50.0%	6
+2015	PT	CONCOURS POLYTECH	Polytech Orléans - Technologies pour l'Énergie, l'Aérospatial et la Motorisation										927	2	0.0%	0.0%	4
+2015	PT	CONCOURS POLYTECH	Polytech Paris-UPMC - Electronique et Informatique										1088	2	50.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Paris-UPMC - Robotique										998	3	0.0%	34.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Tours - Mécanique, Conception de systèmes										1006	2	0.0%	0.0%	3
+2015	PT	CONCOURS POLYTECH	Polytech Tours - aménagement et environnement										1024	1	100.0%	0.0%	7
+2015	PT	CONCOURS POLYTECH	Sup Galilée Villetaneuse										655	1	0.0%	0.0%	2
+2015	PT	CONCOURS POLYTECH	Concours POLYTECH	1710	13.0%	21.0%	1247	12.0%	22.0%	1088	13.0%	24.0%		88			165
+2015	PT	AUTRES ECOLES	ECE PARIS	586	13.0%	24.0%	535	13.0%	25.0%	212	14.0%	22.0%	212	22	9.0%	19.0%	30
+2015	PT	AUTRES ECOLES	ECOLE DE L'AIR Méca	319	10.0%	17.0%	81	8.0%	24.0%	1	0.0%	0.0%	1	0	0.0%	0.0%	2
+2015	PT	AUTRES ECOLES	EFREI Paris	165	9.0%	19.0%	156	10.0%	18.0%	40	5.0%	10.0%	34	4	0.0%	0.0%	20
+2015	PT	AUTRES ECOLES	EIGSI La Rochelle	351	19.0%	19.0%	272	19.0%	20.0%	142	23.0%	20.0%	136	21	33.0%	24.0%	20
+2015	PT	AUTRES ECOLES	EIL Côte d'Opale - Calais (informatique)										66	2	0.0%	0.0%	10
+2015	PT	AUTRES ECOLES	EIL Côte d'Opale - Longuenesse (Génie Industriel)										73	9	22.0%	23.0%	20
+2015	PT	AUTRES ECOLES	EIL Côte d'Opale Longuenesse - Calais	257	17.0%	27.0%	220	19.0%	28.0%	73	20.0%	32.0%		11			30
+2015	PT	AUTRES ECOLES	ENSAIT Roubaix										64	4	25.0%	50.0%	16
+2015	PT	AUTRES ECOLES	ENSAIT Roubaix - Formation en alternance										54	1	0.0%	0.0%	2
+2015	PT	AUTRES ECOLES	ENSAIT Roubaix	389	19.0%	27.0%	243	18.0%	32.0%	64	21.0%	29.0%		5			18
+2015	PT	AUTRES ECOLES	ENSISA Mulhouse Automatique et Systèmes										60	0	0.0%	0.0%	6
+2015	PT	AUTRES ECOLES	ENSISA Mulhouse Informatique et réseaux										44	1	0.0%	0.0%	6
+2015	PT	AUTRES ECOLES	ENSISA Mulhouse Mécanique										61	5	0.0%	20.0%	9
+2015	PT	AUTRES ECOLES	ENSISA Mulhouse Textile et Fibres										31	1	100.0%	0.0%	4
+2015	PT	AUTRES ECOLES	ENSISA Mulhouse	344	19.0%	23.0%	228	19.0%	27.0%	62	24.0%	13.0%		7			25
+2015	PT	AUTRES ECOLES	EPF campus SCEAUX										145	6	50.0%	17.0%	6
+2015	PT	AUTRES ECOLES	EPF campus TROYES										191	6	33.0%	50.0%	6
+2015	PT	AUTRES ECOLES	EPF campus MONTPELLIER										134	3	33.0%	34.0%	3
+2015	PT	AUTRES ECOLES	EPF Sceaux-Troyes-Montpellier	404	21.0%	19.0%	350	22.0%	20.0%	208	24.0%	24.0%		15			15
+2015	PT	AUTRES ECOLES	ESB Nantes	153	19.0%	28.0%	113	17.0%	32.0%	23	17.0%	18.0%	16	5	40.0%	20.0%	5
+2015	PT	AUTRES ECOLES	ESFF - Sèvres	243	13.0%	27.0%	180	12.0%	30.0%	11	18.0%	37.0%	11	2	50.0%	50.0%	7
+2015	PT	AUTRES ECOLES	ESIEA Paris - Laval	164	12.0%	21.0%	151	13.0%	20.0%	64	9.0%	21.0%	64	4	0.0%	0.0%	10
+2015	PT	AUTRES ECOLES	ESIEE Amiens	267	13.0%	29.0%	209	12.0%	27.0%	23	17.0%	18.0%	22	1	0.0%	0.0%	10
+2015	PT	AUTRES ECOLES	ESIEE Paris	243	16.0%	23.0%	204	15.0%	22.0%	74	12.0%	15.0%	73	3	0.0%	0.0%	15
+2015	PT	AUTRES ECOLES	ESIGELEC Rouen	430	14.0%	25.0%	393	14.0%	25.0%	140	13.0%	23.0%	139	15	13.0%	27.0%	40
+2015	PT	AUTRES ECOLES	ESIGETEL Villejuif	139	13.0%	21.0%	132	12.0%	22.0%	33	9.0%	16.0%	32	1	0.0%	0.0%	10
+2015	PT	AUTRES ECOLES	ESILV Paris-La Défense	392	14.0%	23.0%	364	14.0%	23.0%	151	15.0%	20.0%	137	21	14.0%	15.0%	15
+2015	PT	AUTRES ECOLES	ESITC Caen	240	20.0%	23.0%	120	19.0%	25.0%	17	35.0%	30.0%	16	4	0.0%	50.0%	8
+2015	PT	AUTRES ECOLES	ESME SUDRIA Paris	352	14.0%	25.0%	286	12.0%	27.0%	119	11.0%	32.0%	120	1	0.0%	100.0%	20
+2015	PT	AUTRES ECOLES	ESTACA Laval										197	5	0.0%	20.0%	5
+2015	PT	AUTRES ECOLES	ESTACA Paris-Saclay										184	17	11.0%	30.0%	15
+2015	PT	AUTRES ECOLES	ESTACA Paris-Saclay/Laval	539	11.0%	23.0%	397	12.0%	26.0%	300	12.0%	28.0%		22			20
+2015	PT	AUTRES ECOLES	ESTIA Bidart	411	13.0%	27.0%	324	13.0%	30.0%	139	16.0%	26.0%	138	28	14.0%	22.0%	30
+2015	PT	AUTRES ECOLES	ESTP Paris BAT										248	10	20.0%	50.0%	9
+2015	PT	AUTRES ECOLES	ESTP Paris Génie Mécanique et Electrique (GME)										295	3	0.0%	34.0%	5
+2015	PT	AUTRES ECOLES	ESTP Paris TOPOGRAPHIE										332	7	14.0%	29.0%	7
+2015	PT	AUTRES ECOLES	ESTP Paris TP										291	11	0.0%	46.0%	10
+2015	PT	AUTRES ECOLES	ESTP Paris	649	15.0%	29.0%	384	14.0%	34.0%	378	15.0%	34.0%		31			31
+2015	PT	AUTRES ECOLES	Grenoble INP - Génie Industriel	789	15.0%	27.0%	276	15.0%	37.0%	134	18.0%	36.0%	80	9	11.0%	45.0%	10
+2015	PT	AUTRES ECOLES	IFMA Clermont-Ferrand	967	12.0%	27.0%	543	13.0%	33.0%	279	15.0%	31.0%	183	61	21.0%	20.0%	68
+2015	PT	AUTRES ECOLES	INSA centre val de loire GSI										53	10	10.0%	30.0%	12
+2015	PT	AUTRES ECOLES	INSA centre val de loire MRI										78	5	20.0%	40.0%	12
+2015	PT	AUTRES ECOLES	INSA Centre Val de Loire	465	15.0%	27.0%	315	14.0%	29.0%	82	18.0%	21.0%		15			24
+2015	PT	AUTRES ECOLES	ISMANS Le Mans	296	12.0%	28.0%	196	12.0%	33.0%	37	18.0%	25.0%	35	1	0.0%	0.0%	20
+2015	PT	AUTRES ECOLES	ITECH Lyon	115	26.0%	24.0%	62	24.0%	30.0%	1	100.0%	100.0%	0	0	0.0%	0.0%	5
+2015	PT	AUTRES ECOLES	Mines Douai - ISPA Alençon	284	16.0%	31.0%	213	14.0%	36.0%	31	22.0%	30.0%	23	2	50.0%	0.0%	8
+2015	PT	AUTRES ECOLES	3IL Limoges	142	13.0%	24.0%	113	14.0%	24.0%	46	8.0%	20.0%	46	3	0.0%	0.0%	8
+2015	PT	FESIC	ECAM Lyon				200	13.0%	35.0%	56	16.0%	31.0%	55	0	0.0%	0.0%	3
+2015	PT	FESIC	ECAM Rennes	844	13.0%	23.0%	773	14.0%	23.0%	100	16.0%	17.0%	100	11	36.0%	0.0%	18
+2015	PT	FESIC	ECAM Strasbourg Europe				773	14.0%	23.0%	67	14.0%	26.0%	67	9	11.0%	34.0%	18
+2015	PT	FESIC	ECAM-EPMI Cergy-Pontoise	844	13.0%	23.0%	792	14.0%	24.0%	134	8.0%	24.0%	131	9	11.0%	12.0%	15
+2015	PT	FESIC	ESAIP Angers - Grasse	844	13.0%	23.0%	780	14.0%	23.0%	238	13.0%	33.0%	238	8	12.0%	13.0%	8
+2015	PT	FESIC	ESEO Angers	844	13.0%	23.0%	632	13.0%	26.0%	380	13.0%	30.0%	379	3	33.0%	0.0%	5
+2015	PT	FESIC	HEI	844	13.0%	23.0%	733	13.0%	24.0%	363	16.0%	31.0%	334	30	20.0%	24.0%	26
+2015	PT	FESIC	ISEN Brest	844	13.0%	23.0%	713	13.0%	25.0%	180	12.0%	29.0%	165	0	0.0%	0.0%	5
+2015	PT	FESIC	ISEN Lille	844	13.0%	23.0%	713	13.0%	25.0%	180	12.0%	29.0%	176	6	0.0%	17.0%	20
+2015	PT	FESIC	ISEN Toulon	844	13.0%	23.0%	713	13.0%	25.0%	180	12.0%	29.0%	178	2	0.0%	0.0%	10
+2015	PT	FESIC	ISEP Paris	844	13.0%	23.0%	742	13.0%	24.0%	218	11.0%	28.0%	216	31	6.0%	20.0%	25
+2015	PT	EPITA	EPITA										33	3	0.0%	34.0%	5
+2015	PT	EPITA	IPSA Paris										40	2	0.0%	0.0%	3
+2015	PT	EPITA	IPSA Toulouse										40	3	0.0%	0.0%	2
+2015	PT	EPITA	EPITA / IPSA PT	86	11.0%	23.0%	54	7.0%	17.0%	41	9.0%	15.0%		8			10

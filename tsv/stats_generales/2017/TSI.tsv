@@ -1,0 +1,133 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rang_du_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2017	TSI	Concours Polytechnique	ECOLE POLYTECHNIQUE				80	1,2%	20,0%	2	0,0%	0,0%	2	2	0,0%	0,0%	2
+2017	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE PARIS	494	7,9%	17,4%	43	2,3%	9,3%	43	2,3%	9,3%	18	10	0,0%	0,0%	10
+2017	TSI	CONCOURS CENTRALE-SUPELEC	SUPELEC - Campus Gif (apprentissage) TSI										34	7	0,0%	14,3%	4
+2017	TSI	CONCOURS CENTRALE-SUPELEC	SUPELEC - Campus Metz TSI										30	3	0,0%	0,0%	4
+2017	TSI	CONCOURS CENTRALE-SUPELEC	SUPELEC - Campus Rennes TSI										22	3	0,0%	0,0%	4
+2017	TSI	CONCOURS CENTRALE-SUPELEC	SupÃ©lec	534	6,7%	16,9%	74	2,7%	14,9%	72	2,8%	15,3%		13			12
+2017	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE LYON	552	7,4%	17,4%	56	3,6%	16,1%	56	3,6%	16,1%	30	5	0,0%	40,0%	5
+2017	TSI	CONCOURS CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	321	6,9%	18,4%	17	0,0%	17,6%	17	0,0%	17,6%	9	0	0,0%	0,0%	2
+2017	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE LILLE	540	7,4%	18,1%	55	3,6%	12,7%	55	3,6%	12,7%	43	4	0,0%	25,0%	5
+2017	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE NANTES	610	7,9%	17,5%	57	3,5%	12,3%	57	3,5%	12,3%	43	9	0,0%	44,4%	10
+2017	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE MARSEILLE	556	7,6%	19,2%	99	5,1%	19,2%	89	3,4%	19,1%	43	5	0,0%	40,0%	5
+2017	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE CASABLANCA	279	7,2%	19,7%	31	0,0%	19,4%	30	0,0%	20,0%	30	0	0,0%	0,0%	2
+2017	TSI	CONCOURS CENTRALE-SUPELEC	UniversitÃ© de Technologie de Troyes (UTT)	385	8,3%	18,7%	62	4,8%	17,7%	47	4,3%	23,4%	47	4	25,0%	50,0%	5
+2017	TSI	BANQUE DE NOTES CENTRALE	SIGMA Clermont-Ferrand (ex IFMA)	344	6,7%	20,1%	74	4,1%	29,7%	14	0,0%	21,4%	14	6	0,0%	33,3%	8
+2017	TSI	BANQUE DE NOTES CENTRALE	ISMANS-Groupe CESI Le Mans	359	7,0%	21,4%	334	6,9%	23,1%	89	10,1%	32,6%	88	28	10,7%	53,6%	20
+2017	TSI	BANQUE DE NOTES CENTRALE	ESIX Normandie	579	8,3%	20,2%	411	8,3%	23,8%	67	13,4%	29,9%	66	29	10,3%	34,5%	40
+2017	TSI	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										4	1	0,0%	0,0%	2
+2017	TSI	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										35	1	0,0%	0,0%	2
+2017	TSI	CONCOURS COMMUN MINES-PONTS	MINES de SAINT-ETIENNE										43	1	0,0%	0,0%	2
+2017	TSI	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										0	0	0,0%	0,0%	1
+2017	TSI	CONCOURS COMMUN MINES-PONTS	ISAE - SUPAERO Toulouse										24	2	0,0%	0,0%	3
+2017	TSI	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										26	2	0,0%	0,0%	2
+2017	TSI	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										23	0	0,0%	0,0%	2
+2017	TSI	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										23	1	0,0%	0,0%	1
+2017	TSI	CONCOURS COMMUN MINES-PONTS	IMT Atlantique ex TÃ©lÃ©com Bretagne cursus Brest-Rennes-Toulouse										44	1	0,0%	0,0%	1
+2017	TSI	CONCOURS COMMUN MINES-PONTS	Concours Commun Mines Ponts TSI	657	7,3%	17,2%	80	1,2%	20,0%	51	0,0%	11,8%		9			16
+2017	TSI	CONCOURS COMMUN ENSAM	Arts et MÃ©tiers										92	33	3,0%	30,3%	35
+2017	TSI	CONCOURS COMMUN ENSAM	ENSEA Cergy										129	5	0,0%	0,0%	10
+2017	TSI	CONCOURS COMMUN ENSAM	ESIEE Amiens										125	0	0,0%	0,0%	5
+2017	TSI	CONCOURS COMMUN ENSAM	ARTS ET MÃTIERS	787	7,4%	18,0%	177	5,1%	20,9%	130	4,6%	23,8%		38			50
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM BesanÃ§on										245	20	0,0%	20,0%	19
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Electronique										210	8	0,0%	0,0%	4
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Informatique										173	4	0,0%	0,0%	2
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA TÃ©lecom.										213	2	0,0%	0,0%	2
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique AppliquÃ©e										239	2	50,0%	0,0%	2
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ISIMA Clermont-Ferrand										275	7	0,0%	14,3%	5
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - ENSE3										103	2	50,0%	0,0%	3
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Pagora										131	1	0,0%	100,0%	1
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique MatÃ©riaux ProcÃ©dÃ©s)										125	2	0,0%	50,0%	2
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique Electronique TÃ©lÃ©coms)										103	3	0,0%	66,7%	2
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	CPE LYON Electronique Informatique										312	2	0,0%	100,0%	2
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSEM Nancy Energie										187	4	0,0%	50,0%	5
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Paris										109	3	0,0%	0,0%	3
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Energie										282	2	50,0%	0,0%	4
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ISAE-ENSMA Poitiers										47	2	0,0%	0,0%	2
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	SeaTech Toulon										197	3	0,0%	66,7%	3
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Civil (Ã©tudiant)										331	2	0,0%	0,0%	2
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	TELECOM PHYSIQUE Strasbourg										173	5	0,0%	40,0%	6
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Electronique et Traitement du Signal										56	1	0,0%	0,0%	1
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse GÃ©nie Electrique et Automatique										39	1	0,0%	0,0%	1
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et GÃ©nie Industriel										346	4	25,0%	25,0%	2
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes MÃ©ca Energ.										318	10	10,0%	20,0%	6
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes MÃ©catronique										315	6	0,0%	0,0%	8
+2017	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Concours Commun Polytechnique TSI	1273	9,2%	15,9%	540	6,1%	19,4%	346	4,6%	18,8%		96			87
+2017	TSI	BANQUE EPREUVES C.C.P Inter-FiliÃ¨re	ENSGSI Nancy - Groupe INP	389	8,7%	19,5%	137	4,4%	23,4%	19	15,8%	26,3%	180*	4	25,0%	25,0%	35*
+2017	TSI	BANQUE EPREUVES C.C.P	ECAM Rennes	407	7,4%	17,4%	330	7,9%	19,1%	60	10,0%	21,7%	43	7	0,0%	14,3%	10
+2017	TSI	BANQUE EPREUVES C.C.P	EIL CÃ´te d'Opale - Calais (informatique)										142	3	33,3%	0,0%	5
+2017	TSI	BANQUE EPREUVES C.C.P	EIL CÃ´te d'Opale - Longuenesse (GÃ©nie Industriel)										168	13	7,7%	15,4%	10
+2017	TSI	BANQUE EPREUVES C.C.P	EIL CÃ´te d'Opale Longuenesse - Calais	390	6,9%	14,1%	297	5,4%	14,8%	168	3,6%	16,7%		16			15
+2017	TSI	BANQUE EPREUVES C.C.P	EIVP Paris Civil	1273	9,2%	15,9%	229	7,9%	28,4%	157	5,7%	30,6%	84	7	14,3%	14,3%	7
+2017	TSI	BANQUE EPREUVES C.C.P	ENS Cachan Paris-Saclay	600	9,5%	18,7%	63	0,0%	25,4%	31	0,0%	25,8%	23	4	0,0%	25,0%	4
+2017	TSI	BANQUE EPREUVES C.C.P	ENS Rennes	609	9,5%	18,1%	79	1,3%	29,1%	48	2,1%	33,3%	24	2	0,0%	50,0%	2
+2017	TSI	BANQUE EPREUVES C.C.P	ENSAIT Roubaix										63	5	0,0%	20,0%	4
+2017	TSI	BANQUE EPREUVES C.C.P	ENSAIT Roubaix - Formation en alternance										73	1	0,0%	100,0%	2
+2017	TSI	BANQUE EPREUVES C.C.P	ENSAIT Roubaix	383	8,4%	17,8%	253	7,5%	20,9%	78	10,3%	25,6%		6			6
+2017	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Automatique et SystÃ¨mes EmbarquÃ©s										37	3	33,3%	0,0%	4
+2017	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Informatique et rÃ©seaux										25	2	0,0%	50,0%	3
+2017	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse MÃ©canique										24	2	0,0%	50,0%	5
+2017	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Textile et Fibres										34	1	0,0%	0,0%	3
+2017	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse TSI	519	8,1%	17,5%	230	5,2%	19,1%	42	7,1%	16,7%		8			15
+2017	TSI	BANQUE EPREUVES C.C.P	ENSTIB Epinal	316	8,9%	18,4%	220	9,1%	15,5%	59	11,9%	11,9%	19	8	25,0%	12,5%	7
+2017	TSI	BANQUE EPREUVES C.C.P	ENTPE Lyon Civil	498	7,6%	19,9%	175	6,9%	28,0%	70	2,9%	31,4%	48	2	50,0%	0,0%	2
+2017	TSI	BANQUE EPREUVES C.C.P	ENTPE Lyon Fonctionnaire	498	7,6%	19,9%	175	6,9%	28,0%	70	2,9%	31,4%	56	4	25,0%	25,0%	4
+2017	TSI	BANQUE EPREUVES C.C.P	ESB Nantes	278	9,0%	19,4%	232	8,6%	19,4%	38	10,5%	21,1%	38	13	15,4%	30,8%	15
+2017	TSI	BANQUE EPREUVES C.C.P	ESIGELEC Rouen	505	7,9%	15,0%	429	6,8%	15,9%	247	4,5%	16,2%	218	42	7,1%	14,3%	30
+2017	TSI	BANQUE EPREUVES C.C.P	ESIREM Dijon	389	9,5%	18,3%	259	8,5%	17,0%	71	11,3%	18,3%	26	9	11,1%	0,0%	8
+2017	TSI	BANQUE EPREUVES C.C.P	ESTIA Bidart	405	7,2%	14,3%	279	5,4%	14,7%	113	4,4%	9,7%	66	33	3,0%	3,0%	30
+2017	TSI	BANQUE EPREUVES C.C.P	ESTP Paris - BÃ¢timent (B) - campus de Cachan										70	5	0,0%	20,0%	4
+2017	TSI	BANQUE EPREUVES C.C.P	ESTP Paris - GÃ©nie MÃ©canique et Electrique(GME)										125	8	0,0%	50,0%	5
+2017	TSI	BANQUE EPREUVES C.C.P	ESTP Paris - Topographie (T)										115	3	0,0%	66,7%	4
+2017	TSI	BANQUE EPREUVES C.C.P	ESTP Paris - Travaux Publics (TP)										106	10	0,0%	60,0%	5
+2017	TSI	BANQUE EPREUVES C.C.P	ESTP Paris	382	7,6%	21,7%	222	6,3%	29,3%	174	4,0%	31,6%		26			18
+2017	TSI	BANQUE EPREUVES C.C.P	INP - ENI Tarbes	556	7,0%	17,6%	270	4,1%	17,8%	247	4,0%	17,4%	157	7	0,0%	0,0%	8
+2017	TSI	BANQUE EPREUVES C.C.P	ISAT Nevers - dÃ©partement MIT (MÃ©canique et IngÃ©nierie des Transports)										40	0	0,0%	0,0%	6
+2017	TSI	BANQUE EPREUVES C.C.P	ISAT Nevers - dÃ©partement EPEE (Energies et Moteurs)										42	2	0,0%	0,0%	5
+2017	TSI	BANQUE EPREUVES C.C.P	ISAT Nevers TSI	473	5,3%	19,2%	201	2,5%	24,4%	46	0,0%	15,2%		2			11
+2017	TSI	BANQUE EPREUVES C.C.P	ISEP Paris	260	7,3%	18,5%	235	7,2%	18,3%	77	7,8%	26,0%	23	8	0,0%	0,0%	6
+2017	TSI	BANQUE EPREUVES C.C.P	ISIS Castres	1273	9,2%	15,9%	200	5,5%	19,0%	4	25,0%	0,0%	4	0	0,0%	0,0%	2
+2017	TSI	BANQUE EPREUVES C.C.P	3IL IngÃ©nieurs	285	6,3%	14,0%	266	6,0%	13,5%	87	3,4%	10,3%	68	12	8,3%	0,0%	8
+2017	TSI	Concours Mines - TÃ©lÃ©com	Ecole des Mines d'Albi										76	2	0,0%	50,0%	2
+2017	TSI	Concours Mines - TÃ©lÃ©com	Ecole des Mines d'AlÃ¨s										81	2	0,0%	100,0%	2
+2017	TSI	Concours Mines - TÃ©lÃ©com	ENSIIE Evry										149	4	0,0%	25,0%	5
+2017	TSI	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut Ã©tudiant)										72	2	0,0%	50,0%	2
+2017	TSI	Concours Mines - TÃ©lÃ©com	IMT Atlantique - ingÃ©nieur Mines Nantes										40	2	0,0%	0,0%	2
+2017	TSI	Concours Mines - TÃ©lÃ©com	IMT Lille Douai - ingÃ©nieur Mines Douai										97	1	0,0%	100,0%	2
+2017	TSI	Concours Mines - TÃ©lÃ©com	Mines Saint Etienne-ISMIN										113	5	0,0%	20,0%	4
+2017	TSI	Concours Mines - TÃ©lÃ©com	TELECOM SudParis - cursus Evry										77	6	0,0%	0,0%	5
+2017	TSI	Concours Mines - TÃ©lÃ©com	Concours Mines-TÃ©lÃ©com	719	7,1%	19,1%	223	3,1%	22,0%	191	2,1%	23,0%		24			24
+2017	TSI	Concours Mines - TÃ©lÃ©com	ENSG-GÃ©omatique Marne la VallÃ©e Civil										155	2	50,0%	0,0%	1
+2017	TSI	Concours Mines - TÃ©lÃ©com	ENSSAT Lannion										183	3	0,0%	0,0%	3
+2017	TSI	Concours Mines - TÃ©lÃ©com	TELECOM Nancy										141	3	33,3%	33,3%	3
+2017	TSI	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut Ã©tudiant										134	4	0,0%	50,0%	5
+2017	TSI	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut apprenti										201	3	0,0%	33,3%	4
+2017	TSI	Concours Mines - TÃ©lÃ©com	Concours Mines TÃ©lÃ©com SpÃ©cifique TSI	719	7,1%	19,1%	300	4,3%	22,3%	219	3,2%	24,2%		15			16
+2017	TSI	RÃ©seau Polytech	Polytech Annecy-ChambÃ©ry - Environnement, BÃ¢timent, Ãnergie										209	3	0,0%	66,7%	2
+2017	TSI	RÃ©seau Polytech	Polytech Annecy-ChambÃ©ry - Instrumentation, Automatique, Informatique										297	0	0,0%	0,0%	2
+2017	TSI	RÃ©seau Polytech	Polytech Annecy-ChambÃ©ry - MÃ©canique, MatÃ©riaux										214	3	0,0%	0,0%	3
+2017	TSI	RÃ©seau Polytech	Polytech Clermont-Ferrand - GÃ©nie Electrique										282	1	0,0%	0,0%	2
+2017	TSI	RÃ©seau Polytech	Polytech Clermont-Ferrand - GÃ©nie Physique										356	2	0,0%	0,0%	2
+2017	TSI	RÃ©seau Polytech	Polytech Grenoble - Informatique et Ã©lectronique des systÃ¨mes embarquÃ©s										169	1	0,0%	0,0%	2
+2017	TSI	RÃ©seau Polytech	Polytech Lyon - MÃ©canique										174	2	0,0%	0,0%	2
+2017	TSI	RÃ©seau Polytech	Polytech Lyon - SystÃ¨mes industriels, Robotique										176	2	0,0%	0,0%	2
+2017	TSI	RÃ©seau Polytech	Polytech Marseille - GÃ©nie Civil										164	4	0,0%	0,0%	3
+2017	TSI	RÃ©seau Polytech	Polytech Marseille - GÃ©nie Industriel et Informatique										365	2	0,0%	50,0%	3
+2017	TSI	RÃ©seau Polytech	Polytech Marseille - Informatique										196	4	0,0%	0,0%	3
+2017	TSI	RÃ©seau Polytech	Polytech Marseille - MÃ©canique, EnergÃ©tique										339	2	0,0%	0,0%	3
+2017	TSI	RÃ©seau Polytech	Polytech Marseille - MicroÃ©lectronique,TÃ©lÃ©communications										317	3	0,0%	33,3%	2
+2017	TSI	RÃ©seau Polytech	Polytech Montpellier - MicroÃ©lectronique et Automatique										354	2	0,0%	0,0%	3
+2017	TSI	RÃ©seau Polytech	Polytech Nantes - Ãnergie Ã©lectrique										317	3	0,0%	66,7%	3
+2017	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - Ãcotechnologie Ã©lectroniques et optiques										361	2	0,0%	50,0%	3
+2017	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - GÃ©nie civil et gÃ©o-environnement										328	7	0,0%	28,6%	4
+2017	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - GÃ©nie industriel										366	3	0,0%	33,3%	3
+2017	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - Innovation en Conception et MatÃ©riaux										366	3	33,3%	0,0%	4
+2017	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - Technologies pour l'Ãnergie, l'AÃ©rospatial et la Motorisation										207	4	0,0%	0,0%	3
+2017	TSI	RÃ©seau Polytech	Polytech Tours - Ãlectronique, Ãnergie Ã©lectrique										307	2	0,0%	0,0%	3
+2017	TSI	RÃ©seau Polytech	Polytech Tours - Informatique										366	4	0,0%	25,0%	3
+2017	TSI	RÃ©seau Polytech	Polytech Tours - MÃ©canique, Conception de systÃ¨mes										252	2	0,0%	0,0%	2
+2017	TSI	RÃ©seau Polytech	Reseau Polytech	1029	8,5%	17,0%	573	6,8%	17,6%	366	3,8%	19,9%		61			62
+2017	TSI	EPITA	EPITA										34	5	0,0%	0,0%	6
+2017	TSI	EPITA	IPSA Paris										29	6	0,0%	16,7%	5
+2017	TSI	EPITA	IPSA Toulouse										12	1	100,0%	0,0%	3
+2017	TSI	EPITA	EPITA / IPSA TSI	137	13,9%	15,3%	88	11,4%	15,9%	36	13,9%	13,9%		12			14

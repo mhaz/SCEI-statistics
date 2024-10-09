@@ -1,0 +1,59 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rang_du_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2010	BCPST	A BIO	AgroParisTech Grignon										811	258	69.0%	21.0%	257
+2010	BCPST	A BIO	Montpellier Sup Agro (cursus agronome)										943	97	68.0%	39.0%	97
+2010	BCPST	A BIO	Montpellier Sup Agro (cursus SAADS)										972	5	60.0%	40.0%	5
+2010	BCPST	A BIO	Agrocampus Ouest (cursus ingénieur agronome)										1166	100	76.0%	43.0%	100
+2010	BCPST	A BIO	ENSAT Toulouse										1280	96	67.0%	40.0%	96
+2010	BCPST	A BIO	ENSAIA Nancy										1591	101	70.0%	33.0%	102
+2010	BCPST	A BIO	Agrocampus Ouest (cursus ingénieur en horticulture et en paysage)										1752	39	79.0%	39.0%	40
+2010	BCPST	A BIO	Agrosup Dijon (Cursus Agroalimentaire)										2006	38	81.0%	24.0%	39
+2010	BCPST	A BIO	ENITAB Bordeaux (Fonctionnaire)										1339	10	60.0%	50.0%	10
+2010	BCPST	A BIO	ENITAB Bordeaux (Civil)										1802	62	74.0%	41.0%	62
+2010	BCPST	A BIO	ENITAC Clermont-Ferrand - VetAgro Sup (Fonctionnaire)										1556	7	57.0%	43.0%	7
+2010	BCPST	A BIO	ENITAC Clermont-Ferrand - VetAgro Sup (Civil)										1964	44	68.0%	44.0%	43
+2010	BCPST	A BIO	ENITIAA Nantes - Oniris										2009	44	88.0%	30.0%	45
+2010	BCPST	A BIO	Agrosup Dijon (Cursus Agronome) civil										1910	36	75.0%	31.0%	40
+2010	BCPST	A BIO	Agrosup Dijon (Cursus agronome) fonctionnaire										1437	6	83.0%	67.0%	6
+2010	BCPST	A BIO	Concours commun A BIO	2928	71.0%	24.0%	2199	70.0%	29.0%	2033	70.0%	30.0%		943			949
+2010	BCPST	A ENV	ENV Alfort										460	94	81.0%	44.0%	94
+2010	BCPST	A ENV	ENV Lyon - VetAgro Sup										405	94	84.0%	45.0%	94
+2010	BCPST	A ENV	ENV Nantes - Oniris										456	94	73.0%	57.0%	94
+2010	BCPST	A ENV	ENV Toulouse										441	94	75.0%	64.0%	94
+2010	BCPST	A ENV	Concours commun A ENV	1879	75.0%	29.0%	898	75.0%	41.0%	557	76.0%	47.0%		376			376
+2010	BCPST	PC BIO	ESPCI ParisTech										234	5	60.0%	20.0%	6
+2010	BCPST	PC BIO	Chimie ParisTech										250	0	0.0%	0.0%	3
+2010	BCPST	PC BIO	ENSC Montpellier										353	4	50.0%	50.0%	5
+2010	BCPST	PC BIO	ENSC Lille										389	4	75.0%	50.0%	5
+2010	BCPST	PC BIO	ENSCBP Bordeaux										525	6	83.0%	17.0%	14
+2010	BCPST	PC BIO	Concours commun A PC BIO	971	68.0%	28.0%	610	67.0%	37.0%	525	68.0%	38.0%		19			33
+2010	BCPST	ENS	ENS Ulm	738	63.0%	24.0%	78	48.0%	15.0%	32	37.0%	7.0%	27	22	36.0%	5.0%	22
+2010	BCPST	ENS	ENS Lyon	765	62.0%	23.0%	158	47.0%	16.0%	96	42.0%	13.0%	83	34	26.0%	15.0%	34
+2010	BCPST	ENS	ENS Cachan	735	63.0%	24.0%	167	47.0%	18.0%	95	44.0%	14.0%	72	16	37.0%	13.0%	16
+2010	BCPST	G2E	ENGEES Strasbourg Civil	1433	68.0%	27.0%	944	67.0%	33.0%	495	65.0%	33.0%	361	24	41.0%	17.0%	24
+2010	BCPST	G2E	ENSG Nancy	1433	68.0%	27.0%	944	67.0%	33.0%	368	66.0%	33.0%	306	62	51.0%	34.0%	64
+2010	BCPST	G2E	ENSIL Limoges EE	1433	68.0%	27.0%	944	67.0%	33.0%	492	64.0%	33.0%	448	0	0.0%	0.0%	6
+2010	BCPST	G2E	ENTPE Vaulx en Velin Civil	1433	68.0%	27.0%	944	67.0%	33.0%	389	65.0%	35.0%	386	11	63.0%	46.0%	12
+2010	BCPST	G2E	ENTPE Vaulx en Velin Fonctionnaire	737	65.0%	33.0%	506	64.0%	40.0%	239	61.0%	39.0%	154	13	69.0%	47.0%	13
+2010	BCPST	G2E	EOST Strasbourg	1433	68.0%	27.0%	944	67.0%	33.0%	408	65.0%	35.0%	352	9	77.0%	23.0%	8
+2010	BCPST	G2E	ENSIP Poitiers Eau et Genie Civil	1433	68.0%	27.0%	944	67.0%	33.0%	475	64.0%	34.0%	416	6	16.0%	34.0%	8
+2010	BCPST	G2E	Polytech Paris-UPMC Sciences de la Terre	1433	68.0%	27.0%	944	67.0%	33.0%	529	64.0%	33.0%	517	5	40.0%	20.0%	7
+2010	BCPST	G2E	Polytech Orléans Génie civil, Géosciences, Environnement	1433	68.0%	27.0%	944	67.0%	33.0%	529	64.0%	33.0%	529	12	66.0%	42.0%	17
+2010	BCPST	ARCH BIO	ENSTIB Epinal	606	63.0%	29.0%	402	61.0%	34.0%	75	58.0%	24.0%	48	15	66.0%	14.0%	15
+2010	BCPST	Concours Archimède	ESBS Strasbourg										359	7	57.0%	29.0%	7
+2010	BCPST	Concours Archimède	ESIL Marseille Biotech										984	9	44.0%	34.0%	12
+2010	BCPST	Concours Archimède	ESIX Normandie - Génie Agroalimentaire										1200	3	66.0%	0.0%	10
+2010	BCPST	Concours Archimède	ESMISAB Brest										1186	7	71.0%	0.0%	11
+2010	BCPST	Concours Archimède	ENSTBB Bordeaux										1056	25	72.0%	12.0%	26
+2010	BCPST	Concours Archimède	ISBS										936	5	100.0%	20.0%	3
+2010	BCPST	Concours Archimède	ISIFC Besançon										1181	8	62.0%	38.0%	10
+2010	BCPST	Concours Archimède	Polytech Clermont-Ferrand Génie biologique										1159	8	62.0%	50.0%	9
+2010	BCPST	Concours Archimède	Polytech Grenoble Géotechnique										1161	2	100.0%	0.0%	4
+2010	BCPST	Concours Archimède	Polytech Grenoble Technologies de l'information pour la santé										1159	0	0.0%	0.0%	3
+2010	BCPST	Concours Archimède	Polytech Lille Génie biologique et alimentaire										1165	5	60.0%	40.0%	7
+2010	BCPST	Concours Archimède	Polytech Montpellier Sciences et technologies de l'eau										872	5	60.0%	20.0%	5
+2010	BCPST	Concours Archimède	Polytech Montpellier Industries alimentaires										1185	7	71.0%	29.0%	7
+2010	BCPST	Concours Archimède	Polytech Nice-Sophia Génie biologique										876	10	80.0%	30.0%	13
+2010	BCPST	Concours Archimède	Polytech Nice-Sophia Génie de l'eau										1083	3	66.0%	0.0%	3
+2010	BCPST	Concours Archimède	Polytech Paris-UPMC Agroalimentaire										1200	6	66.0%	50.0%	6
+2010	BCPST	Concours Archimède	Polytech Tours Aménagement										1200	7	85.0%	0.0%	14
+2010	BCPST	Concours Archimède	Concours commun A ARCH BIO	1882	73.0%	26.0%	1235	72.0%	29.0%	1200	72.0%	30.0%		117			150

@@ -1,0 +1,297 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rang_du_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2015	MP	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE Info.	793	10.0%	24.0%	210	10.0%	16.0%	152	10.0%	15.0%	132	102	11.0%	19.0%	102
+2015	MP	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE P&SI	850	18.0%	28.0%	162	15.0%	22.0%	106	16.0%	21.0%	89	80	17.0%	18.0%	80
+2015	MP	BANQUE ENS	ENS Ulm MPI	1509	16.0%	31.0%	142	8.0%	28.0%	91	6.0%	19.0%	81	40	7.0%	15.0%	40
+2015	MP	BANQUE ENS	ENS Ulm Info.	214	8.0%	21.0%	37	5.0%	17.0%	23	8.0%	14.0%	14	11	9.0%	0.0%	11
+2015	MP	BANQUE ENS	ENS Cachan MP	1584	17.0%	30.0%	265	10.0%	32.0%	192	11.0%	30.0%	192	17	5.0%	65.0%	17
+2015	MP	BANQUE ENS	ENS Cachan Info.	270	7.0%	24.0%	100	2.0%	23.0%	72	2.0%	23.0%	63	14	7.0%	43.0%	14
+2015	MP	BANQUE ENS	ENS de Lyon MPI	1560	17.0%	30.0%	237	9.0%	32.0%	148	12.0%	24.0%	148	16	18.0%	25.0%	16
+2015	MP	BANQUE ENS	ENS de Lyon Info.	301	8.0%	25.0%	121	3.0%	22.0%	78	5.0%	18.0%	55	23	4.0%	14.0%	23
+2015	MP	BANQUE ENS	ENS Rennes MP	1428	18.0%	31.0%	290	11.0%	33.0%	239	12.0%	33.0%	211	11	0.0%	37.0%	11
+2015	MP	BANQUE ENS	ENS Rennes Info.	270	10.0%	27.0%	112	4.0%	26.0%	100	5.0%	25.0%	65	9	33.0%	56.0%	9
+2015	MP	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										208	49	20.0%	11.0%	46
+2015	MP	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										1210	54	24.0%	30.0%	54
+2015	MP	CONCOURS COMMUN MINES-PONTS	MINES de SAINT-ETIENNE										1317	40	20.0%	28.0%	40
+2015	MP	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										394	60	15.0%	12.0%	57
+2015	MP	CONCOURS COMMUN MINES-PONTS	SUPAERO (ISAE) Toulouse										796	61	14.0%	17.0%	70
+2015	MP	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										734	53	33.0%	21.0%	53
+2015	MP	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										818	52	11.0%	31.0%	53
+2015	MP	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										977	18	55.0%	17.0%	20
+2015	MP	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE cursus Brest-Rennes-Toulouse										1629	61	13.0%	19.0%	50
+2015	MP	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE cursus Sophia										1003	0	0.0%	0.0%	3
+2015	MP	CONCOURS COMMUN MINES-PONTS	ENSAE ParisTech										993	47	6.0%	47.0%	45
+2015	MP	CONCOURS COMMUN MINES-PONTS	Concours Commun Mines Ponts MP	5605	21.0%	23.0%	1812	15.0%	23.0%	1732	15.0%	23.0%		495			491
+2015	MP	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS	3370	19.0%	26.0%	766	14.0%	20.0%	746	15.0%	20.0%	385	142	21.0%	20.0%	142
+2015	MP	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS - étr.	232	20.0%	35.0%	93	16.0%	42.0%	91	16.0%	42.0%	40	19	21.0%	48.0%	18
+2015	MP	BANQUE CENTRALE-SUPELEC	SUPELEC	3101	19.0%	26.0%	984	15.0%	23.0%	960	15.0%	23.0%	874	141	14.0%	32.0%	145
+2015	MP	BANQUE CENTRALE-SUPELEC	SUPELEC - étr.	155	22.0%	34.0%				54	24.0%	39.0%	42	8	25.0%	63.0%	2
+2015	MP	BANQUE CENTRALE-SUPELEC	CENTRALE LYON	3680	19.0%	26.0%	1103	16.0%	24.0%	1073	16.0%	24.0%	869	121	20.0%	31.0%	127
+2015	MP	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	1781	23.0%	29.0%	1022	22.0%	27.0%	893	22.0%	26.0%	706	41	46.0%	25.0%	40
+2015	MP	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) - étr.	62	32.0%	38.0%	36	25.0%	39.0%	33	24.0%	34.0%	33	2	0.0%	50.0%	2
+2015	MP	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE	3325	21.0%	27.0%	981	18.0%	30.0%	958	18.0%	30.0%	892	70	11.0%	35.0%	90
+2015	MP	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES	3529	22.0%	28.0%	927	19.0%	29.0%	900	19.0%	29.0%	878	102	22.0%	25.0%	135
+2015	MP	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE	2927	22.0%	27.0%	1297	20.0%	24.0%	1148	20.0%	24.0%	976	64	21.0%	30.0%	80
+2015	MP	BANQUE CENTRALE-SUPELEC	CENTRALE CASABLANCA	613	21.0%	34.0%	95	12.0%	44.0%	89	13.0%	43.0%	86	0	0.0%	0.0%	9
+2015	MP	BANQUE CENTRALE-SUPELEC	ECOLE NAVALE Brest	564	17.0%	35.0%	203	13.0%	42.0%	95	11.0%	58.0%	63	25	12.0%	56.0%	25
+2015	MP	BANQUE CENTRALE-SUPELEC	ENSEA Cergy	1629	22.0%	28.0%	1256	21.0%	24.0%	458	26.0%	20.0%	453	52	32.0%	16.0%	60
+2015	MP	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS - CI										21	15	26.0%	0.0%	15
+2015	MP	BANQUE CENTRALE-SUPELEC	SUPELEC - CI										32	4	50.0%	0.0%	5
+2015	MP	BANQUE CENTRALE-SUPELEC	CENTRALE LYON - CI										40	8	12.0%	0.0%	8
+2015	MP	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE - CI										42	3	0.0%	0.0%	3
+2015	MP	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES - CI										46	4	100.0%	25.0%	5
+2015	MP	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) - CI										81	0	0.0%	0.0%	3
+2015	MP	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE - CI										50	1	0.0%	100.0%	2
+2015	MP	BANQUE CENTRALE-SUPELEC	Cycle International Centrale-Supelec	590	30.0%	16.0%	179	22.0%	8.0%	162	23.0%	8.0%		35			41
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM Besançon										3518	38	23.0%	45.0%	42
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Electronique										2940	33	33.0%	22.0%	35
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Informatique										2605	59	22.0%	23.0%	52
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Mathématiques et Mécanique										2236	36	36.0%	20.0%	33
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Télecom.										2843	19	15.0%	32.0%	28
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique Appliquée										3254	13	7.0%	47.0%	20
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Informatique										3562	24	12.0%	55.0%	30
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	EISTI Cergy - Pau										3738	38	10.0%	29.0%	48
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ISIMA Clermont-Ferrand										3716	38	26.0%	29.0%	40
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - ENSE3										2078	56	23.0%	36.0%	75
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - ENSIMAG										965	120	19.0%	40.0%	115
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Esisar										2740	9	11.0%	23.0%	11
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Pagora										3198	4	25.0%	50.0%	11
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique Electronique Télécoms)										1666	51	15.0%	26.0%	60
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique Matériaux Procédés)										1266	31	29.0%	23.0%	38
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	CPE LYON Electronique Informatique										3585	10	10.0%	40.0%	12
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSEM Nancy Energie										3427	30	13.0%	34.0%	35
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSEM Nancy Spécialité des systèmes numériques										3325	10	20.0%	50.0%	8
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSG Nancy										2916	6	33.0%	34.0%	5
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSIC Nancy										3171	2	50.0%	0.0%	5
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	Chimie ParisTech										762	2	50.0%	50.0%	3
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Paris										2795	50	20.0%	30.0%	43
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSGTI Pau - Energétique										3728	6	33.0%	50.0%	10
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Eau et Genie Civil										3423	8	50.0%	38.0%	6
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Energie										3588	16	50.0%	19.0%	17
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ISAE-ENSMA Poitiers										2081	55	9.0%	30.0%	55
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Civil (étudiant)										3632	7	28.0%	58.0%	10
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Civil (apprenti)										3305	1	0.0%	0.0%	1
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Fonctionnaire										2346	2	50.0%	100.0%	2
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	TELECOM PHYSIQUE Strasbourg										2940	17	23.0%	48.0%	31
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	SeaTech Toulon										3137	15	46.0%	34.0%	16
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Electronique et Traitement du Signal										2333	18	44.0%	28.0%	16
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Génie Electrique et Automatique										1894	16	25.0%	19.0%	15
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Hydraulique et Mécanique des Fluides										1449	18	27.0%	50.0%	19
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Informatique et Mathématiques appliquées										1667	59	15.0%	23.0%	58
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Télécom.réseaux										2073	25	12.0%	20.0%	27
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSIACET Toulouse Génie Industriel										2687	14	42.0%	29.0%	17
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSIACET Toulouse Génie des Procédés										3031	9	11.0%	12.0%	11
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Montpellier Civil										1660	0	0.0%	0.0%	2
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Civil										1515	38	13.0%	32.0%	39
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Fonctionnaire										412	7	0.0%	29.0%	7
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Territorial										989	0	0.0%	0.0%	1
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et Management des systèmes										3599	7	0.0%	29.0%	6
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Méca Energ.										3662	18	33.0%	28.0%	20
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Mécatronique										3484	15	20.0%	20.0%	10
+2015	MP	CONCOURS COMMUNS POLYTECHNIQUES	Concours Commun Polytechnique MP	7043	25.0%	25.0%	4698	24.0%	24.0%	3739	24.0%	25.0%		1050			1145
+2015	MP	BANQUE EPREUVES C.C.P Inter-Filière	ECOLE DE L'AIR Pilote	637	17.0%	28.0%	189	13.0%	36.0%	24	12.0%	55.0%	-	9	0.0%	56.0%	44*
+2015	MP	BANQUE EPREUVES C.C.P Inter-Filière	ECOLE DE L'AIR Base	585	20.0%	31.0%	165	18.0%	45.0%	22	22.0%	64.0%	-	2	50.0%	0.0%	5*
+2015	MP	BANQUE EPREUVES C.C.P Inter-Filière	ECOLE DE L'AIR Méca	548	20.0%	31.0%	150	20.0%	46.0%	25	24.0%	64.0%	-	0	0.0%	0.0%	7*
+2015	MP	BANQUE EPREUVES C.C.P Inter-Filière	ENSCI Limoges	619	36.0%	38.0%	430	35.0%	34.0%	52	51.0%	31.0%	-	14	64.0%	29.0%	45*
+2015	MP	BANQUE EPREUVES C.C.P Inter-Filière	ENSGSI Nancy	885	36.0%	28.0%	417	37.0%	23.0%	66	43.0%	22.0%	-	9	55.0%	23.0%	35*
+2015	MP	BANQUE EPREUVES C.C.P Inter-Filière	ESM Saint-Cyr	585	15.0%	31.0%	172	16.0%	41.0%	62	11.0%	46.0%	-	22	4.0%	46.0%	65*
+2015	MP	BANQUE EPREUVES C.C.P Inter-Filière	Grenoble INP - Génie Industriel	1815	29.0%	28.0%	700	27.0%	26.0%	138	30.0%	27.0%	-	17	17.0%	18.0%	80*
+2015	MP	BANQUE EPREUVES C.C.P	ENSAI Rennes Civil	2053	27.0%	31.0%	1276	26.0%	28.0%	911	27.0%	30.0%	528	48	33.0%	34.0%	48
+2015	MP	BANQUE EPREUVES C.C.P	ENSAI Rennes Fonctionnaire (Attaché INSEE)	1324	25.0%	28.0%	874	26.0%	29.0%	674	26.0%	32.0%	505	21	28.0%	43.0%	21
+2015	MP	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Informatique et réseaux										118	10	10.0%	20.0%	5
+2015	MP	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Mécanique										114	3	0.0%	0.0%	5
+2015	MP	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Automatique et Systèmes										121	2	0.0%	50.0%	3
+2015	MP	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Textile et Fibres										138	1	100.0%	100.0%	2
+2015	MP	BANQUE EPREUVES C.C.P	ENSISA Mulhouse MP	1168	32.0%	32.0%	738	31.0%	25.0%	138	31.0%	22.0%		16			15
+2015	MP	BANQUE EPREUVES C.C.P	ENSTIB Epinal	383	36.0%	31.0%	282	34.0%	25.0%	46	39.0%	16.0%	31	6	33.0%	0.0%	6
+2015	MP	BANQUE EPREUVES C.C.P	EOST Strasbourg	628	29.0%	29.0%	318	31.0%	25.0%	54	29.0%	21.0%	53	12	41.0%	9.0%	11
+2015	MP	CONCOURS COMMUN TPE	ENTPE Lyon Civil	3210	26.0%	27.0%	1499	25.0%	30.0%	401	37.0%	33.0%	350	15	46.0%	47.0%	15
+2015	MP	CONCOURS COMMUN TPE	ENTPE Lyon Fonctionnaire	3210	26.0%	27.0%	1499	25.0%	30.0%	401	37.0%	33.0%	298	25	48.0%	36.0%	25
+2015	MP	CONCOURS COMMUN TPE	ENTPE Lyon Etranger				268	26.0%	17.0%	34	35.0%	21.0%	22	1	0.0%	100.0%	1
+2015	MP	CONCOURS COMMUN TPE	EIVP Paris Civil	3210	26.0%	27.0%	1767	25.0%	28.0%	461	37.0%	31.0%	416	22	45.0%	37.0%	23
+2015	MP	CONCOURS COMMUN TPE	EIVP Paris Fonctionnaire	3210	26.0%	27.0%	1499	25.0%	30.0%	416	37.0%	33.0%	213	4	50.0%	0.0%	4
+2015	MP	CONCOURS COMMUN TPE	Mines de Douai Fonct.	3210	26.0%	27.0%	1499	25.0%	30.0%	401	37.0%	33.0%	285	4	25.0%	25.0%	4
+2015	MP	CONCOURS TELECOM INT	ENSG-Géomatique Marne la Vallée Civil	3388	25.0%	26.0%	2668	25.0%	24.0%	136	38.0%	15.0%	125	6	33.0%	0.0%	6
+2015	MP	CONCOURS TELECOM INT	ENSIIE Evry										518	73	24.0%	16.0%	65
+2015	MP	CONCOURS TELECOM INT	ENSIIE Strasbourg										539	23	26.0%	22.0%	15
+2015	MP	CONCOURS TELECOM INT	ENSIIE	3112	25.0%	25.0%	2404	24.0%	24.0%	545	26.0%	20.0%		96			80
+2015	MP	CONCOURS TELECOM INT	ENSSAT Lannion	3388	25.0%	26.0%	2668	25.0%	24.0%	322	32.0%	18.0%	318	31	22.0%	26.0%	25
+2015	MP	CONCOURS TELECOM INT	Mines St Etienne ISMIN Gardanne	3388	25.0%	26.0%	1796	22.0%	27.0%	181	27.0%	23.0%	167	24	25.0%	17.0%	22
+2015	MP	CONCOURS TELECOM INT	TELECOM Lille 1	3388	25.0%	26.0%	2239	24.0%	24.0%	185	33.0%	17.0%	136	19	10.0%	27.0%	12
+2015	MP	CONCOURS TELECOM INT	TELECOM Nancy	3388	25.0%	26.0%	2668	25.0%	24.0%	499	33.0%	15.0%	294	51	21.0%	10.0%	40
+2015	MP	CONCOURS TELECOM INT	TELECOM PHYSIQUE Strasbourg - Réseaux et Télécom	3388	25.0%	26.0%	2198	24.0%	24.0%	144	31.0%	11.0%	133	3	33.0%	0.0%	12
+2015	MP	CONCOURS TELECOM INT	TELECOM PHYSIQUE Strasbourg - TIC et Santé	3388	25.0%	26.0%	2195	24.0%	24.0%	91	52.0%	17.0%	58	5	0.0%	0.0%	8
+2015	MP	CONCOURS TELECOM INT	TELECOM St Etienne	3388	25.0%	26.0%	2668	25.0%	24.0%	392	37.0%	16.0%	233	19	10.0%	16.0%	20
+2015	MP	CONCOURS TELECOM INT	TELECOM SudParis - cursus Evry										387	98	24.0%	16.0%	86
+2015	MP	CONCOURS TELECOM INT	TELECOM SudParis - cursus Tunis										484	0	0.0%	0.0%	3
+2015	MP	CONCOURS TELECOM INT	concours Télécom SudParis MP	3388	25.0%	26.0%	1461	23.0%	24.0%	549	26.0%	24.0%		98			89
+2015	MP	Concours Commun des Ecoles des Mines	Ecole des Mines d'Albi	4147	24.0%	26.0%	2361	23.0%	29.0%	1250	27.0%	30.0%	954	52	34.0%	43.0%	40
+2015	MP	Concours Commun des Ecoles des Mines	Ecole des Mines d'Albi Voie du Concours Mines Ponts							679	18.0%	28.0%	672	1	0.0%	100.0%	3
+2015	MP	Concours Commun des Ecoles des Mines	Ecole des Mines d'Alès	4147	24.0%	26.0%	2361	23.0%	29.0%	1250	27.0%	30.0%	944	45	28.0%	36.0%	50
+2015	MP	Concours Commun des Ecoles des Mines	Ecole des Mines d'Alès Voie du Concours Mines Ponts							679	18.0%	28.0%	674	0	0.0%	0.0%	3
+2015	MP	Concours Commun des Ecoles des Mines	Ecole des Mines Douai	4147	24.0%	26.0%	2361	23.0%	29.0%	1250	27.0%	30.0%	971	47	27.0%	32.0%	50
+2015	MP	Concours Commun des Ecoles des Mines	Ecole des Mines Douai Voie du Concours Mines Ponts							679	18.0%	28.0%	655	1	0.0%	0.0%	4
+2015	MP	Concours Commun des Ecoles des Mines	Ecole des Mines Nantes	4147	24.0%	26.0%	2361	23.0%	29.0%	1250	27.0%	30.0%	296	51	27.0%	42.0%	55
+2015	MP	Concours Commun des Ecoles des Mines	Ecole des Mines Nantes Voie du Concours Mines Ponts							679	18.0%	28.0%	558	3	33.0%	0.0%	3
+2015	MP	Concours Commun des Ecoles des Mines	ENSTA Bretagne Civil	4147	24.0%	26.0%	2361	23.0%	29.0%	1250	27.0%	30.0%	926	41	17.0%	35.0%	42
+2015	MP	Concours Commun des Ecoles des Mines	ENSTA Bretagne Civil Voie du Concours Mines Ponts							679	18.0%	28.0%	611	0	0.0%	0.0%	3
+2015	MP	Concours Commun des Ecoles des Mines	ENSTA Bretagne Militaire				2142	22.0%	29.0%	1157	27.0%	30.0%	595	12	25.0%	59.0%	12
+2015	MP	Concours Commun des Ecoles des Mines	ENSTA Bretagne Militaire							632	18.0%	29.0%	507	0	0.0%	0.0%	0
+2015	MP	CONCOURS ENSAM	Arts et Métiers	2035	25.0%	27.0%	235	30.0%	42.0%	184	30.0%	42.0%	146	39	33.0%	44.0%	40
+2015	MP	CONCOURS ESTP	ESTP Paris BAT										726	64	35.0%	33.0%	61
+2015	MP	CONCOURS ESTP	ESTP Paris TOPOGRAPHIE										852	13	7.0%	24.0%	12
+2015	MP	CONCOURS ESTP	ESTP Paris Génie Mécanique et Electrique (GME)										788	17	17.0%	36.0%	23
+2015	MP	CONCOURS ESTP	ESTP Paris TP										695	66	19.0%	37.0%	63
+2015	MP	CONCOURS ESTP	ESTP	1297	27.0%	31.0%	999	27.0%	31.0%	891	28.0%	32.0%		160			159
+2015	MP	CONCOURS POLYTECH Inter-Filière	ENSC Bordeaux										-	8	50.0%	13.0%	18*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ENSIBS Lorient										-	1	0.0%	0.0%	7*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ENSIM Le Mans										-	1	0.0%	0.0%	8*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ESBS Strasbourg										-	0	0.0%	0.0%	3*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ESI Reims										-	0	0.0%	0.0%	13*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ESIAB Brest										-	0	0.0%	0.0%	3*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ESIR Rennes										-	1	0.0%	0.0%	15*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ESIREM Dijon										-	0	0.0%	0.0%	6*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ESIROI Saint Denis de la Réunion										-	1	0.0%	0.0%	7*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ESIX Normandie										-	0	0.0%	0.0%	12*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ESSTIN Nancy										-	4	0.0%	0.0%	27*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ISAT Nevers - département MIT (Mécanique et Ingénierie des Transports)										-	5	20.0%	60.0%	7*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ISAT Nevers - département EPEE (Energies et Moteurs)										-	7	0.0%	29.0%	14*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ISBS Créteil										-	0	0.0%	0.0%	10*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ISEL Le Havre										-	1	0.0%	0.0%	8*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ISIFC Besançon										-	2	50.0%	0.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ISIS Castres										-	0	0.0%	0.0%	12*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ISTIA Angers										-	1	0.0%	0.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	ISTY Vélizy										-	0	0.0%	0.0%	6*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry - Environnement, Bâtiment, Énergie										-	3	33.0%	67.0%	16*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry - Instrumentation, Automatique, Informatique										-	0	0.0%	0.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry - Mécanique, Matériaux										-	1	0.0%	100.0%	13*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand - Génie Biologique										-	0	0.0%	0.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand - Génie Civil										-	4	0.0%	50.0%	16*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand - Génie Electrique										-	1	0.0%	100.0%	9*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand - Génie Mathématique et Modélisation										-	9	44.0%	23.0%	14*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand - Génie Physique										-	0	0.0%	0.0%	11*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Géotechnique										-	2	50.0%	50.0%	13*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Matériaux										-	3	0.0%	0.0%	12*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Prévention des risques										-	3	66.0%	34.0%	10*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Systèmes électroniques et informatiques, Réseaux										-	6	16.0%	17.0%	15*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Technologies de l'information pour la santé										-	1	0.0%	0.0%	6*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Génie biologique et alimentaire										-	0	0.0%	0.0%	4*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Génie Informatique et statistique										-	9	55.0%	12.0%	14*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Géotechnique, Génie civil										-	4	25.0%	0.0%	10*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Informatique, Microélectronique, Automatique										-	5	0.0%	40.0%	9*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Ingénierie et commercialisation des systèmes de mesure										-	2	50.0%	0.0%	9*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Matériaux										-	0	0.0%	0.0%	8*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Mécanique										-	3	33.0%	0.0%	9*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Génie Bomédical										-	3	33.0%	34.0%	9*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Informatique										-	3	33.0%	0.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Matériaux										-	0	0.0%	0.0%	6*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Mathématiques Appliquées et Modélisation										-	5	20.0%	20.0%	9*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Mécanique										-	1	0.0%	0.0%	6*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Systèmes industriels, Robotique										-	3	0.0%	67.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Génie Biomédical										-	1	100.0%	0.0%	9*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Génie Civil										-	4	25.0%	0.0%	16*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Génie Industriel et Informatique										-	2	50.0%	50.0%	8*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Informatique										-	4	0.0%	0.0%	13*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Matériaux										-	2	0.0%	0.0%	13*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Mécanique, Energétique										-	3	0.0%	0.0%	22*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Microélectronique,Télécommunications										-	1	0.0%	0.0%	12*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Électronique et Informatique industrielle										-	2	0.0%	0.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Informatique et Gestion										-	2	0.0%	0.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Matériaux										-	2	0.0%	50.0%	6*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Mécanique et Interactions										-	2	0.0%	100.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Sciences et technologies de l'eau										-	3	33.0%	34.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Sciences et technologies des Industries alimentaires										-	0	0.0%	0.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Électronique et technologies numériques										-	2	0.0%	50.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Énergie électrique										-	0	0.0%	0.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Génie civil										-	1	0.0%	0.0%	10*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Génie des Procédés et Bioprocédés										-	0	0.0%	0.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Informatique										-	3	0.0%	34.0%	10*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Matériaux										-	0	0.0%	0.0%	10*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Thermique, Énergétique										-	3	33.0%	100.0%	10*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Bâtiments										-	1	0.0%	0.0%	9*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Électronique										-	3	0.0%	34.0%	10*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Génie biologique										-	0	0.0%	0.0%	3*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Génie de l'eau										-	1	0.0%	0.0%	9*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Informatique										-	8	37.0%	0.0%	15*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Mathématiques appliquées, Modélisation										-	5	20.0%	0.0%	14*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Orléans - Écotechnologie électroniques et optiques										-	2	0.0%	100.0%	7*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Orléans - Génie civil et géo-environnement										-	4	25.0%	25.0%	21*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Orléans - Génie industriel										-	0	0.0%	0.0%	3*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Orléans - Innovation en Conception et Matériaux										-	0	0.0%	0.0%	15*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Orléans - Technologies pour l'Énergie, l'Aérospatial et la Motorisation										-	3	33.0%	0.0%	15*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Sud - Electronique, Energie, Systèmes										-	1	100.0%	100.0%	10*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Sud - Informatique										-	1	0.0%	0.0%	8*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Sud - Photonique et systèmes optroniques										-	1	100.0%	0.0%	6*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Sud - Matériaux										-	1	100.0%	100.0%	10*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Paris-UPMC - Electronique et Informatique										-	2	0.0%	0.0%	13*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Paris-UPMC - Matériaux										-	0	0.0%	0.0%	12*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Paris-UPMC - Robotique										-	2	0.0%	50.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Paris-UPMC - Sciences de la Terre										-	2	50.0%	0.0%	11*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Paris-UPMC Informatique et mathématiques appliquées										-	1	0.0%	0.0%	2*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Tours - Électronique, Énergie électrique										-	2	0.0%	50.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Tours - Informatique										-	0	0.0%	0.0%	6*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Tours - Mécanique, Conception de systèmes										-	3	0.0%	0.0%	5*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Polytech Tours - aménagement et environnement										-	0	0.0%	0.0%	15*
+2015	MP	CONCOURS POLYTECH Inter-Filière	Sup Galilée Villetaneuse										-	4	50.0%	25.0%	-13
+2015	MP	CONCOURS POLYTECH Inter-Filière	Concours POLYTECH	2966	27.0%	28.0%	2006	27.0%	24.0%	1632	28.0%	25.0%		187			-855
+2015	MP	Autres écoles E3A	ECE PARIS	979	27.0%	20.0%	853	27.0%	20.0%	328	29.0%	24.0%	328	40	30.0%	28.0%	45
+2015	MP	Autres écoles E3A	EFREI Paris	402	24.0%	15.0%	379	24.0%	15.0%	99	27.0%	11.0%	99	18	16.0%	0.0%	35
+2015	MP	Autres écoles E3A	EIDD Paris	493	31.0%	30.0%	331	32.0%	28.0%	178	32.0%	25.0%	176	5	20.0%	60.0%	21
+2015	MP	Autres écoles E3A	EIGSI Casablanca	82	28.0%	25.0%	51	25.0%	26.0%	9	22.0%	34.0%	0	0	0.0%	0.0%	5
+2015	MP	Autres écoles E3A	EIGSI La Rochelle	323	28.0%	19.0%	241	29.0%	20.0%	78	34.0%	26.0%	69	8	37.0%	0.0%	10
+2015	MP	Autres écoles E3A	EIL Côte d'Opale - Calais (informatique)										103	4	0.0%	50.0%	10
+2015	MP	Autres écoles E3A	EIL Côte d'Opale - Longuenesse (Génie Industriel)										106	8	50.0%	63.0%	15
+2015	MP	Autres écoles E3A	EIL Côte d'Opale Longuenesse - Calais	395	32.0%	38.0%	234	33.0%	37.0%	106	34.0%	27.0%		12			25
+2015	MP	Autres écoles E3A	EME	152	38.0%	23.0%				140	37.0%	23.0%	140	5	60.0%	20.0%	10
+2015	MP	Autres écoles E3A	ENSAIT Roubaix										55	11	81.0%	37.0%	10
+2015	MP	Autres écoles E3A	ENSAIT Roubaix - Formation en alternance										63	1	100.0%	100.0%	2
+2015	MP	Autres écoles E3A	ENSAIT Roubaix	510	36.0%	32.0%	341	39.0%	32.0%	65	47.0%	28.0%		12			12
+2015	MP	Autres écoles E3A	ENSIL Limoges EE	582	33.0%	37.0%	335	32.0%	32.0%	41	51.0%	27.0%	40	5	40.0%	20.0%	8
+2015	MP	Autres écoles E3A	ENSIL Limoges ELT	674	27.0%	35.0%	395	26.0%	29.0%	69	26.0%	35.0%	42	10	10.0%	30.0%	10
+2015	MP	Autres écoles E3A	ENSIL Limoges Matériaux	586	30.0%	39.0%	335	30.0%	34.0%	46	45.0%	29.0%	44	6	50.0%	50.0%	4
+2015	MP	Autres écoles E3A	ENSIL Limoges Mécatronique	668	27.0%	36.0%	394	25.0%	32.0%	81	24.0%	30.0%	28	6	16.0%	17.0%	8
+2015	MP	Autres écoles E3A	EPF campus SCEAUX										172	5	20.0%	0.0%	5
+2015	MP	Autres écoles E3A	EPF campus TROYES										184	6	50.0%	17.0%	6
+2015	MP	Autres écoles E3A	EPF campus MONTPELLIER										131	4	50.0%	0.0%	4
+2015	MP	Autres écoles E3A	EPF Sceaux-Troyes-Montpellier	450	32.0%	20.0%	389	33.0%	19.0%	190	36.0%	24.0%		15			15
+2015	MP	Autres écoles E3A	ESB Nantes	152	30.0%	26.0%	108	31.0%	29.0%	18	16.0%	39.0%	18	1	0.0%	100.0%	12
+2015	MP	Autres écoles E3A	ESIEA Paris - Laval	390	23.0%	17.0%	357	24.0%	16.0%	152	25.0%	16.0%	149	16	18.0%	13.0%	20
+2015	MP	Autres écoles E3A	ESIEE Amiens	441	29.0%	24.0%	337	30.0%	22.0%	36	30.0%	23.0%	33	2	50.0%	0.0%	10
+2015	MP	Autres écoles E3A	ESIEE Paris	503	27.0%	20.0%	423	28.0%	18.0%	128	27.0%	17.0%	127	14	14.0%	15.0%	30
+2015	MP	Autres écoles E3A	ESIGELEC Rouen	570	31.0%	26.0%	505	33.0%	24.0%	181	33.0%	20.0%	181	33	33.0%	19.0%	40
+2015	MP	Autres écoles E3A	ESIGETEL Villejuif	288	25.0%	18.0%	266	26.0%	18.0%	65	27.0%	13.0%	65	3	0.0%	67.0%	20
+2015	MP	Autres écoles E3A	ESILV Paris-La Défense	636	28.0%	21.0%	553	29.0%	20.0%	238	28.0%	25.0%	221	43	25.0%	24.0%	30
+2015	MP	Autres écoles E3A	ESITC Caen	218	31.0%	24.0%	158	29.0%	22.0%	41	31.0%	13.0%	29	5	40.0%	20.0%	14
+2015	MP	Autres écoles E3A	ESME SUDRIA Paris	540	30.0%	19.0%	451	32.0%	19.0%	243	34.0%	21.0%	242	3	0.0%	0.0%	20
+2015	MP	Autres écoles E3A	ESTACA Laval										180	6	16.0%	67.0%	5
+2015	MP	Autres écoles E3A	ESTACA Paris-Saclay										184	18	16.0%	6.0%	13
+2015	MP	Autres écoles E3A	ESTACA Paris-Saclay/Laval	529	23.0%	21.0%	425	23.0%	22.0%	278	23.0%	25.0%		24			18
+2015	MP	Autres écoles E3A	ESTIA Bidart	305	31.0%	31.0%	233	33.0%	31.0%	31	22.0%	36.0%	31	8	25.0%	50.0%	20
+2015	MP	Autres écoles E3A	IFMA Clermont-Ferrand	546	30.0%	36.0%	277	29.0%	33.0%	66	28.0%	35.0%	47	18	22.0%	45.0%	16
+2015	MP	Autres écoles E3A	INP - ENI Tarbes	377	32.0%	33.0%				59	33.0%	12.0%	40	0	0.0%	0.0%	2
+2015	MP	Autres écoles E3A	INSA centre val de loire STI										77	7	28.0%	43.0%	10
+2015	MP	Autres écoles E3A	INSA centre val de loire GSI										62	6	33.0%	17.0%	8
+2015	MP	Autres écoles E3A	INSA centre val de loire MRI										87	6	33.0%	17.0%	16
+2015	MP	Autres écoles E3A	INSA Centre Val de Loire	615	30.0%	32.0%	335	30.0%	26.0%	87	33.0%	30.0%		19			34
+2015	MP	Autres écoles E3A	ISMANS Le Mans	187	29.0%	24.0%	144	31.0%	23.0%	20	20.0%	35.0%	20	0	0.0%	0.0%	8
+2015	MP	Autres écoles E3A	ITECH Lyon	162	40.0%	24.0%	105	40.0%	25.0%	3	33.0%	67.0%	0	0	0.0%	0.0%	5
+2015	MP	Autres écoles E3A	Mines Douai - ISPA Alençon	387	30.0%	27.0%	250	31.0%	27.0%	22	45.0%	28.0%	18	2	50.0%	50.0%	15
+2015	MP	Autres écoles E3A	3IL Limoges	263	22.0%	22.0%	223	22.0%	22.0%	54	18.0%	26.0%	51	3	0.0%	67.0%	12
+2015	MP	FESIC	ECAM Lyon				200	36.0%	29.0%	51	31.0%	42.0%	0	0	0.0%	0.0%	3
+2015	MP	FESIC	ECAM Rennes	963	29.0%	23.0%	865	29.0%	23.0%	54	25.0%	26.0%	51	4	25.0%	25.0%	12
+2015	MP	FESIC	ECAM Strasbourg Europe	963	29.0%	23.0%	879	29.0%	22.0%	45	28.0%	25.0%	45	4	50.0%	25.0%	12
+2015	MP	FESIC	ECAM-EPMI Cergy-Pontoise	963	29.0%	23.0%	896	29.0%	23.0%	197	28.0%	32.0%	186	20	30.0%	35.0%	20
+2015	MP	FESIC	ESAIP Angers - Grasse	963	29.0%	23.0%	873	29.0%	23.0%	246	34.0%	28.0%	246	7	0.0%	29.0%	15
+2015	MP	FESIC	ESCOM Compiegne	963	29.0%	23.0%	530	29.0%	24.0%	285	34.0%	28.0%	240	0	0.0%	0.0%	1
+2015	MP	FESIC	ESEO Angers	963	29.0%	23.0%	698	29.0%	23.0%	425	29.0%	25.0%	418	5	40.0%	0.0%	7
+2015	MP	FESIC	HEI	963	29.0%	23.0%	829	29.0%	23.0%	389	32.0%	27.0%	385	19	21.0%	37.0%	27
+2015	MP	FESIC	ISEN Brest	963	29.0%	23.0%	846	29.0%	22.0%	202	29.0%	25.0%	197	0	0.0%	0.0%	10
+2015	MP	FESIC	ISEN Lille	963	29.0%	23.0%	846	29.0%	22.0%	202	29.0%	25.0%	197	4	0.0%	0.0%	20
+2015	MP	FESIC	ISEN Toulon	963	29.0%	23.0%	846	29.0%	22.0%	202	29.0%	25.0%	195	9	22.0%	0.0%	10
+2015	MP	FESIC	ISEP Paris	963	29.0%	23.0%	837	29.0%	23.0%	261	29.0%	22.0%	253	45	22.0%	23.0%	30
+2015	MP	FESIC	LASALLE BEAUVAIS	963	29.0%	23.0%	751	29.0%	23.0%	42	26.0%	43.0%	0	0	0.0%	0.0%	4
+2015	MP	Centrale Casablanca	CENTRALE CASABLANCA				58	24.0%	4.0%	4	50.0%	0.0%	4	2	50.0%	0.0%	8
+2015	MP	Centrale Casablanca	CENTRALE CASABLANCA - CI	590	30.0%	16.0%	249	24.0%	10.0%	195	25.0%	9.0%	185	30	30.0%	17.0%	39
+2015	MP	EPITA	EPITA										139	13	7.0%	0.0%	20
+2015	MP	EPITA	IPSA Paris										140	10	0.0%	20.0%	9
+2015	MP	EPITA	IPSA Toulouse										142	6	50.0%	34.0%	6
+2015	MP	EPITA	EPITA / IPSA MP	279	17.0%	15.0%	192	18.0%	10.0%	144	20.0%	12.0%		29			35

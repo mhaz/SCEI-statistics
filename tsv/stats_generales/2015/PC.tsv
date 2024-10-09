@@ -1,0 +1,294 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	rang_du_dernier_appele	integres_nb	integres_filles	integres_cinq_demi	places
+2015	PC	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE	1199	28.0%	29.0%	261	20.0%	32.0%	171	19.0%	26.0%	145	129	18.0%	28.0%	129
+2015	PC	CONCOURS ECOLE POLYTECHNIQUE	ESPCI ParisTech	1332	31.0%	29.0%	472	26.0%	33.0%	378	26.0%	34.0%	327	57	50.0%	25.0%	55
+2015	PC	CONCOURS ECOLE POLYTECHNIQUE	ESPCI ParisTech Etranger	79	34.0%	25.0%	22	13.0%	23.0%	15	20.0%	27.0%	15	1	100.0%	0.0%	3
+2015	PC	BANQUE ENS	ENS Ulm	967	32.0%	32.0%	100	16.0%	44.0%	62	22.0%	39.0%	60	20	25.0%	50.0%	20
+2015	PC	BANQUE ENS	ENS Cachan PC	1049	32.0%	32.0%	274	20.0%	46.0%	158	20.0%	46.0%	154	18	16.0%	62.0%	18
+2015	PC	BANQUE ENS	ENS de Lyon	1011	32.0%	32.0%	255	22.0%	44.0%	183	24.0%	41.0%	165	28	25.0%	33.0%	28
+2015	PC	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										96	18	33.0%	12.0%	18
+2015	PC	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										812	34	47.0%	15.0%	32
+2015	PC	CONCOURS COMMUN MINES-PONTS	MINES de SAINT-ETIENNE										812	32	37.0%	32.0%	40
+2015	PC	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										218	32	31.0%	47.0%	30
+2015	PC	CONCOURS COMMUN MINES-PONTS	SUPAERO (ISAE) Toulouse										415	32	15.0%	29.0%	30
+2015	PC	CONCOURS COMMUN MINES-PONTS	ENSTA ParisTech										436	27	44.0%	15.0%	29
+2015	PC	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										472	21	23.0%	34.0%	20
+2015	PC	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										508	7	28.0%	43.0%	6
+2015	PC	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE cursus Brest-Rennes-Toulouse										1020	17	23.0%	42.0%	27
+2015	PC	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE cursus Sophia										1026	3	0.0%	34.0%	3
+2015	PC	CONCOURS COMMUN MINES-PONTS	Concours Commun Mines Ponts PC	3285	31.0%	27.0%	1071	28.0%	29.0%	1031	28.0%	29.0%		223			235
+2015	PC	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS	2320	31.0%	27.0%	473	24.0%	30.0%	462	24.0%	31.0%	238	86	22.0%	35.0%	88
+2015	PC	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS - étr.	126	37.0%	25.0%				38	23.0%	29.0%	21	10	40.0%	40.0%	6
+2015	PC	BANQUE CENTRALE-SUPELEC	SUPELEC	2136	29.0%	30.0%	762	27.0%	31.0%	744	27.0%	31.0%	594	98	30.0%	32.0%	100
+2015	PC	BANQUE CENTRALE-SUPELEC	SUPELEC - étr.	104	37.0%	28.0%				29	24.0%	32.0%	29	4	50.0%	50.0%	2
+2015	PC	BANQUE CENTRALE-SUPELEC	CENTRALE LYON	2660	32.0%	27.0%	632	27.0%	29.0%	617	27.0%	30.0%	463	64	35.0%	25.0%	62
+2015	PC	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	1686	33.0%	32.0%	914	34.0%	32.0%	853	35.0%	33.0%	682	52	23.0%	37.0%	45
+2015	PC	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) - étr.	55	52.0%	35.0%	34	50.0%	42.0%	29	48.0%	35.0%	29	1	0.0%	100.0%	2
+2015	PC	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE	2538	33.0%	29.0%	723	32.0%	32.0%	710	32.0%	32.0%	611	38	26.0%	48.0%	50
+2015	PC	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES	2626	32.0%	29.0%	581	30.0%	35.0%	572	31.0%	35.0%	483	43	30.0%	33.0%	50
+2015	PC	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE	2577	34.0%	27.0%	1197	31.0%	26.0%	1115	32.0%	25.0%	925	70	34.0%	29.0%	80
+2015	PC	BANQUE CENTRALE-SUPELEC	CENTRALE CASABLANCA	393	30.0%	40.0%	44	25.0%	48.0%	42	26.0%	50.0%	42	1	0.0%	100.0%	5
+2015	PC	BANQUE CENTRALE-SUPELEC	ECOLE NAVALE Brest	490	23.0%	35.0%	151	19.0%	43.0%	71	8.0%	54.0%	60	18	5.0%	50.0%	18
+2015	PC	BANQUE CENTRALE-SUPELEC	ENSEA Cergy	924	32.0%	31.0%	685	30.0%	28.0%	183	28.0%	23.0%	182	19	15.0%	16.0%	30
+2015	PC	BANQUE CENTRALE-SUPELEC	CENTRALE PARIS - CI										1	1	0.0%	0.0%	5
+2015	PC	BANQUE CENTRALE-SUPELEC	SUPELEC - CI										0	1	100.0%	0.0%	0
+2015	PC	BANQUE CENTRALE-SUPELEC	SUPELEC - CI										4	1	100.0%	0.0%	1
+2015	PC	BANQUE CENTRALE-SUPELEC	SUPELEC - CI										0	1	100.0%	0.0%	0
+2015	PC	BANQUE CENTRALE-SUPELEC	CENTRALE LYON - CI										2	0	0.0%	0.0%	1
+2015	PC	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE - CI										0	0	0.0%	0.0%	1
+2015	PC	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES - CI										3	0	0.0%	0.0%	5
+2015	PC	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) - CI										11	0	0.0%	0.0%	2
+2015	PC	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE - CI										0	0	0.0%	0.0%	2
+2015	PC	BANQUE CENTRALE-SUPELEC	Cycle International Centrale-Supelec	20	70.0%	10.0%				12	58.0%	9.0%		4			17
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSMM Besançon										2938	24	29.0%	17.0%	24
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSEIRB-MATMECA Electronique										2493	17	35.0%	18.0%	13
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSEIRB-MATMECA Informatique										1989	6	33.0%	17.0%	5
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSEIRB-MATMECA Mathématiques et Mécanique										1849	11	18.0%	19.0%	11
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSEIRB-MATMECA Télecom.										2513	7	14.0%	15.0%	8
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSICAEN Electronique et Physique Appliquée										2687	12	8.0%	42.0%	15
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	EISTI Cergy - Pau										3198	12	16.0%	34.0%	21
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ISIMA Clermont-Ferrand										3180	8	25.0%	38.0%	8
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - ENSE3										1499	46	39.0%	33.0%	60
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - ENSIMAG										781	15	20.0%	34.0%	15
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - Esisar										2201	3	0.0%	67.0%	6
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - Pagora										2696	12	41.0%	17.0%	17
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - Phelma (Physique Electronique Télécoms)										1374	30	26.0%	34.0%	36
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - Phelma (Physique Matériaux Procédés)										1208	63	30.0%	31.0%	70
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	CPE LYON Electronique Informatique										3165	7	0.0%	29.0%	8
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSEM Nancy Energie										2742	18	16.0%	34.0%	24
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSEM Nancy Spécialité des systèmes numériques										2827	4	0.0%	50.0%	3
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSG Nancy										2538	7	14.0%	29.0%	10
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	SUPMECA Paris										1926	26	23.0%	39.0%	19
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSGTI Pau - Génie des Procédés										3102	14	21.0%	29.0%	12
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSI Poitiers Energie										3116	26	19.0%	47.0%	17
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ISAE-ENSMA Poitiers										1401	30	10.0%	40.0%	28
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENGEES Strasbourg Civil (étudiant)										2877	17	58.0%	53.0%	11
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENGEES Strasbourg Fonctionnaire										1847	2	50.0%	50.0%	2
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENGEES Strasbourg Civil (apprenti)										3221	1	0.0%	100.0%	2
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	TELECOM PHYSIQUE Strasbourg										2512	26	26.0%	24.0%	31
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	SeaTech Toulon										2343	17	47.0%	36.0%	15
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	INP-ENSEEIHT Toulouse Electronique et Traitement du Signal										1898	12	16.0%	42.0%	12
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	INP-ENSEEIHT Toulouse Génie Electrique et Automatique										1559	5	60.0%	40.0%	8
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	INP-ENSEEIHT Toulouse Hydraulique et Mécanique des Fluides										1321	18	27.0%	39.0%	16
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	INP-ENSEEIHT Toulouse Informatique et Mathématiques appliquées										1184	2	0.0%	50.0%	2
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	INP-ENSEEIHT Toulouse Télécom.réseaux										1575	4	25.0%	25.0%	5
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	INP-ENSIACET Toulouse Génie des Procédés										2200	15	33.0%	27.0%	17
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	INP-ENSIACET Toulouse Génie Industriel										2115	10	10.0%	10.0%	10
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENAC Montpellier Civil										1160	1	0.0%	0.0%	2
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENAC Toulouse Civil										878	19	36.0%	64.0%	17
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENAC Toulouse Fonctionnaire										225	3	0.0%	100.0%	3
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSIAME Valenciennes Méca Energ.										3148	26	30.0%	39.0%	20
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSIAME Valenciennes Mécatronique										2962	6	0.0%	50.0%	6
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Concours Commun Polytechnique PC-Physique	4622	34.0%	26.0%	3673	34.0%	28.0%	3221	35.0%	29.0%		582			609
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Bordeaux INP - ENSCBP Chimie-Physique										1988	52	46.0%	27.0%	48
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSICAEN Mat. et Chimie										2696	34	52.0%	21.0%	30
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSC Clermont-Ferrand										2452	34	23.0%	21.0%	36
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSC Lille										1869	33	45.0%	34.0%	42
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	CPE LYON Chimie										2799	42	42.0%	27.0%	45
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSC Montpellier										915	58	50.0%	32.0%	60
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSC Mulhouse										2487	35	60.0%	49.0%	40
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSIC Nancy										2249	46	56.0%	18.0%	50
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Chimie ParisTech										441	60	61.0%	27.0%	60
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSI Poitiers Eau et Genie Civil										2956	19	47.0%	48.0%	21
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSC Rennes										2284	41	39.0%	32.0%	40
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ECPM Strasbourg										1977	37	51.0%	19.0%	40
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ECPM Strasbourg - CHEMBIOTECH (ECPM-ESBS)										1649	5	60.0%	0.0%	5
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	INP-ENSIACET Toulouse Génie chimique										1813	35	68.0%	43.0%	34
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	INP-ENSIACET Toulouse Matériaux										2068	31	38.0%	30.0%	33
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	INP-ENSIACET Toulouse Chimie										1210	27	51.0%	52.0%	30
+2015	PC	CCP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Concours Commun Polytechnique PC-Chimie	4468	36.0%	26.0%	3669	36.0%	28.0%	3248	37.0%	29.0%		589			614
+2015	PC	BANQUE EPREUVES C.C.P Inter-Filière	ECOLE DE L'AIR Pilote	477	22.0%	32.0%	141	19.0%	47.0%	24	4.0%	80.0%	-	12	0.0%	84.0%	44*
+2015	PC	BANQUE EPREUVES C.C.P Inter-Filière	ECOLE DE L'AIR Base	420	25.0%	33.0%	128	22.0%	49.0%	23	8.0%	87.0%	-	2	0.0%	100.0%	5*
+2015	PC	BANQUE EPREUVES C.C.P Inter-Filière	ECOLE DE L'AIR Méca	384	23.0%	34.0%	119	21.0%	48.0%	30	6.0%	77.0%	-	1	100.0%	100.0%	7*
+2015	PC	BANQUE EPREUVES C.C.P Inter-Filière	EEIGM	523	52.0%	27.0%	352	56.0%	29.0%	34	76.0%	33.0%	-	5	100.0%	20.0%	10*
+2015	PC	BANQUE EPREUVES C.C.P Inter-Filière	ENSCI Limoges	541	41.0%	34.0%	430	43.0%	36.0%	94	44.0%	44.0%	-	23	47.0%	61.0%	45*
+2015	PC	BANQUE EPREUVES C.C.P Inter-Filière	ENSGSI Nancy	595	43.0%	27.0%	398	45.0%	29.0%	87	52.0%	35.0%	-	11	45.0%	46.0%	35*
+2015	PC	BANQUE EPREUVES C.C.P Inter-Filière	ESM Saint-Cyr	485	23.0%	30.0%	147	25.0%	39.0%	53	15.0%	55.0%	-	15	13.0%	60.0%	65*
+2015	PC	BANQUE EPREUVES C.C.P Inter-Filière	Grenoble INP - Génie Industriel	1214	36.0%	29.0%	474	36.0%	33.0%	79	45.0%	33.0%	-	11	54.0%	28.0%	80*
+2015	PC	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Informatique et réseaux										127	6	0.0%	0.0%	4
+2015	PC	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Mécanique										81	9	0.0%	56.0%	6
+2015	PC	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Automatique et Systèmes										92	2	0.0%	50.0%	5
+2015	PC	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Textile et Fibres										108	14	85.0%	29.0%	7
+2015	PC	BANQUE EPREUVES C.C.P	ENSISA Mulhouse PC	679	43.0%	30.0%	596	43.0%	31.0%	128	42.0%	33.0%		31			22
+2015	PC	BANQUE EPREUVES C.C.P	ENSTIB Epinal	287	39.0%	33.0%	207	41.0%	29.0%	19	42.0%	22.0%	19	3	33.0%	34.0%	6
+2015	PC	BANQUE EPREUVES C.C.P	EOST Strasbourg	542	41.0%	31.0%	330	43.0%	30.0%	74	37.0%	36.0%	46	13	23.0%	39.0%	12
+2015	PC	CONCOURS COMMUN TPE	ENTPE Lyon Civil	2315	35.0%	31.0%	1259	35.0%	35.0%	411	46.0%	37.0%	373	16	50.0%	44.0%	15
+2015	PC	CONCOURS COMMUN TPE	ENTPE Lyon Fonctionnaire	2315	35.0%	31.0%	1259	35.0%	35.0%	411	46.0%	37.0%	350	27	37.0%	41.0%	27
+2015	PC	CONCOURS COMMUN TPE	ENTPE Lyon Etranger				57	42.0%	36.0%	15	53.0%	54.0%	15	0	0.0%	0.0%	1
+2015	PC	CONCOURS COMMUN TPE	EIVP Paris Civil	2315	35.0%	31.0%	1316	35.0%	35.0%	436	46.0%	37.0%	379	21	52.0%	39.0%	20
+2015	PC	CONCOURS COMMUN TPE	EIVP Paris Fonctionnaire	2315	35.0%	31.0%	1259	35.0%	35.0%	421	46.0%	37.0%	118	3	33.0%	34.0%	3
+2015	PC	CONCOURS COMMUN TPE	Mines de Douai Fonct.	2315	35.0%	31.0%	1259	35.0%	35.0%	411	46.0%	37.0%	294	4	75.0%	50.0%	4
+2015	PC	CONCOURS TELECOM INT	ENSG-Géomatique Marne la Vallée Civil	1829	32.0%	31.0%	1457	32.0%	29.0%	72	38.0%	32.0%	72	8	25.0%	38.0%	6
+2015	PC	CONCOURS TELECOM INT	ENSIIE Evry	1725	32.0%	30.0%	1096	32.0%	28.0%	115	33.0%	20.0%	104	3	0.0%	0.0%	10
+2015	PC	CONCOURS TELECOM INT	ENSSAT Lannion	1829	32.0%	31.0%	1457	32.0%	29.0%	107	32.0%	26.0%	101	7	42.0%	29.0%	9
+2015	PC	CONCOURS TELECOM INT	Mines St Etienne ISMIN Gardanne	1829	32.0%	31.0%	1243	31.0%	32.0%	107	28.0%	34.0%	78	18	11.0%	34.0%	16
+2015	PC	CONCOURS TELECOM INT	TELECOM Nancy	1829	32.0%	31.0%	1457	32.0%	29.0%	115	33.0%	27.0%	55	9	44.0%	34.0%	5
+2015	PC	CONCOURS TELECOM INT	TELECOM PHYSIQUE Strasbourg - TIC et Santé	1829	32.0%	31.0%	1273	32.0%	29.0%	97	55.0%	30.0%	50	6	50.0%	17.0%	8
+2015	PC	CONCOURS TELECOM INT	TELECOM St Etienne	1829	32.0%	31.0%	1457	32.0%	29.0%	131	34.0%	26.0%	109	13	7.0%	31.0%	10
+2015	PC	CONCOURS TELECOM INT	TELECOM SudParis - cursus Tunis										200	1	0.0%	0.0%	2
+2015	PC	CONCOURS TELECOM INT	TELECOM SudParis - cursus Evry										143	42	16.0%	17.0%	31
+2015	PC	CONCOURS TELECOM INT	concours Télécom SudParis PC	1829	32.0%	31.0%	927	33.0%	27.0%	224	33.0%	25.0%		43			33
+2015	PC	Concours Commun des Ecoles des Mines	Ecole des Mines d'Albi	3289	34.0%	29.0%	1711	34.0%	33.0%	994	39.0%	36.0%	714	51	60.0%	36.0%	45
+2015	PC	Concours Commun des Ecoles des Mines	Ecole des Mines d'Albi Voie du Concours Mines Ponts							559	28.0%	30.0%	542	1	100.0%	0.0%	4
+2015	PC	Concours Commun des Ecoles des Mines	Ecole des Mines d'Alès	3289	34.0%	29.0%	1711	34.0%	33.0%	994	39.0%	36.0%	750	40	35.0%	40.0%	40
+2015	PC	Concours Commun des Ecoles des Mines	Ecole des Mines d'Alès Voie du Concours Mines Ponts							559	28.0%	30.0%	559	1	100.0%	0.0%	3
+2015	PC	Concours Commun des Ecoles des Mines	Ecole des Mines Douai	3289	34.0%	29.0%	1711	34.0%	33.0%	994	39.0%	36.0%	686	45	48.0%	36.0%	45
+2015	PC	Concours Commun des Ecoles des Mines	Ecole des Mines Douai Voie du Concours Mines Ponts							559	28.0%	30.0%	559	3	0.0%	67.0%	4
+2015	PC	Concours Commun des Ecoles des Mines	Ecole des Mines Nantes	3289	34.0%	29.0%	1711	34.0%	33.0%	994	39.0%	36.0%	220	39	38.0%	54.0%	40
+2015	PC	Concours Commun des Ecoles des Mines	Ecole des Mines Nantes Voie du Concours Mines Ponts							559	28.0%	30.0%	475	2	0.0%	0.0%	3
+2015	PC	Concours Commun des Ecoles des Mines	ENSTA Bretagne Civil	3289	34.0%	29.0%	1711	34.0%	33.0%	994	39.0%	36.0%	428	14	35.0%	43.0%	13
+2015	PC	Concours Commun des Ecoles des Mines	ENSTA Bretagne Civil Voie du Concours Mines Ponts							559	28.0%	30.0%	556	3	0.0%	0.0%	2
+2015	PC	Concours Commun des Ecoles des Mines	ENSTA Bretagne Militaire				1635	34.0%	33.0%	957	38.0%	36.0%	379	8	12.0%	88.0%	8
+2015	PC	Concours Commun des Ecoles des Mines	ENSTA Bretagne Militaire							530	29.0%	31.0%	381	0	0.0%	0.0%	0
+2015	PC	CONCOURS ENSAM	Arts et Métiers	1465	31.0%	34.0%	124	40.0%	51.0%	93	45.0%	51.0%	86	18	44.0%	56.0%	20
+2015	PC	CONCOURS ESTP	ESTP Paris BAT										570	51	31.0%	38.0%	58
+2015	PC	CONCOURS ESTP	ESTP Paris TOPOGRAPHIE										807	22	40.0%	32.0%	23
+2015	PC	CONCOURS ESTP	ESTP Paris Génie Mécanique et Electrique (GME)										688	29	27.0%	38.0%	26
+2015	PC	CONCOURS ESTP	ESTP Paris TP										577	60	21.0%	42.0%	60
+2015	PC	CONCOURS ESTP	ESTP	1219	32.0%	35.0%	904	33.0%	41.0%	846	33.0%	42.0%		162			167
+2015	PC	CONCOURS POLYTECH Inter-Filière	ENSC Bordeaux										-	5	40.0%	60.0%	18*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ENSIBS Lorient										-	1	0.0%	0.0%	7*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ENSIM Le Mans										-	1	0.0%	0.0%	8*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ESBS Strasbourg										-	3	100.0%	0.0%	3*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ESI Reims										-	6	16.0%	50.0%	13*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ESIAB Brest										-	1	100.0%	100.0%	3*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ESIR Rennes										-	1	0.0%	0.0%	15*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ESIREM Dijon										-	1	0.0%	100.0%	6*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ESIROI Saint Denis de la Réunion										-	0	0.0%	0.0%	7*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ESIX Normandie										-	0	0.0%	0.0%	12*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ESSTIN Nancy										-	4	25.0%	0.0%	27*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ISAT Nevers - département MIT (Mécanique et Ingénierie des Transports)										-	1	0.0%	100.0%	7*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ISAT Nevers - département EPEE (Energies et Moteurs)										-	2	50.0%	50.0%	14*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ISBS Créteil										-	3	33.0%	34.0%	10*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ISEL Le Havre										-	0	0.0%	0.0%	8*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ISIFC Besançon										-	2	0.0%	50.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ISIS Castres										-	1	100.0%	0.0%	12*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ISTIA Angers										-	1	100.0%	100.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	ISTY Vélizy										-	0	0.0%	0.0%	6*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry - Environnement, Bâtiment, Énergie										-	5	80.0%	40.0%	16*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry - Instrumentation, Automatique, Informatique										-	0	0.0%	0.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry - Mécanique, Matériaux										-	0	0.0%	0.0%	13*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand - Génie Biologique										-	4	75.0%	25.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand - Génie Civil										-	3	33.0%	34.0%	16*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand - Génie Electrique										-	0	0.0%	0.0%	9*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand - Génie Mathématique et Modélisation										-	2	50.0%	0.0%	14*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand - Génie Physique										-	1	100.0%	0.0%	11*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Géotechnique										-	1	100.0%	100.0%	13*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Matériaux										-	9	33.0%	34.0%	12*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Prévention des risques										-	1	100.0%	0.0%	10*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Systèmes électroniques et informatiques, Réseaux										-	1	0.0%	0.0%	15*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Technologies de l'information pour la santé										-	1	100.0%	100.0%	6*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Génie biologique et alimentaire										-	2	100.0%	0.0%	4*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Génie Informatique et statistique										-	1	0.0%	100.0%	14*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Géotechnique, Génie civil										-	3	33.0%	34.0%	10*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Informatique, Microélectronique, Automatique										-	2	0.0%	50.0%	9*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Ingénierie et commercialisation des systèmes de mesure										-	2	50.0%	0.0%	9*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Matériaux										-	6	33.0%	34.0%	8*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Mécanique										-	1	0.0%	100.0%	9*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Génie Bomédical										-	2	50.0%	0.0%	9*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Informatique										-	1	0.0%	0.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Matériaux										-	3	33.0%	34.0%	6*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Mathématiques Appliquées et Modélisation										-	2	50.0%	0.0%	9*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Mécanique										-	1	100.0%	0.0%	6*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Systèmes industriels, Robotique										-	0	0.0%	0.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Génie Biomédical										-	4	100.0%	25.0%	9*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Génie Civil										-	3	66.0%	0.0%	16*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Génie Industriel et Informatique										-	0	0.0%	0.0%	8*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Informatique										-	2	0.0%	0.0%	13*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Matériaux										-	5	40.0%	40.0%	13*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Mécanique, Energétique										-	4	25.0%	25.0%	22*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Microélectronique,Télécommunications										-	0	0.0%	0.0%	12*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Électronique et Informatique industrielle										-	2	0.0%	0.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Informatique et Gestion										-	1	0.0%	100.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Matériaux										-	2	0.0%	50.0%	6*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Mécanique et Interactions										-	0	0.0%	0.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Sciences et technologies de l'eau										-	2	0.0%	100.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Sciences et technologies des Industries alimentaires										-	5	80.0%	40.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Électronique et technologies numériques										-	0	0.0%	0.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Énergie électrique										-	0	0.0%	0.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Génie civil										-	3	0.0%	0.0%	10*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Génie des Procédés et Bioprocédés										-	5	40.0%	0.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Informatique										-	1	0.0%	100.0%	10*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Matériaux										-	3	33.0%	34.0%	10*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Thermique, Énergétique										-	2	100.0%	50.0%	10*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Bâtiments										-	1	0.0%	0.0%	9*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Électronique										-	3	0.0%	67.0%	10*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Génie biologique										-	2	50.0%	0.0%	3*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Génie de l'eau										-	3	33.0%	34.0%	9*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Informatique										-	0	0.0%	0.0%	15*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Mathématiques appliquées, Modélisation										-	2	0.0%	50.0%	14*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Orléans - Écotechnologie électroniques et optiques										-	0	0.0%	0.0%	7*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Orléans - Génie civil et géo-environnement										-	3	33.0%	67.0%	21*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Orléans - Génie industriel										-	1	0.0%	0.0%	3*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Orléans - Innovation en Conception et Matériaux										-	0	0.0%	0.0%	15*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Orléans - Technologies pour l'Énergie, l'Aérospatial et la Motorisation										-	3	33.0%	0.0%	15*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Sud - Electronique, Energie, Systèmes										-	2	50.0%	100.0%	10*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Sud - Informatique										-	3	33.0%	0.0%	8*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Sud - Photonique et systèmes optroniques										-	1	0.0%	0.0%	6*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Sud - Matériaux										-	2	0.0%	100.0%	10*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Paris-UPMC - Electronique et Informatique										-	1	100.0%	0.0%	13*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Paris-UPMC - Matériaux										-	2	100.0%	0.0%	12*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Paris-UPMC - Robotique										-	0	0.0%	0.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Paris-UPMC - Sciences de la Terre										-	1	0.0%	100.0%	11*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Paris-UPMC Informatique et mathématiques appliquées										-	1	0.0%	0.0%	2*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Tours - Électronique, Énergie électrique										-	0	0.0%	0.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Tours - Informatique										-	1	100.0%	0.0%	6*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Tours - Mécanique, Conception de systèmes										-	1	100.0%	0.0%	5*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Polytech Tours - aménagement et environnement										-	0	0.0%	0.0%	15*
+2015	PC	CONCOURS POLYTECH Inter-Filière	Sup Galilée Villetaneuse										-	0	0.0%	0.0%	-13
+2015	PC	CONCOURS POLYTECH Inter-Filière	Concours POLYTECH	2347	38.0%	29.0%	1728	39.0%	30.0%	1556	40.0%	32.0%		164			-855
+2015	PC	Autres écoles E3A	ECE PARIS	702	37.0%	27.0%	598	37.0%	29.0%	210	38.0%	31.0%	207	31	29.0%	17.0%	35
+2015	PC	Autres écoles E3A	EFREI Paris	192	33.0%	29.0%	185	33.0%	29.0%	36	19.0%	28.0%	36	4	75.0%	25.0%	20
+2015	PC	Autres écoles E3A	EIDD Paris	331	45.0%	27.0%	268	44.0%	27.0%	111	50.0%	33.0%	111	2	50.0%	50.0%	12
+2015	PC	Autres écoles E3A	EIGSI La Rochelle	322	39.0%	29.0%	260	39.0%	32.0%	78	38.0%	36.0%	78	10	20.0%	40.0%	10
+2015	PC	Autres écoles E3A	EIL Côte d'Opale - Calais (informatique)										40	1	100.0%	0.0%	3
+2015	PC	Autres écoles E3A	EIL Côte d'Opale - Longuenesse (Génie Industriel)										39	1	100.0%	0.0%	5
+2015	PC	Autres écoles E3A	EIL Côte d'Opale Longuenesse - Calais	133	34.0%	30.0%	98	32.0%	30.0%	41	34.0%	35.0%		2			8
+2015	PC	Autres écoles E3A	EME	251	51.0%	29.0%				245	51.0%	29.0%	241	12	33.0%	34.0%	18
+2015	PC	Autres écoles E3A	ENSAIT Roubaix										93	25	84.0%	24.0%	42
+2015	PC	Autres écoles E3A	ENSAIT Roubaix - Formation en alternance										90	2	50.0%	0.0%	4
+2015	PC	Autres écoles E3A	ENSAIT Roubaix	537	54.0%	32.0%	429	53.0%	34.0%	93	63.0%	35.0%		27			46
+2015	PC	Autres écoles E3A	ENSIL Limoges EE	598	46.0%	32.0%	486	46.0%	33.0%	125	48.0%	32.0%	78	20	60.0%	40.0%	18
+2015	PC	Autres écoles E3A	ENSIL Limoges ELT	319	31.0%	34.0%	246	31.0%	35.0%	38	23.0%	40.0%	33	6	16.0%	50.0%	6
+2015	PC	Autres écoles E3A	ENSIL Limoges Matériaux	565	41.0%	31.0%	449	42.0%	31.0%	132	41.0%	34.0%	74	14	50.0%	29.0%	12
+2015	PC	Autres écoles E3A	EPF campus SCEAUX										158	6	50.0%	0.0%	7
+2015	PC	Autres écoles E3A	EPF campus TROYES										182	7	57.0%	43.0%	7
+2015	PC	Autres écoles E3A	EPF campus MONTPELLIER										133	6	66.0%	17.0%	6
+2015	PC	Autres écoles E3A	EPF Sceaux-Troyes-Montpellier	490	45.0%	25.0%	454	47.0%	25.0%	234	47.0%	24.0%		19			20
+2015	PC	Autres écoles E3A	ESB Nantes	171	38.0%	31.0%	124	37.0%	33.0%	23	52.0%	31.0%	22	4	25.0%	0.0%	12
+2015	PC	Autres écoles E3A	ESIEA Paris - Laval	165	30.0%	28.0%	155	30.0%	29.0%	60	23.0%	24.0%	59	4	0.0%	25.0%	13
+2015	PC	Autres écoles E3A	ESIEE Amiens	257	35.0%	34.0%	218	33.0%	36.0%	18	55.0%	39.0%	18	3	66.0%	67.0%	10
+2015	PC	Autres écoles E3A	ESIEE Paris	359	42.0%	25.0%	322	40.0%	26.0%	69	42.0%	31.0%	68	5	40.0%	0.0%	25
+2015	PC	Autres écoles E3A	ESIGELEC Rouen	312	37.0%	31.0%	295	36.0%	32.0%	70	38.0%	36.0%	70	9	44.0%	0.0%	20
+2015	PC	Autres écoles E3A	ESIGETEL Villejuif	134	32.0%	27.0%	128	31.0%	29.0%	23	26.0%	31.0%	19	1	100.0%	0.0%	10
+2015	PC	Autres écoles E3A	ESILV Paris-La Défense	392	39.0%	31.0%	373	38.0%	32.0%	126	38.0%	34.0%	114	22	27.0%	32.0%	15
+2015	PC	Autres écoles E3A	ESITC Caen	200	44.0%	32.0%	157	45.0%	36.0%	33	42.0%	58.0%	28	6	33.0%	50.0%	14
+2015	PC	Autres écoles E3A	ESME SUDRIA Paris	379	38.0%	30.0%	331	38.0%	32.0%	155	39.0%	34.0%	155	1	0.0%	0.0%	20
+2015	PC	Autres écoles E3A	ESTACA Laval										142	7	14.0%	29.0%	5
+2015	PC	Autres écoles E3A	ESTACA Paris-Saclay										137	13	30.0%	31.0%	13
+2015	PC	Autres écoles E3A	ESTACA Paris-Saclay/Laval	461	28.0%	29.0%	394	29.0%	32.0%	247	27.0%	37.0%		20			18
+2015	PC	Autres écoles E3A	ESTIA Bidart	225	33.0%	31.0%	198	35.0%	32.0%	41	29.0%	37.0%	40	6	33.0%	50.0%	20
+2015	PC	Autres écoles E3A	INP - ENI Tarbes	307	40.0%	29.0%				30	53.0%	14.0%	22	0	0.0%	0.0%	2
+2015	PC	Autres écoles E3A	INSA centre val de loire GSI										39	3	0.0%	0.0%	6
+2015	PC	Autres écoles E3A	INSA centre val de loire MRI										48	5	40.0%	20.0%	16
+2015	PC	Autres écoles E3A	INSA Centre Val de Loire	374	36.0%	30.0%	238	36.0%	29.0%	48	25.0%	32.0%		8			22
+2015	PC	Autres écoles E3A	ISMANS Le Mans	194	41.0%	29.0%	157	45.0%	32.0%	31	35.0%	42.0%	30	2	0.0%	50.0%	8
+2015	PC	Autres écoles E3A	ITECH Lyon	510	59.0%	23.0%	472	60.0%	25.0%	136	74.0%	23.0%	136	38	73.0%	27.0%	35
+2015	PC	Autres écoles E3A	Mines Douai - ISPA Alençon	359	42.0%	29.0%	264	40.0%	33.0%	22	45.0%	32.0%	22	3	33.0%	34.0%	15
+2015	PC	Autres écoles E3A	3IL Limoges	139	37.0%	32.0%	124	36.0%	35.0%	18	33.0%	28.0%	0	0	0.0%	0.0%	10
+2015	PC	FESIC	ECAM Rennes	987	45.0%	26.0%	899	45.0%	27.0%	61	37.0%	25.0%	57	6	33.0%	17.0%	12
+2015	PC	FESIC	ECAM Strasbourg Europe	987	45.0%	26.0%	939	45.0%	27.0%	35	37.0%	32.0%	33	4	25.0%	50.0%	12
+2015	PC	FESIC	ECAM-EPMI Cergy-Pontoise	987	45.0%	26.0%	939	45.0%	27.0%	112	38.0%	37.0%	98	5	40.0%	40.0%	10
+2015	PC	FESIC	ESAIP Angers - Grasse	987	45.0%	26.0%	908	45.0%	27.0%	219	49.0%	34.0%	218	8	0.0%	50.0%	18
+2015	PC	FESIC	ESCOM Compiegne	987	45.0%	26.0%	692	47.0%	30.0%	233	51.0%	35.0%	213	12	50.0%	42.0%	12
+2015	PC	FESIC	ESEO Angers	987	45.0%	26.0%	769	46.0%	29.0%	449	45.0%	31.0%	445	4	50.0%	25.0%	3
+2015	PC	FESIC	HEI	987	45.0%	26.0%	883	45.0%	28.0%	410	44.0%	32.0%	393	27	25.0%	15.0%	26
+2015	PC	FESIC	ISEN Brest	987	45.0%	26.0%	876	45.0%	27.0%	164	42.0%	33.0%	160	0	0.0%	0.0%	5
+2015	PC	FESIC	ISEN Lille	987	45.0%	26.0%	876	45.0%	27.0%	164	42.0%	33.0%	162	2	0.0%	50.0%	20
+2015	PC	FESIC	ISEN Toulon	987	45.0%	26.0%	876	45.0%	27.0%	164	42.0%	33.0%	152	0	0.0%	0.0%	10
+2015	PC	FESIC	ISEP Paris	987	45.0%	26.0%	872	45.0%	27.0%	159	38.0%	33.0%	157	12	0.0%	25.0%	20
+2015	PC	FESIC	LASALLE BEAUVAIS	987	45.0%	26.0%	769	46.0%	29.0%	53	49.0%	40.0%	51	1	100.0%	100.0%	8
+2015	PC	Centrale Casablanca	CENTRALE CASABLANCA - CI	20	70.0%	10.0%				12	58.0%	9.0%	11	1	0.0%	100.0%	1
+2015	PC	EPITA	EPITA										81	3	0.0%	0.0%	5
+2015	PC	EPITA	IPSA Paris										80	5	20.0%	0.0%	6
+2015	PC	EPITA	IPSA Toulouse										85	7	42.0%	0.0%	4
+2015	PC	EPITA	EPITA / IPSA PC	171	30.0%	27.0%	103	26.0%	22.0%	81	25.0%	19.0%		15			15

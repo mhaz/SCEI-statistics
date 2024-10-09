@@ -1,0 +1,421 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	nb_integres_interfilieres	places
+2023	PC	Banque ECOLE POLYTECHNIQUE - ESPCI - interENS	ECOLE POLYTECHNIQUE	1324	28,6%	20,4%	244	29,9%	12,3%	162	30,2%	9,3%	132	28,0%	9,8%	77	77		132
+2023	PC	Banque ECOLE POLYTECHNIQUE - ESPCI - interENS	ESPCI Paris	1362	32,5%	19,5%	467	29,6%	15,8%	426	30,3%	14,8%	58	31,0%	12,1%	259	249		55
+2023	PC	Banque ECOLE POLYTECHNIQUE - ESPCI - interENS	ESPCI Paris Etranger	52	28,8%	26,9%	15	20,0%	26,7%	14	21,4%	28,6%	1	100,0%	0,0%	12	12		2
+2023	PC	Banque ECOLE POLYTECHNIQUE - ESPCI - interENS	ENS Ulm	1342	29,0%	21,5%	110	23,6%	17,3%	71	28,2%	16,9%	18	27,8%	27,8%	25	26		18
+2023	PC	Banque ECOLE POLYTECHNIQUE - ESPCI - interENS	ENS Paris-Saclay PC	1506	29,3%	20,1%	298	26,5%	20,1%	190	26,3%	21,6%	18	22,2%	38,9%	116	99		18
+2023	PC	Banque ECOLE POLYTECHNIQUE - ESPCI - interENS	ENS de Lyon	1359	28,9%	20,5%	280	26,4%	22,5%	193	30,1%	20,2%	26	26,9%	46,2%	141	129		26
+2023	PC	Banque CENTRALE-SUPELEC	CentraleSupÃ©lec - cursus apprenti - Campus Metz										2	0,0%	50,0%	694	694		2
+2023	PC	Banque CENTRALE-SUPELEC	CentraleSupÃ©lec - cursus apprenti - Campus Rennes										5	40,0%	20,0%	641	583		5
+2023	PC	Banque CENTRALE-SUPELEC	CentraleSupÃ©lec - statut Ã©tudiant										169	22,5%	18,3%	269	261		170
+2023	PC	Banque CENTRALE-SUPELEC	Concours CentraleSupÃ©lec PC	2651	34,5%	19,7%	756	28,0%	16,0%	743	28,4%	16,2%	176						177
+2023	PC	Banque CENTRALE-SUPELEC	CentraleSupÃ©lec - statut Ã©tudiant - Ã©tr.	87	35,6%	23,0%	24	25,0%	25,0%	24	25,0%	25,0%	5	20,0%	80,0%	18	17		5
+2023	PC	Banque CENTRALE-SUPELEC	Centrale Lyon	2829	35,6%	18,5%	631	30,1%	16,2%	626	30,4%	16,1%	54	25,9%	11,1%	463	455		62
+2023	PC	Banque CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	1723	36,4%	21,3%	795	34,0%	20,6%	766	34,3%	20,8%	51	43,1%	25,5%	546	518		50
+2023	PC	Banque CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) - Ã©tr.	46	32,6%	21,7%	17	23,5%	35,3%	17	23,5%	35,3%	0	0,0%	0,0%	0	0		2
+2023	PC	Banque CENTRALE-SUPELEC	Centrale Lille	2743	36,1%	19,8%	796	29,9%	19,5%	786	30,0%	19,5%	48	22,9%	25,0%	602	568		50
+2023	PC	Banque CENTRALE-SUPELEC	Centrale Nantes	2771	35,7%	19,3%	975	30,8%	18,8%	960	30,9%	18,8%	64	40,6%	21,9%	546	534		60
+2023	PC	Banque CENTRALE-SUPELEC	Centrale MÃ©diterranÃ©e	2687	38,3%	17,2%	1185	34,9%	15,7%	1136	35,6%	15,8%	99	41,4%	22,2%	843	825		90
+2023	PC	Banque CENTRALE-SUPELEC	Centrale Casablanca	465	35,1%	24,3%	89	23,6%	19,1%	84	22,6%	20,2%	0	0,0%	0,0%	0	0		2
+2023	PC	Banque CENTRALE-SUPELEC	CentraleSupÃ©lec - statut Ã©tudiant - CI										5	0,0%	0,0%	3	3		5
+2023	PC	Banque CENTRALE-SUPELEC	Centrale Lyon - CI										1	0,0%	0,0%	9	9		1
+2023	PC	Banque CENTRALE-SUPELEC	Centrale Lille - CI										1	0,0%	0,0%	10	10		1
+2023	PC	Banque CENTRALE-SUPELEC	Centrale Nantes - CI										1	0,0%	0,0%	11	11		1
+2023	PC	Banque CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) - CI										1	0,0%	100,0%	14	14		2
+2023	PC	Banque CENTRALE-SUPELEC	Centrale MÃ©diterranÃ©e - CI										1	100,0%	0,0%	21	21		2
+2023	PC	Banque CENTRALE-SUPELEC	Concours Cycle International Centrale-Supelec PC	28	39,3%	3,6%	22	31,8%	4,5%	21	33,3%	4,8%	10						12
+2023	PC	Banque CENTRALE-SUPELEC	Arts et MÃ©tiers										20	35,0%	45,0%	410	410		20
+2023	PC	Banque CENTRALE-SUPELEC	Arts et MÃ©tiers - voie de l'apprentissage										0	0,0%	0,0%	0	0		2
+2023	PC	Banque CENTRALE-SUPELEC	Concours ARTS ET MÃTIERS PC	1809	34,7%	20,4%	650	32,0%	23,5%	501	30,1%	24,6%	20						22
+2023	PC	Banque CENTRALE-SUPELEC	ENSEA Cergy	1809	34,7%	20,4%	1361	33,1%	20,0%	1004	32,0%	19,7%	18	22,2%	27,8%	933	882		30
+2023	PC	Banque CENTRALE-SUPELEC	EPF campus Troyes										0	0,0%	0,0%	0	0		2
+2023	PC	Banque CENTRALE-SUPELEC	EPF campus Montpellier										2	0,0%	0,0%	326	326		6
+2023	PC	Banque CENTRALE-SUPELEC	EPF campus Cachan										5	60,0%	40,0%	297	290		6
+2023	PC	Banque CENTRALE-SUPELEC	Concours EPF Paris - Cachan - Troyes - Montpellier - PC	655	47,9%	14,5%	515	49,1%	14,6%	340	51,8%	14,4%	7						14
+2023	PC	Banque CENTRALE-SUPELEC	ESTP - campus de Dijon										11	45,5%	27,3%	684	653		10
+2023	PC	Banque CENTRALE-SUPELEC	ESTP - campus de Cachan										119	38,7%	12,6%	561	533		145
+2023	PC	Banque CENTRALE-SUPELEC	ESTP - campus de d'OrlÃ©ans										4	75,0%	0,0%	685	684		6
+2023	PC	Banque CENTRALE-SUPELEC	ESTP - campus de Troyes										5	20,0%	0,0%	673	604		10
+2023	PC	Banque CENTRALE-SUPELEC	Concours ESTP PC	1080	39,0%	17,9%	990	38,9%	17,7%	708	38,7%	16,8%	139						171
+2023	PC	Banque CENTRALE-SUPELEC	ECOLE NAVALE Brest	649	29,4%	20,2%	221	33,9%	22,6%	84	28,6%	35,7%	18	33,3%	38,9%	28	35		18
+2023	PC	Concours Commun MINES-PONTS	ENSAE Paris										6	66,7%	0,0%	442	476		8
+2023	PC	Concours Commun MINES-PONTS	ENSTA Paris										36	38,9%	16,7%	472	459		39
+2023	PC	Concours Commun MINES-PONTS	ENSTA Paris - apprentissage										1	0,0%	0,0%	610	610		2
+2023	PC	Concours Commun MINES-PONTS	IMT Atlantique										98	27,6%	25,5%	1040	996		90
+2023	PC	Concours Commun MINES-PONTS	ISAE - SUPAERO Toulouse										30	36,7%	6,7%	472	437		32
+2023	PC	Concours Commun MINES-PONTS	MINES de NANCY										35	22,9%	11,4%	663	645		39
+2023	PC	Concours Commun MINES-PONTS	MINES SAINT-ETIENNE										38	44,7%	10,5%	893	880		42
+2023	PC	Concours Commun MINES-PONTS	MINES Paris										24	41,7%	4,2%	89	86		24
+2023	PC	Concours Commun MINES-PONTS	PONTS ParisTech										39	30,8%	5,1%	257	261		40
+2023	PC	Concours Commun MINES-PONTS	TELECOM Paris										26	26,9%	34,6%	459	435		25
+2023	PC	Concours Commun MINES-PONTS	TELECOM Paris - Apprentissage										1	0,0%	0,0%	570	570		1
+2023	PC	Concours Commun MINES-PONTS	Chimie ParisTech										64	48,4%	9,4%	796	750		65
+2023	PC	Concours Commun MINES-PONTS	Concours CCMP PC	3557	36,7%	17,1%	1200	30,6%	16,5%	1184	30,7%	16,5%	398						407
+2023	PC	Concours Mines - TÃ©lÃ©com	ECOLE METEOROLOGIE (fonctionnaire) (Oral SÃ©rie 1)	3637	38,9%	17,4%	1954	35,7%	17,8%	1875	36,1%	17,7%	10	20,0%	0,0%	1525	1443		10
+2023	PC	Concours Mines - TÃ©lÃ©com	ECOLE METEOROLOGIE (non fonctionnaire) (Oral SÃ©rie 1)	3637	38,9%	17,4%	2003	35,6%	18,1%	1924	36,0%	18,0%	2	50,0%	0,0%	1251	1251		2
+2023	PC	Concours Mines - TÃ©lÃ©com	EIVP Paris Civil (Oral SÃ©rie 2)	3637	38,9%	17,4%	2550	36,9%	17,9%	2278	36,9%	18,0%	23	56,5%	30,4%	1949	1945		24
+2023	PC	Concours Mines - TÃ©lÃ©com	EIVP Paris Fonctionnaire (Oral SÃ©rie 2)	3637	38,9%	17,4%	2487	36,8%	17,7%	2219	36,8%	17,7%	4	0,0%	25,0%	1638	1633		4
+2023	PC	Concours Mines - TÃ©lÃ©com	ENSG Nancy (Oral SÃ©rie 2)	3637	38,9%	17,4%	2550	36,9%	17,9%	2278	36,9%	18,0%	9	33,3%	22,2%	1724	1671		10
+2023	PC	Concours Mines - TÃ©lÃ©com	ENSG-GÃ©omatique Marne la VallÃ©e (Oral SÃ©rie 2)	3637	38,9%	17,4%	2550	36,9%	17,9%	2278	36,9%	18,0%	4	0,0%	25,0%	2008	2024		3
+2023	PC	Concours Mines - TÃ©lÃ©com	ENSG-GÃ©omatique Marne la VallÃ©e Fonctionnaire (Oral SÃ©rie 2)	3637	38,9%	17,4%	2487	36,8%	17,7%	2219	36,8%	17,7%	1	100,0%	100,0%	1700	1700		1
+2023	PC	Concours Mines - TÃ©lÃ©com	ENSIIE Evry (Oral SÃ©rie 1)	3637	38,9%	17,4%	2003	35,6%	18,1%	1924	36,0%	18,0%	11	18,2%	27,3%	1396	1360		10
+2023	PC	Concours Mines - TÃ©lÃ©com	ENSSAT Lannion (Oral SÃ©rie 2)	3637	38,9%	17,4%	2550	36,9%	17,9%	2278	36,9%	18,0%	14	35,7%	21,4%	2059	1978		14
+2023	PC	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut Ã©tudiant) (Oral SÃ©rie 1)	3637	38,9%	17,4%	2003	35,6%	18,1%	1924	36,0%	18,0%	19	31,6%	31,6%	769	717		18
+2023	PC	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut IETA - Direction GÃ©nÃ©rale de l'Armement) (Oral SÃ©rie 1)	3637	38,9%	17,4%	1773	35,7%	19,4%	1706	36,0%	19,2%	9	33,3%	44,4%	782	706		9
+2023	PC	Concours Mines - TÃ©lÃ©com	ENTPE Lyon Civil (Oral SÃ©rie 1)	3637	38,9%	17,4%	2003	35,6%	18,1%	1924	36,0%	18,0%	21	52,4%	23,8%	1529	1499		17
+2023	PC	Concours Mines - TÃ©lÃ©com	ENTPE Lyon Fonctionnaire (Oral SÃ©rie 1)	3637	38,9%	17,4%	1954	35,7%	17,8%	1875	36,1%	17,7%	21	23,8%	19,0%	1705	1562		25
+2023	PC	Concours Mines - TÃ©lÃ©com	EURECOM (Oral SÃ©rie 1)	3637	38,9%	17,4%	2003	35,6%	18,1%	1924	36,0%	18,0%	7	28,6%	28,6%	1630	1610		8
+2023	PC	Concours Mines - TÃ©lÃ©com	IMT Mines Albi (Oral SÃ©rie 1)	3637	38,9%	17,4%	2003	35,6%	18,1%	1924	36,0%	18,0%	54	42,6%	29,6%	1374	1354		50
+2023	PC	Concours Mines - TÃ©lÃ©com	IMT Mines AlÃ¨s (Oral SÃ©rie 1)	3637	38,9%	17,4%	2003	35,6%	18,1%	1924	36,0%	18,0%	50	52,0%	18,0%	1083	1018		49
+2023	PC	Concours Mines - TÃ©lÃ©com	IMT Nord Europe (Oral SÃ©rie 1)	3637	38,9%	17,4%	2003	35,6%	18,1%	1924	36,0%	18,0%	40	47,5%	17,5%	1435	1389		40
+2023	PC	Concours Mines - TÃ©lÃ©com	IMT Nord Europe Fonct. (Oral SÃ©rie 1)	3637	38,9%	17,4%	1954	35,7%	17,8%	1875	36,1%	17,7%	3	33,3%	0,0%	1332	1311		3
+2023	PC	Concours Mines - TÃ©lÃ©com	Institut Mines-TÃ©lÃ©com Business School (IMT-BS) (Oral SÃ©rie 1)	3637	38,9%	17,4%	2003	35,6%	18,1%	1924	36,0%	18,0%	2	50,0%	50,0%	1870	1870		9
+2023	PC	Concours Mines - TÃ©lÃ©com	Mines Saint Etienne-ISMIN (Oral SÃ©rie 1)	3637	38,9%	17,4%	2003	35,6%	18,1%	1924	36,0%	18,0%	8	37,5%	12,5%	1073	1062		9
+2023	PC	Concours Mines - TÃ©lÃ©com	TELECOM Nancy (Oral SÃ©rie 2)	3637	38,9%	17,4%	2550	36,9%	17,9%	2278	36,9%	18,0%	3	66,7%	0,0%	1380	1417		5
+2023	PC	Concours Mines - TÃ©lÃ©com	TÃ©lÃ©com Physique Strasbourg TI-SantÃ© (Oral SÃ©rie 1)	3637	38,9%	17,4%	2003	35,6%	18,1%	1924	36,0%	18,0%	8	62,5%	25,0%	1641	1561		8
+2023	PC	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut Ã©tudiant (Oral SÃ©rie 2)	3637	38,9%	17,4%	2550	36,9%	17,9%	2278	36,9%	18,0%	11	45,5%	27,3%	1760	1776		13
+2023	PC	Concours Mines - TÃ©lÃ©com	TELECOM SudParis (Oral SÃ©rie 1)	3637	38,9%	17,4%	2003	35,6%	18,1%	1924	36,0%	18,0%	43	30,2%	34,9%	845	788		42
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSC Cognitique										8	50,0%	25,0%	2651	2534		5
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSEGID										8	50,0%	0,0%	1955	1828		6
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSEIRB-MATMECA Electronique										17	5,9%	17,6%	2007	1992		11
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSEIRB-MATMECA Informatique										4	25,0%	0,0%	1138	1108		3
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSEIRB-MATMECA MathÃ©matiques et MÃ©canique										7	28,6%	14,3%	1614	1502		4
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSEIRB-MATMECA TÃ©lecom.										10	20,0%	40,0%	1951	1883		6
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Clermont Auvergne INP - ISIMA										9	33,3%	11,1%	3114	2926		7
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	CPE LYON Sciences du numÃ©rique										4	50,0%	25,0%	3105	3080		12
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	CY TECH Cergy-Pau - Informatique										15	20,0%	20,0%	2622	2645		10
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	CY TECH Cergy-Pau - MathÃ©matiques										18	11,1%	5,6%	2927	2798		15
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENAC Toulouse Civil										22	36,4%	36,4%	1286	1262		17
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENAC Toulouse Fonctionnaire										6	16,7%	16,7%	678	613		6
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENGEES Strasbourg Civil (apprenti)										3	33,3%	33,3%	3002	2889		2
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENGEES Strasbourg Civil (Ã©tudiant)										11	54,5%	27,3%	2579	2233		10
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENGEES Strasbourg Fonctionnaire										4	75,0%	0,0%	2421	2219		4
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSAI Rennes Civil										6	50,0%	33,3%	1889	1864		3
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSAI Rennes Fonctionnaire (AttachÃ© INSEE)										4	0,0%	0,0%	2448	2526		4
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSGTI Pau - GÃ©nie des ProcÃ©dÃ©s										17	58,8%	11,8%	3063	2996		20
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSI Poitiers Energie et Environnement										18	27,8%	22,2%	3015	2877		17
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSICAEN GÃ©nie Physique et systÃ¨mes EmbarquÃ©s										24	20,8%	25,0%	2446	2314		20
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSICAEN Informatique										9	11,1%	22,2%	2757	2657		8
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - ENSE3										60	23,3%	13,3%	1470	1421		60
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - ENSIMAG										5	0,0%	20,0%	367	380		5
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - Esisar										5	20,0%	20,0%	2507	2474		5
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - Pagora										15	40,0%	13,3%	2953	2895		18
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - Phelma (Physique Electronique TÃ©lÃ©coms)										34	47,1%	26,5%	1230	1205		30
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - Phelma (Physique MatÃ©riaux ProcÃ©dÃ©s)										66	24,2%	16,7%	829	828		68
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Institut Agro â Dijon (cursus ingÃ©nieur en agroalimentaire)										1	0,0%	0,0%	2649	2649		4
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ISAE-ENSMA Poitiers										28	35,7%	10,7%	1259	1166		28
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ISAE-SupmÃ©ca Paris										18	61,1%	16,7%	1615	1475		22
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Lorraine INP - ENSEM - Energie										31	12,9%	35,5%	2777	2653		24
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Lorraine INP - ENSEM - SpÃ©cialitÃ© des systÃ¨mes numÃ©riques										7	57,1%	14,3%	3061	2816		5
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ONIRIS Nantes Atlantique (cursus agroalimentaire)										0	0,0%	0,0%	0	0		5
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	SeaTech Toulon										23	47,8%	34,8%	2241	2194		20
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	SUPMICROTECH ENSMM BesanÃ§on										21	42,9%	23,8%	2677	2608		25
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	TELECOM PHYSIQUE Strasbourg										25	60,0%	28,0%	1910	1892		30
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Toulouse INP - ENSEEIHT - Electronique-Energie-Automatique (EEA)										14	21,4%	21,4%	1160	1130		14
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Toulouse INP - ENSEEIHT - MÃ©canique des Fluides-Energetique-Environnement (MFEE)										13	7,7%	30,8%	466	425		15
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Toulouse INP - ENSEEIHT - Sciences du NumÃ©rique										7	14,3%	28,6%	922	795		8
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Toulouse INP - ENSIACET - GÃ©nie des ProcÃ©dÃ©s										13	38,5%	7,7%	2195	2113		16
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Toulouse INP - ENSIACET - GÃ©nie Industriel										7	28,6%	71,4%	1963	1794		9
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Concours CCINP PC-Physique	4456	39,3%	17,4%	3779	39,1%	18,0%	3302	40,9%	18,0%	617						601
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Bordeaux Sciences Agro										4	75,0%	25,0%	2818	2863		3
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Bordeaux INP - ENSMAC (ex ENSCBP) Chimie-GÃ©nie physique										35	68,6%	2,9%	2037	1907		37
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	CPE LYON Chimie â gÃ©nie des procÃ©dÃ©s										22	72,7%	9,1%	2309	2097		35
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ECPM - ESBS Strasbourg - CHEMBIOTECH										7	42,9%	28,6%	866	817		7
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ECPM Strasbourg										52	46,2%	5,8%	1201	1160		45
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSC Lille										40	50,0%	22,5%	1292	1236		39
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSC Montpellier										60	45,0%	11,7%	530	466		60
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	CY TECH Cergy - Biotechnololgie										26	76,9%	19,2%	2711	2565		25
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSC Mulhouse										31	64,5%	16,1%	1826	1764		30
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSC Rennes										36	66,7%	16,7%	1747	1704		40
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSI Poitiers - GÃ©nie de l'Eau et GÃ©nie Civil										20	45,0%	35,0%	2848	2820		21
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSICAEN Mat. et Chimie										34	64,7%	20,6%	2408	2330		32
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Lorraine INP - ENSIC										49	51,0%	12,2%	2195	1984		50
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Clermont Auvergne INP - SIGMA - chimie										32	56,2%	21,9%	2102	2018		29
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Toulouse INP - ENSIACET - Chimie										27	55,6%	14,8%	932	905		29
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Toulouse INP - ENSIACET - GÃ©nie chimique										33	69,7%	24,2%	1630	1552		32
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Toulouse INP - ENSIACET - MatÃ©riaux										29	41,4%	13,8%	2081	2015		30
+2023	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Concours CCINP PC-Chimie	4301	41,0%	17,2%	3613	40,7%	17,9%	3087	42,3%	17,7%	537						544
+2023	PC	Banque Ã©preuves CCINP Inter-FiliÃ¨re	ENSIL - ENSCI Limoges CÃ©ramique Industrielle										7	57,1%	42,9%	206*	190*	11*	40*
+2023	PC	Banque Ã©preuves CCINP Inter-FiliÃ¨re	ENSIL - ENSCI Limoges GÃ©nie civil										1	100,0%	100,0%	244*	244*	10*	12*
+2023	PC	Banque Ã©preuves CCINP Inter-FiliÃ¨re	ENSIL - ENSCI Limoges GÃ©nie de l'Eau et Environnement										6	83,3%	0,0%	183*	184*	8*	28*
+2023	PC	Banque Ã©preuves CCINP Inter-FiliÃ¨re	ENSIL - ENSCI Limoges Electronique et TÃ©lÃ©communications										0	0,0%	0,0%	314*	313*	11*	23*
+2023	PC	Banque Ã©preuves CCINP Inter-FiliÃ¨re	ENSIL - ENSCI Limoges MatÃ©riaux										7	14,3%	42,9%	152*	178*	10*	22*
+2023	PC	Banque Ã©preuves CCINP Inter-FiliÃ¨re	ENSIL - ENSCI Limoges MÃ©catronique										2	50,0%	0,0%	322	269	14*	18*
+2023	PC	Banque Ã©preuves CCINP Inter-FiliÃ¨re	Concours ENSIL-ENSCI Inter Fil.	919	52,6%	15,3%	750	53,3%	15,1%	128	63,3%	17,2%	23					64	143
+2023	PC	Banque Ã©preuves CCINP Inter-FiliÃ¨re	Grenoble INP - GÃ©nie industriel	965	41,2%	14,5%	395	40,3%	15,2%	45	40,0%	15,6%	7	14,3%	42,9%	161	185	76*	76*
+2023	PC	Banque Ã©preuves CCINP Inter-FiliÃ¨re	Lorraine INP - EEIGM	335	51,0%	17,3%	221	54,8%	18,6%	25	64,0%	24,0%	4	100,0%	50,0%	59	51	6*	10*
+2023	PC	Banque Ã©preuves CCINP Inter-FiliÃ¨re	Lorraine INP - ENSGSI	575	48,7%	12,9%	459	49,0%	13,1%	73	53,4%	15,1%	9	55,6%	0,0%	131	128	31*	45*
+2023	PC	Banque Ã©preuves CCINP	ECOLE DE L'AIR Base	703	35,0%	19,3%	273	37,0%	23,8%	57	52,6%	47,4%	2	50,0%	0,0%	7	7		2
+2023	PC	Banque Ã©preuves CCINP	ECOLE DE L'AIR MÃ©ca	651	34,1%	19,7%	246	36,6%	24,4%	55	50,9%	49,1%	6	50,0%	100,0%	38	36		7
+2023	PC	Banque Ã©preuves CCINP	ECOLE DE L'AIR Pilote	767	34,3%	18,3%	296	35,5%	23,0%	56	48,2%	42,9%	14	35,7%	57,1%	15	19		14
+2023	PC	Banque Ã©preuves CCINP	ENAC Toulouse - ContrÃ´leurs aÃ©riens	871	38,0%	19,2%	208	42,8%	21,2%	108	48,1%	19,4%	30	43,3%	26,7%	63	57		30
+2023	PC	Banque Ã©preuves CCINP	ENSISA Mulhouse Automatique et SystÃ¨mes EmbarquÃ©s										1	0,0%	0,0%	70	70		4
+2023	PC	Banque Ã©preuves CCINP	ENSISA Mulhouse Informatique et rÃ©seaux										2	0,0%	0,0%	54	54		4
+2023	PC	Banque Ã©preuves CCINP	ENSISA Mulhouse MÃ©canique										2	50,0%	50,0%	47	47		5
+2023	PC	Banque Ã©preuves CCINP	ENSISA Mulhouse Textile et Fibres										5	40,0%	0,0%	59	50		9
+2023	PC	Banque Ã©preuves CCINP	Concours ENSISA PC	749	50,9%	14,4%	701	51,2%	14,0%	76	48,7%	9,2%	10						22
+2023	PC	Banque Ã©preuves CCINP	EOST Strasbourg	566	51,8%	12,4%	422	53,6%	11,1%	31	61,3%	6,5%	11	45,5%	0,0%	16	18		12
+2023	PC	Banque Ã©preuves CCINP	ESCOM Chimie CompiÃ¨gne	1255	55,5%	14,4%	938	55,8%	14,7%	171	73,7%	14,0%	33	78,8%	15,2%	113	102		25
+2023	PC	Banque Ã©preuves CCINP	ESM Saint-Cyr	657	28,6%	21,0%	136	34,6%	25,0%	36	25,0%	41,7%	11	9,1%	72,7%	25	19		11
+2023	PC	Banque Ã©preuves CCINP	ITECH Lyon	890	59,2%	11,1%	742	59,2%	11,7%	124	84,7%	12,9%	21	90,5%	4,8%	86	82		45
+2023	PC	Banque Ã©preuves CCINP	Lorraine INP - ENSTIB	407	45,7%	12,8%	285	43,9%	9,8%	11	45,5%	0,0%	5	40,0%	0,0%	5	6		6
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ENSIBS CybersÃ©curitÃ© du logiciel										2	50,0%	0,0%	5431*	4819*	8*	10*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ENSIBS GÃ©nie Industriel										0	0,0%	0,0%	5337*	5337*	1*	9*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ENSIBS MÃ©catronique										1	0,0%	100,0%	4590*	4952*	3*	5*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ENSIM Le Mans										0	0,0%	0,0%	5213*	4670*	6*	9*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ENSTBB Bordeaux										2	50,0%	50,0%	2332*	2332*	2*	2*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	EPISEN - GÃ©nie BiomÃ©dical et santÃ© (ISBS)										6	100,0%	16,7%	4970*	5091*	8*	10*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	EPISEN - SystÃ¨me d'information										1	100,0%	0,0%	3306*	3303*	5*	4*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	EPISEN - Technologie pour la santÃ©										0	0,0%	0,0%	0*	0*	0*	6*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESBS Strasbourg										4	100,0%	25,0%	2857*	2904*	4*	3*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESGT le Mans										1	0,0%	0,0%	4227*	3953*	5*	10*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESI Reims - Energetique										0	0,0%	0,0%	4791*	4791*	2*	6*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESI Reims - GÃ©nie Urbain et Environnement										3	100,0%	0,0%	4414*	4195*	7*	5*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESI Reims - Packaging										0	0,0%	0,0%	0*	0*	0*	6*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESIAB - Microbiologie et QualitÃ© / Agroalimentaire										3	100,0%	0,0%	2954*	3445*	3*	6*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESIR Rennes - Informatique										2	0,0%	100,0%	5713*	5403*	8*	9*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESIR Rennes - MatÃ©riaux										4	25,0%	50,0%	4890*	4517*	6*	9*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESIR Rennes - Technologies de l'information pour la santÃ©										0	0,0%	0,0%	4183*	4183*	2*	8*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESIREM Dijon Informatique/Ã©lectronique										0	0,0%	0,0%	5110*	4818*	8*	10*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESIREM Dijon MatÃ©riaux										3	33,3%	33,3%	4687*	4510*	4*	6*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESIREM Dijon Robotique										1	0,0%	0,0%	5226*	5049*	4*	4*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESIROI La RÃ©union										0	0,0%	0,0%	0*	0*	0*	4*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESIX Caen Agroalimentaire										1	100,0%	0,0%	5201*	5201*	1*	4*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESIX Caen MÃ©catronique et SystÃ¨mes EmbarquÃ©s										1	0,0%	100,0%	4363*	4443*	4*	8*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ESIX Cherbourg GSI										0	0,0%	0,0%	4579*	4579*	1*	4*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ISAT Nevers - dÃ©partement MIT (MÃ©canique et IngÃ©nierie des Transports)										0	0,0%	0,0%	2801*	2598*	8*	5*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ISAT Nevers - dÃ©partement ESA (EnergÃ©tique et systÃ¨mes autonomes)										4	0,0%	0,0%	4725*	4347*	16*	12*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ISAT Nevers - Infrastructures et RÃ©seaux de Transports										1	0,0%	0,0%	2634*	2634*	1*	4*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ISEL Le Havre										0	0,0%	0,0%	0*	0*	0*	10*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ISIFC BesanÃ§on - GÃ©nie BiomÃ©dical										3	33,3%	33,3%	3963*	3946*	6*	10*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	ISTY VÃ©lizy										0	0,0%	0,0%	5590*	5590*	2*	10*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Angers BÃ¢timent : Exploitation, Maintenance et SÃ©curitÃ©										1	0,0%	0,0%	3992*	3992*	2*	3*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Angers QualitÃ© Innovation FiabilitÃ©										0	0,0%	0,0%	4487*	4487*	1*	3*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Angers SystÃ¨mes AutomatisÃ©s et GÃ©nie Informatique										1	0,0%	0,0%	5091*	5078*	5*	4*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - BÃ¢timent Eco-construction Energie										4	50,0%	25,0%	4312*	4247*	7*	8*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - Ecologie industrielle et territoriale										1	100,0%	0,0%	4390*	4526*	7*	5*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - Informatique donnÃ©es Usages										0	0,0%	0,0%	5619*	5527*	7*	7*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - MÃ©canique MÃ©catronique MatÃ©riaux composites										1	0,0%	0,0%	5348*	5282*	6*	10*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - SystÃ¨mes NumÃ©riques â Instrumentation										0	0,0%	0,0%	0*	0*	0*	5*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Biologique										3	66,7%	66,7%	3072*	2805*	4*	5*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Civil										2	50,0%	0,0%	4748*	4458*	15*	16*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Electrique										1	0,0%	100,0%	4906*	5138*	3*	6*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Physique										4	75,0%	50,0%	4781*	4733*	10*	12*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - IngÃ©nierie MathÃ©matique et Data Science										1	0,0%	0,0%	5067*	4758*	19*	16*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - GÃ©otechnique et gÃ©nie civil										1	0,0%	0,0%	3884*	3701*	9*	6*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - MatÃ©riaux										5	40,0%	60,0%	4529*	4372*	11*	9*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - Informatique										0	0,0%	0,0%	3588*	3387*	10*	8*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - Informatique et Ã©lectronique des systÃ¨mes embarquÃ©s										1	0,0%	100,0%	3629*	3719*	6*	6*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - Technologies de l'information pour la santÃ©										0	0,0%	0,0%	5050*	4518*	6*	6*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Grenoble Gestion des Risques										0	0,0%	0,0%	5246*	5125*	4*	8*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Lille - GÃ©nie biologique et alimentaire										7	85,7%	0,0%	4647*	4350*	7*	5*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Lille - GÃ©nie civil										2	100,0%	50,0%	3678*	3355*	16*	13*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Lille - Informatique et statistique										1	100,0%	0,0%	3913*	3787*	13*	12*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Lille - Instrumentation et ingÃ©nierie d'affaires										1	100,0%	100,0%	5407*	5246*	9*	7*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Lille - MatÃ©riaux										4	75,0%	25,0%	4115*	4157*	11*	10*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Lille - MÃ©canique										2	50,0%	0,0%	3919*	3909*	11*	12*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Lille - SystÃ¨mes embarquÃ©s										0	0,0%	0,0%	4403*	4269*	8*	8*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Lyon - GÃ©nie BiomÃ©dical										2	50,0%	50,0%	3170*	3275*	6*	4*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Lyon - Informatique										1	100,0%	0,0%	4255*	3833*	5*	4*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Lyon - MatÃ©riaux										3	66,7%	0,0%	3763*	3473*	5*	4*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Lyon - MathÃ©matiques AppliquÃ©es et ModÃ©lisation										0	0,0%	0,0%	2432*	2599*	4*	4*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Lyon - MÃ©canique										0	0,0%	0,0%	2916*	2651*	4*	5*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Lyon - SystÃ¨mes industriels, Robotique										1	0,0%	0,0%	4631*	4727*	3*	4*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Marseille - GÃ©nie BiomÃ©dical										3	66,7%	66,7%	5033*	4689*	9*	10*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Marseille - GÃ©nie Civil										2	100,0%	0,0%	4635*	4543*	6*	12*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Marseille - GÃ©nie Industriel et Informatique										1	0,0%	0,0%	5194*	5088*	11*	12*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Marseille - Informatique										0	0,0%	0,0%	3716*	3196*	6*	5*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Marseille - MatÃ©riaux										7	42,9%	14,3%	5454*	4925*	9*	12*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Marseille - MÃ©canique, EnergÃ©tique										8	25,0%	37,5%	5108*	4968*	18*	18*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Marseille - MicroÃ©lectronique,TÃ©lÃ©communications										1	100,0%	0,0%	5580*	5431*	9*	10*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - Informatique et Gestion										0	0,0%	0,0%	4071*	4193*	4*	3*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - MatÃ©riaux										7	57,1%	42,9%	3457*	3349*	8*	7*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - MÃ©canique et Interactions										1	0,0%	0,0%	3358*	3358*	2*	2*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - MicroÃ©lectronique et Automatique										0	0,0%	0,0%	4978*	4671*	6*	5*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - Sciences et technologies de l'eau										3	33,3%	66,7%	4889*	4781*	7*	7*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Montpellier GÃ©nie biologique et agroalimentaire										4	50,0%	75,0%	3620*	3388*	6*	5*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nancy - Energie, MÃ©canique, MatÃ©riaux, Environnement										5	20,0%	40,0%	4970*	4589*	15*	19*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nancy - Management opÃ©rationnel, Maintenance, MaÃ®trise des risques										1	100,0%	0,0%	5189*	5028*	8*	6*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nancy Informatique, Automatique, Robotique, RÃ©seaux										0	0,0%	0,0%	5117*	4788*	11*	9*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Ãlectronique et technologies numÃ©riques										0	0,0%	0,0%	5577*	4780*	5*	15*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Ãnergie Ã©lectrique										1	0,0%	100,0%	4027*	3771*	3*	8*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nantes - GÃ©nie civil										2	0,0%	0,0%	3894*	3781*	13*	11*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nantes - GÃ©nie des ProcÃ©dÃ©s et BioprocÃ©dÃ©s										4	50,0%	50,0%	4161*	4104*	4*	5*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Informatique										1	0,0%	0,0%	4628*	4127*	13*	9*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nantes - MatÃ©riaux										4	0,0%	0,0%	5595*	5482*	7*	14*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Thermique, ÃnergÃ©tique										2	0,0%	0,0%	4441*	4369*	9*	8*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - BÃ¢timents										2	0,0%	0,0%	3591*	3611*	10*	12*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - Ãlectronique										0	0,0%	0,0%	5314*	5033*	11*	12*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - GÃ©nie de l'eau										3	100,0%	0,0%	5108*	4628*	8*	10*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - Informatique										0	0,0%	0,0%	2747*	2763*	15*	12*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - MathÃ©matiques appliquÃ©es, ModÃ©lisation										0	0,0%	0,0%	3786*	3376*	13*	12*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - SystÃ¨mes autonomes										1	0,0%	100,0%	4063*	4135*	9*	8*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - GÃ©nie civil et gÃ©o-environnement										2	50,0%	0,0%	5432*	5218*	11*	14*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - GÃ©nie industriel										3	66,7%	33,3%	4682*	4711*	4*	8*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - GÃ©nie physique et systÃ¨mes embarquÃ©s										1	100,0%	0,0%	5014*	5014*	1*	7*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - Innovation en Conception et MatÃ©riaux										0	0,0%	0,0%	5532*	5532*	1*	5*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - Technologies pour l'Ãnergie, l'AÃ©rospatial et la Motorisation										4	50,0%	25,0%	3198*	3244*	15*	17*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Paris-Saclay - Electronique et SystÃ¨mes RobotisÃ©s										1	100,0%	0,0%	4247*	3928*	7*	6*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Paris-Saclay - Informatique et ingÃ©nierie mathÃ©matique										0	0,0%	0,0%	2670*	2670*	2*	2*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Paris-Saclay - MatÃ©riaux										0	0,0%	0,0%	4650*	4329*	3*	2*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Paris-Saclay - Photonique et systÃ¨mes optroniques										3	0,0%	33,3%	3872*	3953*	6*	5*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - Electronique et Informatique										0	0,0%	0,0%	2901*	2901*	2*	2*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - MatÃ©riaux										3	66,7%	0,0%	3603*	3476*	9*	8*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - MathÃ©matiques AppliquÃ©es et Informatique										1	0,0%	0,0%	2177*	2177*	2*	4*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - Robotique										2	0,0%	0,0%	3611*	3771*	4*	4*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - Sciences de la Terre : AmÃ©nagement, Risques, gÃ©o-Energies										1	0,0%	0,0%	5617*	5393*	5*	12*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Tours - Ãlectronique et gÃ©nie Ã©lectrique										1	0,0%	100,0%	5007*	5007*	2*	3*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Tours - GÃ©nie de l'amÃ©nagement et de l'environnement										2	0,0%	0,0%	5073*	4598*	5*	8*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Tours - Informatique										1	100,0%	0,0%	5155*	5141*	10*	8*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Polytech Tours - MÃ©canique, Conception de systÃ¨mes										1	0,0%	0,0%	5333*	4952*	7*	9*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Sup GalilÃ©e Villetaneuse										0	0,0%	0,0%	4972	4552	14*	21*
+2023	PC	Concours POLYTECH Inter-FiliÃ¨re	Concours POLYTECH MP - PC - PSI	2280	45,0%	16,9%	1799	46,7%	17,1%	1676	47,4%	16,6%	182					724	866
+2023	PC	Puissance Alpha	EFREI Paris	914	49,0%	17,8%	847	50,2%	17,8%	417	53,2%	19,2%	5	20,0%	0,0%	497	495	43*	79*
+2023	PC	Puissance Alpha	ELISA Aerospace Bordeaux										0	0,0%	0,0%	211*	214*	4*	14*
+2023	PC	Puissance Alpha	ELISA Aerospace Hauts de France										0	0,0%	0,0%	167	167	1*	10*
+2023	PC	Puissance Alpha	Concours ELISA AEROSPACE	914	49,0%	17,8%	524	51,7%	18,5%	58	39,7%	19,0%	0					5	24
+2023	PC	Puissance Alpha	ESAIP Angers / Aix-en-Provence	914	49,0%	17,8%	858	49,9%	17,7%	509	52,1%	18,9%	3	66,7%	0,0%	573	707	22*	25*
+2023	PC	Puissance Alpha	ESEO Angers - Paris - Dijon	914	49,0%	17,8%	820	50,2%	17,8%	159	47,2%	18,9%	2	0,0%	50,0%	328	337	5*	15*
+2023	PC	Puissance Alpha	ESIEA Paris - Laval	914	49,0%	17,8%	841	49,9%	17,8%	421	52,7%	19,0%	2	50,0%	0,0%	330	319	13*	15*
+2023	PC	Puissance Alpha	ESIEE Paris	914	49,0%	17,8%	801	50,6%	17,6%	133	47,4%	20,3%	23	43,5%	21,7%	453	436	111*	110*
+2023	PC	Puissance Alpha	ESTIA Bidart	914	49,0%	17,8%	804	50,6%	17,7%	150	48,7%	17,3%	10	10,0%	10,0%	407	402	41*	50*
+2023	PC	Puissance Alpha	ISEN MÃ©diterranÃ©e Toulon	914	49,0%	17,8%	855	49,9%	17,7%	517	52,0%	18,4%	2	50,0%	50,0%	321	420	6*	21*
+2023	PC	Puissance Alpha	ISEN YncrÃ©a Ouest - Brest										2	50,0%	50,0%	294*	340*	4*	6*
+2023	PC	Puissance Alpha	ISEN YncrÃ©a Ouest - Caen										0	0,0%	0,0%	1352*	1352*	0*	6*
+2023	PC	Puissance Alpha	ISEN YncrÃ©a Ouest - Nantes										0	0,0%	0,0%	411	411	2*	6*
+2023	PC	Puissance Alpha	Concours ISEN Ouest	914	49,0%	17,8%	855	49,9%	17,7%	313	54,6%	18,5%	2					6	18
+2023	PC	Puissance Alpha	ISEP Paris	914	49,0%	17,8%	828	50,2%	17,9%	463	52,7%	18,6%	3	33,3%	33,3%	336	375	21*	28*
+2023	PC	Puissance Alpha	JUNIA HEI Lille	914	49,0%	17,8%	858	49,9%	17,7%	689	51,1%	18,6%	25	56,0%	24,0%	372	481	72*	75*
+2023	PC	Puissance Alpha	JUNIA ISEN Lille	914	49,0%	17,8%	858	49,9%	17,7%	387	53,5%	18,9%	0	0,0%	0,0%	352	428	7*	16*
+2023	PC	Puissance Alpha	3iL IngÃ©nieurs Limoges	914	49,0%	17,8%	46	45,7%	15,2%	46	45,7%	15,2%	0	0,0%	0,0%	215	227	4*	7*
+2023	PC	Avenir PrÃ©pas	ECE LYON										3	66,7%	0,0%	131	118		5
+2023	PC	Avenir PrÃ©pas	ECE PARIS (statut apprentissage)										1	0,0%	0,0%	122	122		5
+2023	PC	Avenir PrÃ©pas	ECE PARIS										10	50,0%	30,0%	116	121		35
+2023	PC	Avenir PrÃ©pas	Concours ECE Paris - Lyon - Bordeaux PC	970	46,1%	19,0%	894	47,0%	19,1%	162	46,9%	23,5%	14						45
+2023	PC	Avenir PrÃ©pas	EIGSI Casablanca	970	46,1%	19,0%	874	47,0%	19,2%	287	51,9%	19,5%	0	0,0%	0,0%	0	0		1
+2023	PC	Avenir PrÃ©pas	EIGSI La Rochelle	970	46,1%	19,0%	874	47,0%	19,2%	287	51,9%	19,5%	8	25,0%	50,0%	271	259		15
+2023	PC	Avenir PrÃ©pas	ESIGELEC (Rouen / Poitiers)	970	46,1%	19,0%	897	46,9%	19,2%	131	44,3%	22,1%	0	0,0%	0,0%	0	0		15
+2023	PC	Avenir PrÃ©pas	ESILV Paris-La DÃ©fense	970	46,1%	19,0%	891	46,9%	19,1%	248	45,6%	23,0%	37	43,2%	32,4%	112	105		35
+2023	PC	Avenir PrÃ©pas	BUILDERS Lyon										1	0,0%	100,0%	6	6		2
+2023	PC	Avenir PrÃ©pas	BUILDERS Caen										1	100,0%	0,0%	4	4		2
+2023	PC	Avenir PrÃ©pas	Concours BUILDERS (Caen / Lyon) PC	970	46,1%	19,0%	896	46,9%	19,1%	17	47,1%	11,8%	2						4
+2023	PC	Concours IngeniâUp	ECAM LaSalle											25,0%	0,0%	933*	920*	12*	40*
+2023	PC	Concours IngeniâUp	ECAM Rennes											33,3%	0,0%	1134*	854*	3*	40*
+2023	PC	Concours IngeniâUp	Concours ECAM LaSalle / Rennes (interfiliÃ¨re MP,MPI,PC,PSI)	1650*			1650*	37,1%	14,7%	1446*	38,9%	13,5%						15*	80*
+2023	PC	Concours IngeniâUp	ECAM-EPMI Cergy-Pontoise (interfiliÃ¨re MP,MPI,PC,PSI)	1650	37,1%	14,7%	1590	37,6%	14,2%	247	38,5%	17,0%		35,7%	7,1%	216*	199 *	14*	57*
+2023	PC	Concours IngeniâUp	Icam site de Grand Paris Sud											0,0%	0,0%	0*	0*	0*	12*
+2023	PC	Concours IngeniâUp	Icam site de Lille											0,0%	0,0%	0*	0*	0*	8*
+2023	PC	Concours IngeniâUp	Icam site de Nantes											0,0%	0,0%	0*	0*	0*	8*
+2023	PC	Concours IngeniâUp	Icam Site de Strasbourg-Europe											0,0%	0,0%	0*	0*	0*	30*
+2023	PC	Concours IngeniâUp	Icam site de Toulouse											0,0%	0,0%	0	0	0*	8*
+2023	PC	Concours IngeniâUp	Concours ICAM (interfiliÃ¨re MP,MPI,PC,PSI)	1650*	37,1%	14,7%	1027*	39,6%	13,2%	123*	39,0%	11,4%						0*	66*
+2023	PC	Concours IngeniâUp	UniLaSalle Amiens											0,0%	0,0%	0*	0*	0*	32*
+2023	PC	Concours IngeniâUp	UniLaSalle Beauvais - Agronomie et Agro-industries											100,0%	0,0%	1016*	1016*	2*	5*
+2023	PC	Concours IngeniâUp	UniLaSalle Beauvais - GÃ©osciences et Environnement											50,0%	100,0%	1477*	1477*	2*	20*
+2023	PC	Concours IngeniâUp	UniLasalle Rennes EME											33,3%	0,0%	1385*	1320*	3*	5*
+2023	PC	Concours IngeniâUp	UniLaSalle Rouen											0,0%	0,0%	0	0	0*	5*
+2023	PC	Concours IngeniâUp	Concours UniLaSalle (interfiliÃ¨re MP,MPI,PC,PSI)	1650*			1650*	37,1%	14,7%	1587*	37,7%	14,2%						7*	67*
+2023	PC	Autres Ã©coles E3A	EIDD Paris				434	52,8%	15,7%	247	56,7%	16,2%	10	80,0%	20,0%	226	227		10
+2023	PC	Autres Ã©coles E3A	EIL CÃ´te d'Opale - Boulogne (Agroalimentaire)										0	0,0%	0,0%	0	0		5
+2023	PC	Autres Ã©coles E3A	EIL CÃ´te d'Opale - Calais (informatique)										1	0,0%	0,0%	104	104		3
+2023	PC	Autres Ã©coles E3A	EIL CÃ´te d'Opale - Dunkerque (GÃ©nie EnergÃ©tique et Environnement)										2	100,0%	50,0%	100	100		10
+2023	PC	Autres Ã©coles E3A	EIL CÃ´te d'Opale - GÃ©nie Ã©lectrique										2	0,0%	0,0%	64	64		4
+2023	PC	Autres Ã©coles E3A	EIL CÃ´te d'Opale - Logistique										0	0,0%	0,0%	0	0		4
+2023	PC	Autres Ã©coles E3A	EIL CÃ´te d'Opale - CybersÃ©curitÃ©										0	0,0%	0,0%	0	0		4
+2023	PC	Autres Ã©coles E3A	EIL CÃ´te d'Opale - Longuenesse (GÃ©nie Industriel)										0	0,0%	0,0%	0	0		5
+2023	PC	Autres Ã©coles E3A	Concours EIL CÃ´te d'Opale Longuenesse - Calais - Dunkerque PC	231	55,0%	18,6%	188	58,0%	19,7%	104	63,5%	18,3%	5						35
+2023	PC	Autres Ã©coles E3A	ENSAIT Roubaix	568	59,2%	18,7%	476	61,3%	17,9%	127	67,7%	15,0%	26	73,1%	7,7%	94	91		34
+2023	PC	Autres Ã©coles E3A	ESB Nantes	237	44,7%	14,8%	178	48,9%	14,6%	13	46,2%	23,1%	1	0,0%	100,0%	7	7		15
+2023	PC	Autres Ã©coles E3A	IMT Nord Europe en partenariat avec Polyvia Formation	363	48,5%	16,3%	327	51,1%	15,9%	42	50,0%	14,3%	9	55,6%	22,2%	11	12		25
+2023	PC	Autres Ã©coles E3A	ISMANS-Groupe CESI Le Mans				234	41,0%	19,2%	31	35,5%	25,8%	1	100,0%	0,0%	14	14		20
+2023	PC	Autres Ã©coles E3A	Toulouse INP - ENIT	609	47,6%	14,0%	299	51,8%	12,4%	209	53,1%	10,0%	2	100,0%	50,0%	163	163		2
+2023	PC	CESI	CESI AngoulÃªme											0,0%	0,0%	0*	0*	0*	10*
+2023	PC	CESI	CESI Arras											50,0%	0,0%	174*	174*	2*	10*
+2023	PC	CESI	CESI Bordeaux											0,0%	0,0%	64*	64*	0*	10*
+2023	PC	CESI	CESI Lyon											50,0%	0,0%	94*	94*	2*	20*
+2023	PC	CESI	CESI Nancy											0,0%	0,0%	0*	0*	0*	10*
+2023	PC	CESI	CESI Nice											0,0%	0,0%	0*	0*	0*	10*
+2023	PC	CESI	CESI Paris-Nanterre											100,0%	0,0%	87*	87*	1*	20*
+2023	PC	CESI	CESI Rouen											0,0%	0,0%	163*	163*	1*	10*
+2023	PC	CESI	CESI Saint-Nazaire											0,0%	0,0%	124	124	1*	15*
+2023	PC	CESI	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur GÃ©nÃ©raliste	636*	30,2%	11,8%	187*	34,2%	8,0%	187*	34,2%	8,0%						7*	115*
+2023	PC	CESI	CESI Aix-en-Provence											0,0%	0,0%	24*	24*	1*	10*
+2023	PC	CESI	CESI Arras											0,0%	0,0%	0*	0*	0*	10*
+2023	PC	CESI	CESI Bordeaux											0,0%	0,0%	0*	0*	0*	12*
+2023	PC	CESI	CESI Caen											0,0%	0,0%	0*	0*	0*	10*
+2023	PC	CESI	CESI La Rochelle											0,0%	0,0%	0*	0*	0*	12*
+2023	PC	CESI	CESI Lille											0,0%	0,0%	0*	0*	0*	10*
+2023	PC	CESI	CESI Lyon											0,0%	0,0%	59*	59*	2*	15*
+2023	PC	CESI	CESI Montpellier											0,0%	0,0%	0*	0*	0*	20*
+2023	PC	CESI	CESI Nancy											0,0%	0,0%	0*	0*	0*	10*
+2023	PC	CESI	CESI OrlÃ©ans											0,0%	0,0%	0*	0*	0*	10*
+2023	PC	CESI	CESI Paris-Nanterre											100,0%	0,0%	47*	47*	1*	15*
+2023	PC	CESI	CESI Nice											0,0%	0,0%	0*	0*	0*	10*
+2023	PC	CESI	CESI Pau											0,0%	0,0%	0*	0*	0*	6*
+2023	PC	CESI	CESI Reims											0,0%	0,0%	0*	0*	0*	6*
+2023	PC	CESI	CESI Rouen											0,0%	0,0%	0*	0*	0*	10*
+2023	PC	CESI	CESI Saint-Nazaire											0,0%	0,0%	0*	0*	0*	15*
+2023	PC	CESI	CESI Strasbourg											0,0%	0,0%	0*	0*	0*	15*
+2023	PC	CESI	CESI Toulouse											0,0%	0,0%	83	83	2*	15*
+2023	PC	CESI	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur en Informatique	214*	13,1%	12,1%	84*	20,2%	8,3%	84*	20,2%	8,3%						6*	211*
+2023	PC	EPITA	EPITA campus Lyon										0	0,0%	0,0%	0	0		3
+2023	PC	EPITA	EPITA campus Paris										8	37,5%	12,5%	73	82		7
+2023	PC	EPITA	EPITA campus Toulouse										2	0,0%	0,0%	73	73		3
+2023	PC	EPITA	EPITA campus Strasbourg										0	0,0%	0,0%	0	0		2
+2023	PC	EPITA	EPITA campus Rennes										2	0,0%	0,0%	23	23		2
+2023	PC	EPITA	IPSA Paris										17	23,5%	23,5%	133	133		13
+2023	PC	EPITA	IPSA Toulouse										11	45,5%	9,1%	54	50		6
+2023	PC	EPITA	ESME										8	25,0%	12,5%	78	90		8
+2023	PC	EPITA	Concours EPITA / IPSA / ESME PC	432	42,8%	17,6%	284	40,8%	15,1%	197	41,1%	17,8%	48						44
+2023	PC	Groupe INSA	INSA Centre Val de Loire GÃ©nie des SystÃ¨mes Industriels										1	0,0%	0,0%	711	711		4
+2023	PC	Groupe INSA	INSA Hauts de France GÃ©nie Industriel										1	100,0%	0,0%	721	721		2
+2023	PC	Groupe INSA	INSA Hauts de France MÃ©canique et EnergÃ©tique										3	0,0%	66,7%	649	633		13
+2023	PC	Groupe INSA	INSA Hauts de France MÃ©catronique										2	50,0%	0,0%	685	685		5
+2023	PC	Groupe INSA	INSA Rouen Normandie MÃ©canique										2	50,0%	0,0%	622	622		2
+2023	PC	Groupe INSA	INSA Strasbourg Plasturgie										2	50,0%	50,0%	686	686		1
+2023	PC	Groupe INSA	Concours INSA Domaine GÃ©nie mÃ©canique, gÃ©nie industriel et mÃ©catronique PC	1357	40,5%	19,5%	745	40,9%	18,7%	745	40,9%	18,7%	11						27
+2023	PC	Groupe INSA	INSA Hauts de France GÃ©nie civil et bÃ¢timent (MP-PC)											0,0%	50,0%	766*	766*	2*	5*
+2023	PC	Groupe INSA	INSA Lyon GÃ©nie Civil et Urbanisme (MP-PC)											33,3%	0,0%	147*	174*	3*	3*
+2023	PC	Groupe INSA	INSA Rennes GÃ©nie Civil et Urbain (MP-PC)											0,0%	0,0%	444*	444*	1*	1*
+2023	PC	Groupe INSA	INSA Rouen Normandie GÃ©nie Civil et Urbain (MP-PC)											16,7%	16,7%	826*	899*	6*	3*
+2023	PC	Groupe INSA	INSA Strasbourg GÃ©nie Civil (MP-PC)											100,0%	0,0%	258*	258*	1*	1*
+2023	PC	Groupe INSA	INSA Strasbourg Topographie (MP-PC)											75,0%	25,0%	1020	1010	4*	5*
+2023	PC	Groupe INSA	Concours INSA Domaine GÃ©nie civil, urbanisme, topographie MP-PC	2682*	37,1%	20,6%	1325*	38,6%	19,0%	1325*	38,6%	19,0%						17*	18*
+2023	PC	Groupe INSA	INSA Hauts de France Electronique des SystÃ¨mes EmbarquÃ©s (MP-PC-PSI-PT-MPI)											0,0%	0,0%	1741*	1733*	5*	10*
+2023	PC	Groupe INSA	INSA Hauts de France Informatique Industrielle et Automatique (MP-PC-PSI-PT-MPI)											0,0%	33,3%	2779*	2564*	3*	10*
+2023	PC	Groupe INSA	INSA Hauts-de-France : Audiovisuel et MultimÃ©dia (MP-PC-PSI-PT-MPI)											0,0%	0,0%	0*	0*	0*	10*
+2023	PC	Groupe INSA	INSA Lyon GÃ©nie Electrique (MP-PC-PSI-PT-MPI)											10,0%	0,0%	699*	700*	10*	10*
+2023	PC	Groupe INSA	INSA Rennes Electronique et Informatique Industrielle (MP-PC-PSI-PT-MPI)											33,3%	0,0%	1111*	1168*	3*	3*
+2023	PC	Groupe INSA	INSA Rennes Electronique et TÃ©lÃ©communications (MP-PC-PSI-PT-MPI)											0,0%	22,2%	1528*	1638*	9*	11*
+2023	PC	Groupe INSA	INSA Strasbourg GÃ©nie Electrique (MP-PC-PSI-PT-MPI)											16,7%	8,3%	1642*	1613*	12*	12*
+2023	PC	Groupe INSA	INSA Toulouse Automatique et Electronique (MP-PC-PSI-PT-MPI)											40,0%	0,0%	929	948	5*	5*
+2023	PC	Groupe INSA	Concours INSA Domaine GÃ©nie Ã©lectrique, Ã©lectronique, automatique MP-PC-PSI-PT-MPI	5633*	26,6%	18,8%	2819*	26,0%	17,7%	2819*	26,0%	17,7%						47*	71*
+2023	PC	Groupe INSA	INSA Centre Val de Loire MaÃ®trise des Risques Industriels (MP-PC-PSI)											40,0%	30,0%	2250*	2089*	10*	25*
+2023	PC	Groupe INSA	INSA Lyon MatÃ©riaux (MP-PC-PSI)											11,1%	22,2%	476*	489*	9*	10*
+2023	PC	Groupe INSA	INSA Rennes GÃ©nie Physique et MatÃ©riaux (MP-PC-PSI)											33,3%	33,3%	1097*	951*	3*	3*
+2023	PC	Groupe INSA	INSA Toulouse GÃ©nie Physique (MP-PC-PSI)											50,0%	50,0%	574	574	2*	5*
+2023	PC	Groupe INSA	Concours INSA Domaine GÃ©nie physique et matÃ©riaux MP-PC-PSI	4915*	33,7%	19,6%	2623*	34,0%	19,1%	2623*	34,0%	19,1%						24*	43*
+2023	PC	Groupe INSA	INSA Centre Val de Loire SÃ©curitÃ© et Technologies Informatiques (PC-PSI-PT)											0,0%	0,0%	837*	837*	1*	2*
+2023	PC	Groupe INSA	INSA Hauts de France Informatique et CybersÃ©curitÃ© (PC-PSI-PT)											0,0%	0,0%	0*	0*	0*	2*
+2023	PC	Groupe INSA	INSA Lyon Informatique (PC-PSI-PT)											50,0%	0,0%	187*	187*	2*	2*
+2023	PC	Groupe INSA	INSA Lyon TÃ©lÃ©communications (PC-PSI-PT)											25,0%	0,0%	432*	411*	4*	5*
+2023	PC	Groupe INSA	INSA Rennes Informatique (PC-PSI-PT)											0,0%	0,0%	571*	571*	1*	1*
+2023	PC	Groupe INSA	INSA Rouen Normandie Informatique et technologies de l'information (PC-PSI-PT)											0,0%	0,0%	936*	936*	1*	2*
+2023	PC	Groupe INSA	INSA Rouen Normandie MathÃ©matiques appliquÃ©es (PC-PSI-PT)											0,0%	50,0%	690*	690*	2*	4*
+2023	PC	Groupe INSA	INSA Toulouse Informatique et RÃ©seaux (PC-PSI-PT)											100,0%	0,0%	557*	557*	1*	1*
+2023	PC	Groupe INSA	INSA Toulouse MathÃ©matiques appliquÃ©es (PC-PSI-PT)											0,0%	0,0%	418	418	2*	2*
+2023	PC	Groupe INSA	Concours INSA Domaine Informatique, mathÃ©matique, modÃ©lisation PC-PSI-PT	3595*	26,6%	19,6%	972*	25,6%	18,1%	972*	25,6%	18,1%						14*	21*
+2023	PC	Groupe INSA	ESITECH - Physique pour la SantÃ© (MP-PC-PSI-BCPST-MPI)											66,7%	33,3%	1401*	1306*	3*	5*
+2023	PC	Groupe INSA	ESITech Rouen Technologies du Vivant (MP-PC-PSI-BCPST-MPI)											100,0%	0,0%	757*	757*	1*	2*
+2023	PC	Groupe INSA	INSA Lyon Biotechnologie et Bioinformatique (MP-PC-PSI-BCPST-MPI)											47,1%	5,9%	710*	662*	17*	14*
+2023	PC	Groupe INSA	INSA Toulouse GÃ©nie Biologique (MP-PC-PSI-BCPST-MPI)											0,0%	0,0%	790*	790*	1*	2*
+2023	PC	Groupe INSA	ISIS Castres Informatique pour la SantÃ© (MP-PC-PSI-BCPST-MPI)											50,0%	50,0%	1181	1181	2*	2*
+2023	PC	Groupe INSA	Concours INSA Domaine Biotechnologies-santÃ© MP-PC-PSI-BCPST-MPI	4561*	46,7%	20,0%	2158*	49,1%	19,7%	2158*	49,1%	19,7%						24*	25*
+2023	PC	Groupe INSA	INSA Lyon GÃ©nie EnergÃ©tique et Environnement (MP-PC-PSI)											0,0%	40,0%	186*	260*	5*	4*
+2023	PC	Groupe INSA	INSA Rouen Normandie Chimie et GÃ©nie Chimique (MP-PC-PSI)											100,0%	33,3%	1240*	1125*	3*	4*
+2023	PC	Groupe INSA	INSA Rouen Normandie GÃ©nie des procÃ©dÃ©s et Gestion des Risques (MP-PC-PSI)											100,0%	0,0%	1268*	1268*	2*	6*
+2023	PC	Groupe INSA	INSA Rouen Normandie GÃ©nie EnergÃ©tique (Parcours Ã©nergÃ©tique et propulsion) (MP-PC-PSI)											80,0%	0,0%	1051*	1020*	5*	3*
+2023	PC	Groupe INSA	INSA Strasbourg GÃ©nie Thermique, EnergÃ©tique et Environnement (MP-PC-PSI)											66,7%	16,7%	1033*	1039*	6*	7*
+2023	PC	Groupe INSA	INSA Toulouse GÃ©nie des ProcÃ©dÃ©s et environnement (MP-PC-PSI)											40,0%	0,0%	732*	832*	5*	5*
+2023	PC	Groupe INSA	Sup'EnR Perpignan EnergÃ©tique et Energies Renouvelables (MP-PC-PSI)											0,0%	0,0%	0	0	0*	7*
+2023	PC	Groupe INSA	Concours INSA Domaine EnergÃ©tique â GÃ©nie Chimique â Environnement MP-PC-PSI	4580*	38,4%	19,6%	1706*	36,0%	18,2%	1706*	36,0%	18,2%						26*	36*

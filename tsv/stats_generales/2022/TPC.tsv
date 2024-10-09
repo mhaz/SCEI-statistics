@@ -1,0 +1,30 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	nb_integres_interfilieres	places
+2022	TPC	CONCOURS COMMUN INP	ENSICAEN Mat. et Chimie										2	100,0%	50,0%	19	19		2
+2022	TPC	CONCOURS COMMUN INP	SIGMA Clermont-Ferrand - spÃ©cialitÃ© chimie										2	100,0%	50,0%	14	14		2
+2022	TPC	CONCOURS COMMUN INP	ESCOM Chimie CompiÃ¨gne										3	66,7%	33,3%	27	25		3
+2022	TPC	CONCOURS COMMUN INP	Grenoble INP - Pagora										2	0,0%	0,0%	33	33		5
+2022	TPC	CONCOURS COMMUN INP	Lorraine INP - ENSEM - Energie										1	0,0%	0,0%	25	25		2
+2022	TPC	CONCOURS COMMUN INP	ENSC Lille										1	0,0%	100,0%	13	13		1
+2022	TPC	CONCOURS COMMUN INP	CPE LYON Chimie â gÃ©nie des procÃ©dÃ©s										3	33,3%	66,7%	26	26		2
+2022	TPC	CONCOURS COMMUN INP	ITECH Lyon										1	100,0%	0,0%	41	41		4
+2022	TPC	CONCOURS COMMUN INP	ENSC Montpellier										2	50,0%	0,0%	4	4		2
+2022	TPC	CONCOURS COMMUN INP	ENSC Mulhouse										2	50,0%	0,0%	13	13		3
+2022	TPC	CONCOURS COMMUN INP	Chimie ParisTech										2	50,0%	0,0%	6	6		2
+2022	TPC	CONCOURS COMMUN INP	ENSGTI Pau - GÃ©nie des ProcÃ©dÃ©s										2	0,0%	50,0%	37	37		3
+2022	TPC	CONCOURS COMMUN INP	ECPM Strasbourg										3	33,3%	33,3%	9	8		3
+2022	TPC	CONCOURS COMMUN INP	SeaTech Toulon										3	33,3%	33,3%	23	24		2
+2022	TPC	CONCOURS COMMUN INP	Toulouse INP - ENSIACET - Chimie										1	0,0%	100,0%	8	8		1
+2022	TPC	CONCOURS COMMUN INP	EIL CÃ´te d'Opale - Boulogne (Agroalimentaire)										0	0,0%	0,0%	0	0		5
+2022	TPC	CONCOURS COMMUN INP	EIL CÃ´te d'Opale - Dunkerque (GÃ©nie EnergÃ©tique et Environnement)										0	0,0%	0,0%	0	0		5
+2022	TPC	CONCOURS COMMUN INP	Concours CCINP TPC	65	41,5%	20,0%	52	40,4%	25,0%	43	44,2%	30,2%	30						47
+2022	TPC	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire MaÃ®trise des Risques Industriels										3*	33,3%	33,3%	220*	382*	3*	5*
+2022	TPC	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Science et GÃ©nie des MatÃ©riaux										1*	100,0%	100,0%	88*	88*	1*	1*
+2022	TPC	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie Physique et MatÃ©riaux										1*	100,0%	0,0%	165*	165*	1*	1*
+2022	TPC	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Physique										1*	0,0%	0,0%	98	98	1*	1*
+2022	TPC	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie physique et matÃ©riaux TSI-PT-TPC	1766*	14,8%	15,1%	809*	16,3%	16,1%	809*	16,3%	16,1%	6*					6*	8*
+2022	TPC	Groupe INSA Inter-FiliÃ¨re	ESITECH - Physique pour la SantÃ©										5*	100,0%	0,0%	1487*	1508*	5*	5*
+2022	TPC	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen Technologies du Vivant										2*	0,0%	50,0%	691*	691*	2*	2*
+2022	TPC	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Biosciences										10*	70,0%	0,0%	290*	368*	10*	11*
+2022	TPC	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Biologique										2*	50,0%	0,0%	208*	208*	2*	2*
+2022	TPC	Groupe INSA Inter-FiliÃ¨re	ISIS Castres Informatique pour la SantÃ©										2*	50,0%	50,0%	1204	1204	2*	2*
+2022	TPC	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine Biotechnologies-santÃ© MP-PC-PSI-BCPST-TPC	4627*	46,9%	20,7%	2016*	49,5%	19,5%	2016*	49,5%	19,5%	21*					21*	22*

@@ -1,0 +1,212 @@
+year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	nb_integres_interfilieres	places
+2023	TSI	Concours Polytechnique	ECOLE POLYTECHNIQUE	612	10,0%	15,0%	2	0,0%	50,0%	2	0,0%	50,0%	2	0,0%	50,0%	2	2		2
+2023	TSI	Concours CENTRALE-SUPELEC	Arts et MÃ©tiers	794	9,8%	13,6%	180	13,9%	23,3%	170	14,1%	23,5%	35	8,6%	31,4%	87	84		35
+2023	TSI	Concours CENTRALE-SUPELEC	Centrale Casablanca	354	5,9%	16,7%	37	5,4%	32,4%	35	5,7%	34,3%	1	0,0%	0,0%	35	35		2
+2023	TSI	Concours CENTRALE-SUPELEC	Centrale Lille	548	9,9%	14,8%	68	16,2%	10,3%	64	17,2%	10,9%	5	20,0%	20,0%	30	30		5
+2023	TSI	Concours CENTRALE-SUPELEC	Centrale Lyon	543	10,3%	15,3%	57	15,8%	12,3%	54	16,7%	13,0%	5	20,0%	20,0%	25	24		5
+2023	TSI	Concours CENTRALE-SUPELEC	Centrale MÃ©diterranÃ©e	493	7,3%	15,6%	97	9,3%	25,8%	91	8,8%	26,4%	7	0,0%	0,0%	35	34		5
+2023	TSI	Concours CENTRALE-SUPELEC	Centrale Nantes	584	10,8%	14,2%	60	15,0%	11,7%	56	16,1%	12,5%	9	11,1%	0,0%	15	20		8
+2023	TSI	Concours CENTRALE-SUPELEC	CentraleSupÃ©lec - statut Ã©tudiant										5	0,0%	0,0%	4	4		5
+2023	TSI	Concours CENTRALE-SUPELEC	CentraleSupÃ©lec - cursus apprenti - Campus Metz										6	16,7%	33,3%	52	53		5
+2023	TSI	Concours CENTRALE-SUPELEC	CentraleSupÃ©lec - cursus apprenti - Campus Rennes										12	0,0%	16,7%	38	37		11
+2023	TSI	Concours CENTRALE-SUPELEC	Concours CentraleSupÃ©lec TSI	606	8,6%	15,3%	100	9,0%	20,0%	94	9,6%	21,3%	23						21
+2023	TSI	Concours CENTRALE-SUPELEC	ENSEA Cergy	794	9,8%	13,6%	180	13,9%	23,3%	170	14,1%	23,5%	3	33,3%	33,3%	142	146		10
+2023	TSI	Concours CENTRALE-SUPELEC	ESIX Cherbourg GSI	551	7,4%	14,7%	282	6,4%	18,8%	58	6,9%	15,5%	11	18,2%	18,2%	30	34		30
+2023	TSI	Concours CENTRALE-SUPELEC	ESIX Caen MÃ©catronique et SystÃ¨mes EmbarquÃ©s	523	6,9%	15,1%	248	6,0%	19,4%	39	7,7%	12,8%	8	0,0%	25,0%	21	21		10
+2023	TSI	Concours CENTRALE-SUPELEC	ESTP - campus de Dijon										8	12,5%	0,0%	82	85		12
+2023	TSI	Concours CENTRALE-SUPELEC	ESTP - campus de Troyes										4	0,0%	25,0%	106	90		12
+2023	TSI	Concours CENTRALE-SUPELEC	ESTP - campus de Cachan										27	11,1%	3,7%	90	85		38
+2023	TSI	Concours CENTRALE-SUPELEC	ESTP - campus de d'OrlÃ©ans										1	0,0%	0,0%	108	108		4
+2023	TSI	Concours CENTRALE-SUPELEC	Concours ESTP TSI	364	8,8%	13,7%	293	7,8%	13,0%	129	7,0%	13,2%	40						66
+2023	TSI	Concours CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	388	7,0%	16,0%	116	6,9%	22,4%	78	7,7%	26,9%	5	0,0%	0,0%	38	39		1
+2023	TSI	Concours CENTRALE-SUPELEC	ISMANS-Groupe CESI Le Mans	307	6,5%	14,0%	247	4,9%	14,6%	37	8,1%	13,5%	3	0,0%	0,0%	23	26		25
+2023	TSI	Concours Commun MINES-PONTS	ENSTA Paris										3	33,3%	0,0%	17	15		3
+2023	TSI	Concours Commun MINES-PONTS	ENSTA Paris - apprentissage										3	0,0%	33,3%	38	38		4
+2023	TSI	Concours Commun MINES-PONTS	IMT Atlantique										6	50,0%	0,0%	46	45		2
+2023	TSI	Concours Commun MINES-PONTS	ISAE - SUPAERO Toulouse										2	0,0%	0,0%	15	15		2
+2023	TSI	Concours Commun MINES-PONTS	MINES de NANCY										1	0,0%	100,0%	40	40		1
+2023	TSI	Concours Commun MINES-PONTS	MINES SAINT-ETIENNE										3	0,0%	33,3%	49	49		2
+2023	TSI	Concours Commun MINES-PONTS	MINES Paris										2	50,0%	0,0%	11	11		2
+2023	TSI	Concours Commun MINES-PONTS	PONTS ParisTech										0	0,0%	0,0%	0	0		1
+2023	TSI	Concours Commun MINES-PONTS	TELECOM Paris										1	0,0%	0,0%	9	9		1
+2023	TSI	Concours Commun MINES-PONTS	TELECOM Paris - Apprentissage										0	0,0%	0,0%	0	0		2
+2023	TSI	Concours Commun MINES-PONTS	Concours commun Mines-Ponts TSI	612	10,0%	15,0%	65	16,9%	13,8%	64	17,2%	14,1%	21						20
+2023	TSI	Concours Mines - TÃ©lÃ©com	ENSIIE Evry	721	8,0%	14,8%	207	9,2%	21,3%	188	9,0%	20,7%	4	25,0%	50,0%	109	111		4
+2023	TSI	Concours Mines - TÃ©lÃ©com	ENSSAT Lannion	721	8,0%	14,8%	207	9,2%	21,3%	188	9,0%	20,7%	2	0,0%	0,0%	78	78		2
+2023	TSI	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut Ã©tudiant)	721	8,0%	14,8%	207	9,2%	21,3%	188	9,0%	20,7%	2	0,0%	0,0%	43	43		2
+2023	TSI	Concours Mines - TÃ©lÃ©com	ENTPE Lyon Civil	721	8,0%	14,8%	207	9,2%	21,3%	188	9,0%	20,7%	2	50,0%	0,0%	102	102		2
+2023	TSI	Concours Mines - TÃ©lÃ©com	ENTPE Lyon Fonctionnaire	721	8,0%	14,8%	207	9,2%	21,3%	188	9,0%	20,7%	5	20,0%	40,0%	70	94		6
+2023	TSI	Concours Mines - TÃ©lÃ©com	EURECOM	721	8,0%	14,8%	207	9,2%	21,3%	188	9,0%	20,7%	2	0,0%	50,0%	169	169		2
+2023	TSI	Concours Mines - TÃ©lÃ©com	IMT Mines Albi	721	8,0%	14,8%	207	9,2%	21,3%	188	9,0%	20,7%	1	0,0%	100,0%	60	60		2
+2023	TSI	Concours Mines - TÃ©lÃ©com	IMT Mines AlÃ¨s	721	8,0%	14,8%	207	9,2%	21,3%	188	9,0%	20,7%	1	0,0%	0,0%	30	30		2
+2023	TSI	Concours Mines - TÃ©lÃ©com	IMT Nord Europe	721	8,0%	14,8%	207	9,2%	21,3%	188	9,0%	20,7%	1	0,0%	0,0%	108	108		2
+2023	TSI	Concours Mines - TÃ©lÃ©com	Mines Saint Etienne-ISMIN	721	8,0%	14,8%	207	9,2%	21,3%	188	9,0%	20,7%	7	14,3%	28,6%	110	109		3
+2023	TSI	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut Ã©tudiant	721	8,0%	14,8%	207	9,2%	21,3%	188	9,0%	20,7%	4	0,0%	25,0%	127	116		3
+2023	TSI	Concours Mines - TÃ©lÃ©com	TELECOM SudParis	721	8,0%	14,8%	207	9,2%	21,3%	188	9,0%	20,7%	3	33,3%	0,0%	43	44		4
+2023	TSI	Concours Mines - TÃ©lÃ©com	ENSG-GÃ©omatique Marne la VallÃ©e	721	8,0%	14,8%	207	9,2%	21,3%	188	9,0%	20,7%	0	0,0%	0,0%	0	0		1
+2023	TSI	Concours Commun INP	Bordeaux INP - ENSEIRB-MATMECA Electronique										4	50,0%	25,0%	144	143		5
+2023	TSI	Concours Commun INP	Bordeaux INP - ENSEIRB-MATMECA Informatique										0	0,0%	0,0%	0	0		2
+2023	TSI	Concours Commun INP	Bordeaux INP - ENSEIRB-MATMECA TÃ©lecom.										0	0,0%	0,0%	0	0		1
+2023	TSI	Concours Commun INP	Bordeaux INP - ENSPIMA										2	0,0%	50,0%	217	217		1
+2023	TSI	Concours Commun INP	CPE LYON Sciences du numÃ©rique										1	0,0%	100,0%	344	344		2
+2023	TSI	Concours Commun INP	CY TECH Cergy - GÃ©nie Civil										0	0,0%	0,0%	0	0		3
+2023	TSI	Concours Commun INP	CY TECH Cergy-Pau - Informatique										6	0,0%	33,3%	262	256		7
+2023	TSI	Concours Commun INP	ENGEES Strasbourg Civil (Ã©tudiant)										1	100,0%	0,0%	305	305		2
+2023	TSI	Concours Commun INP	ENSGTI Pau - EnergÃ©tique										4	0,0%	25,0%	261	248		2
+2023	TSI	Concours Commun INP	ENSI Poitiers Energie et Environnement										6	16,7%	16,7%	260	254		4
+2023	TSI	Concours Commun INP	ENSICAEN GÃ©nie Physique et systÃ¨mes EmbarquÃ©s										5	20,0%	20,0%	190	175		5
+2023	TSI	Concours Commun INP	ENSICAEN Informatique										2	0,0%	50,0%	139	139		2
+2023	TSI	Concours Commun INP	SUPMICROTECH ENSMM BesanÃ§on										10	0,0%	20,0%	220	225		10
+2023	TSI	Concours Commun INP	Grenoble INP - ENSE3										4	0,0%	0,0%	109	108		3
+2023	TSI	Concours Commun INP	Grenoble INP - Pagora										1	0,0%	0,0%	126	126		1
+2023	TSI	Concours Commun INP	Grenoble INP - Phelma (Physique Electronique TÃ©lÃ©coms)										8	12,5%	0,0%	93	97		4
+2023	TSI	Concours Commun INP	ISAE-ENSMA Poitiers										2	0,0%	0,0%	54	54		2
+2023	TSI	Concours Commun INP	ISAE-SupmÃ©ca Paris										4	50,0%	0,0%	136	120		3
+2023	TSI	Concours Commun INP	Clermont Auvergne INP - ISIMA										2	0,0%	0,0%	339	339		2
+2023	TSI	Concours Commun INP	Lorraine INP - ENSEM - Energie										3	0,0%	33,3%	279	267		4
+2023	TSI	Concours Commun INP	SeaTech Toulon										2	0,0%	0,0%	185	185		2
+2023	TSI	Concours Commun INP	Clermont Auvergne INP - SIGMA - mÃ©canique										9	11,1%	22,2%	198	208		8
+2023	TSI	Concours Commun INP	TELECOM PHYSIQUE Strasbourg										4	0,0%	25,0%	219	215		4
+2023	TSI	Concours Commun INP	Toulouse INP - ENSEEIHT - Electronique-Energie-Automatique (EEA)										1	100,0%	0,0%	71	71		2
+2023	TSI	Concours Commun INP	Toulouse INP - ENSEEIHT - MÃ©canique des Fluides-Energetique-Environnement (MFEE)										2	50,0%	0,0%	49	49		1
+2023	TSI	Concours Commun INP	Toulouse INP - ENSEEIHT - Sciences du NumÃ©rique										1	0,0%	100,0%	76	76		1
+2023	TSI	Concours Commun INP	Toulouse INP - ENSIACET - GÃ©nie Industriel										0	0,0%	0,0%	0	0		1
+2023	TSI	Concours Commun INP	Concours CCINP TSI	1168	11,8%	12,1%	580	11,6%	15,2%	376	12,5%	14,9%	84						84
+2023	TSI	Banque Ã©preuves CCINP Inter-FiliÃ¨re	Lorraine INP - ENSGSI	280	7,9%	12,5%	109	3,7%	15,6%	23	4,3%	0,0%	5	0,0%	0,0%	131	128	31*	45*
+2023	TSI	Banque Ã©preuves CCINP	EPISEN - SystÃ¨me d'information	407	5,7%	13,5%	242	4,5%	16,1%	242	4,5%	16,1%	2	0,0%	0,0%	13	13		3
+2023	TSI	Banque Ã©preuves CCINP	ESIEE Paris	306	6,9%	12,1%	178	5,1%	14,6%	30	6,7%	6,7%	12	8,3%	0,0%	16	15		6
+2023	TSI	Banque Ã©preuves CCINP	ECAM Rennes	353	6,2%	11,6%	310	6,1%	11,6%	52	1,9%	1,9%	6	0,0%	0,0%	26	28		15
+2023	TSI	Banque Ã©preuves CCINP	EIL CÃ´te d'Opale - Boulogne (Agroalimentaire)										0	0,0%	0,0%	0	0		3
+2023	TSI	Banque Ã©preuves CCINP	EIL CÃ´te d'Opale - CybersÃ©curitÃ©										2	0,0%	50,0%	103	103		12
+2023	TSI	Banque Ã©preuves CCINP	EIL CÃ´te d'Opale - Logistique										0	0,0%	0,0%	0	0		12
+2023	TSI	Banque Ã©preuves CCINP	EIL CÃ´te d'Opale - GÃ©nie Ã©lectrique										1	0,0%	0,0%	146	146		12
+2023	TSI	Banque Ã©preuves CCINP	Concours EIL CÃ´te d'Opale Longuenesse - Calais - Dunkerque - Boulogne TSI	374	9,1%	11,5%	266	6,8%	13,5%	148	4,1%	14,9%	3						39
+2023	TSI	Banque Ã©preuves CCINP	ESIREM Dijon Informatique/Ã©lectronique										9	11,1%	0,0%	36	37		10
+2023	TSI	Banque Ã©preuves CCINP	ESIREM Dijon MatÃ©riaux										4	25,0%	0,0%	21	23		4
+2023	TSI	Banque Ã©preuves CCINP	Concours ESIREM TSI	360	6,7%	12,2%	180	5,0%	13,9%	60	10,0%	6,7%	13						14
+2023	TSI	Banque Ã©preuves CCINP	EIL CÃ´te d'Opale - Calais (informatique)										4	0,0%	25,0%	98	95		15
+2023	TSI	Banque Ã©preuves CCINP	EIL CÃ´te d'Opale - Dunkerque (GÃ©nie EnergÃ©tique et Environnement)										2	0,0%	0,0%	130	130		15
+2023	TSI	Banque Ã©preuves CCINP	EIL CÃ´te d'Opale - Longuenesse (GÃ©nie Industriel)										3	0,0%	33,3%	129	115		20
+2023	TSI	Banque Ã©preuves CCINP	Concours EIL CÃ´te d'Opale Longuenesse - Calais - Dunkerque - Boulogne TSI	374	9,1%	11,5%	266	6,8%	13,5%	148	4,1%	14,9%	9						50
+2023	TSI	Banque Ã©preuves CCINP	EIVP Paris Civil	1168	11,8%	12,1%	101	3,0%	26,7%	77	1,3%	29,9%	7	14,3%	57,1%	64	61		5
+2023	TSI	Banque Ã©preuves CCINP	ESIROI La RÃ©union	309	4,5%	14,6%	146	3,4%	19,9%	106	1,9%	20,8%	0	0,0%	0,0%	0	0		4
+2023	TSI	Banque Ã©preuves CCINP	ENS Paris-Saclay	801	12,2%	14,0%	65	12,3%	16,9%	6	16,7%	33,3%	2	0,0%	0,0%	3	3		3
+2023	TSI	Banque Ã©preuves CCINP	ENS Rennes	796	12,3%	13,8%	84	13,1%	19,0%	13	15,4%	46,2%	0	0,0%	0,0%	0	0		1
+2023	TSI	Banque Ã©preuves CCINP	ENSAIT Roubaix	404	7,2%	13,6%	204	5,4%	17,6%	43	9,3%	27,9%	2	100,0%	0,0%	42	42		3
+2023	TSI	Banque Ã©preuves CCINP	ENSIBS GÃ©nie Industriel										1	0,0%	0,0%	138	138		5
+2023	TSI	Banque Ã©preuves CCINP	ENSIBS MÃ©catronique										3	0,0%	0,0%	108	116		5
+2023	TSI	Banque Ã©preuves CCINP	Concours ENSIBS TSI	398	7,3%	12,1%	236	4,2%	12,3%	154	3,2%	14,3%	4						10
+2023	TSI	Banque Ã©preuves CCINP	ENSISA Mulhouse Automatique et SystÃ¨mes EmbarquÃ©s										6	16,7%	16,7%	11	13		4
+2023	TSI	Banque Ã©preuves CCINP	ENSISA Mulhouse Informatique et rÃ©seaux										3	0,0%	33,3%	23	26		3
+2023	TSI	Banque Ã©preuves CCINP	ENSISA Mulhouse MÃ©canique										5	0,0%	0,0%	26	27		5
+2023	TSI	Banque Ã©preuves CCINP	ENSISA Mulhouse Textile et Fibres										1	0,0%	0,0%	22	22		3
+2023	TSI	Banque Ã©preuves CCINP	Concours ENSISA TSI	404	7,9%	13,1%	229	7,0%	14,8%	41	12,2%	14,6%	15						15
+2023	TSI	Banque Ã©preuves CCINP	EPISEN - Technologie pour la santÃ©	407	5,7%	13,5%	242	4,5%	16,1%	242	4,5%	16,1%	2	0,0%	0,0%	12	12		6
+2023	TSI	Banque Ã©preuves CCINP	ESB Nantes	229	7,4%	14,4%	209	6,7%	14,8%	28	14,3%	10,7%	6	33,3%	16,7%	17	16		15
+2023	TSI	Banque Ã©preuves CCINP	ESIGELEC (Rouen / Poitiers)	528	7,0%	13,3%	451	6,4%	13,3%	205	3,4%	18,5%	17	5,9%	23,5%	172	161		40
+2023	TSI	Banque Ã©preuves CCINP	ESIREM Dijon Robotique	360	6,7%	12,2%	180	5,0%	13,9%	60	10,0%	6,7%	1	100,0%	0,0%	29	29		4
+2023	TSI	Banque Ã©preuves CCINP	ESTIA Bidart	375	8,0%	11,7%	337	6,5%	11,9%	96	4,2%	4,2%	36	2,8%	0,0%	45	45		35
+2023	TSI	Banque Ã©preuves CCINP	Grenoble INP - GÃ©nie industriel	366	7,9%	13,4%	123	6,5%	24,4%	27	7,4%	18,5%	3	0,0%	33,3%	5	5		2
+2023	TSI	Banque Ã©preuves CCINP	ISAT Nevers - dÃ©partement MIT (MÃ©canique et IngÃ©nierie des Transports)										6	0,0%	0,0%	65	64		4
+2023	TSI	Banque Ã©preuves CCINP	ISAT Nevers - dÃ©partement ESA (EnergÃ©tique et systÃ¨mes autonomes)										3	0,0%	33,3%	96	78		6
+2023	TSI	Banque Ã©preuves CCINP	ISAT Nevers - Infrastructures et RÃ©seaux de Transports										1	0,0%	0,0%	118	118		2
+2023	TSI	Banque Ã©preuves CCINP	Concours ISAT TSI	392	6,9%	13,0%	142	2,1%	19,7%	118	1,7%	20,3%	10						12
+2023	TSI	Banque Ã©preuves CCINP	ISEP Paris	273	7,7%	12,5%	251	6,8%	12,4%	227	6,2%	11,9%	28	3,6%	3,6%	84	90		25
+2023	TSI	Banque Ã©preuves CCINP	Lorraine INP - ENSTIB	258	5,8%	14,3%	174	4,6%	15,5%	14	14,3%	14,3%	5	20,0%	20,0%	9	8		7
+2023	TSI	Banque Ã©preuves CCINP	Toulouse INP - ENIT	438	5,9%	14,8%	212	3,8%	17,5%	114	2,6%	18,4%	12	0,0%	0,0%	104	90		8
+2023	TSI	Banque Ã©preuves CCINP	3iL IngÃ©nieurs Limoges	273	7,0%	15,0%	235	4,3%	14,0%	128	2,3%	16,4%	3	0,0%	0,0%	113	118		18
+2023	TSI	RÃ©seau Polytech	Polytech Annecy-ChambÃ©ry - BÃ¢timent Eco-construction Energie										1	0,0%	0,0%	327	327		2
+2023	TSI	RÃ©seau Polytech	Polytech Annecy-ChambÃ©ry - MÃ©canique MÃ©catronique MatÃ©riaux composites										2	0,0%	0,0%	206	206		3
+2023	TSI	RÃ©seau Polytech	Polytech Annecy-ChambÃ©ry - SystÃ¨mes NumÃ©riques â Instrumentation										0	0,0%	0,0%	0	0		3
+2023	TSI	RÃ©seau Polytech	Polytech Clermont-Ferrand - GÃ©nie Electrique										2	0,0%	0,0%	175	175		2
+2023	TSI	RÃ©seau Polytech	Polytech Clermont-Ferrand - GÃ©nie Physique										2	100,0%	0,0%	276	276		2
+2023	TSI	RÃ©seau Polytech	Polytech Lille - SystÃ¨mes embarquÃ©s										2	0,0%	0,0%	226	226		2
+2023	TSI	RÃ©seau Polytech	Polytech Lyon - MÃ©canique										3	0,0%	66,7%	279	239		2
+2023	TSI	RÃ©seau Polytech	Polytech Lyon - SystÃ¨mes industriels, Robotique										1	0,0%	0,0%	68	68		2
+2023	TSI	RÃ©seau Polytech	Polytech Marseille - GÃ©nie Civil										0	0,0%	0,0%	0	0		3
+2023	TSI	RÃ©seau Polytech	Polytech Marseille - GÃ©nie Industriel et Informatique										3	0,0%	33,3%	243	234		4
+2023	TSI	RÃ©seau Polytech	Polytech Marseille - Informatique										3	33,3%	0,0%	181	171		2
+2023	TSI	RÃ©seau Polytech	Polytech Marseille - MÃ©canique, EnergÃ©tique										1	0,0%	0,0%	208	208		3
+2023	TSI	RÃ©seau Polytech	Polytech Marseille - MicroÃ©lectronique,TÃ©lÃ©communications										1	0,0%	0,0%	312	312		3
+2023	TSI	RÃ©seau Polytech	Polytech Montpellier - MicroÃ©lectronique et Automatique										4	0,0%	25,0%	289	295		3
+2023	TSI	RÃ©seau Polytech	Polytech Nancy - Energie, MÃ©canique, MatÃ©riaux, Environnement										1	0,0%	0,0%	260	260		2
+2023	TSI	RÃ©seau Polytech	Polytech Nancy - Management opÃ©rationnel, Maintenance, MaÃ®trise des risques										0	0,0%	0,0%	0	0		2
+2023	TSI	RÃ©seau Polytech	Polytech Nancy Informatique, Automatique, Robotique, RÃ©seaux										2	0,0%	0,0%	134	134		1
+2023	TSI	RÃ©seau Polytech	Polytech Nantes - Ãnergie Ã©lectrique										0	0,0%	0,0%	0	0		3
+2023	TSI	RÃ©seau Polytech	Polytech Nice-Sophia - GÃ©nie de l'eau										2	0,0%	0,0%	253	253		3
+2023	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - GÃ©nie civil et gÃ©o-environnement										0	0,0%	0,0%	0	0		2
+2023	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - GÃ©nie physique et systÃ¨mes embarquÃ©s										1	0,0%	0,0%	358	358		3
+2023	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - Innovation en Conception et MatÃ©riaux										0	0,0%	0,0%	0	0		2
+2023	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - Technologies pour l'Ãnergie, l'AÃ©rospatial et la Motorisation										4	0,0%	25,0%	174	185		4
+2023	TSI	RÃ©seau Polytech	Polytech Tours - Ãlectronique et gÃ©nie Ã©lectrique										1	0,0%	0,0%	248	248		2
+2023	TSI	RÃ©seau Polytech	Polytech Tours - GÃ©nie de l'amÃ©nagement et de l'environnement										1	0,0%	0,0%	336	336		2
+2023	TSI	RÃ©seau Polytech	Polytech Tours - Informatique										3	0,0%	0,0%	326	321		2
+2023	TSI	RÃ©seau Polytech	Polytech Tours - MÃ©canique, Conception de systÃ¨mes										1	0,0%	0,0%	215	215		2
+2023	TSI	RÃ©seau Polytech	Concours Polytech TSI	920	9,7%	13,5%	505	7,5%	16,0%	361	8,3%	17,7%	41						66
+2023	TSI	CESI	CESI AngoulÃªme											0,0%	0,0%	0*	0*	0*	10*
+2023	TSI	CESI	CESI Arras											50,0%	0,0%	174*	174*	2*	10*
+2023	TSI	CESI	CESI Bordeaux											0,0%	0,0%	64*	64*	0*	10*
+2023	TSI	CESI	CESI Lyon											50,0%	0,0%	94*	94*	2*	20*
+2023	TSI	CESI	CESI Nancy											0,0%	0,0%	0*	0*	0*	10*
+2023	TSI	CESI	CESI Nice											0,0%	0,0%	0*	0*	0*	10*
+2023	TSI	CESI	CESI Paris-Nanterre											100,0%	0,0%	87*	87*	1*	20*
+2023	TSI	CESI	CESI Rouen											0,0%	0,0%	163*	163*	1*	10*
+2023	TSI	CESI	CESI Saint-Nazaire											0,0%	0,0%	124	124	1*	15*
+2023	TSI	CESI	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur GÃ©nÃ©raliste	636*	30,2%	11,8%	187*	34,2%	8,0%	187*	34,2%	8,0%						7*	115*
+2023	TSI	CESI	CESI Aix-en-Provence											0,0%	0,0%	24*	24*	1*	10*
+2023	TSI	CESI	CESI Arras											0,0%	0,0%	0*	0*	0*	10*
+2023	TSI	CESI	CESI Bordeaux											0,0%	0,0%	0*	0*	0*	12*
+2023	TSI	CESI	CESI Caen											0,0%	0,0%	0*	0*	0*	10*
+2023	TSI	CESI	CESI La Rochelle											0,0%	0,0%	0*	0*	0*	12*
+2023	TSI	CESI	CESI Lille											0,0%	0,0%	0*	0*	0*	10*
+2023	TSI	CESI	CESI Lyon											0,0%	0,0%	59*	59*	2*	15*
+2023	TSI	CESI	CESI Montpellier											0,0%	0,0%	0*	0*	0*	20*
+2023	TSI	CESI	CESI Nancy											0,0%	0,0%	0*	0*	0*	10*
+2023	TSI	CESI	CESI OrlÃ©ans											0,0%	0,0%	0*	0*	0*	10*
+2023	TSI	CESI	CESI Paris-Nanterre											100,0%	0,0%	47*	47*	1*	15*
+2023	TSI	CESI	CESI Nice											0,0%	0,0%	0*	0*	0*	10*
+2023	TSI	CESI	CESI Pau											0,0%	0,0%	0*	0*	0*	6*
+2023	TSI	CESI	CESI Reims											0,0%	0,0%	0*	0*	0*	6*
+2023	TSI	CESI	CESI Rouen											0,0%	0,0%	0*	0*	0*	10*
+2023	TSI	CESI	CESI Saint-Nazaire											0,0%	0,0%	0*	0*	0*	15*
+2023	TSI	CESI	CESI Strasbourg											0,0%	0,0%	0*	0*	0*	15*
+2023	TSI	CESI	CESI Toulouse											0,0%	0,0%	83	83	2*	15*
+2023	TSI	CESI	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur en Informatique	214*	13,1%	12,1%	84*	20,2%	8,3%	84*	20,2%	8,3%						6*	211*
+2023	TSI	EPITA	ESME										3	0,0%	0,0%	17	18		4
+2023	TSI	EPITA	EPITA campus Lyon										1	0,0%	0,0%	49	49		3
+2023	TSI	EPITA	EPITA campus Paris										6	0,0%	0,0%	54	51		6
+2023	TSI	EPITA	EPITA campus Rennes										2	0,0%	0,0%	64	64		1
+2023	TSI	EPITA	EPITA campus Strasbourg										0	0,0%	0,0%	0	0		1
+2023	TSI	EPITA	EPITA campus Toulouse										4	0,0%	0,0%	26	25		2
+2023	TSI	EPITA	IPSA Paris										4	0,0%	0,0%	58	59		3
+2023	TSI	EPITA	IPSA Toulouse										3	33,3%	0,0%	67	59		3
+2023	TSI	EPITA	Concours EPITA / IPSA / ESME TSI	271	8,1%	12,2%	145	6,9%	12,4%	90	5,6%	7,8%	23						23
+2023	TSI	Groupe INSA	INSA Hauts de France GÃ©nie civil et bÃ¢timent										0	0,0%	0,0%	0	0		2
+2023	TSI	Groupe INSA	INSA Rouen Normandie GÃ©nie Civil et Urbain										1	0,0%	0,0%	73	73		1
+2023	TSI	Groupe INSA	Concours INSA Domaine GÃ©nie civil, urbanisme, topographie TSI	542	8,7%	14,8%	136	9,6%	18,4%	136	9,6%	18,4%	1						3
+2023	TSI	Groupe INSA	INSA Hauts de France Electronique des SystÃ¨mes EmbarquÃ©s										4	0,0%	25,0%	138	135		4
+2023	TSI	Groupe INSA	INSA Hauts de France Informatique Industrielle et Automatique										3	33,3%	0,0%	155	145		3
+2023	TSI	Groupe INSA	INSA Hauts-de-France : Audiovisuel et MultimÃ©dia										1	0,0%	0,0%	168	168		4
+2023	TSI	Groupe INSA	INSA Lyon GÃ©nie Electrique										2	0,0%	0,0%	29	29		2
+2023	TSI	Groupe INSA	INSA Rennes Electronique et Informatique Industrielle										1	0,0%	0,0%	10	10		1
+2023	TSI	Groupe INSA	INSA Rennes Electronique et TÃ©lÃ©communications										0	0,0%	0,0%	89	89		1
+2023	TSI	Groupe INSA	INSA Toulouse Automatique et Electronique										1	0,0%	100,0%	55	55		2
+2023	TSI	Groupe INSA	Concours INSA Domaine GÃ©nie Ã©lectrique, Ã©lectronique, automatique TSI	542	7,0%	14,4%	176	7,4%	15,9%	176	7,4%	15,9%	12						17
+2023	TSI	Groupe INSA	INSA Centre Val de Loire GÃ©nie des SystÃ¨mes Industriels										7	0,0%	28,6%	186	169		2
+2023	TSI	Groupe INSA	INSA Hauts de France GÃ©nie Industriel										1	0,0%	0,0%	199	199		2
+2023	TSI	Groupe INSA	INSA Hauts de France MÃ©canique et EnergÃ©tique										7	14,3%	28,6%	120	110		5
+2023	TSI	Groupe INSA	INSA Hauts de France MÃ©catronique										4	0,0%	0,0%	120	124		3
+2023	TSI	Groupe INSA	INSA Lyon GÃ©nie MÃ©canique										2	0,0%	0,0%	37	37		1
+2023	TSI	Groupe INSA	INSA Rennes GÃ©nie MÃ©canique et Automatique										1	100,0%	100,0%	23	23		1
+2023	TSI	Groupe INSA	INSA Strasbourg GÃ©nie MÃ©canique										1	0,0%	100,0%	84	84		1
+2023	TSI	Groupe INSA	INSA Strasbourg MÃ©catronique										1	0,0%	0,0%	36	36		1
+2023	TSI	Groupe INSA	Concours INSA Domaine GÃ©nie mÃ©canique, gÃ©nie industriel et mÃ©catronique TSI	612	8,0%	14,2%	228	8,3%	15,8%	228	8,3%	15,8%	24						16
+2023	TSI	Groupe INSA	INSA Centre Val de Loire SÃ©curitÃ© et Technologies Informatiques										4	0,0%	0,0%	77	69		1
+2023	TSI	Groupe INSA	INSA Hauts de France Informatique et CybersÃ©curitÃ©										1	0,0%	0,0%	67	67		1
+2023	TSI	Groupe INSA	INSA Toulouse Informatique et RÃ©seaux										1	0,0%	0,0%	21	21		1
+2023	TSI	Groupe INSA	Concours INSA Domaine Informatique, mathÃ©matique, modÃ©lisation TSI	510	7,3%	15,1%	151	7,9%	17,9%	151	7,9%	17,9%	6						3
+2023	TSI	Groupe INSA	INSA Centre Val de Loire MaÃ®trise des Risques Industriels (TSI-PT)											0,0%	0,0%	768*	768*	1*	5*
+2023	TSI	Groupe INSA	INSA Lyon MatÃ©riaux (TSI-PT)											0,0%	0,0%	82*	82*	1*	1*
+2023	TSI	Groupe INSA	INSA Rennes GÃ©nie Physique et MatÃ©riaux (TSI-PT)											0,0%	0,0%	249*	249*	1*	1*
+2023	TSI	Groupe INSA	INSA Toulouse GÃ©nie Physique (TSI-PT)											0,0%	0,0%	0	0	0*	1*
+2023	TSI	Groupe INSA	Concours INSA Domaine GÃ©nie physique et matÃ©riaux TSI-PT	1750*	13,1%	16,3%	797*	13,4%	17,9%	797*	13,4%	17,9%						3*	8*
