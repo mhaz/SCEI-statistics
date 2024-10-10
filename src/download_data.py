@@ -1,7 +1,9 @@
 import os
 import requests
+import chardet
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+
 
 def get_urls_from_page(url):
     try:
@@ -17,6 +19,7 @@ def get_urls_from_page(url):
         print(f"Error fetching {url}: {e}")
         return []
 
+
 def save_url_to_file(url, filepath):
     try:
         # Ensure the directory exists
@@ -25,8 +28,18 @@ def save_url_to_file(url, filepath):
         response = requests.get(url)
         response.raise_for_status()
 
-        with open(filepath, "w", encoding="utf-8") as file:
-            file.write(response.text)
+        # Detect encoding using chardet
+        raw_data = response.content
+        result = chardet.detect(raw_data)
+        encoding = result['encoding']
+
+        # Decode the content using the detected encoding
+        content = raw_data.decode(encoding)
+
+        # Save the content as a UTF-8 encoded text file
+        with open(filepath, "w", encoding="utf-8") as f:
+            f.write(content)
+
         print(f"Saved content from {url} to {filepath}")
     except requests.exceptions.RequestException as e:
         print(f"Error fetching {url}: {e}")
@@ -68,6 +81,7 @@ def main():
     save_to_file("https://www.scei-concours.fr/stat2021/stat_sommaire_2021.html", 2021)
     save_to_file("https://www.scei-concours.fr/stat2022/stat_sommaire_2022.html", 2022)
     save_to_file("https://www.scei-concours.fr/statistiques.php", 2023)
+
 
 if __name__ == "__main__":
     main()
