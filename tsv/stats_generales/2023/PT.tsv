@@ -1,14 +1,14 @@
 year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	nb_integres_interfilieres	places
-2023	PT	CENTRALE-SUPELEC	CentraleSupÃ©lec - cursus apprenti - Campus Metz										9	11,1%	0,0%	155	142		7
+2023	PT	CENTRALE-SUPELEC	CentraleSupélec - cursus apprenti - Campus Metz										9	11,1%	0,0%	155	142		7
 2023	PT	CENTRALE-SUPELEC	Centrale Casablanca										0	0,0%	0,0%	0	0		5
-2023	PT	CENTRALE-SUPELEC	CentraleSupÃ©lec - cursus apprenti - Campus Rennes										15	6,7%	6,7%	111	99		13
-2023	PT	CENTRALE-SUPELEC	CentraleSupÃ©lec - statut Ã©tudiant										30	6,7%	6,7%	43	42		30
+2023	PT	CENTRALE-SUPELEC	CentraleSupélec - cursus apprenti - Campus Rennes										15	6,7%	6,7%	111	99		13
+2023	PT	CENTRALE-SUPELEC	CentraleSupélec - statut étudiant										30	6,7%	6,7%	43	42		30
 2023	PT	CENTRALE-SUPELEC	Centrale Lyon										23	8,7%	13,0%	97	100		24
 2023	PT	CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)										7	28,6%	14,3%	391	421		13
 2023	PT	CENTRALE-SUPELEC	Centrale Lille										12	25,0%	8,3%	176	169		12
 2023	PT	CENTRALE-SUPELEC	Centrale Nantes										11	9,1%	0,0%	138	134		10
-2023	PT	CENTRALE-SUPELEC	Centrale MÃ©diterranÃ©e										4	0,0%	0,0%	241	240		5
-2023	PT	CENTRALE-SUPELEC	Concours Centrale-SupÃ©lec PT	1398	12,7%	13,4%	556	9,0%	9,5%	549	9,1%	9,1%	111						119
+2023	PT	CENTRALE-SUPELEC	Centrale Méditerranée										4	0,0%	0,0%	241	240		5
+2023	PT	CENTRALE-SUPELEC	Concours Centrale-Supélec PT	1398	12,7%	13,4%	556	9,0%	9,5%	549	9,1%	9,1%	111						119
 2023	PT	Concours Commun MINES-PONTS	ENSTA Paris										13	0,0%	0,0%	72	71		12
 2023	PT	Concours Commun MINES-PONTS	ENSTA Paris - apprentissage										4	0,0%	0,0%	129	129		4
 2023	PT	Concours Commun MINES-PONTS	IMT Atlantique										14	7,1%	0,0%	196	186		13
@@ -20,133 +20,133 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2023	PT	Concours Commun MINES-PONTS	TELECOM Paris										3	0,0%	0,0%	51	43		2
 2023	PT	Concours Commun MINES-PONTS	TELECOM Paris - Apprentissage										0	0,0%	0,0%	0	0		2
 2023	PT	Concours Commun MINES-PONTS	Concours commun Mines-Ponts PT	1243	13,0%	13,1%	220	7,3%	6,4%	220	7,3%	6,4%	63						59
-2023	PT	Concours Mines - TÃ©lÃ©com	EIVP Paris Civil (Oral SÃ©rie 2)	1698	14,0%	15,3%	985	11,4%	16,4%	648	12,7%	15,7%	7	0,0%	28,6%	492	525		6
-2023	PT	Concours Mines - TÃ©lÃ©com	ENSG-GÃ©omatique Marne la VallÃ©e (Oral SÃ©rie 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	0	0,0%	0,0%	0	0		2
-2023	PT	Concours Mines - TÃ©lÃ©com	ENSSAT Lannion (Oral SÃ©rie 2)	1698	14,0%	15,3%	985	11,4%	16,4%	648	12,7%	15,7%	3	33,3%	0,0%	602	573		3
-2023	PT	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut Ã©tudiant) (Oral SÃ©rie 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	14	14,3%	7,1%	136	130		12
-2023	PT	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut IETA - Direction GÃ©nÃ©rale de l'Armement)	1698	14,0%	15,3%	607	9,9%	17,6%	458	10,7%	17,9%	4	25,0%	0,0%	50	50		4
-2023	PT	Concours Mines - TÃ©lÃ©com	ENTPE Lyon Civil (Oral SÃ©rie 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	6	50,0%	16,7%	299	312		4
-2023	PT	Concours Mines - TÃ©lÃ©com	ENTPE Lyon Fonctionnaire	1698	14,0%	15,3%	707	10,3%	15,3%	543	11,0%	15,1%	4	25,0%	25,0%	374	354		6
-2023	PT	Concours Mines - TÃ©lÃ©com	EURECOM (Oral SÃ©rie 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	0	0,0%	0,0%	0	0		2
-2023	PT	Concours Mines - TÃ©lÃ©com	IMT Mines Albi (Oral SÃ©rie 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	5	0,0%	0,0%	392	350		5
-2023	PT	Concours Mines - TÃ©lÃ©com	IMT Mines AlÃ¨s (Oral SÃ©rie 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	25	12,0%	16,0%	328	323		22
-2023	PT	Concours Mines - TÃ©lÃ©com	IMT Nord Europe (Oral SÃ©rie 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	8	0,0%	0,0%	491	445		8
-2023	PT	Concours Mines - TÃ©lÃ©com	Mines Saint Etienne-ISMIN (Oral SÃ©rie 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	12	0,0%	0,0%	277	307		7
-2023	PT	Concours Mines - TÃ©lÃ©com	TELECOM Nancy (Oral SÃ©rie 2)	1698	14,0%	15,3%	985	11,4%	16,4%	648	12,7%	15,7%	5	0,0%	0,0%	306	264		5
-2023	PT	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut Ã©tudiant (Oral SÃ©rie 2)	1698	14,0%	15,3%	985	11,4%	16,4%	648	12,7%	15,7%	3	0,0%	33,3%	494	511		5
-2023	PT	Concours Mines - TÃ©lÃ©com	TELECOM SudParis (Oral SÃ©rie 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	2	0,0%	50,0%	79	79		4
-2023	PT	Concours Commun ENSAM	Arts et MÃ©tiers										545	10,5%	22,0%	574	562		550
-2023	PT	Concours Commun ENSAM	Arts et MÃ©tiers - ingÃ©nieurs militaires										9	0,0%	22,2%	494	525		10
-2023	PT	Concours Commun ENSAM	Arts et MÃ©tiers - voie de l'apprentissage										12	8,3%	25,0%	606	559		10
+2023	PT	Concours Mines - Télécom	EIVP Paris Civil (Oral Série 2)	1698	14,0%	15,3%	985	11,4%	16,4%	648	12,7%	15,7%	7	0,0%	28,6%	492	525		6
+2023	PT	Concours Mines - Télécom	ENSG-Géomatique Marne la Vallée (Oral Série 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	0	0,0%	0,0%	0	0		2
+2023	PT	Concours Mines - Télécom	ENSSAT Lannion (Oral Série 2)	1698	14,0%	15,3%	985	11,4%	16,4%	648	12,7%	15,7%	3	33,3%	0,0%	602	573		3
+2023	PT	Concours Mines - Télécom	ENSTA Bretagne (filière sous statut étudiant) (Oral Série 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	14	14,3%	7,1%	136	130		12
+2023	PT	Concours Mines - Télécom	ENSTA Bretagne (filière sous statut IETA - Direction Générale de l'Armement)	1698	14,0%	15,3%	607	9,9%	17,6%	458	10,7%	17,9%	4	25,0%	0,0%	50	50		4
+2023	PT	Concours Mines - Télécom	ENTPE Lyon Civil (Oral Série 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	6	50,0%	16,7%	299	312		4
+2023	PT	Concours Mines - Télécom	ENTPE Lyon Fonctionnaire	1698	14,0%	15,3%	707	10,3%	15,3%	543	11,0%	15,1%	4	25,0%	25,0%	374	354		6
+2023	PT	Concours Mines - Télécom	EURECOM (Oral Série 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	0	0,0%	0,0%	0	0		2
+2023	PT	Concours Mines - Télécom	IMT Mines Albi (Oral Série 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	5	0,0%	0,0%	392	350		5
+2023	PT	Concours Mines - Télécom	IMT Mines Alès (Oral Série 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	25	12,0%	16,0%	328	323		22
+2023	PT	Concours Mines - Télécom	IMT Nord Europe (Oral Série 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	8	0,0%	0,0%	491	445		8
+2023	PT	Concours Mines - Télécom	Mines Saint Etienne-ISMIN (Oral Série 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	12	0,0%	0,0%	277	307		7
+2023	PT	Concours Mines - Télécom	TELECOM Nancy (Oral Série 2)	1698	14,0%	15,3%	985	11,4%	16,4%	648	12,7%	15,7%	5	0,0%	0,0%	306	264		5
+2023	PT	Concours Mines - Télécom	TELECOM St Etienne - Statut étudiant (Oral Série 2)	1698	14,0%	15,3%	985	11,4%	16,4%	648	12,7%	15,7%	3	0,0%	33,3%	494	511		5
+2023	PT	Concours Mines - Télécom	TELECOM SudParis (Oral Série 1)	1698	14,0%	15,3%	715	10,2%	15,4%	548	10,9%	15,0%	2	0,0%	50,0%	79	79		4
+2023	PT	Concours Commun ENSAM	Arts et Métiers										545	10,5%	22,0%	574	562		550
+2023	PT	Concours Commun ENSAM	Arts et Métiers - ingénieurs militaires										9	0,0%	22,2%	494	525		10
+2023	PT	Concours Commun ENSAM	Arts et Métiers - voie de l'apprentissage										12	8,3%	25,0%	606	559		10
 2023	PT	Concours Commun ENSAM	ENSEA Cergy										6	0,0%	16,7%	1213	1202		20
-2023	PT	Concours Commun ENSAM	Concours ARTS ET MÃTIERS ParisTech PT	2143	12,6%	14,7%	1282	10,0%	17,1%	1243	10,1%	16,8%	572						590
+2023	PT	Concours Commun ENSAM	Concours ARTS ET MÉTIERS ParisTech PT	2143	12,6%	14,7%	1282	10,0%	17,1%	1243	10,1%	16,8%	572						590
 2023	PT	Concours ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE	381	9,4%	9,4%	22	4,5%	9,1%	14	7,1%	7,1%	10	10,0%	10,0%	6	6		10
 2023	PT	Concours ENS	ENS Paris-Saclay	1556	13,2%	15,6%	433	6,2%	15,7%	328	7,6%	12,8%	41	9,8%	26,8%	186	179		41
 2023	PT	Concours ENS	ENS Rennes	1533	13,1%	15,3%	422	6,4%	15,4%	328	7,3%	13,1%	7	0,0%	14,3%	274	237		7
 2023	PT	Concours Commun INP	Bordeaux INP - ENSEIRB-MATMECA Electronique										4	0,0%	25,0%	852	838		4
 2023	PT	Concours Commun INP	Bordeaux INP - ENSEIRB-MATMECA Informatique										3	0,0%	0,0%	710	646		1
-2023	PT	Concours Commun INP	Bordeaux INP - ENSEIRB-MATMECA MathÃ©matiques et MÃ©canique										1	0,0%	0,0%	820	820		6
-2023	PT	Concours Commun INP	Bordeaux INP - ENSEIRB-MATMECA TÃ©lecom.										1	0,0%	0,0%	908	908		1
+2023	PT	Concours Commun INP	Bordeaux INP - ENSEIRB-MATMECA Mathématiques et Mécanique										1	0,0%	0,0%	820	820		6
+2023	PT	Concours Commun INP	Bordeaux INP - ENSEIRB-MATMECA Télecom.										1	0,0%	0,0%	908	908		1
 2023	PT	Concours Commun INP	Bordeaux INP - ENSPIMA										0	0,0%	0,0%	0	0		1
-2023	PT	Concours Commun INP	CPE LYON Sciences du numÃ©rique										4	50,0%	25,0%	1080	1120		2
-2023	PT	Concours Commun INP	CY TECH Cergy - GÃ©nie Civil										5	0,0%	20,0%	1239	1210		5
+2023	PT	Concours Commun INP	CPE LYON Sciences du numérique										4	50,0%	25,0%	1080	1120		2
+2023	PT	Concours Commun INP	CY TECH Cergy - Génie Civil										5	0,0%	20,0%	1239	1210		5
 2023	PT	Concours Commun INP	CY TECH Cergy-Pau - Informatique										4	0,0%	0,0%	1287	1281		5
 2023	PT	Concours Commun INP	ENAC Toulouse Civil										2	50,0%	0,0%	272	272		2
-2023	PT	Concours Commun INP	ENGEES Strasbourg Civil (Ã©tudiant)										3	33,3%	0,0%	1035	969		2
-2023	PT	Concours Commun INP	ENSI Poitiers - GÃ©nie de l'Eau et GÃ©nie Civil										2	50,0%	0,0%	1261	1261		2
+2023	PT	Concours Commun INP	ENGEES Strasbourg Civil (étudiant)										3	33,3%	0,0%	1035	969		2
+2023	PT	Concours Commun INP	ENSI Poitiers - Génie de l'Eau et Génie Civil										2	50,0%	0,0%	1261	1261		2
 2023	PT	Concours Commun INP	ENSI Poitiers Energie et Environnement										5	0,0%	20,0%	1343	1213		6
-2023	PT	Concours Commun INP	ENSICAEN GÃ©nie Physique et systÃ¨mes EmbarquÃ©s										5	20,0%	0,0%	1081	1028		3
+2023	PT	Concours Commun INP	ENSICAEN Génie Physique et systèmes Embarqués										5	20,0%	0,0%	1081	1028		3
 2023	PT	Concours Commun INP	ENSICAEN Informatique										6	16,7%	16,7%	1321	1249		4
-2023	PT	Concours Commun INP	ENSIL - ENSCI Limoges CÃ©ramique Industrielle										0	0,0%	0,0%	0	0		2
-2023	PT	Concours Commun INP	SUPMICROTECH ENSMM BesanÃ§on										38	13,2%	21,1%	1131	1135		45
+2023	PT	Concours Commun INP	ENSIL - ENSCI Limoges Céramique Industrielle										0	0,0%	0,0%	0	0		2
+2023	PT	Concours Commun INP	SUPMICROTECH ENSMM Besançon										38	13,2%	21,1%	1131	1135		45
 2023	PT	Concours Commun INP	Grenoble INP - ENSE3										17	11,8%	0,0%	729	676		15
 2023	PT	Concours Commun INP	Grenoble INP - Pagora										3	33,3%	100,0%	1180	1144		1
-2023	PT	Concours Commun INP	Grenoble INP - Phelma (Physique Electronique TÃ©lÃ©coms)										11	18,2%	18,2%	633	545		7
-2023	PT	Concours Commun INP	Grenoble INP - Phelma (Physique MatÃ©riaux ProcÃ©dÃ©s)										7	14,3%	14,3%	807	732		5
+2023	PT	Concours Commun INP	Grenoble INP - Phelma (Physique Electronique Télécoms)										11	18,2%	18,2%	633	545		7
+2023	PT	Concours Commun INP	Grenoble INP - Phelma (Physique Matériaux Procédés)										7	14,3%	14,3%	807	732		5
 2023	PT	Concours Commun INP	Grenoble INP - ENSIMAG										11	0,0%	0,0%	258	247		10
 2023	PT	Concours Commun INP	ISAE-ENSMA Poitiers										6	0,0%	16,7%	670	670		5
-2023	PT	Concours Commun INP	ISAE-SupmÃ©ca Paris										12	0,0%	8,3%	940	859		12
+2023	PT	Concours Commun INP	ISAE-Supméca Paris										12	0,0%	8,3%	940	859		12
 2023	PT	Concours Commun INP	Clermont Auvergne INP - ISIMA										4	25,0%	25,0%	1272	1222		4
 2023	PT	Concours Commun INP	Lorraine INP - ENSEM - Energie										5	20,0%	20,0%	1354	1346		6
 2023	PT	Concours Commun INP	SeaTech Toulon										10	20,0%	20,0%	1149	1130		9
-2023	PT	Concours Commun INP	Clermont Auvergne INP - SIGMA - mÃ©canique										57	1,8%	15,8%	1152	1154		62
+2023	PT	Concours Commun INP	Clermont Auvergne INP - SIGMA - mécanique										57	1,8%	15,8%	1152	1154		62
 2023	PT	Concours Commun INP	Toulouse INP - ENSEEIHT - Electronique-Energie-Automatique (EEA)										4	0,0%	0,0%	511	533		4
-2023	PT	Concours Commun INP	Toulouse INP - ENSEEIHT - MÃ©canique des Fluides-Energetique-Environnement (MFEE)										2	0,0%	50,0%	344	344		2
-2023	PT	Concours Commun INP	Toulouse INP - ENSEEIHT - Sciences du NumÃ©rique										4	0,0%	25,0%	435	419		3
+2023	PT	Concours Commun INP	Toulouse INP - ENSEEIHT - Mécanique des Fluides-Energetique-Environnement (MFEE)										2	0,0%	50,0%	344	344		2
+2023	PT	Concours Commun INP	Toulouse INP - ENSEEIHT - Sciences du Numérique										4	0,0%	25,0%	435	419		3
 2023	PT	Concours Commun INP	Concours CCINP PT	2121	13,4%	14,6%	1512	11,9%	16,3%	1410	11,8%	15,9%	236						236
-2023	PT	Concours POLYTECH	ENSIBS MÃ©catronique										0	0,0%	0,0%	0	0		4
+2023	PT	Concours POLYTECH	ENSIBS Mécatronique										0	0,0%	0,0%	0	0		4
 2023	PT	Concours POLYTECH	ENSIM Le Mans										1	0,0%	100,0%	906	906		3
-2023	PT	Concours POLYTECH	EPISEN - GÃ©nie BiomÃ©dical et santÃ© (ISBS)										0	0,0%	0,0%	0	0		1
-2023	PT	Concours POLYTECH	EPISEN - SystÃ¨me d'information										0	0,0%	0,0%	0	0		1
+2023	PT	Concours POLYTECH	EPISEN - Génie Biomédical et santé (ISBS)										0	0,0%	0,0%	0	0		1
+2023	PT	Concours POLYTECH	EPISEN - Système d'information										0	0,0%	0,0%	0	0		1
 2023	PT	Concours POLYTECH	ESGT le Mans										0	0,0%	0,0%	0	0		5
-2023	PT	Concours POLYTECH	ESIROI La RÃ©union										0	0,0%	0,0%	0	0		2
-2023	PT	Concours POLYTECH	ESIX Caen MÃ©catronique et SystÃ¨mes EmbarquÃ©s										1	0,0%	0,0%	1057	1057		2
+2023	PT	Concours POLYTECH	ESIROI La Réunion										0	0,0%	0,0%	0	0		2
+2023	PT	Concours POLYTECH	ESIX Caen Mécatronique et Systèmes Embarqués										1	0,0%	0,0%	1057	1057		2
 2023	PT	Concours POLYTECH	ESIX Cherbourg GSI										0	0,0%	0,0%	0	0		2
-2023	PT	Concours POLYTECH	ISAT Nevers - dÃ©partement MIT (MÃ©canique et IngÃ©nierie des Transports)										5	0,0%	20,0%	1035	932		4
-2023	PT	Concours POLYTECH	ISAT Nevers - dÃ©partement ESA (EnergÃ©tique et systÃ¨mes autonomes)										2	0,0%	50,0%	516	516		3
-2023	PT	Concours POLYTECH	ISIFC BesanÃ§on - GÃ©nie BiomÃ©dical										0	0,0%	0,0%	0	0		2
-2023	PT	Concours POLYTECH	Polytech Annecy-ChambÃ©ry - BÃ¢timent Eco-construction Energie										1	0,0%	100,0%	1081	1081		4
-2023	PT	Concours POLYTECH	Polytech Annecy-ChambÃ©ry - MÃ©canique MÃ©catronique MatÃ©riaux composites										6	0,0%	16,7%	995	972		5
-2023	PT	Concours POLYTECH	Polytech Annecy-ChambÃ©ry - SystÃ¨mes NumÃ©riques â Instrumentation										1	0,0%	0,0%	1119	1119		3
-2023	PT	Concours POLYTECH	Polytech Clermont-Ferrand - GÃ©nie Civil										0	0,0%	0,0%	0	0		3
-2023	PT	Concours POLYTECH	Polytech Clermont-Ferrand - GÃ©nie Electrique										1	0,0%	100,0%	1031	1031		3
-2023	PT	Concours POLYTECH	Polytech Clermont-Ferrand - GÃ©nie Physique										0	0,0%	0,0%	0	0		3
-2023	PT	Concours POLYTECH	Polytech Grenoble - GÃ©otechnique et gÃ©nie civil										6	16,7%	0,0%	849	773		5
-2023	PT	Concours POLYTECH	Polytech Lille - GÃ©nie civil										2	0,0%	0,0%	698	698		3
-2023	PT	Concours POLYTECH	Polytech Grenoble - Informatique et Ã©lectronique des systÃ¨mes embarquÃ©s										4	0,0%	25,0%	792	814		2
-2023	PT	Concours POLYTECH	Polytech Lille - MÃ©canique										7	0,0%	28,6%	1016	994		7
-2023	PT	Concours POLYTECH	Polytech Lille - SystÃ¨mes embarquÃ©s										3	33,3%	33,3%	844	834		4
-2023	PT	Concours POLYTECH	Polytech Lyon - SystÃ¨mes industriels, Robotique										4	25,0%	0,0%	1007	997		2
-2023	PT	Concours POLYTECH	Polytech Marseille - GÃ©nie Civil										1	0,0%	0,0%	667	667		3
-2023	PT	Concours POLYTECH	Polytech Marseille - GÃ©nie Industriel et Informatique										0	0,0%	0,0%	0	0		3
+2023	PT	Concours POLYTECH	ISAT Nevers - département MIT (Mécanique et Ingénierie des Transports)										5	0,0%	20,0%	1035	932		4
+2023	PT	Concours POLYTECH	ISAT Nevers - département ESA (Energétique et systèmes autonomes)										2	0,0%	50,0%	516	516		3
+2023	PT	Concours POLYTECH	ISIFC Besançon - Génie Biomédical										0	0,0%	0,0%	0	0		2
+2023	PT	Concours POLYTECH	Polytech Annecy-Chambéry - Bâtiment Eco-construction Energie										1	0,0%	100,0%	1081	1081		4
+2023	PT	Concours POLYTECH	Polytech Annecy-Chambéry - Mécanique Mécatronique Matériaux composites										6	0,0%	16,7%	995	972		5
+2023	PT	Concours POLYTECH	Polytech Annecy-Chambéry - Systèmes Numériques – Instrumentation										1	0,0%	0,0%	1119	1119		3
+2023	PT	Concours POLYTECH	Polytech Clermont-Ferrand - Génie Civil										0	0,0%	0,0%	0	0		3
+2023	PT	Concours POLYTECH	Polytech Clermont-Ferrand - Génie Electrique										1	0,0%	100,0%	1031	1031		3
+2023	PT	Concours POLYTECH	Polytech Clermont-Ferrand - Génie Physique										0	0,0%	0,0%	0	0		3
+2023	PT	Concours POLYTECH	Polytech Grenoble - Géotechnique et génie civil										6	16,7%	0,0%	849	773		5
+2023	PT	Concours POLYTECH	Polytech Lille - Génie civil										2	0,0%	0,0%	698	698		3
+2023	PT	Concours POLYTECH	Polytech Grenoble - Informatique et électronique des systèmes embarqués										4	0,0%	25,0%	792	814		2
+2023	PT	Concours POLYTECH	Polytech Lille - Mécanique										7	0,0%	28,6%	1016	994		7
+2023	PT	Concours POLYTECH	Polytech Lille - Systèmes embarqués										3	33,3%	33,3%	844	834		4
+2023	PT	Concours POLYTECH	Polytech Lyon - Systèmes industriels, Robotique										4	25,0%	0,0%	1007	997		2
+2023	PT	Concours POLYTECH	Polytech Marseille - Génie Civil										1	0,0%	0,0%	667	667		3
+2023	PT	Concours POLYTECH	Polytech Marseille - Génie Industriel et Informatique										0	0,0%	0,0%	0	0		3
 2023	PT	Concours POLYTECH	Polytech Grenoble Gestion des Risques										0	0,0%	0,0%	0	0		2
-2023	PT	Concours POLYTECH	Polytech Marseille - MÃ©canique, EnergÃ©tique										5	0,0%	20,0%	980	866		4
-2023	PT	Concours POLYTECH	Polytech Marseille - MicroÃ©lectronique,TÃ©lÃ©communications										1	0,0%	0,0%	1111	1111		2
-2023	PT	Concours POLYTECH	Polytech Montpellier - MÃ©canique et Interactions										2	0,0%	0,0%	672	672		2
-2023	PT	Concours POLYTECH	Polytech Nancy - Energie, MÃ©canique, MatÃ©riaux, Environnement										4	0,0%	25,0%	1041	1029		4
-2023	PT	Concours POLYTECH	Polytech Nancy - Management opÃ©rationnel, Maintenance, MaÃ®trise des risques										1	100,0%	0,0%	705	705		2
-2023	PT	Concours POLYTECH	Polytech Nancy Informatique, Automatique, Robotique, RÃ©seaux										1	0,0%	0,0%	872	872		2
-2023	PT	Concours POLYTECH	Polytech Nantes - Ãlectronique et technologies numÃ©riques										0	0,0%	0,0%	0	0		5
-2023	PT	Concours POLYTECH	Polytech Nantes - GÃ©nie civil										2	0,0%	50,0%	891	891		6
+2023	PT	Concours POLYTECH	Polytech Marseille - Mécanique, Energétique										5	0,0%	20,0%	980	866		4
+2023	PT	Concours POLYTECH	Polytech Marseille - Microélectronique,Télécommunications										1	0,0%	0,0%	1111	1111		2
+2023	PT	Concours POLYTECH	Polytech Montpellier - Mécanique et Interactions										2	0,0%	0,0%	672	672		2
+2023	PT	Concours POLYTECH	Polytech Nancy - Energie, Mécanique, Matériaux, Environnement										4	0,0%	25,0%	1041	1029		4
+2023	PT	Concours POLYTECH	Polytech Nancy - Management opérationnel, Maintenance, Maîtrise des risques										1	100,0%	0,0%	705	705		2
+2023	PT	Concours POLYTECH	Polytech Nancy Informatique, Automatique, Robotique, Réseaux										1	0,0%	0,0%	872	872		2
+2023	PT	Concours POLYTECH	Polytech Nantes - Électronique et technologies numériques										0	0,0%	0,0%	0	0		5
+2023	PT	Concours POLYTECH	Polytech Nantes - Génie civil										2	0,0%	50,0%	891	891		6
 2023	PT	Concours POLYTECH	Polytech Nantes - Informatique										4	0,0%	25,0%	1014	916		4
-2023	PT	Concours POLYTECH	Polytech Nantes - Thermique, ÃnergÃ©tique										2	0,0%	0,0%	1060	1060		4
-2023	PT	Concours POLYTECH	Polytech Nice-Sophia - Ãlectronique										1	0,0%	0,0%	969	969		3
-2023	PT	Concours POLYTECH	Polytech Nice-Sophia - GÃ©nie de l'eau										2	50,0%	0,0%	1064	1064		4
+2023	PT	Concours POLYTECH	Polytech Nantes - Thermique, Énergétique										2	0,0%	0,0%	1060	1060		4
+2023	PT	Concours POLYTECH	Polytech Nice-Sophia - Électronique										1	0,0%	0,0%	969	969		3
+2023	PT	Concours POLYTECH	Polytech Nice-Sophia - Génie de l'eau										2	50,0%	0,0%	1064	1064		4
 2023	PT	Concours POLYTECH	Polytech Nice-Sophia - Informatique										1	0,0%	0,0%	917	917		4
-2023	PT	Concours POLYTECH	Polytech Nice-Sophia - SystÃ¨mes autonomes										1	0,0%	100,0%	897	897		2
-2023	PT	Concours POLYTECH	Polytech OrlÃ©ans - GÃ©nie civil et gÃ©o-environnement										0	0,0%	0,0%	0	0		2
-2023	PT	Concours POLYTECH	Polytech OrlÃ©ans - GÃ©nie industriel										0	0,0%	0,0%	0	0		2
-2023	PT	Concours POLYTECH	Polytech OrlÃ©ans - GÃ©nie physique et systÃ¨mes embarquÃ©s										0	0,0%	0,0%	0	0		3
-2023	PT	Concours POLYTECH	Polytech OrlÃ©ans - Innovation en Conception et MatÃ©riaux										0	0,0%	0,0%	0	0		3
-2023	PT	Concours POLYTECH	Polytech OrlÃ©ans - Technologies pour l'Ãnergie, l'AÃ©rospatial et la Motorisation										2	0,0%	0,0%	910	910		3
+2023	PT	Concours POLYTECH	Polytech Nice-Sophia - Systèmes autonomes										1	0,0%	100,0%	897	897		2
+2023	PT	Concours POLYTECH	Polytech Orléans - Génie civil et géo-environnement										0	0,0%	0,0%	0	0		2
+2023	PT	Concours POLYTECH	Polytech Orléans - Génie industriel										0	0,0%	0,0%	0	0		2
+2023	PT	Concours POLYTECH	Polytech Orléans - Génie physique et systèmes embarqués										0	0,0%	0,0%	0	0		3
+2023	PT	Concours POLYTECH	Polytech Orléans - Innovation en Conception et Matériaux										0	0,0%	0,0%	0	0		3
+2023	PT	Concours POLYTECH	Polytech Orléans - Technologies pour l'Énergie, l'Aérospatial et la Motorisation										2	0,0%	0,0%	910	910		3
 2023	PT	Concours POLYTECH	Polytech Sorbonne - Electronique et Informatique										2	50,0%	0,0%	730	730		1
 2023	PT	Concours POLYTECH	Polytech Sorbonne - Robotique										2	0,0%	0,0%	1065	1065		2
-2023	PT	Concours POLYTECH	Polytech Tours - GÃ©nie de l'amÃ©nagement et de l'environnement										0	0,0%	0,0%	0	0		3
-2023	PT	Concours POLYTECH	Polytech Tours - MÃ©canique, Conception de systÃ¨mes										3	0,0%	0,0%	981	965		4
-2023	PT	Concours POLYTECH	Sup GalilÃ©e Villetaneuse										2	0,0%	50,0%	800	800		2
+2023	PT	Concours POLYTECH	Polytech Tours - Génie de l'aménagement et de l'environnement										0	0,0%	0,0%	0	0		3
+2023	PT	Concours POLYTECH	Polytech Tours - Mécanique, Conception de systèmes										3	0,0%	0,0%	981	965		4
+2023	PT	Concours POLYTECH	Sup Galilée Villetaneuse										2	0,0%	50,0%	800	800		2
 2023	PT	Concours POLYTECH	Concours POLYTECH PT	1648	14,6%	16,4%	1276	12,5%	18,3%	1128	12,4%	17,8%	83						154
-2023	PT	AUTRES ECOLES	ENSIL - ENSCI Limoges GÃ©nie civil	318	19,2%	15,4%	175	17,7%	14,9%	175	17,7%	14,9%	2	0,0%	0,0%	137	137		2
+2023	PT	AUTRES ECOLES	ENSIL - ENSCI Limoges Génie civil	318	19,2%	15,4%	175	17,7%	14,9%	175	17,7%	14,9%	2	0,0%	0,0%	137	137		2
 2023	PT	AUTRES ECOLES	ENI Brest	283	22,6%	15,2%	122	21,3%	22,1%	70	20,0%	18,6%	0	0,0%	0,0%	0	0		4
-2023	PT	AUTRES ECOLES	EIL CÃ´te d'Opale - Calais (informatique)										2	0,0%	0,0%	43	43		10
-2023	PT	AUTRES ECOLES	EIL CÃ´te d'Opale - Dunkerque (GÃ©nie EnergÃ©tique et Environnement)										1	0,0%	0,0%	40	40		6
-2023	PT	AUTRES ECOLES	EIL CÃ´te d'Opale - Longuenesse (GÃ©nie Industriel)										3	0,0%	0,0%	32	37		20
-2023	PT	AUTRES ECOLES	Concours EIL CÃ´te d'Opale Longuenesse - Calais - Dunkerque PT	262	22,1%	13,4%	212	18,9%	13,7%	63	14,3%	15,9%	6						36
+2023	PT	AUTRES ECOLES	EIL Côte d'Opale - Calais (informatique)										2	0,0%	0,0%	43	43		10
+2023	PT	AUTRES ECOLES	EIL Côte d'Opale - Dunkerque (Génie Energétique et Environnement)										1	0,0%	0,0%	40	40		6
+2023	PT	AUTRES ECOLES	EIL Côte d'Opale - Longuenesse (Génie Industriel)										3	0,0%	0,0%	32	37		20
+2023	PT	AUTRES ECOLES	Concours EIL Côte d'Opale Longuenesse - Calais - Dunkerque PT	262	22,1%	13,4%	212	18,9%	13,7%	63	14,3%	15,9%	6						36
 2023	PT	AUTRES ECOLES	ENSAIT Roubaix	313	24,3%	19,5%	215	20,5%	23,7%	45	28,9%	26,7%	8	25,0%	25,0%	37	37		10
-2023	PT	AUTRES ECOLES	ENSIL - ENSCI Limoges MÃ©catronique	318	19,2%	15,4%	175	17,7%	14,9%	175	17,7%	14,9%	1	100,0%	0,0%	147	147		4
-2023	PT	AUTRES ECOLES	ENSISA Mulhouse Automatique et SystÃ¨mes EmbarquÃ©s										4	25,0%	0,0%	28	27		6
-2023	PT	AUTRES ECOLES	ENSISA Mulhouse Informatique et rÃ©seaux										1	100,0%	0,0%	20	20		6
-2023	PT	AUTRES ECOLES	ENSISA Mulhouse MÃ©canique										4	0,0%	0,0%	19	18		9
+2023	PT	AUTRES ECOLES	ENSIL - ENSCI Limoges Mécatronique	318	19,2%	15,4%	175	17,7%	14,9%	175	17,7%	14,9%	1	100,0%	0,0%	147	147		4
+2023	PT	AUTRES ECOLES	ENSISA Mulhouse Automatique et Systèmes Embarqués										4	25,0%	0,0%	28	27		6
+2023	PT	AUTRES ECOLES	ENSISA Mulhouse Informatique et réseaux										1	100,0%	0,0%	20	20		6
+2023	PT	AUTRES ECOLES	ENSISA Mulhouse Mécanique										4	0,0%	0,0%	19	18		9
 2023	PT	AUTRES ECOLES	ENSISA Mulhouse Textile et Fibres										1	0,0%	100,0%	34	34		4
 2023	PT	AUTRES ECOLES	Concours ENSISA PT	386	19,9%	15,0%	282	17,7%	15,6%	43	18,6%	9,3%	10						25
 2023	PT	AUTRES ECOLES	ENSM Site de Nantes	261	21,1%	14,9%	219	20,1%	16,4%	39	17,9%	15,4%	14	21,4%	14,3%	19	21		20
 2023	PT	AUTRES ECOLES	ESB Nantes	163	21,5%	14,1%	101	18,8%	16,8%	8	25,0%	12,5%	1	0,0%	0,0%	3	3		15
-2023	PT	AUTRES ECOLES	ESFF - SÃ¨vres	279	15,4%	15,4%	192	11,5%	19,3%	15	6,7%	13,3%	5	0,0%	20,0%	9	8		11
+2023	PT	AUTRES ECOLES	ESFF - Sèvres	279	15,4%	15,4%	192	11,5%	19,3%	15	6,7%	13,3%	5	0,0%	20,0%	9	8		11
 2023	PT	AUTRES ECOLES	ESTP - campus de Dijon										16	25,0%	6,2%	399	393		20
 2023	PT	AUTRES ECOLES	ESTP - campus de Troyes										12	0,0%	8,3%	388	386		20
 2023	PT	AUTRES ECOLES	ESTP - campus de Cachan										32	28,1%	12,5%	273	261		50
-2023	PT	AUTRES ECOLES	ESTP - campus de d'OrlÃ©ans										9	33,3%	11,1%	390	392		6
+2023	PT	AUTRES ECOLES	ESTP - campus de d'Orléans										9	33,3%	11,1%	390	392		6
 2023	PT	AUTRES ECOLES	Concours ESTP PT	606	17,3%	13,9%	495	16,0%	14,7%	451	16,0%	14,0%	69						96
-2023	PT	AUTRES ECOLES	Grenoble INP - GÃ©nie industriel	608	16,9%	15,0%	292	15,4%	17,8%	109	16,5%	20,2%	14	35,7%	35,7%	40	38		12
+2023	PT	AUTRES ECOLES	Grenoble INP - Génie industriel	608	16,9%	15,0%	292	15,4%	17,8%	109	16,5%	20,2%	14	35,7%	35,7%	40	38		12
 2023	PT	AUTRES ECOLES	IMT Nord Europe en partenariat avec Polyvia Formation	275	22,9%	14,9%	189	21,7%	16,9%	19	21,1%	15,8%	2	0,0%	0,0%	9	9		25
 2023	PT	AUTRES ECOLES	ISMANS-Groupe CESI Le Mans	255	17,6%	14,5%	228	17,5%	14,0%	38	7,9%	10,5%	3	0,0%	0,0%	18	21		20
 2023	PT	AUTRES ECOLES	Lorraine INP - ENSTIB	262	18,7%	17,2%	184	15,8%	16,3%	21	14,3%	23,8%	9	11,1%	33,3%	8	11		15
@@ -160,52 +160,52 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2023	PT	Puissance Alpha	ESEO Angers - Paris - Dijon	729	17,8%	14,8%	645	17,1%	15,7%	146	13,7%	21,2%	2	50,0%	50,0%	96	96		5
 2023	PT	Puissance Alpha	ESIEE Paris	729	17,8%	14,8%	551	16,3%	16,2%	83	14,5%	10,8%	8	12,5%	0,0%	69	68		20
 2023	PT	Puissance Alpha	ESTIA Bidart	729	17,8%	14,8%	622	16,7%	15,8%	185	14,6%	18,4%	11	9,1%	9,1%	88	97		25
-2023	PT	Puissance Alpha	ISEN MÃ©diterranÃ©e Toulon	729	17,8%	14,8%	646	17,0%	15,6%	393	16,5%	17,0%	0	0,0%	0,0%	0	0		5
-2023	PT	Puissance Alpha	ISEN YncrÃ©a Ouest - Brest										1	100,0%	0,0%	57	57		2
-2023	PT	Puissance Alpha	ISEN YncrÃ©a Ouest - Caen										0	0,0%	0,0%	0	0		2
-2023	PT	Puissance Alpha	ISEN YncrÃ©a Ouest - Nantes										0	0,0%	0,0%	0	0		2
+2023	PT	Puissance Alpha	ISEN Méditerranée Toulon	729	17,8%	14,8%	646	17,0%	15,6%	393	16,5%	17,0%	0	0,0%	0,0%	0	0		5
+2023	PT	Puissance Alpha	ISEN Yncréa Ouest - Brest										1	100,0%	0,0%	57	57		2
+2023	PT	Puissance Alpha	ISEN Yncréa Ouest - Caen										0	0,0%	0,0%	0	0		2
+2023	PT	Puissance Alpha	ISEN Yncréa Ouest - Nantes										0	0,0%	0,0%	0	0		2
 2023	PT	Puissance Alpha	Concours ISEN Ouest PT	729	17,8%	14,8%	646	17,0%	15,6%	393	16,5%	17,0%	1						6
 2023	PT	Puissance Alpha	ISEP Paris	729	17,8%	14,8%	614	16,6%	15,8%	239	14,6%	17,6%	4	25,0%	25,0%	56	54		6
 2023	PT	Puissance Alpha	JUNIA HEI Lille	729	17,8%	14,8%	647	17,0%	15,6%	487	16,8%	17,7%	7	0,0%	14,3%	73	76		19
 2023	PT	Puissance Alpha	JUNIA ISEN Lille	729	17,8%	14,8%	647	17,0%	15,6%	217	17,5%	18,0%	3	0,0%	33,3%	47	45		6
-2023	PT	Puissance Alpha	3iL IngÃ©nieurs Limoges	729	17,8%	14,8%	531	16,2%	16,4%	92	13,0%	17,4%	0	0,0%	0,0%	0	0		5
-2023	PT	Avenir PrÃ©pas	ECE PARIS (statut apprentissage)										2	0,0%	0,0%	98	98		5
-2023	PT	Avenir PrÃ©pas	ECE PARIS										7	0,0%	28,6%	131	115		20
-2023	PT	Avenir PrÃ©pas	ECE LYON										4	25,0%	0,0%	132	129		10
-2023	PT	Avenir PrÃ©pas	Concours ECE PT	1035	16,1%	14,5%	895	15,0%	15,4%	155	11,6%	16,1%	13						35
-2023	PT	Avenir PrÃ©pas	EIGSI Casablanca	1035	16,1%	14,5%	902	15,1%	15,3%	295	11,5%	15,9%	0	0,0%	0,0%	0	0		1
-2023	PT	Avenir PrÃ©pas	EIGSI La Rochelle	1035	16,1%	14,5%	902	15,1%	15,3%	295	11,5%	15,9%	4	0,0%	0,0%	277	275		15
-2023	PT	Avenir PrÃ©pas	EPF campus Cachan										9	33,3%	0,0%	301	304		10
-2023	PT	Avenir PrÃ©pas	EPF campus Troyes										0	0,0%	0,0%	0	0		6
-2023	PT	Avenir PrÃ©pas	EPF campus Montpellier										2	100,0%	0,0%	280	280		8
-2023	PT	Avenir PrÃ©pas	Concours EPF Paris - Cachan - Troyes - Montpellier - PT	1035	16,1%	14,5%	872	14,9%	15,4%	354	13,3%	16,7%	11						24
-2023	PT	Avenir PrÃ©pas	ESIGELEC (Rouen / Poitiers)	1035	16,1%	14,5%	927	15,2%	15,1%	136	14,0%	12,5%	5	40,0%	40,0%	97	99		25
-2023	PT	Avenir PrÃ©pas	ESILV Paris-La DÃ©fense	1035	16,1%	14,5%	859	14,9%	15,4%	208	18,3%	15,4%	37	8,1%	21,6%	92	94		35
-2023	PT	Avenir PrÃ©pas	BUILDERS Lyon										0	0,0%	0,0%	0	0		1
-2023	PT	Avenir PrÃ©pas	BUILDERS Caen										2	0,0%	0,0%	6	6		2
-2023	PT	Avenir PrÃ©pas	Concours BUILDERS (Caen / Lyon) PT	1035	16,1%	14,5%	859	14,9%	15,4%	8	12,5%	0,0%	2						3
-2023	PT	Avenir PrÃ©pas	ESTACA Laval AÃ©ronautique										4	0,0%	0,0%	249	252		3
-2023	PT	Avenir PrÃ©pas	ESTACA Laval Naval										5	0,0%	20,0%	319	277		3
-2023	PT	Avenir PrÃ©pas	ESTACA Paris-Saclay : Ferroviaire										4	50,0%	0,0%	243	256		3
-2023	PT	Avenir PrÃ©pas	ESTACA Paris-Saclay : Spatial										1	0,0%	0,0%	202	202		1
-2023	PT	Avenir PrÃ©pas	ESTACA Bordeaux AÃ©ronautique										16	0,0%	6,2%	276	257		10
-2023	PT	Avenir PrÃ©pas	ESTACA Paris-Saclay : AÃ©ronautique										3	66,7%	33,3%	187	200		3
-2023	PT	Avenir PrÃ©pas	ESTACA Paris-Saclay : Automobile										3	0,0%	33,3%	181	187		3
-2023	PT	Avenir PrÃ©pas	Concours ESTACA PT	1035	16,1%	14,5%	873	14,9%	15,3%	397	12,3%	13,6%	36						26
-2023	PT	Concours IngeniâUp	Icam site de Nantes										0	0,0%	0,0%	0	0		4
-2023	PT	Concours IngeniâUp	Icam site de Grand Paris Sud										0	0,0%	0,0%	0	0		6
-2023	PT	Concours IngeniâUp	Icam site de Lille										0	0,0%	0,0%	0	0		4
-2023	PT	Concours IngeniâUp	Icam site de Toulouse										0	0,0%	0,0%	0	0		6
-2023	PT	Concours IngeniâUp	Concours ICAM PT	662	16,2%	13,4%	329	13,4%	17,0%	31	12,9%	12,9%	0						20
-2023	PT	Concours IngeniâUp	ECAM LaSalle										12	25,0%	16,7%	544	499		40
-2023	PT	Concours IngeniâUp	ECAM Rennes										6	16,7%	0,0%	524	471		10
-2023	PT	Concours IngeniâUp	Concours ECAM Rennes /LaSalle PT	662	16,2%	13,4%	601	15,3%	14,1%	601	15,3%	14,1%	18						50
-2023	PT	Concours IngeniâUp	Icam Site de Strasbourg-Europe	662	16,2%	13,4%	329	13,4%	17,0%	31	12,9%	12,9%	1	0,0%	0,0%	26	26		30
-2023	PT	Concours IngeniâUp	ECAM-EPMI Cergy-Pontoise	662	16,2%	13,4%	619	15,5%	13,9%	86	15,1%	17,4%	4	50,0%	0,0%	78	78		20
-2023	PT	Concours IngeniâUp	UniLaSalle Amiens										0	0,0%	0,0%	0	0		8
-2023	PT	Concours IngeniâUp	UniLaSalle Beauvais - GÃ©osciences et Environnement										0	0,0%	0,0%	0	0		3
-2023	PT	Concours IngeniâUp	Concours UniLaSalle PT (Amiens / Beauvais)	662	16,2%	13,4%	621	15,5%	13,8%	621	15,5%	13,8%	0						11
-2023	PT	CESI	CESI AngoulÃªme											0,0%	0,0%	0*	0*	0*	10*
+2023	PT	Puissance Alpha	3iL Ingénieurs Limoges	729	17,8%	14,8%	531	16,2%	16,4%	92	13,0%	17,4%	0	0,0%	0,0%	0	0		5
+2023	PT	Avenir Prépas	ECE PARIS (statut apprentissage)										2	0,0%	0,0%	98	98		5
+2023	PT	Avenir Prépas	ECE PARIS										7	0,0%	28,6%	131	115		20
+2023	PT	Avenir Prépas	ECE LYON										4	25,0%	0,0%	132	129		10
+2023	PT	Avenir Prépas	Concours ECE PT	1035	16,1%	14,5%	895	15,0%	15,4%	155	11,6%	16,1%	13						35
+2023	PT	Avenir Prépas	EIGSI Casablanca	1035	16,1%	14,5%	902	15,1%	15,3%	295	11,5%	15,9%	0	0,0%	0,0%	0	0		1
+2023	PT	Avenir Prépas	EIGSI La Rochelle	1035	16,1%	14,5%	902	15,1%	15,3%	295	11,5%	15,9%	4	0,0%	0,0%	277	275		15
+2023	PT	Avenir Prépas	EPF campus Cachan										9	33,3%	0,0%	301	304		10
+2023	PT	Avenir Prépas	EPF campus Troyes										0	0,0%	0,0%	0	0		6
+2023	PT	Avenir Prépas	EPF campus Montpellier										2	100,0%	0,0%	280	280		8
+2023	PT	Avenir Prépas	Concours EPF Paris - Cachan - Troyes - Montpellier - PT	1035	16,1%	14,5%	872	14,9%	15,4%	354	13,3%	16,7%	11						24
+2023	PT	Avenir Prépas	ESIGELEC (Rouen / Poitiers)	1035	16,1%	14,5%	927	15,2%	15,1%	136	14,0%	12,5%	5	40,0%	40,0%	97	99		25
+2023	PT	Avenir Prépas	ESILV Paris-La Défense	1035	16,1%	14,5%	859	14,9%	15,4%	208	18,3%	15,4%	37	8,1%	21,6%	92	94		35
+2023	PT	Avenir Prépas	BUILDERS Lyon										0	0,0%	0,0%	0	0		1
+2023	PT	Avenir Prépas	BUILDERS Caen										2	0,0%	0,0%	6	6		2
+2023	PT	Avenir Prépas	Concours BUILDERS (Caen / Lyon) PT	1035	16,1%	14,5%	859	14,9%	15,4%	8	12,5%	0,0%	2						3
+2023	PT	Avenir Prépas	ESTACA Laval Aéronautique										4	0,0%	0,0%	249	252		3
+2023	PT	Avenir Prépas	ESTACA Laval Naval										5	0,0%	20,0%	319	277		3
+2023	PT	Avenir Prépas	ESTACA Paris-Saclay : Ferroviaire										4	50,0%	0,0%	243	256		3
+2023	PT	Avenir Prépas	ESTACA Paris-Saclay : Spatial										1	0,0%	0,0%	202	202		1
+2023	PT	Avenir Prépas	ESTACA Bordeaux Aéronautique										16	0,0%	6,2%	276	257		10
+2023	PT	Avenir Prépas	ESTACA Paris-Saclay : Aéronautique										3	66,7%	33,3%	187	200		3
+2023	PT	Avenir Prépas	ESTACA Paris-Saclay : Automobile										3	0,0%	33,3%	181	187		3
+2023	PT	Avenir Prépas	Concours ESTACA PT	1035	16,1%	14,5%	873	14,9%	15,3%	397	12,3%	13,6%	36						26
+2023	PT	Concours Ingeni’Up	Icam site de Nantes										0	0,0%	0,0%	0	0		4
+2023	PT	Concours Ingeni’Up	Icam site de Grand Paris Sud										0	0,0%	0,0%	0	0		6
+2023	PT	Concours Ingeni’Up	Icam site de Lille										0	0,0%	0,0%	0	0		4
+2023	PT	Concours Ingeni’Up	Icam site de Toulouse										0	0,0%	0,0%	0	0		6
+2023	PT	Concours Ingeni’Up	Concours ICAM PT	662	16,2%	13,4%	329	13,4%	17,0%	31	12,9%	12,9%	0						20
+2023	PT	Concours Ingeni’Up	ECAM LaSalle										12	25,0%	16,7%	544	499		40
+2023	PT	Concours Ingeni’Up	ECAM Rennes										6	16,7%	0,0%	524	471		10
+2023	PT	Concours Ingeni’Up	Concours ECAM Rennes /LaSalle PT	662	16,2%	13,4%	601	15,3%	14,1%	601	15,3%	14,1%	18						50
+2023	PT	Concours Ingeni’Up	Icam Site de Strasbourg-Europe	662	16,2%	13,4%	329	13,4%	17,0%	31	12,9%	12,9%	1	0,0%	0,0%	26	26		30
+2023	PT	Concours Ingeni’Up	ECAM-EPMI Cergy-Pontoise	662	16,2%	13,4%	619	15,5%	13,9%	86	15,1%	17,4%	4	50,0%	0,0%	78	78		20
+2023	PT	Concours Ingeni’Up	UniLaSalle Amiens										0	0,0%	0,0%	0	0		8
+2023	PT	Concours Ingeni’Up	UniLaSalle Beauvais - Géosciences et Environnement										0	0,0%	0,0%	0	0		3
+2023	PT	Concours Ingeni’Up	Concours UniLaSalle PT (Amiens / Beauvais)	662	16,2%	13,4%	621	15,5%	13,8%	621	15,5%	13,8%	0						11
+2023	PT	CESI	CESI Angoulême											0,0%	0,0%	0*	0*	0*	10*
 2023	PT	CESI	CESI Arras											50,0%	0,0%	174*	174*	2*	10*
 2023	PT	CESI	CESI Bordeaux											0,0%	0,0%	64*	64*	0*	10*
 2023	PT	CESI	CESI Lyon											50,0%	0,0%	94*	94*	2*	20*
@@ -214,7 +214,7 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2023	PT	CESI	CESI Paris-Nanterre											100,0%	0,0%	87*	87*	1*	20*
 2023	PT	CESI	CESI Rouen											0,0%	0,0%	163*	163*	1*	10*
 2023	PT	CESI	CESI Saint-Nazaire											0,0%	0,0%	124	124	1*	15*
-2023	PT	CESI	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur GÃ©nÃ©raliste	636*	30,2%	11,8%	187*	34,2%	8,0%	187*	34,2%	8,0%						7*	115*
+2023	PT	CESI	Concours CESI Ecole d'Ingénieurs - Ingénieur Généraliste	636*	30,2%	11,8%	187*	34,2%	8,0%	187*	34,2%	8,0%						7*	115*
 2023	PT	CESI	CESI Aix-en-Provence											0,0%	0,0%	24*	24*	1*	10*
 2023	PT	CESI	CESI Arras											0,0%	0,0%	0*	0*	0*	10*
 2023	PT	CESI	CESI Bordeaux											0,0%	0,0%	0*	0*	0*	12*
@@ -224,7 +224,7 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2023	PT	CESI	CESI Lyon											0,0%	0,0%	59*	59*	2*	15*
 2023	PT	CESI	CESI Montpellier											0,0%	0,0%	0*	0*	0*	20*
 2023	PT	CESI	CESI Nancy											0,0%	0,0%	0*	0*	0*	10*
-2023	PT	CESI	CESI OrlÃ©ans											0,0%	0,0%	0*	0*	0*	10*
+2023	PT	CESI	CESI Orléans											0,0%	0,0%	0*	0*	0*	10*
 2023	PT	CESI	CESI Paris-Nanterre											100,0%	0,0%	47*	47*	1*	15*
 2023	PT	CESI	CESI Nice											0,0%	0,0%	0*	0*	0*	10*
 2023	PT	CESI	CESI Pau											0,0%	0,0%	0*	0*	0*	6*
@@ -233,7 +233,7 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2023	PT	CESI	CESI Saint-Nazaire											0,0%	0,0%	0*	0*	0*	15*
 2023	PT	CESI	CESI Strasbourg											0,0%	0,0%	0*	0*	0*	15*
 2023	PT	CESI	CESI Toulouse											0,0%	0,0%	83	83	2*	15*
-2023	PT	CESI	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur en Informatique	214*	13,1%	12,1%	84*	20,2%	8,3%	84*	20,2%	8,3%						6*	211*
+2023	PT	CESI	Concours CESI Ecole d'Ingénieurs - Ingénieur en Informatique	214*	13,1%	12,1%	84*	20,2%	8,3%	84*	20,2%	8,3%						6*	211*
 2023	PT	EPITA	EPITA campus Lyon										0	0,0%	0,0%	0	0		3
 2023	PT	EPITA	EPITA campus Paris										4	0,0%	0,0%	61	60		8
 2023	PT	EPITA	EPITA campus Toulouse										0	0,0%	0,0%	0	0		2
@@ -243,51 +243,51 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2023	PT	EPITA	IPSA Toulouse										4	25,0%	0,0%	88	92		9
 2023	PT	EPITA	ESME										5	0,0%	0,0%	104	92		10
 2023	PT	EPITA	Concours EPITA / IPSA / ESME PT	274	21,2%	13,9%	194	20,6%	13,4%	125	20,8%	12,0%	26						52
-2023	PT	Groupe INSA	ESITECH - Physique pour la SantÃ©										0	0,0%	0,0%	0	0		1
-2023	PT	Groupe INSA	ISIS Castres Informatique pour la SantÃ©										0	0,0%	0,0%	0	0		1
-2023	PT	Groupe INSA	Concours INSA Domaine Biotechnologies-santÃ© PT	710	17,5%	18,2%	337	16,0%	17,2%	337	16,0%	17,2%	0						2
-2023	PT	Groupe INSA	INSA Hauts de France GÃ©nie civil et bÃ¢timent (PSI-PT)											100,0%	0,0%	908*	908*	1*	3*
-2023	PT	Groupe INSA	INSA Lyon GÃ©nie Civil et Urbanisme (PSI-PT)											22,2%	0,0%	174*	217*	9*	10*
-2023	PT	Groupe INSA	INSA Rennes GÃ©nie Civil et Urbain (PSI-PT)											0,0%	0,0%	263*	263*	1*	1*
-2023	PT	Groupe INSA	INSA Rouen Normandie GÃ©nie Civil et Urbain (PSI-PT)											40,0%	40,0%	820*	772*	5*	3*
-2023	PT	Groupe INSA	INSA Strasbourg GÃ©nie Civil (PSI-PT)											0,0%	20,0%	661*	627*	5*	5*
+2023	PT	Groupe INSA	ESITECH - Physique pour la Santé										0	0,0%	0,0%	0	0		1
+2023	PT	Groupe INSA	ISIS Castres Informatique pour la Santé										0	0,0%	0,0%	0	0		1
+2023	PT	Groupe INSA	Concours INSA Domaine Biotechnologies-santé PT	710	17,5%	18,2%	337	16,0%	17,2%	337	16,0%	17,2%	0						2
+2023	PT	Groupe INSA	INSA Hauts de France Génie civil et bâtiment (PSI-PT)											100,0%	0,0%	908*	908*	1*	3*
+2023	PT	Groupe INSA	INSA Lyon Génie Civil et Urbanisme (PSI-PT)											22,2%	0,0%	174*	217*	9*	10*
+2023	PT	Groupe INSA	INSA Rennes Génie Civil et Urbain (PSI-PT)											0,0%	0,0%	263*	263*	1*	1*
+2023	PT	Groupe INSA	INSA Rouen Normandie Génie Civil et Urbain (PSI-PT)											40,0%	40,0%	820*	772*	5*	3*
+2023	PT	Groupe INSA	INSA Strasbourg Génie Civil (PSI-PT)											0,0%	20,0%	661*	627*	5*	5*
 2023	PT	Groupe INSA	INSA Strasbourg Topographie (PSI-PT)											16,7%	16,7%	1351*	1362*	6*	8*
-2023	PT	Groupe INSA	INSA Toulouse GÃ©nie Civil (PSI-PT)											0,0%	14,3%	408	387	7*	7*
-2023	PT	Groupe INSA	Concours INSA Domaine GÃ©nie civil, urbanisme, topographie PSI-PT	2874*	24,8%	17,4%	1474*	22,7%	18,0%	1474*	22,7%	18,0%						34*	37*
-2023	PT	Groupe INSA	INSA Hauts de France Electronique des SystÃ¨mes EmbarquÃ©s (MP-PC-PSI-PT-MPI)											0,0%	0,0%	1741*	1733*	5*	10*
+2023	PT	Groupe INSA	INSA Toulouse Génie Civil (PSI-PT)											0,0%	14,3%	408	387	7*	7*
+2023	PT	Groupe INSA	Concours INSA Domaine Génie civil, urbanisme, topographie PSI-PT	2874*	24,8%	17,4%	1474*	22,7%	18,0%	1474*	22,7%	18,0%						34*	37*
+2023	PT	Groupe INSA	INSA Hauts de France Electronique des Systèmes Embarqués (MP-PC-PSI-PT-MPI)											0,0%	0,0%	1741*	1733*	5*	10*
 2023	PT	Groupe INSA	INSA Hauts de France Informatique Industrielle et Automatique (MP-PC-PSI-PT-MPI)											0,0%	33,3%	2779*	2564*	3*	10*
-2023	PT	Groupe INSA	INSA Hauts-de-France : Audiovisuel et MultimÃ©dia (MP-PC-PSI-PT-MPI)											0,0%	0,0%	0*	0*	0*	10*
-2023	PT	Groupe INSA	INSA Lyon GÃ©nie Electrique (MP-PC-PSI-PT-MPI)											10,0%	0,0%	699*	700*	10*	10*
+2023	PT	Groupe INSA	INSA Hauts-de-France : Audiovisuel et Multimédia (MP-PC-PSI-PT-MPI)											0,0%	0,0%	0*	0*	0*	10*
+2023	PT	Groupe INSA	INSA Lyon Génie Electrique (MP-PC-PSI-PT-MPI)											10,0%	0,0%	699*	700*	10*	10*
 2023	PT	Groupe INSA	INSA Rennes Electronique et Informatique Industrielle (MP-PC-PSI-PT-MPI)											33,3%	0,0%	1111*	1168*	3*	3*
-2023	PT	Groupe INSA	INSA Rennes Electronique et TÃ©lÃ©communications (MP-PC-PSI-PT-MPI)											0,0%	22,2%	1528*	1638*	9*	11*
-2023	PT	Groupe INSA	INSA Strasbourg GÃ©nie Electrique (MP-PC-PSI-PT-MPI)											16,7%	8,3%	1642*	1613*	12*	12*
+2023	PT	Groupe INSA	INSA Rennes Electronique et Télécommunications (MP-PC-PSI-PT-MPI)											0,0%	22,2%	1528*	1638*	9*	11*
+2023	PT	Groupe INSA	INSA Strasbourg Génie Electrique (MP-PC-PSI-PT-MPI)											16,7%	8,3%	1642*	1613*	12*	12*
 2023	PT	Groupe INSA	INSA Toulouse Automatique et Electronique (MP-PC-PSI-PT-MPI)											40,0%	0,0%	929	948	5*	5*
-2023	PT	Groupe INSA	Concours INSA Domaine GÃ©nie Ã©lectrique, Ã©lectronique, automatique MP-PC-PSI-PT-MPI	5633*	26,6%	18,8%	2819*	26,0%	17,7%	2819*	26,0%	17,7%						47*	71*
-2023	PT	Groupe INSA	INSA Centre Val de Loire GÃ©nie des SystÃ¨mes Industriels (PSI-PT)											33,3%	0,0%	1626*	1622*	3*	18*
-2023	PT	Groupe INSA	INSA Hauts de France GÃ©nie Industriel (PSI-PT)											0,0%	25,0%	1538*	1363*	4*	6*
-2023	PT	Groupe INSA	INSA Hauts de France MÃ©canique et EnergÃ©tique (PSI-PT)											16,7%	25,0%	1685*	1678*	12*	24*
-2023	PT	Groupe INSA	INSA Hauts de France MÃ©catronique (PSI-PT)											28,6%	14,3%	1529*	1480*	7*	12*
-2023	PT	Groupe INSA	INSA Lyon GÃ©nie Industriel (PSI-PT)											22,2%	11,1%	424*	435*	9*	7*
-2023	PT	Groupe INSA	INSA Lyon GÃ©nie MÃ©canique (PSI-PT)											20,0%	0,0%	358*	329*	25*	25*
-2023	PT	Groupe INSA	INSA Rennes GÃ©nie MÃ©canique et Automatique (PSI-PT)											0,0%	50,0%	700*	547*	4*	4*
-2023	PT	Groupe INSA	INSA Rouen Normandie MÃ©canique (PSI-PT)											25,0%	25,0%	1263*	1221*	4*	4*
-2023	PT	Groupe INSA	INSA Strasbourg GÃ©nie MÃ©canique (PSI-PT)											25,0%	10,0%	1215*	1216*	20*	21*
-2023	PT	Groupe INSA	INSA Strasbourg MÃ©catronique (PSI-PT)											33,3%	0,0%	1383*	1368*	6*	9*
+2023	PT	Groupe INSA	Concours INSA Domaine Génie électrique, électronique, automatique MP-PC-PSI-PT-MPI	5633*	26,6%	18,8%	2819*	26,0%	17,7%	2819*	26,0%	17,7%						47*	71*
+2023	PT	Groupe INSA	INSA Centre Val de Loire Génie des Systèmes Industriels (PSI-PT)											33,3%	0,0%	1626*	1622*	3*	18*
+2023	PT	Groupe INSA	INSA Hauts de France Génie Industriel (PSI-PT)											0,0%	25,0%	1538*	1363*	4*	6*
+2023	PT	Groupe INSA	INSA Hauts de France Mécanique et Energétique (PSI-PT)											16,7%	25,0%	1685*	1678*	12*	24*
+2023	PT	Groupe INSA	INSA Hauts de France Mécatronique (PSI-PT)											28,6%	14,3%	1529*	1480*	7*	12*
+2023	PT	Groupe INSA	INSA Lyon Génie Industriel (PSI-PT)											22,2%	11,1%	424*	435*	9*	7*
+2023	PT	Groupe INSA	INSA Lyon Génie Mécanique (PSI-PT)											20,0%	0,0%	358*	329*	25*	25*
+2023	PT	Groupe INSA	INSA Rennes Génie Mécanique et Automatique (PSI-PT)											0,0%	50,0%	700*	547*	4*	4*
+2023	PT	Groupe INSA	INSA Rouen Normandie Mécanique (PSI-PT)											25,0%	25,0%	1263*	1221*	4*	4*
+2023	PT	Groupe INSA	INSA Strasbourg Génie Mécanique (PSI-PT)											25,0%	10,0%	1215*	1216*	20*	21*
+2023	PT	Groupe INSA	INSA Strasbourg Mécatronique (PSI-PT)											33,3%	0,0%	1383*	1368*	6*	9*
 2023	PT	Groupe INSA	INSA Strasbourg Plasturgie (PSI-PT)											0,0%	0,0%	1832*	1832*	1*	7*
-2023	PT	Groupe INSA	INSA Toulouse GÃ©nie MÃ©canique (PSI-PT)											28,6%	28,6%	562	561	7*	6*
-2023	PT	Groupe INSA	Concours INSA Domaine GÃ©nie mÃ©canique, gÃ©nie industriel et mÃ©catronique PSI-PT	3510*	21,8%	16,9%	1875*	21,5%	17,6%	1875*	21,5%	17,6%						102*	143*
-2023	PT	Groupe INSA	INSA Centre Val de Loire MaÃ®trise des Risques Industriels (TSI-PT)											0,0%	0,0%	768*	768*	1*	5*
-2023	PT	Groupe INSA	INSA Lyon MatÃ©riaux (TSI-PT)											0,0%	0,0%	82*	82*	1*	1*
-2023	PT	Groupe INSA	INSA Rennes GÃ©nie Physique et MatÃ©riaux (TSI-PT)											0,0%	0,0%	249*	249*	1*	1*
-2023	PT	Groupe INSA	INSA Toulouse GÃ©nie Physique (TSI-PT)											0,0%	0,0%	0	0	0*	1*
-2023	PT	Groupe INSA	Concours INSA Domaine GÃ©nie physique et matÃ©riaux TSI-PT	1750*	13,1%	16,3%	797*	13,4%	17,9%	797*	13,4%	17,9%						3*	8*
-2023	PT	Groupe INSA	INSA Centre Val de Loire SÃ©curitÃ© et Technologies Informatiques (PC-PSI-PT)											0,0%	0,0%	837*	837*	1*	2*
-2023	PT	Groupe INSA	INSA Hauts de France Informatique et CybersÃ©curitÃ© (PC-PSI-PT)											0,0%	0,0%	0*	0*	0*	2*
+2023	PT	Groupe INSA	INSA Toulouse Génie Mécanique (PSI-PT)											28,6%	28,6%	562	561	7*	6*
+2023	PT	Groupe INSA	Concours INSA Domaine Génie mécanique, génie industriel et mécatronique PSI-PT	3510*	21,8%	16,9%	1875*	21,5%	17,6%	1875*	21,5%	17,6%						102*	143*
+2023	PT	Groupe INSA	INSA Centre Val de Loire Maîtrise des Risques Industriels (TSI-PT)											0,0%	0,0%	768*	768*	1*	5*
+2023	PT	Groupe INSA	INSA Lyon Matériaux (TSI-PT)											0,0%	0,0%	82*	82*	1*	1*
+2023	PT	Groupe INSA	INSA Rennes Génie Physique et Matériaux (TSI-PT)											0,0%	0,0%	249*	249*	1*	1*
+2023	PT	Groupe INSA	INSA Toulouse Génie Physique (TSI-PT)											0,0%	0,0%	0	0	0*	1*
+2023	PT	Groupe INSA	Concours INSA Domaine Génie physique et matériaux TSI-PT	1750*	13,1%	16,3%	797*	13,4%	17,9%	797*	13,4%	17,9%						3*	8*
+2023	PT	Groupe INSA	INSA Centre Val de Loire Sécurité et Technologies Informatiques (PC-PSI-PT)											0,0%	0,0%	837*	837*	1*	2*
+2023	PT	Groupe INSA	INSA Hauts de France Informatique et Cybersécurité (PC-PSI-PT)											0,0%	0,0%	0*	0*	0*	2*
 2023	PT	Groupe INSA	INSA Lyon Informatique (PC-PSI-PT)											50,0%	0,0%	187*	187*	2*	2*
-2023	PT	Groupe INSA	INSA Lyon TÃ©lÃ©communications (PC-PSI-PT)											25,0%	0,0%	432*	411*	4*	5*
+2023	PT	Groupe INSA	INSA Lyon Télécommunications (PC-PSI-PT)											25,0%	0,0%	432*	411*	4*	5*
 2023	PT	Groupe INSA	INSA Rennes Informatique (PC-PSI-PT)											0,0%	0,0%	571*	571*	1*	1*
 2023	PT	Groupe INSA	INSA Rouen Normandie Informatique et technologies de l'information (PC-PSI-PT)											0,0%	0,0%	936*	936*	1*	2*
-2023	PT	Groupe INSA	INSA Rouen Normandie MathÃ©matiques appliquÃ©es (PC-PSI-PT)											0,0%	50,0%	690*	690*	2*	4*
-2023	PT	Groupe INSA	INSA Toulouse Informatique et RÃ©seaux (PC-PSI-PT)											100,0%	0,0%	557*	557*	1*	1*
-2023	PT	Groupe INSA	INSA Toulouse MathÃ©matiques appliquÃ©es (PC-PSI-PT)											0,0%	0,0%	418	418	2*	2*
-2023	PT	Groupe INSA	Concours INSA Domaine Informatique, mathÃ©matique, modÃ©lisation PC-PSI-PT	3595*	26,6%	19,6%	972*	25,6%	18,1%	972*	25,6%	18,1%						14*	21*
+2023	PT	Groupe INSA	INSA Rouen Normandie Mathématiques appliquées (PC-PSI-PT)											0,0%	50,0%	690*	690*	2*	4*
+2023	PT	Groupe INSA	INSA Toulouse Informatique et Réseaux (PC-PSI-PT)											100,0%	0,0%	557*	557*	1*	1*
+2023	PT	Groupe INSA	INSA Toulouse Mathématiques appliquées (PC-PSI-PT)											0,0%	0,0%	418	418	2*	2*
+2023	PT	Groupe INSA	Concours INSA Domaine Informatique, mathématique, modélisation PC-PSI-PT	3595*	26,6%	19,6%	972*	25,6%	18,1%	972*	25,6%	18,1%						14*	21*

@@ -1,15 +1,15 @@
 year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
 2018	TSI	Concours Polytechnique	ECOLE POLYTECHNIQUE	580	6,4%	21,2%	94	6,4%	27,7%	2	0,0%	0,0%	2	0,0%	0,0%	2	2	2
-2018	TSI	CONCOURS CENTRALE-SUPELEC	CentraleSupÃ©lec - Campus Gif										5	0,0%	0,0%	5	7	5
-2018	TSI	CONCOURS CENTRALE-SUPELEC	CentraleSupÃ©lec - cursus apprenti - Campus Rennes										13	0,0%	15,4%	33	34	12
-2018	TSI	CONCOURS CENTRALE-SUPELEC	Concours CentraleSupÃ©lec	494	6,3%	23,7%	72	5,6%	22,2%	71	5,6%	22,5%	18					17
+2018	TSI	CONCOURS CENTRALE-SUPELEC	CentraleSupélec - Campus Gif										5	0,0%	0,0%	5	7	5
+2018	TSI	CONCOURS CENTRALE-SUPELEC	CentraleSupélec - cursus apprenti - Campus Rennes										13	0,0%	15,4%	33	34	12
+2018	TSI	CONCOURS CENTRALE-SUPELEC	Concours CentraleSupélec	494	6,3%	23,7%	72	5,6%	22,2%	71	5,6%	22,5%	18					17
 2018	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE LYON	508	6,3%	22,2%	55	3,6%	20,0%	54	3,7%	20,4%	5	0,0%	20,0%	25	23	5
 2018	TSI	CONCOURS CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	271	5,9%	27,3%	30	3,3%	36,7%	29	3,4%	37,9%	3	0,0%	33,3%	9	14	2
 2018	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE LILLE	499	7,6%	23,0%	51	5,9%	23,5%	50	6,0%	24,0%	5	0,0%	20,0%	34	34	5
 2018	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE NANTES	572	7,0%	23,1%	55	1,8%	21,8%	54	1,9%	22,2%	10	10,0%	40,0%	31	25	10
 2018	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE MARSEILLE	505	6,7%	24,6%	95	6,3%	25,3%	92	5,4%	25,0%	5	20,0%	80,0%	30	31	5
 2018	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE CASABLANCA	242	5,4%	27,7%	32	6,2%	31,2%	29	3,4%	31,0%	0	0,0%	0,0%	0	0	3
-2018	TSI	CONCOURS CENTRALE-SUPELEC	UniversitÃ© de Technologie de Troyes (UTT)	408	7,4%	25,0%	79	3,8%	20,3%	72	4,2%	20,8%	5	20,0%	60,0%	64	60	10
+2018	TSI	CONCOURS CENTRALE-SUPELEC	Université de Technologie de Troyes (UTT)	408	7,4%	25,0%	79	3,8%	20,3%	72	4,2%	20,8%	5	20,0%	60,0%	64	60	10
 2018	TSI	BANQUE DE NOTES CENTRALE	SIGMA Clermont-Ferrand (ex IFMA)	317	6,0%	30,0%	74	4,1%	41,9%	16	0,0%	43,8%	10	0,0%	40,0%	8	8	8
 2018	TSI	BANQUE DE NOTES CENTRALE	ISMANS-Groupe CESI Le Mans	353	6,2%	22,7%	328	6,1%	21,6%	73	6,8%	16,4%	20	0,0%	10,0%	57	49	40
 2018	TSI	BANQUE DE NOTES CENTRALE	ESIX Normandie - Caen - Cherbourg	603	8,1%	24,5%	410	7,6%	27,1%	97	13,4%	30,9%	39	10,3%	46,2%	64	61	40
@@ -23,28 +23,28 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2018	TSI	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Paris										1	0,0%	0,0%	7	7	2
 2018	TSI	CONCOURS COMMUN MINES-PONTS	TELECOM ParisTech cursus Sophia										1	0,0%	0,0%	32	32	1
 2018	TSI	CONCOURS COMMUN MINES-PONTS	Concours Commun Mines Ponts TSI	580	6,4%	21,2%	94	6,4%	27,7%	50	4,0%	24,0%	10					17
-2018	TSI	CONCOURS COMMUN ENSAM	Arts et MÃ©tiers										35	5,7%	37,1%	47	48	35
-2018	TSI	CONCOURS COMMUN ENSAM	Arts et MÃ©tiers - voie de l'apprentissage										0	0,0%	0,0%	0	0	0
+2018	TSI	CONCOURS COMMUN ENSAM	Arts et Métiers										35	5,7%	37,1%	47	48	35
+2018	TSI	CONCOURS COMMUN ENSAM	Arts et Métiers - voie de l'apprentissage										0	0,0%	0,0%	0	0	0
 2018	TSI	CONCOURS COMMUN ENSAM	ENSEA Cergy										5	0,0%	80,0%	86	87	10
 2018	TSI	CONCOURS COMMUN ENSAM	ESIEE Amiens										0	0,0%	0,0%	0	0	5
-2018	TSI	CONCOURS COMMUN ENSAM	Concours ARTS ET MÃTIERS	732	7,2%	23,6%	181	5,0%	29,3%	135	3,7%	31,1%	40					50
+2018	TSI	CONCOURS COMMUN ENSAM	Concours ARTS ET MÉTIERS	732	7,2%	23,6%	181	5,0%	29,3%	135	3,7%	31,1%	40					50
 2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Electronique										6	16,7%	16,7%	91	91	5
 2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Informatique										2	0,0%	0,0%	56	56	2
-2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA TÃ©lecom.										2	50,0%	0,0%	132	132	2
-2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	CPE LYON Sciences du numÃ©rique										0	0,0%	0,0%	0	0	2
-2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Civil (Ã©tudiant)										4	0,0%	75,0%	300	295	2
-2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSGTI Pau - EnergÃ©tique										0	0,0%	0,0%	0	0	2
+2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Télecom.										2	50,0%	0,0%	132	132	2
+2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	CPE LYON Sciences du numérique										0	0,0%	0,0%	0	0	2
+2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENGEES Strasbourg Civil (étudiant)										4	0,0%	75,0%	300	295	2
+2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSGTI Pau - Energétique										0	0,0%	0,0%	0	0	2
 2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSI Poitiers Energie										0	0,0%	0,0%	0	0	4
-2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et GÃ©nie Industriel										3	0,0%	0,0%	319	301	2
-2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes MÃ©ca Energ.										5	20,0%	60,0%	268	273	6
-2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes MÃ©catronique										6	16,7%	33,3%	289	288	8
-2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique AppliquÃ©e										4	0,0%	25,0%	202	205	3
+2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et Génie Industriel										3	0,0%	0,0%	319	301	2
+2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Méca Energ.										5	20,0%	60,0%	268	273	6
+2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Mécatronique										6	16,7%	33,3%	289	288	8
+2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique Appliquée										4	0,0%	25,0%	202	205	3
 2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Informatique										3	0,0%	33,3%	162	141	2
-2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM BesanÃ§on										14	7,1%	28,6%	249	240	19
+2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM Besançon										14	7,1%	28,6%	249	240	19
 2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - ENSE3										4	25,0%	0,0%	118	114	3
 2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Pagora										0	0,0%	0,0%	0	0	1
-2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique Electronique TÃ©lÃ©coms)										4	0,0%	0,0%	50	49	2
-2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique MatÃ©riaux ProcÃ©dÃ©s)										2	50,0%	0,0%	87	87	2
+2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique Electronique Télécoms)										4	0,0%	0,0%	50	49	2
+2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique Matériaux Procédés)										2	50,0%	0,0%	87	87	2
 2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ISAE-ENSMA Poitiers										2	0,0%	0,0%	39	39	2
 2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	ISIMA Clermont-Ferrand										4	0,0%	0,0%	240	243	5
 2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Lorraine INP - ENSEM - Energie										4	25,0%	0,0%	121	111	4
@@ -52,25 +52,25 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	SUPMECA Paris										3	0,0%	66,7%	137	134	3
 2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	TELECOM PHYSIQUE Strasbourg										3	0,0%	33,3%	134	122	6
 2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Toulouse INP - ENSEEIHT - Electronique-Energie-Automatique (EEA)										2	0,0%	0,0%	29	29	2
-2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Toulouse INP - ENSEEIHT - MÃ©canique des Fluides-Energetique-Environnement (MFEE)										0	0,0%	0,0%	0	0	1
-2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Toulouse INP - ENSEEIHT - Sciences du NumÃ©rique										1	0,0%	0,0%	67	67	1
-2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Toulouse INP - ENSIACET - GÃ©nie Industriel										1	0,0%	0,0%	98	98	2
+2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Toulouse INP - ENSEEIHT - Mécanique des Fluides-Energetique-Environnement (MFEE)										0	0,0%	0,0%	0	0	1
+2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Toulouse INP - ENSEEIHT - Sciences du Numérique										1	0,0%	0,0%	67	67	1
+2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Toulouse INP - ENSIACET - Génie Industriel										1	0,0%	0,0%	98	98	2
 2018	TSI	CONCOURS COMMUNS POLYTECHNIQUES	Concours Commun Polytechnique TSI	1253	10,1%	18,0%	555	9,4%	25,4%	355	7,9%	22,3%	83					95
-2018	TSI	BANQUE EPREUVES C.C.P Inter-FiliÃ¨re	Lorraine INP - ENSGSI	323	9,6%	22,0%	121	9,1%	33,9%	21	14,3%	33,3%	5	0,0%	40,0%	58	62	35*
-2018	TSI	BANQUE EPREUVES C.C.P	ESIPE CrÃ©teil - Technologie pour la santÃ©	362	7,7%	23,5%	177	6,2%	34,5%	124	6,5%	33,9%	4	0,0%	75,0%	91	89	6
+2018	TSI	BANQUE EPREUVES C.C.P Inter-Filière	Lorraine INP - ENSGSI	323	9,6%	22,0%	121	9,1%	33,9%	21	14,3%	33,3%	5	0,0%	40,0%	58	62	35*
+2018	TSI	BANQUE EPREUVES C.C.P	ESIPE Créteil - Technologie pour la santé	362	7,7%	23,5%	177	6,2%	34,5%	124	6,5%	33,9%	4	0,0%	75,0%	91	89	6
 2018	TSI	BANQUE EPREUVES C.C.P	ECAM Rennes	377	7,4%	20,7%	323	6,5%	23,2%	49	8,2%	22,4%	4	0,0%	0,0%	23	20	10
-2018	TSI	BANQUE EPREUVES C.C.P	EIL CÃ´te d'Opale - Calais (informatique)										10	10,0%	0,0%	157	147	10
-2018	TSI	BANQUE EPREUVES C.C.P	EIL CÃ´te d'Opale - Longuenesse (GÃ©nie Industriel)										14	14,3%	21,4%	135	126	15
-2018	TSI	BANQUE EPREUVES C.C.P	Concours EIL CÃ´te d'Opale Longuenesse - Calais	394	10,7%	17,8%	300	9,3%	20,3%	179	10,1%	24,6%	24					25
+2018	TSI	BANQUE EPREUVES C.C.P	EIL Côte d'Opale - Calais (informatique)										10	10,0%	0,0%	157	147	10
+2018	TSI	BANQUE EPREUVES C.C.P	EIL Côte d'Opale - Longuenesse (Génie Industriel)										14	14,3%	21,4%	135	126	15
+2018	TSI	BANQUE EPREUVES C.C.P	Concours EIL Côte d'Opale Longuenesse - Calais	394	10,7%	17,8%	300	9,3%	20,3%	179	10,1%	24,6%	24					25
 2018	TSI	BANQUE EPREUVES C.C.P	EIVP Paris Civil	1253	10,1%	18,0%	216	9,3%	31,9%	144	9,7%	32,6%	6	33,3%	50,0%	51	49	7
 2018	TSI	BANQUE EPREUVES C.C.P	ENS Paris-Saclay	696	8,0%	22,6%	64	3,1%	35,9%	35	2,9%	37,1%	4	0,0%	25,0%	20	16	4
 2018	TSI	BANQUE EPREUVES C.C.P	ENS Rennes	682	8,1%	22,4%	75	1,3%	30,7%	51	0,0%	33,3%	2	0,0%	0,0%	29	29	2
 2018	TSI	BANQUE EPREUVES C.C.P	ENSAIT Roubaix										5	40,0%	20,0%	57	56	5
 2018	TSI	BANQUE EPREUVES C.C.P	ENSAIT Roubaix - Formation en alternance										0	0,0%	0,0%	0	0	2
 2018	TSI	BANQUE EPREUVES C.C.P	Concours ENSAIT Roubaix	358	8,7%	23,2%	239	9,6%	28,9%	65	12,3%	40,0%	5					7
-2018	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Automatique et SystÃ¨mes EmbarquÃ©s										1	0,0%	0,0%	5	5	4
-2018	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Informatique et rÃ©seaux										1	0,0%	0,0%	26	26	3
-2018	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse MÃ©canique										3	0,0%	0,0%	12	14	5
+2018	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Automatique et Systèmes Embarqués										1	0,0%	0,0%	5	5	4
+2018	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Informatique et réseaux										1	0,0%	0,0%	26	26	3
+2018	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Mécanique										3	0,0%	0,0%	12	14	5
 2018	TSI	BANQUE EPREUVES C.C.P	ENSISA Mulhouse Textile et Fibres										1	0,0%	0,0%	6	6	3
 2018	TSI	BANQUE EPREUVES C.C.P	Concours ENSISA Mulhouse TSI	509	8,4%	20,6%	257	6,2%	24,9%	41	12,2%	19,5%	6					15
 2018	TSI	BANQUE EPREUVES C.C.P	Lorraine INP - ENSTIB	275	10,2%	21,5%	182	10,4%	25,8%	42	4,8%	14,3%	10	0,0%	10,0%	12	12	7
@@ -79,68 +79,68 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2018	TSI	BANQUE EPREUVES C.C.P	ESIGELEC Rouen	502	7,0%	20,9%	427	6,8%	22,7%	230	5,2%	27,4%	31	6,5%	16,1%	174	172	35
 2018	TSI	BANQUE EPREUVES C.C.P	ESIREM Dijon	382	8,9%	21,5%	250	7,2%	25,2%	63	4,8%	19,0%	11	0,0%	18,2%	14	15	12
 2018	TSI	BANQUE EPREUVES C.C.P	ESTIA Bidart	381	6,3%	21,5%	278	5,8%	26,3%	93	7,5%	21,5%	33	3,0%	6,1%	31	37	30
-2018	TSI	BANQUE EPREUVES C.C.P	ESTP Paris - BÃ¢timent (B) - campus de Cachan										9	11,1%	55,6%	67	61	6
-2018	TSI	BANQUE EPREUVES C.C.P	ESTP Paris - GÃ©nie MÃ©canique et Electrique(GME)										8	12,5%	37,5%	120	111	6
+2018	TSI	BANQUE EPREUVES C.C.P	ESTP Paris - Bâtiment (B) - campus de Cachan										9	11,1%	55,6%	67	61	6
+2018	TSI	BANQUE EPREUVES C.C.P	ESTP Paris - Génie Mécanique et Electrique(GME)										8	12,5%	37,5%	120	111	6
 2018	TSI	BANQUE EPREUVES C.C.P	ESTP Paris - Topographie (T)										8	0,0%	25,0%	133	127	6
 2018	TSI	BANQUE EPREUVES C.C.P	ESTP Paris - Travaux Publics (TP)										9	22,2%	44,4%	85	80	8
 2018	TSI	BANQUE EPREUVES C.C.P	Concours ESTP Paris	365	7,7%	24,1%	215	6,5%	32,6%	168	7,1%	31,5%	34					26
 2018	TSI	BANQUE EPREUVES C.C.P	Toulouse INP - ENIT	538	9,3%	21,2%	233	7,7%	24,0%	176	8,0%	21,6%	8	12,5%	0,0%	68	74	8
-2018	TSI	BANQUE EPREUVES C.C.P	ISAT Nevers - dÃ©partement MIT (MÃ©canique et IngÃ©nierie des Transports)										4	0,0%	50,0%	70	71	5
-2018	TSI	BANQUE EPREUVES C.C.P	ISAT Nevers - Infrastructures et RÃ©seaux de Transports										0	0,0%	0,0%	0	0	2
-2018	TSI	BANQUE EPREUVES C.C.P	ISAT Nevers - dÃ©partement EPEE (Energies et Moteurs)										1	0,0%	0,0%	87	87	4
+2018	TSI	BANQUE EPREUVES C.C.P	ISAT Nevers - département MIT (Mécanique et Ingénierie des Transports)										4	0,0%	50,0%	70	71	5
+2018	TSI	BANQUE EPREUVES C.C.P	ISAT Nevers - Infrastructures et Réseaux de Transports										0	0,0%	0,0%	0	0	2
+2018	TSI	BANQUE EPREUVES C.C.P	ISAT Nevers - département EPEE (Energies et Moteurs)										1	0,0%	0,0%	87	87	4
 2018	TSI	BANQUE EPREUVES C.C.P	Concours ISAT Nevers TSI	434	6,9%	21,7%	253	5,9%	29,6%	96	4,2%	34,4%	5					11
 2018	TSI	BANQUE EPREUVES C.C.P	ISEP Paris	248	5,6%	23,4%	222	5,9%	24,3%	105	4,8%	21,9%	10	0,0%	50,0%	75	75	10
 2018	TSI	BANQUE EPREUVES C.C.P	ISIS Castres	1253	10,1%	18,0%	128	4,7%	34,4%	1	100,0%	0,0%	0	0,0%	0,0%	0	0	2
 2018	TSI	BANQUE EPREUVES C.C.P	ENTPE Lyon Fonctionnaire	468	6,8%	25,4%	149	7,4%	40,3%	63	4,8%	42,9%	4	0,0%	50,0%	35	31	4
-2018	TSI	BANQUE EPREUVES C.C.P	3IL IngÃ©nieurs	266	6,8%	19,5%	232	6,0%	21,6%	58	3,4%	20,7%	8	12,5%	50,0%	49	48	12
-2018	TSI	Concours Mines - TÃ©lÃ©com	IMT Mines Albi										2	0,0%	0,0%	93	93	2
-2018	TSI	Concours Mines - TÃ©lÃ©com	IMT Mines AlÃ¨s										2	0,0%	0,0%	86	86	2
-2018	TSI	Concours Mines - TÃ©lÃ©com	ENSIIE Evry										5	20,0%	20,0%	97	95	5
-2018	TSI	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut Ã©tudiant)										2	0,0%	50,0%	61	61	2
-2018	TSI	Concours Mines - TÃ©lÃ©com	IMT Lille Douai										2	0,0%	0,0%	66	66	2
-2018	TSI	Concours Mines - TÃ©lÃ©com	Mines Saint Etienne-ISMIN										7	0,0%	42,9%	112	111	4
-2018	TSI	Concours Mines - TÃ©lÃ©com	TELECOM SudParis - cursus Evry										6	0,0%	50,0%	54	53	5
-2018	TSI	Concours Mines - TÃ©lÃ©com	Concours Mines-TÃ©lÃ©com	705	6,7%	23,5%	221	5,0%	24,9%	195	4,6%	25,1%	26					22
-2018	TSI	Concours Mines - TÃ©lÃ©com	ENSG-GÃ©omatique Marne la VallÃ©e Civil										1	0,0%	100,0%	164	164	1
-2018	TSI	Concours Mines - TÃ©lÃ©com	ENSSAT Lannion										3	0,0%	0,0%	150	151	3
-2018	TSI	Concours Mines - TÃ©lÃ©com	TELECOM Nancy										5	0,0%	20,0%	118	125	3
-2018	TSI	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut Ã©tudiant										3	33,3%	33,3%	141	141	3
-2018	TSI	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut apprenti										0	0,0%	0,0%	0	0	3
-2018	TSI	Concours Mines - TÃ©lÃ©com	Concours Mines-TÃ©lÃ©com SpÃ©cifique TSI	705	6,7%	23,5%	286	7,0%	26,9%	217	5,5%	25,8%	12					13
-2018	TSI	RÃ©seau Polytech	Polytech Annecy-ChambÃ©ry - Environnement, BÃ¢timent, Ãnergie										2	0,0%	0,0%	200	200	2
-2018	TSI	RÃ©seau Polytech	Polytech Annecy-ChambÃ©ry - Instrumentation, Automatique, Informatique										3	0,0%	33,3%	326	325	2
-2018	TSI	RÃ©seau Polytech	Polytech Annecy-ChambÃ©ry - MÃ©canique, MatÃ©riaux										3	33,3%	0,0%	243	244	3
-2018	TSI	RÃ©seau Polytech	Polytech Clermont-Ferrand - GÃ©nie Electrique										2	0,0%	0,0%	319	319	2
-2018	TSI	RÃ©seau Polytech	Polytech Clermont-Ferrand - GÃ©nie Physique										1	0,0%	0,0%	400	400	2
-2018	TSI	RÃ©seau Polytech	Polytech Lille - Informatique, MicroÃ©lectronique, Automatique										2	0,0%	0,0%	96	96	2
-2018	TSI	RÃ©seau Polytech	Polytech Lyon - MÃ©canique										1	0,0%	0,0%	267	267	2
-2018	TSI	RÃ©seau Polytech	Polytech Lyon - SystÃ¨mes industriels, Robotique										2	0,0%	50,0%	175	175	2
-2018	TSI	RÃ©seau Polytech	Polytech Marseille - GÃ©nie Civil										3	0,0%	33,3%	242	233	3
-2018	TSI	RÃ©seau Polytech	Polytech Marseille - GÃ©nie Industriel et Informatique										3	66,7%	0,0%	345	346	3
-2018	TSI	RÃ©seau Polytech	Polytech Marseille - Informatique										3	0,0%	0,0%	233	232	3
-2018	TSI	RÃ©seau Polytech	Polytech Marseille - MÃ©canique, EnergÃ©tique										2	0,0%	0,0%	313	313	3
-2018	TSI	RÃ©seau Polytech	Polytech Marseille - MicroÃ©lectronique,TÃ©lÃ©communications										2	0,0%	0,0%	286	286	2
-2018	TSI	RÃ©seau Polytech	Polytech Montpellier - MicroÃ©lectronique et Automatique										2	0,0%	50,0%	272	272	3
-2018	TSI	RÃ©seau Polytech	Polytech Nantes - Ãnergie Ã©lectrique										1	0,0%	0,0%	372	372	3
-2018	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - GÃ©nie physique et systÃ¨mes embarquÃ©s										2	0,0%	0,0%	311	311	3
-2018	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - GÃ©nie civil et gÃ©o-environnement										3	0,0%	33,3%	306	304	2
-2018	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - GÃ©nie industriel										2	0,0%	0,0%	399	399	3
-2018	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - Innovation en Conception et MatÃ©riaux										2	0,0%	0,0%	216	216	3
-2018	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - Technologies pour l'Ãnergie, l'AÃ©rospatial et la Motorisation										5	0,0%	0,0%	261	252	4
-2018	TSI	RÃ©seau Polytech	Polytech Tours - Ãlectronique, Ãnergie Ã©lectrique										2	0,0%	0,0%	256	256	2
-2018	TSI	RÃ©seau Polytech	Polytech Tours - Informatique										2	0,0%	0,0%	149	149	3
-2018	TSI	RÃ©seau Polytech	Polytech Tours - MÃ©canique, Conception de systÃ¨mes										2	0,0%	0,0%	306	306	2
-2018	TSI	RÃ©seau Polytech	Polytech Sorbonne - Electronique et Informatique										2	0,0%	0,0%	245	245	2
-2018	TSI	RÃ©seau Polytech	Polytech Nancy - Energie, MÃ©canique, MatÃ©riaux, Environnement										3	0,0%	33,3%	258	235	2
-2018	TSI	RÃ©seau Polytech	Polytech Tours - GÃ©nie de l'amÃ©nagement et de l'environnement										2	0,0%	0,0%	390	390	2
-2018	TSI	RÃ©seau Polytech	Polytech Nancy - Management opÃ©rationnel, Maintenance, MaÃ®trise des risques										3	0,0%	66,7%	309	322	3
-2018	TSI	RÃ©seau Polytech	Polytech Nancy - IngÃ©nierie de l'Information et des SystÃ¨mes										1	0,0%	0,0%	401	401	2
-2018	TSI	RÃ©seau Polytech	Concours Reseau Polytech	1038	9,3%	18,5%	581	7,2%	20,8%	415	7,5%	21,7%	63					70
+2018	TSI	BANQUE EPREUVES C.C.P	3IL Ingénieurs	266	6,8%	19,5%	232	6,0%	21,6%	58	3,4%	20,7%	8	12,5%	50,0%	49	48	12
+2018	TSI	Concours Mines - Télécom	IMT Mines Albi										2	0,0%	0,0%	93	93	2
+2018	TSI	Concours Mines - Télécom	IMT Mines Alès										2	0,0%	0,0%	86	86	2
+2018	TSI	Concours Mines - Télécom	ENSIIE Evry										5	20,0%	20,0%	97	95	5
+2018	TSI	Concours Mines - Télécom	ENSTA Bretagne (filière sous statut étudiant)										2	0,0%	50,0%	61	61	2
+2018	TSI	Concours Mines - Télécom	IMT Lille Douai										2	0,0%	0,0%	66	66	2
+2018	TSI	Concours Mines - Télécom	Mines Saint Etienne-ISMIN										7	0,0%	42,9%	112	111	4
+2018	TSI	Concours Mines - Télécom	TELECOM SudParis - cursus Evry										6	0,0%	50,0%	54	53	5
+2018	TSI	Concours Mines - Télécom	Concours Mines-Télécom	705	6,7%	23,5%	221	5,0%	24,9%	195	4,6%	25,1%	26					22
+2018	TSI	Concours Mines - Télécom	ENSG-Géomatique Marne la Vallée Civil										1	0,0%	100,0%	164	164	1
+2018	TSI	Concours Mines - Télécom	ENSSAT Lannion										3	0,0%	0,0%	150	151	3
+2018	TSI	Concours Mines - Télécom	TELECOM Nancy										5	0,0%	20,0%	118	125	3
+2018	TSI	Concours Mines - Télécom	TELECOM St Etienne - Statut étudiant										3	33,3%	33,3%	141	141	3
+2018	TSI	Concours Mines - Télécom	TELECOM St Etienne - Statut apprenti										0	0,0%	0,0%	0	0	3
+2018	TSI	Concours Mines - Télécom	Concours Mines-Télécom Spécifique TSI	705	6,7%	23,5%	286	7,0%	26,9%	217	5,5%	25,8%	12					13
+2018	TSI	Réseau Polytech	Polytech Annecy-Chambéry - Environnement, Bâtiment, Énergie										2	0,0%	0,0%	200	200	2
+2018	TSI	Réseau Polytech	Polytech Annecy-Chambéry - Instrumentation, Automatique, Informatique										3	0,0%	33,3%	326	325	2
+2018	TSI	Réseau Polytech	Polytech Annecy-Chambéry - Mécanique, Matériaux										3	33,3%	0,0%	243	244	3
+2018	TSI	Réseau Polytech	Polytech Clermont-Ferrand - Génie Electrique										2	0,0%	0,0%	319	319	2
+2018	TSI	Réseau Polytech	Polytech Clermont-Ferrand - Génie Physique										1	0,0%	0,0%	400	400	2
+2018	TSI	Réseau Polytech	Polytech Lille - Informatique, Microélectronique, Automatique										2	0,0%	0,0%	96	96	2
+2018	TSI	Réseau Polytech	Polytech Lyon - Mécanique										1	0,0%	0,0%	267	267	2
+2018	TSI	Réseau Polytech	Polytech Lyon - Systèmes industriels, Robotique										2	0,0%	50,0%	175	175	2
+2018	TSI	Réseau Polytech	Polytech Marseille - Génie Civil										3	0,0%	33,3%	242	233	3
+2018	TSI	Réseau Polytech	Polytech Marseille - Génie Industriel et Informatique										3	66,7%	0,0%	345	346	3
+2018	TSI	Réseau Polytech	Polytech Marseille - Informatique										3	0,0%	0,0%	233	232	3
+2018	TSI	Réseau Polytech	Polytech Marseille - Mécanique, Energétique										2	0,0%	0,0%	313	313	3
+2018	TSI	Réseau Polytech	Polytech Marseille - Microélectronique,Télécommunications										2	0,0%	0,0%	286	286	2
+2018	TSI	Réseau Polytech	Polytech Montpellier - Microélectronique et Automatique										2	0,0%	50,0%	272	272	3
+2018	TSI	Réseau Polytech	Polytech Nantes - Énergie électrique										1	0,0%	0,0%	372	372	3
+2018	TSI	Réseau Polytech	Polytech Orléans - Génie physique et systèmes embarqués										2	0,0%	0,0%	311	311	3
+2018	TSI	Réseau Polytech	Polytech Orléans - Génie civil et géo-environnement										3	0,0%	33,3%	306	304	2
+2018	TSI	Réseau Polytech	Polytech Orléans - Génie industriel										2	0,0%	0,0%	399	399	3
+2018	TSI	Réseau Polytech	Polytech Orléans - Innovation en Conception et Matériaux										2	0,0%	0,0%	216	216	3
+2018	TSI	Réseau Polytech	Polytech Orléans - Technologies pour l'Énergie, l'Aérospatial et la Motorisation										5	0,0%	0,0%	261	252	4
+2018	TSI	Réseau Polytech	Polytech Tours - Électronique, Énergie électrique										2	0,0%	0,0%	256	256	2
+2018	TSI	Réseau Polytech	Polytech Tours - Informatique										2	0,0%	0,0%	149	149	3
+2018	TSI	Réseau Polytech	Polytech Tours - Mécanique, Conception de systèmes										2	0,0%	0,0%	306	306	2
+2018	TSI	Réseau Polytech	Polytech Sorbonne - Electronique et Informatique										2	0,0%	0,0%	245	245	2
+2018	TSI	Réseau Polytech	Polytech Nancy - Energie, Mécanique, Matériaux, Environnement										3	0,0%	33,3%	258	235	2
+2018	TSI	Réseau Polytech	Polytech Tours - Génie de l'aménagement et de l'environnement										2	0,0%	0,0%	390	390	2
+2018	TSI	Réseau Polytech	Polytech Nancy - Management opérationnel, Maintenance, Maîtrise des risques										3	0,0%	66,7%	309	322	3
+2018	TSI	Réseau Polytech	Polytech Nancy - Ingénierie de l'Information et des Systèmes										1	0,0%	0,0%	401	401	2
+2018	TSI	Réseau Polytech	Concours Reseau Polytech	1038	9,3%	18,5%	581	7,2%	20,8%	415	7,5%	21,7%	63					70
 2018	TSI	EPITA	EPITA										7	0,0%	0,0%	28	30	3
 2018	TSI	EPITA	IPSA Paris										3	0,0%	33,3%	8	9	4
 2018	TSI	EPITA	IPSA Toulouse										5	0,0%	20,0%	26	25	3
 2018	TSI	EPITA	Concours EPITA / IPSA TSI	142	4,2%	12,7%	68	5,9%	13,2%	53	1,9%	13,2%	15					10
-2018	TSI	CESI	CESI AngoulÃªme										0*	0,0%	0,0%	0*	0*	8*
+2018	TSI	CESI	CESI Angoulême										0*	0,0%	0,0%	0*	0*	8*
 2018	TSI	CESI	CESI Arras										2*	0,0%	0,0%	28*	28*	10*
 2018	TSI	CESI	CESI Bordeaux										2*	0,0%	50,0%	25*	25*	8*
 2018	TSI	CESI	CESI Lyon										1*	0,0%	0,0%	26*	26*	12*
@@ -148,7 +148,7 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2018	TSI	CESI	CESI Nancy										0*	0,0%	0,0%	0*	0*	8*
 2018	TSI	CESI	CESI Nanterre										3*	33,3%	66,7%	24*	28*	20*
 2018	TSI	CESI	CESI Saint-Nazaire										1*	100,0%	0,0%	43	43	15*
-2018	TSI	CESI	Concours CESI IngÃ©nieur GÃ©nÃ©raliste	180*	23,3%	16,7%	96*	27,1%	16,7%	49*	26,5%	22,4%	9*					89*
+2018	TSI	CESI	Concours CESI Ingénieur Généraliste	180*	23,3%	16,7%	96*	27,1%	16,7%	49*	26,5%	22,4%	9*					89*
 2018	TSI	CESI	CESI Aix-en-Provence										0*	0,0%	0,0%	0*	0*	2*
 2018	TSI	CESI	CESI Arras										0*	0,0%	0,0%	0*	0*	4*
 2018	TSI	CESI	CESI Bordeaux										0*	0,0%	0,0%	0*	0*	2*
@@ -158,10 +158,10 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2018	TSI	CESI	CESI Nancy										0*	0,0%	0,0%	0*	0*	2*
 2018	TSI	CESI	CESI Nanterre										0*	0,0%	0,0%	0*	0*	7*
 2018	TSI	CESI	CESI Nice Sophia Antipolis										0*	0,0%	0,0%	0*	0*	2*
-2018	TSI	CESI	CESI OrlÃ©ans										0*	0,0%	0,0%	0*	0*	3*
+2018	TSI	CESI	CESI Orléans										0*	0,0%	0,0%	0*	0*	3*
 2018	TSI	CESI	CESI Pau										0*	0,0%	0,0%	0*	0*	2*
 2018	TSI	CESI	CESI Reims										0*	0,0%	0,0%	0*	0*	2*
 2018	TSI	CESI	CESI Saint-Nazaire										0*	0,0%	0,0%	0*	0*	2*
 2018	TSI	CESI	CESI Strasbourg										0*	0,0%	0,0%	0*	0*	2*
 2018	TSI	CESI	CESI Toulouse										0*	0,0%	0,0%	0	0	3*
-2018	TSI	CESI	Concours CESI IngÃ©nieur en Informatique	44*	11,4%	11,4%	30*	13,3%	6,7%	17*	11,8%	0,0%	1*					39*
+2018	TSI	CESI	Concours CESI Ingénieur en Informatique	44*	11,4%	11,4%	30*	13,3%	6,7%	17*	11,8%	0,0%	1*					39*

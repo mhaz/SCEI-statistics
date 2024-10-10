@@ -1,14 +1,14 @@
 year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
-2021	PT	CENTRALE-SUPELEC	CentraleSupÃ©lec - cursus apprenti - Campus Metz										11	9,1%	18,2%	168	164	10
+2021	PT	CENTRALE-SUPELEC	CentraleSupélec - cursus apprenti - Campus Metz										11	9,1%	18,2%	168	164	10
 2021	PT	CENTRALE-SUPELEC	CENTRALE CASABLANCA										0	0,0%	0,0%	0	0	5
-2021	PT	CENTRALE-SUPELEC	CentraleSupÃ©lec - cursus apprenti - Campus Rennes										11	0,0%	9,1%	90	93	10
-2021	PT	CENTRALE-SUPELEC	CentraleSupÃ©lec - statut Ã©tudiant										25	28,0%	8,0%	29	28	25
+2021	PT	CENTRALE-SUPELEC	CentraleSupélec - cursus apprenti - Campus Rennes										11	0,0%	9,1%	90	93	10
+2021	PT	CENTRALE-SUPELEC	CentraleSupélec - statut étudiant										25	28,0%	8,0%	29	28	25
 2021	PT	CENTRALE-SUPELEC	CENTRALE LYON										24	16,7%	0,0%	105	104	24
 2021	PT	CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)										6	33,3%	0,0%	429	405	13
 2021	PT	CENTRALE-SUPELEC	CENTRALE LILLE										11	0,0%	0,0%	191	189	12
 2021	PT	CENTRALE-SUPELEC	CENTRALE NANTES										21	4,8%	9,5%	135	114	10
 2021	PT	CENTRALE-SUPELEC	CENTRALE MARSEILLE										5	0,0%	20,0%	225	242	5
-2021	PT	CENTRALE-SUPELEC	Concours Centrale-SupÃ©lec PT	1453	14,3%	14,7%	534	10,3%	12,9%	528	10,2%	13,1%	114					114
+2021	PT	CENTRALE-SUPELEC	Concours Centrale-Supélec PT	1453	14,3%	14,7%	534	10,3%	12,9%	528	10,2%	13,1%	114					114
 2021	PT	CONCOURS COMMUN MINES-PONTS	ENSTA Paris										12	0,0%	0,0%	97	92	12
 2021	PT	CONCOURS COMMUN MINES-PONTS	ENSTA Paris - apprentissage										5	0,0%	0,0%	159	153	4
 2021	PT	CONCOURS COMMUN MINES-PONTS	IMT Atlantique										14	0,0%	7,1%	182	177	13
@@ -19,136 +19,136 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2021	PT	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										7	0,0%	0,0%	49	46	5
 2021	PT	CONCOURS COMMUN MINES-PONTS	TELECOM Paris										3	0,0%	0,0%	53	54	4
 2021	PT	CONCOURS COMMUN MINES-PONTS	Concours commun Mines-Ponts PT	1268	14,1%	14,6%	254	8,3%	6,3%	253	8,3%	6,3%	60					59
-2021	PT	Concours Mines - TÃ©lÃ©com	ENSG-GÃ©omatique Marne la VallÃ©e Civil	1850	15,4%	15,8%	1082	15,0%	17,4%	641	16,4%	20,1%	2	0,0%	50,0%	557	557	2
-2021	PT	Concours Mines - TÃ©lÃ©com	ENSSAT Lannion	1850	15,4%	15,8%	1082	15,0%	17,4%	641	16,4%	20,1%	1	0,0%	100,0%	575	575	4
-2021	PT	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut Ã©tudiant)	1850	15,4%	15,8%	715	13,7%	18,6%	519	15,2%	20,8%	12	8,3%	33,3%	173	154	12
-2021	PT	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut IETA - Direction GÃ©nÃ©rale de l'Armement)	1850	15,4%	15,8%	617	12,8%	21,6%	438	14,6%	24,7%	4	25,0%	50,0%	118	108	4
-2021	PT	Concours Mines - TÃ©lÃ©com	IMT Lille Douai	1850	15,4%	15,8%	715	13,7%	18,6%	519	15,2%	20,8%	13	0,0%	23,1%	474	457	15
-2021	PT	Concours Mines - TÃ©lÃ©com	IMT Mines Albi	1850	15,4%	15,8%	715	13,7%	18,6%	519	15,2%	20,8%	6	16,7%	50,0%	324	325	5
-2021	PT	Concours Mines - TÃ©lÃ©com	IMT Mines AlÃ¨s	1850	15,4%	15,8%	715	13,7%	18,6%	519	15,2%	20,8%	22	9,1%	9,1%	393	363	22
-2021	PT	Concours Mines - TÃ©lÃ©com	Mines Saint Etienne-ISMIN	1850	15,4%	15,8%	715	13,7%	18,6%	519	15,2%	20,8%	12	8,3%	8,3%	315	291	7
-2021	PT	Concours Mines - TÃ©lÃ©com	TELECOM Nancy	1850	15,4%	15,8%	1082	15,0%	17,4%	641	16,4%	20,1%	7	0,0%	42,9%	459	402	5
-2021	PT	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut Ã©tudiant	1850	15,4%	15,8%	1082	15,0%	17,4%	641	16,4%	20,1%	7	0,0%	14,3%	484	461	5
-2021	PT	Concours Mines - TÃ©lÃ©com	TELECOM SudParis	1850	15,4%	15,8%	715	13,7%	18,6%	519	15,2%	20,8%	6	0,0%	16,7%	124	118	7
-2021	PT	CONCOURS COMMUN ENSAM	Arts et MÃ©tiers										550	15,5%	20,7%	558	543	542
-2021	PT	CONCOURS COMMUN ENSAM	Arts et MÃ©tiers - ingÃ©nieurs militaires										9	0,0%	33,3%	490	569	8
+2021	PT	Concours Mines - Télécom	ENSG-Géomatique Marne la Vallée Civil	1850	15,4%	15,8%	1082	15,0%	17,4%	641	16,4%	20,1%	2	0,0%	50,0%	557	557	2
+2021	PT	Concours Mines - Télécom	ENSSAT Lannion	1850	15,4%	15,8%	1082	15,0%	17,4%	641	16,4%	20,1%	1	0,0%	100,0%	575	575	4
+2021	PT	Concours Mines - Télécom	ENSTA Bretagne (filière sous statut étudiant)	1850	15,4%	15,8%	715	13,7%	18,6%	519	15,2%	20,8%	12	8,3%	33,3%	173	154	12
+2021	PT	Concours Mines - Télécom	ENSTA Bretagne (filière sous statut IETA - Direction Générale de l'Armement)	1850	15,4%	15,8%	617	12,8%	21,6%	438	14,6%	24,7%	4	25,0%	50,0%	118	108	4
+2021	PT	Concours Mines - Télécom	IMT Lille Douai	1850	15,4%	15,8%	715	13,7%	18,6%	519	15,2%	20,8%	13	0,0%	23,1%	474	457	15
+2021	PT	Concours Mines - Télécom	IMT Mines Albi	1850	15,4%	15,8%	715	13,7%	18,6%	519	15,2%	20,8%	6	16,7%	50,0%	324	325	5
+2021	PT	Concours Mines - Télécom	IMT Mines Alès	1850	15,4%	15,8%	715	13,7%	18,6%	519	15,2%	20,8%	22	9,1%	9,1%	393	363	22
+2021	PT	Concours Mines - Télécom	Mines Saint Etienne-ISMIN	1850	15,4%	15,8%	715	13,7%	18,6%	519	15,2%	20,8%	12	8,3%	8,3%	315	291	7
+2021	PT	Concours Mines - Télécom	TELECOM Nancy	1850	15,4%	15,8%	1082	15,0%	17,4%	641	16,4%	20,1%	7	0,0%	42,9%	459	402	5
+2021	PT	Concours Mines - Télécom	TELECOM St Etienne - Statut étudiant	1850	15,4%	15,8%	1082	15,0%	17,4%	641	16,4%	20,1%	7	0,0%	14,3%	484	461	5
+2021	PT	Concours Mines - Télécom	TELECOM SudParis	1850	15,4%	15,8%	715	13,7%	18,6%	519	15,2%	20,8%	6	0,0%	16,7%	124	118	7
+2021	PT	CONCOURS COMMUN ENSAM	Arts et Métiers										550	15,5%	20,7%	558	543	542
+2021	PT	CONCOURS COMMUN ENSAM	Arts et Métiers - ingénieurs militaires										9	0,0%	33,3%	490	569	8
 2021	PT	CONCOURS COMMUN ENSAM	ENSEA Cergy										6	33,3%	0,0%	1127	1028	20
-2021	PT	CONCOURS COMMUN ENSAM	Concours ARTS ET MÃTIERS ParisTech PT	2294	14,9%	14,4%	1280	13,0%	16,9%	1247	12,9%	16,9%	565					570
+2021	PT	CONCOURS COMMUN ENSAM	Concours ARTS ET MÉTIERS ParisTech PT	2294	14,9%	14,4%	1280	13,0%	16,9%	1247	12,9%	16,9%	565					570
 2021	PT	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE	403	12,2%	11,7%	22	0,0%	0,0%	14	0,0%	0,0%	11	0,0%	0,0%	6	6	11
 2021	PT	CONCOURS ENS DE CACHAN	ENS Paris-Saclay	1477	16,3%	16,9%	377	7,7%	19,4%	282	9,2%	14,9%	35	5,7%	22,9%	193	178	35
 2021	PT	CONCOURS ENS DE CACHAN	ENS Rennes	1433	16,3%	17,2%	385	7,5%	20,0%	331	8,2%	19,0%	7	14,3%	14,3%	270	247	7
 2021	PT	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA Electronique										7	0,0%	0,0%	972	926	4
 2021	PT	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA Informatique										3	0,0%	0,0%	729	729	1
-2021	PT	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA MathÃ©matiques et MÃ©canique										7	14,3%	14,3%	790	761	6
-2021	PT	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA TÃ©lecom.										4	25,0%	50,0%	959	892	1
+2021	PT	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA Mathématiques et Mécanique										7	14,3%	14,3%	790	761	6
+2021	PT	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA Télecom.										4	25,0%	50,0%	959	892	1
 2021	PT	CONCOURS COMMUN INP	Bordeaux INP - ENSPIMA										1	0,0%	0,0%	995	995	1
-2021	PT	CONCOURS COMMUN INP	CPE LYON Sciences du numÃ©rique										3	33,3%	0,0%	1238	1163	2
-2021	PT	CONCOURS COMMUN INP	CY TECH Cergy - GÃ©nie Civil										4	0,0%	25,0%	1360	1358	5
+2021	PT	CONCOURS COMMUN INP	CPE LYON Sciences du numérique										3	33,3%	0,0%	1238	1163	2
+2021	PT	CONCOURS COMMUN INP	CY TECH Cergy - Génie Civil										4	0,0%	25,0%	1360	1358	5
 2021	PT	CONCOURS COMMUN INP	CY TECH Cergy-Pau - Informatique										8	0,0%	25,0%	1176	1200	5
 2021	PT	CONCOURS COMMUN INP	ENAC Toulouse Civil										2	0,0%	0,0%	595	595	2
-2021	PT	CONCOURS COMMUN INP	ENGEES Strasbourg Civil (Ã©tudiant)										2	0,0%	0,0%	1056	1056	2
-2021	PT	CONCOURS COMMUN INP	ENSI Poitiers - GÃ©nie de l'Eau et GÃ©nie Civil										3	33,3%	0,0%	1223	1228	2
+2021	PT	CONCOURS COMMUN INP	ENGEES Strasbourg Civil (étudiant)										2	0,0%	0,0%	1056	1056	2
+2021	PT	CONCOURS COMMUN INP	ENSI Poitiers - Génie de l'Eau et Génie Civil										3	33,3%	0,0%	1223	1228	2
 2021	PT	CONCOURS COMMUN INP	ENSI Poitiers Energie										4	0,0%	25,0%	1342	1312	6
-2021	PT	CONCOURS COMMUN INP	ENSICAEN Electronique et Physique AppliquÃ©e										3	33,3%	33,3%	1281	1259	5
+2021	PT	CONCOURS COMMUN INP	ENSICAEN Electronique et Physique Appliquée										3	33,3%	33,3%	1281	1259	5
 2021	PT	CONCOURS COMMUN INP	ENSICAEN Informatique										5	20,0%	40,0%	1161	1123	5
-2021	PT	CONCOURS COMMUN INP	ENSIL - ENSCI Limoges CÃ©ramique Industrielle										1	0,0%	0,0%	1428	1428	2
-2021	PT	CONCOURS COMMUN INP	ENSMM BesanÃ§on										42	21,4%	7,1%	1136	1105	44
+2021	PT	CONCOURS COMMUN INP	ENSIL - ENSCI Limoges Céramique Industrielle										1	0,0%	0,0%	1428	1428	2
+2021	PT	CONCOURS COMMUN INP	ENSMM Besançon										42	21,4%	7,1%	1136	1105	44
 2021	PT	CONCOURS COMMUN INP	Grenoble INP - ENSE3										17	5,9%	11,8%	653	605	15
 2021	PT	CONCOURS COMMUN INP	Grenoble INP - Pagora										1	0,0%	0,0%	780	780	1
-2021	PT	CONCOURS COMMUN INP	Grenoble INP - Phelma (Physique Electronique TÃ©lÃ©coms)										6	16,7%	0,0%	527	485	5
-2021	PT	CONCOURS COMMUN INP	Grenoble INP - Phelma (Physique MatÃ©riaux ProcÃ©dÃ©s)										5	40,0%	0,0%	336	297	5
+2021	PT	CONCOURS COMMUN INP	Grenoble INP - Phelma (Physique Electronique Télécoms)										6	16,7%	0,0%	527	485	5
+2021	PT	CONCOURS COMMUN INP	Grenoble INP - Phelma (Physique Matériaux Procédés)										5	40,0%	0,0%	336	297	5
 2021	PT	CONCOURS COMMUN INP	Grenoble INP - ENSIMAG										13	7,7%	15,4%	295	272	10
 2021	PT	CONCOURS COMMUN INP	Grenoble INP - Esisar										3	0,0%	0,0%	867	876	3
 2021	PT	CONCOURS COMMUN INP	ISAE-ENSMA Poitiers										5	0,0%	20,0%	350	273	5
 2021	PT	CONCOURS COMMUN INP	ISIMA Clermont-Ferrand										7	14,3%	14,3%	1188	1076	5
 2021	PT	CONCOURS COMMUN INP	Lorraine INP - ENSEM - Energie										7	0,0%	14,3%	1206	1128	6
 2021	PT	CONCOURS COMMUN INP	SeaTech Toulon										8	25,0%	0,0%	1163	1162	9
-2021	PT	CONCOURS COMMUN INP	SIGMA Clermont-Ferrand - spÃ©cialitÃ© mÃ©canique avancÃ©e										57	15,8%	15,8%	1187	1155	68
-2021	PT	CONCOURS COMMUN INP	ISAE-SupmÃ©ca Paris										12	8,3%	25,0%	913	833	12
+2021	PT	CONCOURS COMMUN INP	SIGMA Clermont-Ferrand - spécialité mécanique avancée										57	15,8%	15,8%	1187	1155	68
+2021	PT	CONCOURS COMMUN INP	ISAE-Supméca Paris										12	8,3%	25,0%	913	833	12
 2021	PT	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - Electronique-Energie-Automatique (EEA)										4	0,0%	25,0%	456	406	4
-2021	PT	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - MÃ©canique des Fluides-Energetique-Environnement (MFEE)										2	0,0%	0,0%	236	236	2
-2021	PT	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - Sciences du NumÃ©rique										4	0,0%	25,0%	410	381	4
+2021	PT	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - Mécanique des Fluides-Energetique-Environnement (MFEE)										2	0,0%	0,0%	236	236	2
+2021	PT	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - Sciences du Numérique										4	0,0%	25,0%	410	381	4
 2021	PT	CONCOURS COMMUN INP	Concours CCINP PT	2263	15,4%	15,2%	1528	14,2%	17,5%	1435	14,2%	16,7%	250					247
 2021	PT	CONCOURS POLYTECH	ENSIBS										2	0,0%	50,0%	1208	1208	8
 2021	PT	CONCOURS POLYTECH	ENSIM Le Mans										4	0,0%	0,0%	846	904	5
-2021	PT	CONCOURS POLYTECH	EPISEN - GÃ©nie BiomÃ©dical et santÃ© (ISBS)										0	0,0%	0,0%	0	0	1
-2021	PT	CONCOURS POLYTECH	EPISEN - SystÃ¨me d'information										0	0,0%	0,0%	0	0	1
-2021	PT	CONCOURS POLYTECH	EPISEN - Technologie pour la santÃ©										0	0,0%	0,0%	0	0	1
+2021	PT	CONCOURS POLYTECH	EPISEN - Génie Biomédical et santé (ISBS)										0	0,0%	0,0%	0	0	1
+2021	PT	CONCOURS POLYTECH	EPISEN - Système d'information										0	0,0%	0,0%	0	0	1
+2021	PT	CONCOURS POLYTECH	EPISEN - Technologie pour la santé										0	0,0%	0,0%	0	0	1
 2021	PT	CONCOURS POLYTECH	ESGT le Mans										3	0,0%	33,3%	1122	1053	5
-2021	PT	CONCOURS POLYTECH	ESIR Rennes - MatÃ©riaux										0	0,0%	0,0%	0	0	1
-2021	PT	CONCOURS POLYTECH	ESIROI Saint Denis de La RÃ©union										0	0,0%	0,0%	0	0	2
+2021	PT	CONCOURS POLYTECH	ESIR Rennes - Matériaux										0	0,0%	0,0%	0	0	1
+2021	PT	CONCOURS POLYTECH	ESIROI Saint Denis de La Réunion										0	0,0%	0,0%	0	0	2
 2021	PT	CONCOURS POLYTECH	ESIX Cherbourg GSI										0	0,0%	0,0%	0	0	2
-2021	PT	CONCOURS POLYTECH	ESIX Caen MÃ©catronique et SystÃ¨mes EmbarquÃ©s										2	0,0%	0,0%	1068	1068	2
-2021	PT	CONCOURS POLYTECH	ISAT Nevers - dÃ©partement MIT (MÃ©canique et IngÃ©nierie des Transports)										2	0,0%	0,0%	789	789	2
-2021	PT	CONCOURS POLYTECH	ISAT Nevers - dÃ©partement EPEE (Energies et Moteurs)										2	0,0%	50,0%	584	584	2
-2021	PT	CONCOURS POLYTECH	ISAT Nevers - Infrastructures et RÃ©seaux de Transports										2	0,0%	0,0%	1281	1281	3
-2021	PT	CONCOURS POLYTECH	ISIFC BesanÃ§on - GÃ©nie BiomÃ©dical										2	0,0%	0,0%	812	812	2
-2021	PT	CONCOURS POLYTECH	ISTY VÃ©lizy										0	0,0%	0,0%	0	0	2
-2021	PT	CONCOURS POLYTECH	Polytech Annecy-ChambÃ©ry - BÃ¢timent Eco-construction Energie										4	50,0%	25,0%	1154	1113	4
-2021	PT	CONCOURS POLYTECH	Polytech Annecy-ChambÃ©ry - Informatique donnÃ©es Usages										2	0,0%	0,0%	1223	1223	3
-2021	PT	CONCOURS POLYTECH	Polytech Annecy-ChambÃ©ry - MÃ©canique MÃ©catronique MatÃ©riaux composites										2	0,0%	0,0%	1202	1202	3
-2021	PT	CONCOURS POLYTECH	Polytech Annecy-ChambÃ©ry - SystÃ¨mes NumÃ©riques â Instrumentation										0	0,0%	0,0%	0	0	3
-2021	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - GÃ©nie Civil										2	0,0%	0,0%	912	912	3
-2021	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - GÃ©nie Electrique										1	0,0%	0,0%	1252	1252	4
-2021	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - GÃ©nie Physique										3	33,3%	0,0%	1136	1144	3
-2021	PT	CONCOURS POLYTECH	Polytech Grenoble - GÃ©otechnique et gÃ©nie civil										4	0,0%	0,0%	1173	1090	3
-2021	PT	CONCOURS POLYTECH	Polytech Grenoble - Informatique et Ã©lectronique des systÃ¨mes embarquÃ©s										3	0,0%	0,0%	1044	950	3
-2021	PT	CONCOURS POLYTECH	Polytech Lille - MÃ©canique										7	14,3%	14,3%	1034	975	7
-2021	PT	CONCOURS POLYTECH	Polytech Lille - SystÃ¨mes embarquÃ©s										6	0,0%	0,0%	1140	1112	4
-2021	PT	CONCOURS POLYTECH	Polytech Lyon - SystÃ¨mes industriels, Robotique										2	0,0%	0,0%	754	754	2
-2021	PT	CONCOURS POLYTECH	Polytech Marseille - GÃ©nie Civil										4	50,0%	0,0%	915	977	6
-2021	PT	CONCOURS POLYTECH	Polytech Marseille - GÃ©nie Industriel et Informatique										2	0,0%	0,0%	896	896	3
-2021	PT	CONCOURS POLYTECH	Polytech Marseille - MÃ©canique, EnergÃ©tique										5	0,0%	20,0%	1254	1148	4
-2021	PT	CONCOURS POLYTECH	Polytech Marseille - MicroÃ©lectronique,TÃ©lÃ©communications										2	0,0%	0,0%	1204	1204	2
-2021	PT	CONCOURS POLYTECH	Polytech Montpellier - MÃ©canique et Interactions										1	0,0%	0,0%	973	973	2
-2021	PT	CONCOURS POLYTECH	Polytech Nancy - Energie, MÃ©canique, MatÃ©riaux, Environnement										2	0,0%	0,0%	992	992	4
-2021	PT	CONCOURS POLYTECH	Polytech Nancy - Management opÃ©rationnel, Maintenance, MaÃ®trise des risques										1	100,0%	0,0%	1146	1146	2
-2021	PT	CONCOURS POLYTECH	Polytech Nancy Informatique, Automatique, Robotique, RÃ©seaux										2	0,0%	0,0%	893	893	2
-2021	PT	CONCOURS POLYTECH	Polytech Nantes - Ãlectronique et technologies numÃ©riques										4	0,0%	0,0%	1092	1126	4
-2021	PT	CONCOURS POLYTECH	Polytech Nantes - Ãnergie Ã©lectrique										0	0,0%	0,0%	0	0	1
-2021	PT	CONCOURS POLYTECH	Polytech Nantes - GÃ©nie civil										3	33,3%	0,0%	1045	1091	5
+2021	PT	CONCOURS POLYTECH	ESIX Caen Mécatronique et Systèmes Embarqués										2	0,0%	0,0%	1068	1068	2
+2021	PT	CONCOURS POLYTECH	ISAT Nevers - département MIT (Mécanique et Ingénierie des Transports)										2	0,0%	0,0%	789	789	2
+2021	PT	CONCOURS POLYTECH	ISAT Nevers - département EPEE (Energies et Moteurs)										2	0,0%	50,0%	584	584	2
+2021	PT	CONCOURS POLYTECH	ISAT Nevers - Infrastructures et Réseaux de Transports										2	0,0%	0,0%	1281	1281	3
+2021	PT	CONCOURS POLYTECH	ISIFC Besançon - Génie Biomédical										2	0,0%	0,0%	812	812	2
+2021	PT	CONCOURS POLYTECH	ISTY Vélizy										0	0,0%	0,0%	0	0	2
+2021	PT	CONCOURS POLYTECH	Polytech Annecy-Chambéry - Bâtiment Eco-construction Energie										4	50,0%	25,0%	1154	1113	4
+2021	PT	CONCOURS POLYTECH	Polytech Annecy-Chambéry - Informatique données Usages										2	0,0%	0,0%	1223	1223	3
+2021	PT	CONCOURS POLYTECH	Polytech Annecy-Chambéry - Mécanique Mécatronique Matériaux composites										2	0,0%	0,0%	1202	1202	3
+2021	PT	CONCOURS POLYTECH	Polytech Annecy-Chambéry - Systèmes Numériques – Instrumentation										0	0,0%	0,0%	0	0	3
+2021	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Civil										2	0,0%	0,0%	912	912	3
+2021	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Electrique										1	0,0%	0,0%	1252	1252	4
+2021	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Physique										3	33,3%	0,0%	1136	1144	3
+2021	PT	CONCOURS POLYTECH	Polytech Grenoble - Géotechnique et génie civil										4	0,0%	0,0%	1173	1090	3
+2021	PT	CONCOURS POLYTECH	Polytech Grenoble - Informatique et électronique des systèmes embarqués										3	0,0%	0,0%	1044	950	3
+2021	PT	CONCOURS POLYTECH	Polytech Lille - Mécanique										7	14,3%	14,3%	1034	975	7
+2021	PT	CONCOURS POLYTECH	Polytech Lille - Systèmes embarqués										6	0,0%	0,0%	1140	1112	4
+2021	PT	CONCOURS POLYTECH	Polytech Lyon - Systèmes industriels, Robotique										2	0,0%	0,0%	754	754	2
+2021	PT	CONCOURS POLYTECH	Polytech Marseille - Génie Civil										4	50,0%	0,0%	915	977	6
+2021	PT	CONCOURS POLYTECH	Polytech Marseille - Génie Industriel et Informatique										2	0,0%	0,0%	896	896	3
+2021	PT	CONCOURS POLYTECH	Polytech Marseille - Mécanique, Energétique										5	0,0%	20,0%	1254	1148	4
+2021	PT	CONCOURS POLYTECH	Polytech Marseille - Microélectronique,Télécommunications										2	0,0%	0,0%	1204	1204	2
+2021	PT	CONCOURS POLYTECH	Polytech Montpellier - Mécanique et Interactions										1	0,0%	0,0%	973	973	2
+2021	PT	CONCOURS POLYTECH	Polytech Nancy - Energie, Mécanique, Matériaux, Environnement										2	0,0%	0,0%	992	992	4
+2021	PT	CONCOURS POLYTECH	Polytech Nancy - Management opérationnel, Maintenance, Maîtrise des risques										1	100,0%	0,0%	1146	1146	2
+2021	PT	CONCOURS POLYTECH	Polytech Nancy Informatique, Automatique, Robotique, Réseaux										2	0,0%	0,0%	893	893	2
+2021	PT	CONCOURS POLYTECH	Polytech Nantes - Électronique et technologies numériques										4	0,0%	0,0%	1092	1126	4
+2021	PT	CONCOURS POLYTECH	Polytech Nantes - Énergie électrique										0	0,0%	0,0%	0	0	1
+2021	PT	CONCOURS POLYTECH	Polytech Nantes - Génie civil										3	33,3%	0,0%	1045	1091	5
 2021	PT	CONCOURS POLYTECH	Polytech Nantes - Informatique										3	0,0%	0,0%	1081	1133	3
-2021	PT	CONCOURS POLYTECH	Polytech Nantes - Thermique, ÃnergÃ©tique										2	50,0%	0,0%	1071	1071	4
-2021	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - Ãlectronique										2	50,0%	50,0%	1093	1093	3
-2021	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - GÃ©nie de l'eau										4	25,0%	25,0%	1124	1026	4
+2021	PT	CONCOURS POLYTECH	Polytech Nantes - Thermique, Énergétique										2	50,0%	0,0%	1071	1071	4
+2021	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - Électronique										2	50,0%	50,0%	1093	1093	3
+2021	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - Génie de l'eau										4	25,0%	25,0%	1124	1026	4
 2021	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - Informatique										4	0,0%	75,0%	696	754	4
-2021	PT	CONCOURS POLYTECH	Polytech OrlÃ©ans - GÃ©nie civil et gÃ©o-environnement										2	50,0%	0,0%	898	898	4
-2021	PT	CONCOURS POLYTECH	Polytech OrlÃ©ans - GÃ©nie industriel										2	0,0%	0,0%	1175	1175	2
-2021	PT	CONCOURS POLYTECH	Polytech OrlÃ©ans - GÃ©nie physique et systÃ¨mes embarquÃ©s										0	0,0%	0,0%	0	0	5
-2021	PT	CONCOURS POLYTECH	Polytech OrlÃ©ans - Innovation en Conception et MatÃ©riaux										3	33,3%	33,3%	1243	1231	5
-2021	PT	CONCOURS POLYTECH	Polytech OrlÃ©ans - Technologies pour l'Ãnergie, l'AÃ©rospatial et la Motorisation										4	0,0%	25,0%	806	819	3
+2021	PT	CONCOURS POLYTECH	Polytech Orléans - Génie civil et géo-environnement										2	50,0%	0,0%	898	898	4
+2021	PT	CONCOURS POLYTECH	Polytech Orléans - Génie industriel										2	0,0%	0,0%	1175	1175	2
+2021	PT	CONCOURS POLYTECH	Polytech Orléans - Génie physique et systèmes embarqués										0	0,0%	0,0%	0	0	5
+2021	PT	CONCOURS POLYTECH	Polytech Orléans - Innovation en Conception et Matériaux										3	33,3%	33,3%	1243	1231	5
+2021	PT	CONCOURS POLYTECH	Polytech Orléans - Technologies pour l'Énergie, l'Aérospatial et la Motorisation										4	0,0%	25,0%	806	819	3
 2021	PT	CONCOURS POLYTECH	Polytech Sorbonne - Electronique et Informatique										2	0,0%	0,0%	930	930	2
 2021	PT	CONCOURS POLYTECH	Polytech Sorbonne - Robotique										3	0,0%	0,0%	691	710	3
-2021	PT	CONCOURS POLYTECH	Polytech Tours - GÃ©nie de l'amÃ©nagement et de l'environnement										2	0,0%	0,0%	293	293	4
-2021	PT	CONCOURS POLYTECH	Polytech Tours - MÃ©canique, Conception de systÃ¨mes										4	0,0%	25,0%	1217	1200	4
-2021	PT	CONCOURS POLYTECH	Sup GalilÃ©e Villetaneuse										2	0,0%	0,0%	1234	1234	4
+2021	PT	CONCOURS POLYTECH	Polytech Tours - Génie de l'aménagement et de l'environnement										2	0,0%	0,0%	293	293	4
+2021	PT	CONCOURS POLYTECH	Polytech Tours - Mécanique, Conception de systèmes										4	0,0%	25,0%	1217	1200	4
+2021	PT	CONCOURS POLYTECH	Sup Galilée Villetaneuse										2	0,0%	0,0%	1234	1234	4
 2021	PT	CONCOURS POLYTECH	Concours POLYTECH PT	1975	15,8%	15,7%	1456	14,4%	15,9%	1301	15,0%	16,1%	120					170
 2021	PT	AUTRES ECOLES	ECOLE DE L'AIR Base				0	0,0%	0,0%	0	0,0%	0,0%	0	0,0%	0,0%	0	0	0
-2021	PT	AUTRES ECOLES	ECOLE DE L'AIR MÃ©ca	294	13,9%	11,2%	70	8,6%	18,6%	4	25,0%	25,0%	0	0,0%	0,0%	0	0	2
+2021	PT	AUTRES ECOLES	ECOLE DE L'AIR Méca	294	13,9%	11,2%	70	8,6%	18,6%	4	25,0%	25,0%	0	0,0%	0,0%	0	0	2
 2021	PT	AUTRES ECOLES	ECOLE DE L'AIR Pilote				0	0,0%	0,0%	0	0,0%	0,0%	0	0,0%	0,0%	0	0	0
-2021	PT	AUTRES ECOLES	EIL CÃ´te d'Opale - Calais (informatique)										3	66,7%	33,3%	56	57	10
-2021	PT	AUTRES ECOLES	EIL CÃ´te d'Opale - Dunkerque (GÃ©nie EnergÃ©tique et Environnement)										4	25,0%	50,0%	59	57	6
-2021	PT	AUTRES ECOLES	EIL CÃ´te d'Opale - Longuenesse (GÃ©nie Industriel)										4	50,0%	0,0%	73	72	20
-2021	PT	AUTRES ECOLES	Concours EIL CÃ´te d'Opale Longuenesse - Calais - Dunkerque PT	323	21,4%	18,6%	271	22,1%	18,5%	81	25,9%	22,2%	11					36
+2021	PT	AUTRES ECOLES	EIL Côte d'Opale - Calais (informatique)										3	66,7%	33,3%	56	57	10
+2021	PT	AUTRES ECOLES	EIL Côte d'Opale - Dunkerque (Génie Energétique et Environnement)										4	25,0%	50,0%	59	57	6
+2021	PT	AUTRES ECOLES	EIL Côte d'Opale - Longuenesse (Génie Industriel)										4	50,0%	0,0%	73	72	20
+2021	PT	AUTRES ECOLES	Concours EIL Côte d'Opale Longuenesse - Calais - Dunkerque PT	323	21,4%	18,6%	271	22,1%	18,5%	81	25,9%	22,2%	11					36
 2021	PT	AUTRES ECOLES	ENSAIT Roubaix	378	22,8%	19,3%	236	23,3%	23,3%	47	29,8%	21,3%	10	50,0%	10,0%	37	36	10
-2021	PT	AUTRES ECOLES	ENSIL - ENSCI Limoges MÃ©catronique	340	21,2%	16,2%	205	24,9%	15,6%	205	24,9%	15,6%	2	0,0%	100,0%	142	142	4
-2021	PT	AUTRES ECOLES	ENSISA Mulhouse Automatique et SystÃ¨mes EmbarquÃ©s										5	0,0%	20,0%	60	55	6
-2021	PT	AUTRES ECOLES	ENSISA Mulhouse Informatique et rÃ©seaux										5	0,0%	0,0%	34	32	6
-2021	PT	AUTRES ECOLES	ENSISA Mulhouse MÃ©canique										1	100,0%	0,0%	47	47	9
+2021	PT	AUTRES ECOLES	ENSIL - ENSCI Limoges Mécatronique	340	21,2%	16,2%	205	24,9%	15,6%	205	24,9%	15,6%	2	0,0%	100,0%	142	142	4
+2021	PT	AUTRES ECOLES	ENSISA Mulhouse Automatique et Systèmes Embarqués										5	0,0%	20,0%	60	55	6
+2021	PT	AUTRES ECOLES	ENSISA Mulhouse Informatique et réseaux										5	0,0%	0,0%	34	32	6
+2021	PT	AUTRES ECOLES	ENSISA Mulhouse Mécanique										1	100,0%	0,0%	47	47	9
 2021	PT	AUTRES ECOLES	ENSISA Mulhouse Textile et Fibres										3	66,7%	0,0%	42	42	4
 2021	PT	AUTRES ECOLES	Concours ENSISA PT	478	20,3%	16,9%	306	22,5%	19,3%	66	27,3%	19,7%	14					25
 2021	PT	AUTRES ECOLES	ENSM Site de Nantes	296	20,9%	15,5%	180	26,1%	17,8%	22	40,9%	18,2%	7	57,1%	0,0%	12	11	20
 2021	PT	AUTRES ECOLES	ESB Nantes	212	18,9%	14,6%	100	24,0%	18,0%	14	21,4%	21,4%	2	0,0%	50,0%	4	4	10
-2021	PT	AUTRES ECOLES	ESFF - SÃ¨vres	281	16,7%	17,1%	218	17,9%	16,5%	28	21,4%	17,9%	5	40,0%	0,0%	8	8	11
+2021	PT	AUTRES ECOLES	ESFF - Sèvres	281	16,7%	17,1%	218	17,9%	16,5%	28	21,4%	17,9%	5	40,0%	0,0%	8	8	11
 2021	PT	AUTRES ECOLES	ESTIA Bidart	483	16,1%	16,8%	404	16,6%	15,6%	109	22,9%	14,7%	22	13,6%	13,6%	68	66	32
-2021	PT	AUTRES ECOLES	ESTP Paris - BÃ¢timent (B) - campus de Cachan										9	11,1%	22,2%	226	227	9
-2021	PT	AUTRES ECOLES	ESTP Paris - BÃ¢timent (B) - campus de Troyes										18	11,1%	11,1%	396	385	20
-2021	PT	AUTRES ECOLES	ESTP Paris - GÃ©nie MÃ©canique et Electrique(GME)										22	9,1%	27,3%	393	378	24
+2021	PT	AUTRES ECOLES	ESTP Paris - Bâtiment (B) - campus de Cachan										9	11,1%	22,2%	226	227	9
+2021	PT	AUTRES ECOLES	ESTP Paris - Bâtiment (B) - campus de Troyes										18	11,1%	11,1%	396	385	20
+2021	PT	AUTRES ECOLES	ESTP Paris - Génie Mécanique et Electrique(GME)										22	9,1%	27,3%	393	378	24
 2021	PT	AUTRES ECOLES	ESTP Paris - Topographie (T)										4	0,0%	25,0%	437	436	10
 2021	PT	AUTRES ECOLES	ESTP Paris - Travaux Publics (TP) - campus de Cachan										9	22,2%	22,2%	230	213	10
 2021	PT	AUTRES ECOLES	ESTP Paris - Travaux Publics (TP) - campus de Dijon										14	21,4%	14,3%	326	331	14
 2021	PT	AUTRES ECOLES	Concours ESTP PT	664	18,5%	17,3%	517	18,4%	18,4%	476	18,7%	17,4%	76					87
-2021	PT	AUTRES ECOLES	Grenoble INP - GÃ©nie Industriel	742	18,3%	17,9%	281	15,7%	23,1%	109	16,5%	23,9%	13	23,1%	15,4%	84	73	12
+2021	PT	AUTRES ECOLES	Grenoble INP - Génie Industriel	742	18,3%	17,9%	281	15,7%	23,1%	109	16,5%	23,9%	13	23,1%	15,4%	84	73	12
 2021	PT	AUTRES ECOLES	IMT Lille Douai en Partenariat ISPA	388	18,3%	19,1%	270	19,6%	21,1%	24	33,3%	16,7%	5	20,0%	20,0%	9	7	25
 2021	PT	AUTRES ECOLES	ISMANS-Groupe CESI Le Mans	303	18,8%	15,5%	240	21,2%	14,6%	39	15,4%	15,4%	6	0,0%	0,0%	22	22	10
 2021	PT	AUTRES ECOLES	Lorraine INP - ENSTIB	316	19,3%	16,5%	217	23,0%	15,7%	48	25,0%	12,5%	15	40,0%	6,7%	22	23	15
@@ -163,105 +163,105 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2021	PT	Puissance Alpha	ESIEE Paris	774	18,1%	14,2%	598	17,6%	15,4%	145	18,6%	15,9%	19	10,5%	15,8%	118	109	15
 2021	PT	Puissance Alpha	HEI LILLE	774	18,1%	14,2%	633	17,7%	14,5%	104	24,0%	10,6%	6	0,0%	33,3%	48	55	25
 2021	PT	Puissance Alpha	ISEN Lille	774	18,1%	14,2%	600	17,5%	15,3%	40	15,0%	12,5%	2	0,0%	0,0%	33	33	8
-2021	PT	Puissance Alpha	ISEN MÃ©diterrannÃ©e - NÃ®mes	774	18,1%	14,2%	649	18,0%	14,6%	56	19,6%	10,7%	3	0,0%	0,0%	52	52	5
-2021	PT	Puissance Alpha	ISEN MÃ©diterrannÃ©e - Toulon	774	18,1%	14,2%	649	18,0%	14,6%	56	19,6%	10,7%	2	0,0%	0,0%	34	34	5
+2021	PT	Puissance Alpha	ISEN Méditerrannée - Nîmes	774	18,1%	14,2%	649	18,0%	14,6%	56	19,6%	10,7%	3	0,0%	0,0%	52	52	5
+2021	PT	Puissance Alpha	ISEN Méditerrannée - Toulon	774	18,1%	14,2%	649	18,0%	14,6%	56	19,6%	10,7%	2	0,0%	0,0%	34	34	5
 2021	PT	Puissance Alpha	ISEP Paris	774	18,1%	14,2%	618	17,5%	14,9%	90	18,9%	16,7%	6	0,0%	16,7%	79	78	5
-2021	PT	Puissance Alpha	3IL IngÃ©nieurs	774	18,1%	14,2%	498	17,1%	16,9%	90	13,3%	16,7%	1	0,0%	0,0%	87	87	5
-2021	PT	Avenir PrÃ©pas	ECE PARIS (statut apprentissage)	1076	17,8%	15,1%	986	18,1%	15,1%	281	19,9%	10,0%	6	16,7%	16,7%	230	212	6
-2021	PT	Avenir PrÃ©pas	EIGSI Casablanca	1076	17,8%	15,1%	904	17,1%	15,9%	221	15,4%	19,0%	0	0,0%	0,0%	0	0	5
-2021	PT	Avenir PrÃ©pas	ECE LYON										11	18,2%	0,0%	201	193	4
-2021	PT	Avenir PrÃ©pas	ECE PARIS										21	14,3%	19,0%	204	188	20
-2021	PT	Avenir PrÃ©pas	Concours ECE PT	1076	17,8%	15,1%	986	18,1%	15,1%	281	19,9%	10,0%	32					24
-2021	PT	Avenir PrÃ©pas	EIGSI La Rochelle	1076	17,8%	15,1%	904	17,1%	15,9%	221	15,4%	19,0%	18	11,1%	38,9%	193	190	25
-2021	PT	Avenir PrÃ©pas	EPF campus SCEAUX										9	22,2%	0,0%	419	401	6
-2021	PT	Avenir PrÃ©pas	EPF campus TROYES										3	0,0%	33,3%	468	458	6
-2021	PT	Avenir PrÃ©pas	EPF campus MONTPELLIER										10	60,0%	30,0%	324	340	6
-2021	PT	Avenir PrÃ©pas	Concours EPF Sceaux-Troyes-Montpellier PT	1076	17,8%	15,1%	956	17,5%	15,5%	475	20,4%	16,8%	22					18
-2021	PT	Avenir PrÃ©pas	ESIGELEC Rouen	1076	17,8%	15,1%	999	17,9%	15,2%	224	21,0%	16,1%	11	36,4%	0,0%	159	154	25
-2021	PT	Avenir PrÃ©pas	ESILV Paris-La DÃ©fense	1076	17,8%	15,1%	897	16,9%	16,1%	295	15,9%	15,9%	42	19,0%	16,7%	179	184	35
-2021	PT	Avenir PrÃ©pas	ESITC Caen	1076	17,8%	15,1%	496	16,7%	18,8%	12	33,3%	25,0%	1	0,0%	100,0%	4	4	8
-2021	PT	Avenir PrÃ©pas	ESTACA Laval AÃ©ronautique et spatial										4	0,0%	0,0%	206	202	2
-2021	PT	Avenir PrÃ©pas	ESTACA Laval Automobile										2	50,0%	50,0%	148	148	2
-2021	PT	Avenir PrÃ©pas	ESTACA Paris-Saclay AÃ©ronautique et spatial										1	0,0%	0,0%	206	206	2
-2021	PT	Avenir PrÃ©pas	ESTACA Paris-Saclay Automobile ou Transports GuidÃ©s										3	0,0%	0,0%	226	219	2
-2021	PT	Avenir PrÃ©pas	Concours ESTACA PT	1076	17,8%	15,1%	537	16,9%	18,2%	279	16,5%	19,4%	10					8
+2021	PT	Puissance Alpha	3IL Ingénieurs	774	18,1%	14,2%	498	17,1%	16,9%	90	13,3%	16,7%	1	0,0%	0,0%	87	87	5
+2021	PT	Avenir Prépas	ECE PARIS (statut apprentissage)	1076	17,8%	15,1%	986	18,1%	15,1%	281	19,9%	10,0%	6	16,7%	16,7%	230	212	6
+2021	PT	Avenir Prépas	EIGSI Casablanca	1076	17,8%	15,1%	904	17,1%	15,9%	221	15,4%	19,0%	0	0,0%	0,0%	0	0	5
+2021	PT	Avenir Prépas	ECE LYON										11	18,2%	0,0%	201	193	4
+2021	PT	Avenir Prépas	ECE PARIS										21	14,3%	19,0%	204	188	20
+2021	PT	Avenir Prépas	Concours ECE PT	1076	17,8%	15,1%	986	18,1%	15,1%	281	19,9%	10,0%	32					24
+2021	PT	Avenir Prépas	EIGSI La Rochelle	1076	17,8%	15,1%	904	17,1%	15,9%	221	15,4%	19,0%	18	11,1%	38,9%	193	190	25
+2021	PT	Avenir Prépas	EPF campus SCEAUX										9	22,2%	0,0%	419	401	6
+2021	PT	Avenir Prépas	EPF campus TROYES										3	0,0%	33,3%	468	458	6
+2021	PT	Avenir Prépas	EPF campus MONTPELLIER										10	60,0%	30,0%	324	340	6
+2021	PT	Avenir Prépas	Concours EPF Sceaux-Troyes-Montpellier PT	1076	17,8%	15,1%	956	17,5%	15,5%	475	20,4%	16,8%	22					18
+2021	PT	Avenir Prépas	ESIGELEC Rouen	1076	17,8%	15,1%	999	17,9%	15,2%	224	21,0%	16,1%	11	36,4%	0,0%	159	154	25
+2021	PT	Avenir Prépas	ESILV Paris-La Défense	1076	17,8%	15,1%	897	16,9%	16,1%	295	15,9%	15,9%	42	19,0%	16,7%	179	184	35
+2021	PT	Avenir Prépas	ESITC Caen	1076	17,8%	15,1%	496	16,7%	18,8%	12	33,3%	25,0%	1	0,0%	100,0%	4	4	8
+2021	PT	Avenir Prépas	ESTACA Laval Aéronautique et spatial										4	0,0%	0,0%	206	202	2
+2021	PT	Avenir Prépas	ESTACA Laval Automobile										2	50,0%	50,0%	148	148	2
+2021	PT	Avenir Prépas	ESTACA Paris-Saclay Aéronautique et spatial										1	0,0%	0,0%	206	206	2
+2021	PT	Avenir Prépas	ESTACA Paris-Saclay Automobile ou Transports Guidés										3	0,0%	0,0%	226	219	2
+2021	PT	Avenir Prépas	Concours ESTACA PT	1076	17,8%	15,1%	537	16,9%	18,2%	279	16,5%	19,4%	10					8
 2021	PT	FESIC	ECAM Lyon	802	17,5%	14,5%	545	17,6%	16,9%	217	20,3%	14,3%	28	28,6%	7,1%	164	163	40
 2021	PT	FESIC	ECAM Rennes	802	17,5%	14,5%	722	18,6%	15,0%	264	18,6%	16,3%	2	50,0%	0,0%	255	255	18
 2021	PT	FESIC	ECAM Strasbourg Europe	802	17,5%	14,5%	752	18,1%	14,6%	137	21,2%	10,2%	37	18,9%	5,4%	80	82	30
 2021	PT	FESIC	ECAM-EPMI Cergy-Pontoise	802	17,5%	14,5%	765	17,9%	14,8%	312	19,2%	14,1%	14	7,1%	7,1%	284	268	20
 2021	PT	FESIC	ESIEE Amiens-UniLaSalle	802	17,5%	14,5%	663	18,1%	15,2%	189	20,1%	15,9%	0	0,0%	0,0%	0	0	12
 2021	PT	FESIC	UniLaSalle Beauvais - Sciences de la Terre et Environnement	802	17,5%	14,5%	715	18,5%	15,0%	55	20,0%	16,4%	0	0,0%	0,0%	0	0	3
-2021	PT	Groupe INSA	ISIS Castres Informatique pour la SantÃ©	633	22,7%	17,1%	339	24,2%	18,0%	339	24,2%	18,0%	0	0,0%	0,0%	0	0	1
-2021	PT	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen GÃ©nie Physique	1686	14,4%	17,1%	876	15,8%	19,1%	876	15,8%	19,1%	2*	50,0%	50,0%	94	94	2*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen GÃ©nie Physique	4917	32,4%	20,1%	2740	33,6%	23,0%	2740	33,6%	23,0%	4*	75,0%	75,0%	2189	2104	6*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen Technologies du Vivant	4439	47,9%	20,4%	2290	51,6%	23,0%	2290	51,6%	23,0%	3*	100,0%	0,0%	999	795	3*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire GÃ©nie des SystÃ¨mes Industriels	3426	22,7%	16,5%	2012	23,6%	19,4%	2012	23,6%	19,4%	6*	16,7%	0,0%	1861	1766	20*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire MaÃ®trise des Risques Industriels	1686	14,4%	17,1%	876	15,8%	19,1%	876	15,8%	19,1%	5*	20,0%	0,0%	264	329	5*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire MaÃ®trise des Risques Industriels	4917	32,4%	20,1%	2740	33,6%	23,0%	2740	33,6%	23,0%	4*	50,0%	25,0%	2644	2561	25*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire SÃ©curitÃ© et Technologies Informatiques	3414	25,7%	19,1%	1127	25,8%	21,0%	1127	25,8%	21,0%	0*	0,0%	0,0%	0	0	1*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France Electronique des SystÃ¨mes EmbarquÃ©s	5246	26,3%	19,3%	2711	26,8%	21,8%	2711	26,8%	21,8%	6*	33,3%	16,7%	2388	2377	11*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France GÃ©nie civil et bÃ¢timent	2538	26,8%	16,1%	1337	26,2%	18,2%	1337	26,2%	18,2%	5*	20,0%	20,0%	1066	1007	5*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France GÃ©nie civil et bÃ¢timent	2649	36,4%	21,0%	1358	37,4%	24,1%	1358	37,4%	24,1%	9*	33,3%	44,4%	1136	1100	8*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France GÃ©nie Industriel	3426	22,7%	16,5%	2012	23,6%	19,4%	2012	23,6%	19,4%	4*	75,0%	25,0%	1663	1683	9*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France Informatique et CybersÃ©curitÃ©	3414	25,7%	19,1%	1127	25,8%	21,0%	1127	25,8%	21,0%	0*	0,0%	0,0%	0	0	4*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France Informatique Industrielle et Automatique	5246	26,3%	19,3%	2711	26,8%	21,8%	2711	26,8%	21,8%	1*	0,0%	0,0%	2645	2645	10*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France MÃ©canique et EnergÃ©tique										17*	29,4%	11,8%	1705*	1639*	28*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France MÃ©catronique										9*	33,3%	11,1%	1909	1752	12*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie mÃ©canique, gÃ©nie industriel et mÃ©catronique PSI-PT	3426*	22,7%	16,5%	2012*	23,6%	19,4%	2012*	23,6%	19,4%	26*					40*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Biosciences	4439	47,9%	20,4%	2290	51,6%	23,0%	2290	51,6%	23,0%	3*	66,7%	33,3%	49	68	4*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Civil et Urbanisme	2538	26,8%	16,1%	1337	26,2%	18,2%	1337	26,2%	18,2%	9*	55,6%	0,0%	297	281	8*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Civil et Urbanisme	2649	36,4%	21,0%	1358	37,4%	24,1%	1358	37,4%	24,1%	5*	80,0%	20,0%	101	154	5*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Electrique	5246	26,3%	19,3%	2711	26,8%	21,8%	2711	26,8%	21,8%	8*	12,5%	25,0%	571	558	8*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie EnergÃ©tique et Environnement	4483	38,1%	19,6%	1607	38,3%	22,0%	1607	38,3%	22,0%	4*	25,0%	50,0%	152	147	4*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Industriel										8*	12,5%	0,0%	306*	267*	7*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie MÃ©canique										23*	21,7%	0,0%	421	385	25*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie mÃ©canique, gÃ©nie industriel et mÃ©catronique PSI-PT	3426*	22,7%	16,5%	2012*	23,6%	19,4%	2012*	23,6%	19,4%	31*					32*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Informatique	3414	25,7%	19,1%	1127	25,8%	21,0%	1127	25,8%	21,0%	3*	33,3%	33,3%	78	87	3*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Science et GÃ©nie des MatÃ©riaux	1686	14,4%	17,1%	876	15,8%	19,1%	876	15,8%	19,1%	1*	0,0%	0,0%	89	89	1*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Science et GÃ©nie des MatÃ©riaux	4917	32,4%	20,1%	2740	33,6%	23,0%	2740	33,6%	23,0%	10*	30,0%	30,0%	458	464	10*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Lyon TÃ©lÃ©communications, services et usages	3414	25,7%	19,1%	1127	25,8%	21,0%	1127	25,8%	21,0%	4*	0,0%	25,0%	531	481	4*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Electronique et Informatique Industrielle	5246	26,3%	19,3%	2711	26,8%	21,8%	2711	26,8%	21,8%	3*	0,0%	0,0%	1406	1140	3*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie Civil et Urbain	2649	36,4%	21,0%	1358	37,4%	24,1%	1358	37,4%	24,1%	2*	50,0%	0,0%	687	687	2*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie Civil et Urbain	2538	26,8%	16,1%	1337	26,2%	18,2%	1337	26,2%	18,2%	2*	50,0%	50,0%	505	505	2*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie MÃ©canique et Automatique	3426	22,7%	16,5%	2012	23,6%	19,4%	2012	23,6%	19,4%	4*	25,0%	25,0%	933	861	4*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Informatique	3414	25,7%	19,1%	1127	25,8%	21,0%	1127	25,8%	21,0%	1*	0,0%	0,0%	880	880	2*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Science et GÃ©nie des MatÃ©riaux	1686	14,4%	17,1%	876	15,8%	19,1%	876	15,8%	19,1%	1*	100,0%	0,0%	176	176	1*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Science et GÃ©nie des MatÃ©riaux	4917	32,4%	20,1%	2740	33,6%	23,0%	2740	33,6%	23,0%	3*	66,7%	33,3%	1002	1181	3*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rennes SystÃ¨me et RÃ©seaux de Communication	5246	26,3%	19,3%	2711	26,8%	21,8%	2711	26,8%	21,8%	1*	0,0%	0,0%	1983	1983	3*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie Chimie et ProcÃ©dÃ©s										4*	75,0%	50,0%	1207*	1024*	4*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie EnergÃ©tique et Propulsion										4*	25,0%	0,0%	1190	1013	4*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	Concours INSA DomaineÂ EnergÃ©tique â GÃ©nie Chimique â Environnement MP-PC-PSI	4483*	38,1%	19,6%	1607*	38,3%	22,0%	1607*	38,3%	22,0%	8*					8*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie GÃ©nie Civil et constructions durables	2649	36,4%	21,0%	1358	37,4%	24,1%	1358	37,4%	24,1%	2*	0,0%	50,0%	960	960	2*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie GÃ©nie Civil et constructions durables	2538	26,8%	16,1%	1337	26,2%	18,2%	1337	26,2%	18,2%	2*	50,0%	50,0%	502	502	2*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie GÃ©nie MathÃ©matique										2*	50,0%	50,0%	603*	603*	2*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie Informatique et technologie de l'information										3*	33,3%	0,0%	953	989	2*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine Informatique, mathÃ©matique, modÃ©lisation PC-PSI-PT	3414*	25,7%	19,1%	1127*	25,8%	21,0%	1127*	25,8%	21,0%	5*					4*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie MaÃ®trise des Risques Industriels	4483	38,1%	19,6%	1607	38,3%	22,0%	1607	38,3%	22,0%	0*	0,0%	0,0%	0	0	6*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie MÃ©canique	3426	22,7%	16,5%	2012	23,6%	19,4%	2012	23,6%	19,4%	2*	50,0%	0,0%	1122	1122	3*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Civil	2538	26,8%	16,1%	1337	26,2%	18,2%	1337	26,2%	18,2%	10*	40,0%	10,0%	670	682	11*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Civil	2649	36,4%	21,0%	1358	37,4%	24,1%	1358	37,4%	24,1%	2*	50,0%	50,0%	480	480	3*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Climatique et EnergÃ©tique	4483	38,1%	19,6%	1607	38,3%	22,0%	1607	38,3%	22,0%	2*	100,0%	0,0%	1021	1021	12*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Electrique	5246	26,3%	19,3%	2711	26,8%	21,8%	2711	26,8%	21,8%	6*	16,7%	50,0%	1596	1540	5*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie MÃ©canique										17*	11,8%	23,5%	1152*	1177*	22*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg MÃ©catronique										6*	33,3%	16,7%	1185*	1191*	6*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg Plasturgie										1*	0,0%	0,0%	1597	1597	16*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie mÃ©canique, gÃ©nie industriel et mÃ©catronique PSI-PT	3426*	22,7%	16,5%	2012*	23,6%	19,4%	2012*	23,6%	19,4%	24*					44*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg Topographie	2649	36,4%	21,0%	1358	37,4%	24,1%	1358	37,4%	24,1%	3*	33,3%	0,0%	1008	1110	5*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg Topographie	2538	26,8%	16,1%	1337	26,2%	18,2%	1337	26,2%	18,2%	6*	0,0%	16,7%	1185	1191	11*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse Automatique et Electronique	5246	26,3%	19,3%	2711	26,8%	21,8%	2711	26,8%	21,8%	2*	50,0%	50,0%	515	515	3*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Biologique	4439	47,9%	20,4%	2290	51,6%	23,0%	2290	51,6%	23,0%	2*	50,0%	50,0%	439	439	2*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Civil	2649	36,4%	21,0%	1358	37,4%	24,1%	1358	37,4%	24,1%	1*	0,0%	0,0%	366	366	1*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Civil	2538	26,8%	16,1%	1337	26,2%	18,2%	1337	26,2%	18,2%	5*	20,0%	0,0%	490	433	5*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie des ProcÃ©dÃ©s et environnement	4483	38,1%	19,6%	1607	38,3%	22,0%	1607	38,3%	22,0%	8*	50,0%	0,0%	738	731	10*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie MÃ©canique	3426	22,7%	16,5%	2012	23,6%	19,4%	2012	23,6%	19,4%	6*	16,7%	16,7%	659	673	4*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Physique	1686	14,4%	17,1%	876	15,8%	19,1%	876	15,8%	19,1%	1*	0,0%	0,0%	111	111	1*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Physique	4917	32,4%	20,1%	2740	33,6%	23,0%	2740	33,6%	23,0%	1*	0,0%	0,0%	594	594	5*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse Informatique et RÃ©seaux										5*	0,0%	20,0%	407*	415*	6*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse MathÃ©matiques appliquÃ©es										2*	0,0%	0,0%	361	361	2*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine Informatique, mathÃ©matique, modÃ©lisation PC-PSI-PT	3414*	25,7%	19,1%	1127*	25,8%	21,0%	1127*	25,8%	21,0%	7*					8*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	ISIS Castres Informatique pour la SantÃ©	4439	47,9%	20,4%	2290	51,6%	23,0%	2290	51,6%	23,0%	1*	100,0%	0,0%	1419	1419	2*
-2021	PT	Groupe INSA Inter-FiliÃ¨re	Sup'EnR Perpignan EnergÃ©tique et Energies Renouvelables	4483	38,1%	19,6%	1607	38,3%	22,0%	1607	38,3%	22,0%	0*	0,0%	0,0%	0	0	2*
-2021	PT	CESI	CESI AngoulÃªme										0*	0,0%	0,0%	0*	0*	10*
+2021	PT	Groupe INSA	ISIS Castres Informatique pour la Santé	633	22,7%	17,1%	339	24,2%	18,0%	339	24,2%	18,0%	0	0,0%	0,0%	0	0	1
+2021	PT	Groupe INSA Inter-Filière	ESITech Rouen Génie Physique	1686	14,4%	17,1%	876	15,8%	19,1%	876	15,8%	19,1%	2*	50,0%	50,0%	94	94	2*
+2021	PT	Groupe INSA Inter-Filière	ESITech Rouen Génie Physique	4917	32,4%	20,1%	2740	33,6%	23,0%	2740	33,6%	23,0%	4*	75,0%	75,0%	2189	2104	6*
+2021	PT	Groupe INSA Inter-Filière	ESITech Rouen Technologies du Vivant	4439	47,9%	20,4%	2290	51,6%	23,0%	2290	51,6%	23,0%	3*	100,0%	0,0%	999	795	3*
+2021	PT	Groupe INSA Inter-Filière	INSA Centre Val de Loire Génie des Systèmes Industriels	3426	22,7%	16,5%	2012	23,6%	19,4%	2012	23,6%	19,4%	6*	16,7%	0,0%	1861	1766	20*
+2021	PT	Groupe INSA Inter-Filière	INSA Centre Val de Loire Maîtrise des Risques Industriels	1686	14,4%	17,1%	876	15,8%	19,1%	876	15,8%	19,1%	5*	20,0%	0,0%	264	329	5*
+2021	PT	Groupe INSA Inter-Filière	INSA Centre Val de Loire Maîtrise des Risques Industriels	4917	32,4%	20,1%	2740	33,6%	23,0%	2740	33,6%	23,0%	4*	50,0%	25,0%	2644	2561	25*
+2021	PT	Groupe INSA Inter-Filière	INSA Centre Val de Loire Sécurité et Technologies Informatiques	3414	25,7%	19,1%	1127	25,8%	21,0%	1127	25,8%	21,0%	0*	0,0%	0,0%	0	0	1*
+2021	PT	Groupe INSA Inter-Filière	INSA Hauts de France Electronique des Systèmes Embarqués	5246	26,3%	19,3%	2711	26,8%	21,8%	2711	26,8%	21,8%	6*	33,3%	16,7%	2388	2377	11*
+2021	PT	Groupe INSA Inter-Filière	INSA Hauts de France Génie civil et bâtiment	2538	26,8%	16,1%	1337	26,2%	18,2%	1337	26,2%	18,2%	5*	20,0%	20,0%	1066	1007	5*
+2021	PT	Groupe INSA Inter-Filière	INSA Hauts de France Génie civil et bâtiment	2649	36,4%	21,0%	1358	37,4%	24,1%	1358	37,4%	24,1%	9*	33,3%	44,4%	1136	1100	8*
+2021	PT	Groupe INSA Inter-Filière	INSA Hauts de France Génie Industriel	3426	22,7%	16,5%	2012	23,6%	19,4%	2012	23,6%	19,4%	4*	75,0%	25,0%	1663	1683	9*
+2021	PT	Groupe INSA Inter-Filière	INSA Hauts de France Informatique et Cybersécurité	3414	25,7%	19,1%	1127	25,8%	21,0%	1127	25,8%	21,0%	0*	0,0%	0,0%	0	0	4*
+2021	PT	Groupe INSA Inter-Filière	INSA Hauts de France Informatique Industrielle et Automatique	5246	26,3%	19,3%	2711	26,8%	21,8%	2711	26,8%	21,8%	1*	0,0%	0,0%	2645	2645	10*
+2021	PT	Groupe INSA Inter-Filière	INSA Hauts de France Mécanique et Energétique										17*	29,4%	11,8%	1705*	1639*	28*
+2021	PT	Groupe INSA Inter-Filière	INSA Hauts de France Mécatronique										9*	33,3%	11,1%	1909	1752	12*
+2021	PT	Groupe INSA Inter-Filière	Concours INSA Domaine Génie mécanique, génie industriel et mécatronique PSI-PT	3426*	22,7%	16,5%	2012*	23,6%	19,4%	2012*	23,6%	19,4%	26*					40*
+2021	PT	Groupe INSA Inter-Filière	INSA Lyon Biosciences	4439	47,9%	20,4%	2290	51,6%	23,0%	2290	51,6%	23,0%	3*	66,7%	33,3%	49	68	4*
+2021	PT	Groupe INSA Inter-Filière	INSA Lyon Génie Civil et Urbanisme	2538	26,8%	16,1%	1337	26,2%	18,2%	1337	26,2%	18,2%	9*	55,6%	0,0%	297	281	8*
+2021	PT	Groupe INSA Inter-Filière	INSA Lyon Génie Civil et Urbanisme	2649	36,4%	21,0%	1358	37,4%	24,1%	1358	37,4%	24,1%	5*	80,0%	20,0%	101	154	5*
+2021	PT	Groupe INSA Inter-Filière	INSA Lyon Génie Electrique	5246	26,3%	19,3%	2711	26,8%	21,8%	2711	26,8%	21,8%	8*	12,5%	25,0%	571	558	8*
+2021	PT	Groupe INSA Inter-Filière	INSA Lyon Génie Energétique et Environnement	4483	38,1%	19,6%	1607	38,3%	22,0%	1607	38,3%	22,0%	4*	25,0%	50,0%	152	147	4*
+2021	PT	Groupe INSA Inter-Filière	INSA Lyon Génie Industriel										8*	12,5%	0,0%	306*	267*	7*
+2021	PT	Groupe INSA Inter-Filière	INSA Lyon Génie Mécanique										23*	21,7%	0,0%	421	385	25*
+2021	PT	Groupe INSA Inter-Filière	Concours INSA Domaine Génie mécanique, génie industriel et mécatronique PSI-PT	3426*	22,7%	16,5%	2012*	23,6%	19,4%	2012*	23,6%	19,4%	31*					32*
+2021	PT	Groupe INSA Inter-Filière	INSA Lyon Informatique	3414	25,7%	19,1%	1127	25,8%	21,0%	1127	25,8%	21,0%	3*	33,3%	33,3%	78	87	3*
+2021	PT	Groupe INSA Inter-Filière	INSA Lyon Science et Génie des Matériaux	1686	14,4%	17,1%	876	15,8%	19,1%	876	15,8%	19,1%	1*	0,0%	0,0%	89	89	1*
+2021	PT	Groupe INSA Inter-Filière	INSA Lyon Science et Génie des Matériaux	4917	32,4%	20,1%	2740	33,6%	23,0%	2740	33,6%	23,0%	10*	30,0%	30,0%	458	464	10*
+2021	PT	Groupe INSA Inter-Filière	INSA Lyon Télécommunications, services et usages	3414	25,7%	19,1%	1127	25,8%	21,0%	1127	25,8%	21,0%	4*	0,0%	25,0%	531	481	4*
+2021	PT	Groupe INSA Inter-Filière	INSA Rennes Electronique et Informatique Industrielle	5246	26,3%	19,3%	2711	26,8%	21,8%	2711	26,8%	21,8%	3*	0,0%	0,0%	1406	1140	3*
+2021	PT	Groupe INSA Inter-Filière	INSA Rennes Génie Civil et Urbain	2649	36,4%	21,0%	1358	37,4%	24,1%	1358	37,4%	24,1%	2*	50,0%	0,0%	687	687	2*
+2021	PT	Groupe INSA Inter-Filière	INSA Rennes Génie Civil et Urbain	2538	26,8%	16,1%	1337	26,2%	18,2%	1337	26,2%	18,2%	2*	50,0%	50,0%	505	505	2*
+2021	PT	Groupe INSA Inter-Filière	INSA Rennes Génie Mécanique et Automatique	3426	22,7%	16,5%	2012	23,6%	19,4%	2012	23,6%	19,4%	4*	25,0%	25,0%	933	861	4*
+2021	PT	Groupe INSA Inter-Filière	INSA Rennes Informatique	3414	25,7%	19,1%	1127	25,8%	21,0%	1127	25,8%	21,0%	1*	0,0%	0,0%	880	880	2*
+2021	PT	Groupe INSA Inter-Filière	INSA Rennes Science et Génie des Matériaux	1686	14,4%	17,1%	876	15,8%	19,1%	876	15,8%	19,1%	1*	100,0%	0,0%	176	176	1*
+2021	PT	Groupe INSA Inter-Filière	INSA Rennes Science et Génie des Matériaux	4917	32,4%	20,1%	2740	33,6%	23,0%	2740	33,6%	23,0%	3*	66,7%	33,3%	1002	1181	3*
+2021	PT	Groupe INSA Inter-Filière	INSA Rennes Système et Réseaux de Communication	5246	26,3%	19,3%	2711	26,8%	21,8%	2711	26,8%	21,8%	1*	0,0%	0,0%	1983	1983	3*
+2021	PT	Groupe INSA Inter-Filière	INSA Rouen Normandie Chimie et Procédés										4*	75,0%	50,0%	1207*	1024*	4*
+2021	PT	Groupe INSA Inter-Filière	INSA Rouen Normandie Energétique et Propulsion										4*	25,0%	0,0%	1190	1013	4*
+2021	PT	Groupe INSA Inter-Filière	Concours INSA Domaine Energétique – Génie Chimique – Environnement MP-PC-PSI	4483*	38,1%	19,6%	1607*	38,3%	22,0%	1607*	38,3%	22,0%	8*					8*
+2021	PT	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Civil et constructions durables	2649	36,4%	21,0%	1358	37,4%	24,1%	1358	37,4%	24,1%	2*	0,0%	50,0%	960	960	2*
+2021	PT	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Civil et constructions durables	2538	26,8%	16,1%	1337	26,2%	18,2%	1337	26,2%	18,2%	2*	50,0%	50,0%	502	502	2*
+2021	PT	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Mathématique										2*	50,0%	50,0%	603*	603*	2*
+2021	PT	Groupe INSA Inter-Filière	INSA Rouen Normandie Informatique et technologie de l'information										3*	33,3%	0,0%	953	989	2*
+2021	PT	Groupe INSA Inter-Filière	Concours INSA Domaine Informatique, mathématique, modélisation PC-PSI-PT	3414*	25,7%	19,1%	1127*	25,8%	21,0%	1127*	25,8%	21,0%	5*					4*
+2021	PT	Groupe INSA Inter-Filière	INSA Rouen Normandie Maîtrise des Risques Industriels	4483	38,1%	19,6%	1607	38,3%	22,0%	1607	38,3%	22,0%	0*	0,0%	0,0%	0	0	6*
+2021	PT	Groupe INSA Inter-Filière	INSA Rouen Normandie Mécanique	3426	22,7%	16,5%	2012	23,6%	19,4%	2012	23,6%	19,4%	2*	50,0%	0,0%	1122	1122	3*
+2021	PT	Groupe INSA Inter-Filière	INSA Strasbourg Génie Civil	2538	26,8%	16,1%	1337	26,2%	18,2%	1337	26,2%	18,2%	10*	40,0%	10,0%	670	682	11*
+2021	PT	Groupe INSA Inter-Filière	INSA Strasbourg Génie Civil	2649	36,4%	21,0%	1358	37,4%	24,1%	1358	37,4%	24,1%	2*	50,0%	50,0%	480	480	3*
+2021	PT	Groupe INSA Inter-Filière	INSA Strasbourg Génie Climatique et Energétique	4483	38,1%	19,6%	1607	38,3%	22,0%	1607	38,3%	22,0%	2*	100,0%	0,0%	1021	1021	12*
+2021	PT	Groupe INSA Inter-Filière	INSA Strasbourg Génie Electrique	5246	26,3%	19,3%	2711	26,8%	21,8%	2711	26,8%	21,8%	6*	16,7%	50,0%	1596	1540	5*
+2021	PT	Groupe INSA Inter-Filière	INSA Strasbourg Génie Mécanique										17*	11,8%	23,5%	1152*	1177*	22*
+2021	PT	Groupe INSA Inter-Filière	INSA Strasbourg Mécatronique										6*	33,3%	16,7%	1185*	1191*	6*
+2021	PT	Groupe INSA Inter-Filière	INSA Strasbourg Plasturgie										1*	0,0%	0,0%	1597	1597	16*
+2021	PT	Groupe INSA Inter-Filière	Concours INSA Domaine Génie mécanique, génie industriel et mécatronique PSI-PT	3426*	22,7%	16,5%	2012*	23,6%	19,4%	2012*	23,6%	19,4%	24*					44*
+2021	PT	Groupe INSA Inter-Filière	INSA Strasbourg Topographie	2649	36,4%	21,0%	1358	37,4%	24,1%	1358	37,4%	24,1%	3*	33,3%	0,0%	1008	1110	5*
+2021	PT	Groupe INSA Inter-Filière	INSA Strasbourg Topographie	2538	26,8%	16,1%	1337	26,2%	18,2%	1337	26,2%	18,2%	6*	0,0%	16,7%	1185	1191	11*
+2021	PT	Groupe INSA Inter-Filière	INSA Toulouse Automatique et Electronique	5246	26,3%	19,3%	2711	26,8%	21,8%	2711	26,8%	21,8%	2*	50,0%	50,0%	515	515	3*
+2021	PT	Groupe INSA Inter-Filière	INSA Toulouse Génie Biologique	4439	47,9%	20,4%	2290	51,6%	23,0%	2290	51,6%	23,0%	2*	50,0%	50,0%	439	439	2*
+2021	PT	Groupe INSA Inter-Filière	INSA Toulouse Génie Civil	2649	36,4%	21,0%	1358	37,4%	24,1%	1358	37,4%	24,1%	1*	0,0%	0,0%	366	366	1*
+2021	PT	Groupe INSA Inter-Filière	INSA Toulouse Génie Civil	2538	26,8%	16,1%	1337	26,2%	18,2%	1337	26,2%	18,2%	5*	20,0%	0,0%	490	433	5*
+2021	PT	Groupe INSA Inter-Filière	INSA Toulouse Génie des Procédés et environnement	4483	38,1%	19,6%	1607	38,3%	22,0%	1607	38,3%	22,0%	8*	50,0%	0,0%	738	731	10*
+2021	PT	Groupe INSA Inter-Filière	INSA Toulouse Génie Mécanique	3426	22,7%	16,5%	2012	23,6%	19,4%	2012	23,6%	19,4%	6*	16,7%	16,7%	659	673	4*
+2021	PT	Groupe INSA Inter-Filière	INSA Toulouse Génie Physique	1686	14,4%	17,1%	876	15,8%	19,1%	876	15,8%	19,1%	1*	0,0%	0,0%	111	111	1*
+2021	PT	Groupe INSA Inter-Filière	INSA Toulouse Génie Physique	4917	32,4%	20,1%	2740	33,6%	23,0%	2740	33,6%	23,0%	1*	0,0%	0,0%	594	594	5*
+2021	PT	Groupe INSA Inter-Filière	INSA Toulouse Informatique et Réseaux										5*	0,0%	20,0%	407*	415*	6*
+2021	PT	Groupe INSA Inter-Filière	INSA Toulouse Mathématiques appliquées										2*	0,0%	0,0%	361	361	2*
+2021	PT	Groupe INSA Inter-Filière	Concours INSA Domaine Informatique, mathématique, modélisation PC-PSI-PT	3414*	25,7%	19,1%	1127*	25,8%	21,0%	1127*	25,8%	21,0%	7*					8*
+2021	PT	Groupe INSA Inter-Filière	ISIS Castres Informatique pour la Santé	4439	47,9%	20,4%	2290	51,6%	23,0%	2290	51,6%	23,0%	1*	100,0%	0,0%	1419	1419	2*
+2021	PT	Groupe INSA Inter-Filière	Sup'EnR Perpignan Energétique et Energies Renouvelables	4483	38,1%	19,6%	1607	38,3%	22,0%	1607	38,3%	22,0%	0*	0,0%	0,0%	0	0	2*
+2021	PT	CESI	CESI Angoulême										0*	0,0%	0,0%	0*	0*	10*
 2021	PT	CESI	CESI Arras										2*	0,0%	0,0%	108*	108*	15*
 2021	PT	CESI	CESI Bordeaux										2*	50,0%	50,0%	155*	155*	12*
 2021	PT	CESI	CESI Lyon										5*	0,0%	20,0%	104*	97*	20*
@@ -270,7 +270,7 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2021	PT	CESI	CESI Nanterre										6*	33,3%	16,7%	132*	137*	20*
 2021	PT	CESI	CESI Nice Sophia Antipolis										3*	33,3%	0,0%	54*	71*	10*
 2021	PT	CESI	CESI Saint-Nazaire										1*	0,0%	0,0%	166	166	20*
-2021	PT	CESI	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur GÃ©nÃ©raliste	563*	26,5%	11,9%	175*	25,7%	16,0%	175*	25,7%	16,0%	21*					127*
+2021	PT	CESI	Concours CESI Ecole d'Ingénieurs - Ingénieur Généraliste	563*	26,5%	11,9%	175*	25,7%	16,0%	175*	25,7%	16,0%	21*					127*
 2021	PT	CESI	CESI Aix-en-Provence										0*	0,0%	0,0%	0*	0*	10*
 2021	PT	CESI	CESI Arras										1*	0,0%	0,0%	42*	42*	5*
 2021	PT	CESI	CESI Bordeaux										2*	0,0%	0,0%	43*	43*	6*
@@ -281,13 +281,13 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2021	PT	CESI	CESI Nancy										0*	0,0%	0,0%	0*	0*	10*
 2021	PT	CESI	CESI Nanterre										0*	0,0%	0,0%	0*	0*	12*
 2021	PT	CESI	CESI Nice Sophia Antipolis										0*	0,0%	0,0%	0*	0*	2*
-2021	PT	CESI	CESI OrlÃ©ans										0*	0,0%	0,0%	0*	0*	5*
+2021	PT	CESI	CESI Orléans										0*	0,0%	0,0%	0*	0*	5*
 2021	PT	CESI	CESI Pau										0*	0,0%	0,0%	0*	0*	2*
 2021	PT	CESI	CESI Reims										1*	0,0%	0,0%	15*	15*	6*
 2021	PT	CESI	CESI Saint-Nazaire										0*	0,0%	0,0%	0*	0*	20*
 2021	PT	CESI	CESI Strasbourg										0*	0,0%	0,0%	0*	0*	15*
 2021	PT	CESI	CESI Toulouse										0*	0,0%	0,0%	0	0	3*
-2021	PT	CESI	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur en Informatique (interFilÃ¨re)	153*	11,8%	7,8%	67*	16,4%	7,5%	67*	16,4%	7,5%	6*					114*
+2021	PT	CESI	Concours CESI Ecole d'Ingénieurs - Ingénieur en Informatique (interFilère)	153*	11,8%	7,8%	67*	16,4%	7,5%	67*	16,4%	7,5%	6*					114*
 2021	PT	EPITA	EPITA campus Lyon										4	0,0%	0,0%	67	66	3
 2021	PT	EPITA	EPITA campus Paris										9	0,0%	0,0%	89	85	5
 2021	PT	EPITA	EPITA campus Toulouse										1	0,0%	0,0%	60	60	1

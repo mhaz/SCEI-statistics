@@ -7,7 +7,7 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2016	PT	CENTRALE-SUPELEC	CENTRALE LILLE										150	12	0,0%	0,0%	12
 2016	PT	CENTRALE-SUPELEC	CENTRALE NANTES										125	10	30,0%	0,0%	20
 2016	PT	CENTRALE-SUPELEC	CENTRALE MARSEILLE										183	2	50,0%	0,0%	10
-2016	PT	CENTRALE-SUPELEC	Concours Centrale-SupÃ©lec	1473	13,8%	20,4%	492	11,2%	12,6%	483	11,4%	12,6%		86			107
+2016	PT	CENTRALE-SUPELEC	Concours Centrale-Supélec	1473	13,8%	20,4%	492	11,2%	12,6%	483	11,4%	12,6%		86			107
 2016	PT	CONCOURS COMMUN MINES-PONTS	MINES ParisTech										19	4	25,0%	0,0%	5
 2016	PT	CONCOURS COMMUN MINES-PONTS	MINES de NANCY										115	5	20,0%	20,0%	4
 2016	PT	CONCOURS COMMUN MINES-PONTS	MINES de SAINT-ETIENNE										126	2	0,0%	0,0%	2
@@ -19,40 +19,40 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2016	PT	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE cursus Brest-Rennes-Toulouse										82	0	0,0%	0,0%	2
 2016	PT	CONCOURS COMMUN MINES-PONTS	TELECOM BRETAGNE cursus Sophia										90	1	0,0%	100,0%	1
 2016	PT	CONCOURS COMMUN MINES-PONTS	Concours Commun Mines-Ponts PT	1230	13,5%	20,1%	190	8,9%	17,4%	161	9,3%	11,2%		30			33
-2016	PT	CONCOURS COMMUN ENSAM	Arts et MÃ©tiers - ingÃ©nieurs militaires	514	11,1%	20,8%	115	7,0%	27,8%	24	16,7%	37,5%	34	8	12,5%	50,0%	8
-2016	PT	CONCOURS COMMUN ENSAM	Arts et MÃ©tiers										804	540	12,0%	31,3%	541
+2016	PT	CONCOURS COMMUN ENSAM	Arts et Métiers - ingénieurs militaires	514	11,1%	20,8%	115	7,0%	27,8%	24	16,7%	37,5%	34	8	12,5%	50,0%	8
+2016	PT	CONCOURS COMMUN ENSAM	Arts et Métiers										804	540	12,0%	31,3%	541
 2016	PT	CONCOURS COMMUN ENSAM	ENSEA Cergy										1166	13	0,0%	46,2%	20
-2016	PT	CONCOURS COMMUN ENSAM	ARTS ET MÃTIERS	2361	13,0%	20,3%	1285	11,6%	25,7%	1170	12,0%	25,9%		553			561
+2016	PT	CONCOURS COMMUN ENSAM	ARTS ET MÉTIERS	2361	13,0%	20,3%	1285	11,6%	25,7%	1170	12,0%	25,9%		553			561
 2016	PT	CONCOURS ECOLE POLYTECHNIQUE	ECOLE POLYTECHNIQUE	383	14,1%	11,7%	22	9,1%	4,5%	13	15,4%	0,0%	11	11	9,1%	0,0%	11
 2016	PT	CONCOURS ENS DE CACHAN	ENS Cachan	1578	13,6%	23,2%	422	9,5%	26,1%	373	9,9%	24,1%	303	37	10,8%	18,9%	37
 2016	PT	CONCOURS ENS DE CACHAN	ENS Rennes	1394	13,8%	24,1%	394	9,6%	28,7%	349	10,0%	26,9%	288	6	16,7%	0,0%	6
-2016	PT	Concours Mines - TÃ©lÃ©com	Ecole des Mines d'Albi										323	8	25,0%	25,0%	8
-2016	PT	Concours Mines - TÃ©lÃ©com	Ecole des Mines d'AlÃ¨s										447	22	27,3%	40,9%	20
-2016	PT	Concours Mines - TÃ©lÃ©com	Ecole des Mines Douai										480	22	18,2%	45,5%	20
-2016	PT	Concours Mines - TÃ©lÃ©com	Ecole des Mines Nantes										52	3	0,0%	0,0%	3
-2016	PT	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne Civil										306	16	12,5%	12,5%	13
-2016	PT	Concours Mines - TÃ©lÃ©com	Mines Saint Etienne-ISMIN										369	4	0,0%	0,0%	4
-2016	PT	Concours Mines - TÃ©lÃ©com	TELECOM PHYSIQUE Strasbourg - RT-INOC										553	1	0,0%	0,0%	2
-2016	PT	Concours Mines - TÃ©lÃ©com	TELECOM PHYSIQUE Strasbourg TIC-SantÃ©										290	0	0,0%	0,0%	1
-2016	PT	Concours Mines - TÃ©lÃ©com	TELECOM SudParis - cursus Evry										284	7	28,6%	28,6%	5
-2016	PT	Concours Mines - TÃ©lÃ©com	Concours Mines-TÃ©lÃ©com	1680	13,8%	23,1%	712	14,2%	26,1%	549	16,2%	28,6%		83			76
-2016	PT	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne Militaire	1680	13,8%	23,1%	598	14,2%	30,6%	449	16,5%	34,5%	47	3	33,3%	0,0%	3
-2016	PT	Concours Mines - TÃ©lÃ©com	ENSG-GÃ©omatique Marne la VallÃ©e Civil										474	1	0,0%	0,0%	2
-2016	PT	Concours Mines - TÃ©lÃ©com	ENSSAT Lannion										609	3	0,0%	33,3%	8
-2016	PT	Concours Mines - TÃ©lÃ©com	TELECOM Nancy										570	16	12,5%	12,5%	12
-2016	PT	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut apprenti										583	2	0,0%	0,0%	5
-2016	PT	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut Ã©tudiant										603	5	0,0%	0,0%	10
-2016	PT	Concours Mines - TÃ©lÃ©com	Concours Mines TÃ©lÃ©com G4 PT	1680	13,8%	23,1%	973	13,4%	26,3%	613	15,7%	28,7%		27			37
-2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM BesanÃ§on										1200	43	11,6%	23,3%	46
+2016	PT	Concours Mines - Télécom	Ecole des Mines d'Albi										323	8	25,0%	25,0%	8
+2016	PT	Concours Mines - Télécom	Ecole des Mines d'Alès										447	22	27,3%	40,9%	20
+2016	PT	Concours Mines - Télécom	Ecole des Mines Douai										480	22	18,2%	45,5%	20
+2016	PT	Concours Mines - Télécom	Ecole des Mines Nantes										52	3	0,0%	0,0%	3
+2016	PT	Concours Mines - Télécom	ENSTA Bretagne Civil										306	16	12,5%	12,5%	13
+2016	PT	Concours Mines - Télécom	Mines Saint Etienne-ISMIN										369	4	0,0%	0,0%	4
+2016	PT	Concours Mines - Télécom	TELECOM PHYSIQUE Strasbourg - RT-INOC										553	1	0,0%	0,0%	2
+2016	PT	Concours Mines - Télécom	TELECOM PHYSIQUE Strasbourg TIC-Santé										290	0	0,0%	0,0%	1
+2016	PT	Concours Mines - Télécom	TELECOM SudParis - cursus Evry										284	7	28,6%	28,6%	5
+2016	PT	Concours Mines - Télécom	Concours Mines-Télécom	1680	13,8%	23,1%	712	14,2%	26,1%	549	16,2%	28,6%		83			76
+2016	PT	Concours Mines - Télécom	ENSTA Bretagne Militaire	1680	13,8%	23,1%	598	14,2%	30,6%	449	16,5%	34,5%	47	3	33,3%	0,0%	3
+2016	PT	Concours Mines - Télécom	ENSG-Géomatique Marne la Vallée Civil										474	1	0,0%	0,0%	2
+2016	PT	Concours Mines - Télécom	ENSSAT Lannion										609	3	0,0%	33,3%	8
+2016	PT	Concours Mines - Télécom	TELECOM Nancy										570	16	12,5%	12,5%	12
+2016	PT	Concours Mines - Télécom	TELECOM St Etienne - Statut apprenti										583	2	0,0%	0,0%	5
+2016	PT	Concours Mines - Télécom	TELECOM St Etienne - Statut étudiant										603	5	0,0%	0,0%	10
+2016	PT	Concours Mines - Télécom	Concours Mines Télécom G4 PT	1680	13,8%	23,1%	973	13,4%	26,3%	613	15,7%	28,7%		27			37
+2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSMM Besançon										1200	43	11,6%	23,3%	46
 2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Electronique										643	3	0,0%	0,0%	2
-2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA MathÃ©matiques et MÃ©canique										731	4	25,0%	25,0%	4
+2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Mathématiques et Mécanique										731	4	25,0%	25,0%	4
 2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Informatique										625	1	0,0%	100,0%	1
-2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA TÃ©lecom.										811	2	0,0%	0,0%	1
-2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique AppliquÃ©e										1190	7	14,3%	14,3%	8
+2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	Bordeaux INP - ENSEIRB-MATMECA Télecom.										811	2	0,0%	0,0%	1
+2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSICAEN Electronique et Physique Appliquée										1190	7	14,3%	14,3%	8
 2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	EISTI Cergy - Pau										1315	2	50,0%	50,0%	6
 2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	ISIMA Clermont-Ferrand										1201	5	0,0%	0,0%	5
-2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique Electronique TÃ©lÃ©coms)										496	7	14,3%	14,3%	3
-2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique MatÃ©riaux ProcÃ©dÃ©s)										292	3	33,3%	0,0%	3
+2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique Electronique Télécoms)										496	7	14,3%	14,3%	3
+2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Phelma (Physique Matériaux Procédés)										292	3	33,3%	0,0%	3
 2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Pagora										616	1	0,0%	100,0%	1
 2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - ENSE3										672	17	17,6%	17,6%	15
 2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	Grenoble INP - Esisar										730	3	0,0%	33,3%	3
@@ -66,78 +66,78 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	ISAE-ENSMA Poitiers										501	3	33,3%	0,0%	5
 2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	SeaTech Toulon										1096	8	12,5%	12,5%	8
 2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Electronique et Traitement du Signal										663	2	0,0%	0,0%	2
-2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse GÃ©nie Electrique et Automatique										680	2	0,0%	0,0%	2
-2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Hydraulique et MÃ©canique des Fluides										705	2	0,0%	0,0%	2
-2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Informatique et MathÃ©matiques appliquÃ©es										507	3	0,0%	33,3%	2
-2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse TÃ©lÃ©com.rÃ©seaux										735	2	0,0%	0,0%	2
+2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Génie Electrique et Automatique										680	2	0,0%	0,0%	2
+2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Hydraulique et Mécanique des Fluides										705	2	0,0%	0,0%	2
+2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Informatique et Mathématiques appliquées										507	3	0,0%	33,3%	2
+2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	INP-ENSEEIHT Toulouse Télécom.réseaux										735	2	0,0%	0,0%	2
 2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENAC Toulouse Civil										341	2	0,0%	0,0%	3
-2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et GÃ©nie Industriel										1267	4	75,0%	25,0%	4
-2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes MÃ©ca Energ.										1239	6	0,0%	16,7%	6
-2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes MÃ©catronique										1309	6	16,7%	66,7%	6
+2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Informatique et Génie Industriel										1267	4	75,0%	25,0%	4
+2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Méca Energ.										1239	6	0,0%	16,7%	6
+2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	ENSIAME Valenciennes Mécatronique										1309	6	16,7%	66,7%	6
 2016	PT	CONCOURS COMMUNS POLYTECHNIQUES	Concours Commun Polytechnique PT	2323	13,0%	20,3%	1410	12,0%	25,3%	1315	12,4%	24,6%		177			179
-2016	PT	CONCOURS POLYTECH	Ãcole SupÃ©rieure d'IngÃ©nieurs de Paris-Est CrÃ©teil (ESIPE-CrÃ©teil)										554	0	0,0%	0,0%	2
+2016	PT	CONCOURS POLYTECH	École Supérieure d'Ingénieurs de Paris-Est Créteil (ESIPE-Créteil)										554	0	0,0%	0,0%	2
 2016	PT	CONCOURS POLYTECH	ENSIM Le Mans										847	3	0,0%	33,3%	2
 2016	PT	CONCOURS POLYTECH	ESI Reims										1091	1	0,0%	0,0%	3
 2016	PT	CONCOURS POLYTECH	ESIREM Dijon										847	0	0,0%	0,0%	2
-2016	PT	CONCOURS POLYTECH	ESIROI La RÃ©union										1137	0	0,0%	0,0%	2
+2016	PT	CONCOURS POLYTECH	ESIROI La Réunion										1137	0	0,0%	0,0%	2
 2016	PT	CONCOURS POLYTECH	ESIX Normandie										1137	2	0,0%	0,0%	4
 2016	PT	CONCOURS POLYTECH	ESSTIN Nancy										1133	4	0,0%	0,0%	6
-2016	PT	CONCOURS POLYTECH	ISAT Nevers - dÃ©partement MIT (MÃ©canique et IngÃ©nierie des Transports)										939	9	0,0%	0,0%	10
-2016	PT	CONCOURS POLYTECH	ISAT Nevers - dÃ©partement EPEE (Energies et Moteurs)										803	2	0,0%	50,0%	5
-2016	PT	CONCOURS POLYTECH	ISBS CrÃ©teil										623	1	100,0%	0,0%	1
+2016	PT	CONCOURS POLYTECH	ISAT Nevers - département MIT (Mécanique et Ingénierie des Transports)										939	9	0,0%	0,0%	10
+2016	PT	CONCOURS POLYTECH	ISAT Nevers - département EPEE (Energies et Moteurs)										803	2	0,0%	50,0%	5
+2016	PT	CONCOURS POLYTECH	ISBS Créteil										623	1	100,0%	0,0%	1
 2016	PT	CONCOURS POLYTECH	ISEL Le Havre										844	0	0,0%	0,0%	2
-2016	PT	CONCOURS POLYTECH	ISIFC BesanÃ§on										1094	2	0,0%	100,0%	2
+2016	PT	CONCOURS POLYTECH	ISIFC Besançon										1094	2	0,0%	100,0%	2
 2016	PT	CONCOURS POLYTECH	ISIS Castres										1153	0	0,0%	0,0%	3
 2016	PT	CONCOURS POLYTECH	ISTIA Angers										1122	1	0,0%	100,0%	5
-2016	PT	CONCOURS POLYTECH	ISTY VÃ©lizy										1147	0	0,0%	0,0%	3
-2016	PT	CONCOURS POLYTECH	Polytech Annecy-ChambÃ©ry - Environnement, BÃ¢timent, Ãnergie										914	2	0,0%	0,0%	4
-2016	PT	CONCOURS POLYTECH	Polytech Annecy-ChambÃ©ry - Instrumentation, Automatique, Informatique										1132	2	0,0%	50,0%	3
-2016	PT	CONCOURS POLYTECH	Polytech Annecy-ChambÃ©ry - MÃ©canique, MatÃ©riaux										970	3	0,0%	0,0%	3
-2016	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - GÃ©nie Civil										797	2	0,0%	50,0%	3
-2016	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - GÃ©nie Electrique										1109	4	25,0%	25,0%	3
-2016	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - GÃ©nie Physique										1062	2	0,0%	50,0%	3
-2016	PT	CONCOURS POLYTECH	Polytech Grenoble - GÃ©otechnique et gÃ©nie civil										1031	4	0,0%	25,0%	4
+2016	PT	CONCOURS POLYTECH	ISTY Vélizy										1147	0	0,0%	0,0%	3
+2016	PT	CONCOURS POLYTECH	Polytech Annecy-Chambéry - Environnement, Bâtiment, Énergie										914	2	0,0%	0,0%	4
+2016	PT	CONCOURS POLYTECH	Polytech Annecy-Chambéry - Instrumentation, Automatique, Informatique										1132	2	0,0%	50,0%	3
+2016	PT	CONCOURS POLYTECH	Polytech Annecy-Chambéry - Mécanique, Matériaux										970	3	0,0%	0,0%	3
+2016	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Civil										797	2	0,0%	50,0%	3
+2016	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Electrique										1109	4	25,0%	25,0%	3
+2016	PT	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Physique										1062	2	0,0%	50,0%	3
+2016	PT	CONCOURS POLYTECH	Polytech Grenoble - Géotechnique et génie civil										1031	4	0,0%	25,0%	4
 2016	PT	CONCOURS POLYTECH	Polytech Grenoble - Informatique industrielle, Instrumentatlisation										1114	5	0,0%	40,0%	3
-2016	PT	CONCOURS POLYTECH	Polytech Lille - Informatique, MicroÃ©lectronique, Automatique										875	3	0,0%	0,0%	3
-2016	PT	CONCOURS POLYTECH	Polytech Lille - MÃ©canique										887	5	0,0%	40,0%	7
-2016	PT	CONCOURS POLYTECH	Polytech Lyon - SystÃ¨mes industriels, Robotique										834	3	0,0%	33,3%	3
-2016	PT	CONCOURS POLYTECH	Polytech Marseille - GÃ©nie Civil										1031	5	0,0%	40,0%	5
-2016	PT	CONCOURS POLYTECH	Polytech Marseille - GÃ©nie Industriel et Informatique										1115	3	0,0%	33,3%	3
+2016	PT	CONCOURS POLYTECH	Polytech Lille - Informatique, Microélectronique, Automatique										875	3	0,0%	0,0%	3
+2016	PT	CONCOURS POLYTECH	Polytech Lille - Mécanique										887	5	0,0%	40,0%	7
+2016	PT	CONCOURS POLYTECH	Polytech Lyon - Systèmes industriels, Robotique										834	3	0,0%	33,3%	3
+2016	PT	CONCOURS POLYTECH	Polytech Marseille - Génie Civil										1031	5	0,0%	40,0%	5
+2016	PT	CONCOURS POLYTECH	Polytech Marseille - Génie Industriel et Informatique										1115	3	0,0%	33,3%	3
 2016	PT	CONCOURS POLYTECH	Polytech Marseille - Informatique										1111	1	0,0%	0,0%	3
-2016	PT	CONCOURS POLYTECH	Polytech Marseille - MÃ©canique, EnergÃ©tique										1009	8	0,0%	0,0%	7
-2016	PT	CONCOURS POLYTECH	Polytech Marseille - MicroÃ©lectronique,TÃ©lÃ©communications										1147	1	0,0%	0,0%	3
-2016	PT	CONCOURS POLYTECH	Polytech Montpellier - MÃ©canique et Interactions										938	2	0,0%	50,0%	2
-2016	PT	CONCOURS POLYTECH	Polytech Nantes - Ãlectronique et technologies numÃ©riques										1033	2	0,0%	0,0%	3
-2016	PT	CONCOURS POLYTECH	Polytech Nantes - GÃ©nie civil										907	2	0,0%	0,0%	3
+2016	PT	CONCOURS POLYTECH	Polytech Marseille - Mécanique, Energétique										1009	8	0,0%	0,0%	7
+2016	PT	CONCOURS POLYTECH	Polytech Marseille - Microélectronique,Télécommunications										1147	1	0,0%	0,0%	3
+2016	PT	CONCOURS POLYTECH	Polytech Montpellier - Mécanique et Interactions										938	2	0,0%	50,0%	2
+2016	PT	CONCOURS POLYTECH	Polytech Nantes - Électronique et technologies numériques										1033	2	0,0%	0,0%	3
+2016	PT	CONCOURS POLYTECH	Polytech Nantes - Génie civil										907	2	0,0%	0,0%	3
 2016	PT	CONCOURS POLYTECH	Polytech Nantes - Informatique										692	2	0,0%	0,0%	3
-2016	PT	CONCOURS POLYTECH	Polytech Nantes - Thermique, ÃnergÃ©tique										818	2	50,0%	50,0%	3
-2016	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - Ãlectronique										1011	3	0,0%	0,0%	3
+2016	PT	CONCOURS POLYTECH	Polytech Nantes - Thermique, Énergétique										818	2	50,0%	50,0%	3
+2016	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - Électronique										1011	3	0,0%	0,0%	3
 2016	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - Informatique										1138	3	0,0%	33,3%	3
-2016	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - MathÃ©matiques appliquÃ©es, ModÃ©lisation										1075	2	0,0%	0,0%	3
-2016	PT	CONCOURS POLYTECH	Polytech OrlÃ©ans - Ãcotechnologie Ã©lectroniques et optiques										1132	0	0,0%	0,0%	3
-2016	PT	CONCOURS POLYTECH	Polytech OrlÃ©ans - GÃ©nie civil et gÃ©o-environnement										1122	5	20,0%	20,0%	4
-2016	PT	CONCOURS POLYTECH	Polytech OrlÃ©ans - GÃ©nie industriel										1126	2	0,0%	0,0%	4
-2016	PT	CONCOURS POLYTECH	Polytech OrlÃ©ans - Innovation en Conception et MatÃ©riaux										1152	6	0,0%	0,0%	6
-2016	PT	CONCOURS POLYTECH	Polytech OrlÃ©ans - Technologies pour l'Ãnergie, l'AÃ©rospatial et la Motorisation										857	6	16,7%	50,0%	4
-2016	PT	CONCOURS POLYTECH	Polytech Tours - AmÃ©nagement et environnement										1153	5	80,0%	20,0%	5
-2016	PT	CONCOURS POLYTECH	Polytech Tours - MÃ©canique, Conception de systÃ¨mes										980	3	0,0%	0,0%	3
-2016	PT	CONCOURS POLYTECH	Sup GalilÃ©e Villetaneuse										1079	3	33,3%	66,7%	5
+2016	PT	CONCOURS POLYTECH	Polytech Nice-Sophia - Mathématiques appliquées, Modélisation										1075	2	0,0%	0,0%	3
+2016	PT	CONCOURS POLYTECH	Polytech Orléans - Écotechnologie électroniques et optiques										1132	0	0,0%	0,0%	3
+2016	PT	CONCOURS POLYTECH	Polytech Orléans - Génie civil et géo-environnement										1122	5	20,0%	20,0%	4
+2016	PT	CONCOURS POLYTECH	Polytech Orléans - Génie industriel										1126	2	0,0%	0,0%	4
+2016	PT	CONCOURS POLYTECH	Polytech Orléans - Innovation en Conception et Matériaux										1152	6	0,0%	0,0%	6
+2016	PT	CONCOURS POLYTECH	Polytech Orléans - Technologies pour l'Énergie, l'Aérospatial et la Motorisation										857	6	16,7%	50,0%	4
+2016	PT	CONCOURS POLYTECH	Polytech Tours - Aménagement et environnement										1153	5	80,0%	20,0%	5
+2016	PT	CONCOURS POLYTECH	Polytech Tours - Mécanique, Conception de systèmes										980	3	0,0%	0,0%	3
+2016	PT	CONCOURS POLYTECH	Sup Galilée Villetaneuse										1079	3	33,3%	66,7%	5
 2016	PT	CONCOURS POLYTECH	Concours POLYTECH	1861	13,4%	21,4%	1365	12,2%	22,9%	1155	12,8%	24,9%		126			169
 2016	PT	AUTRES ECOLES	ECE PARIS	518	13,3%	23,2%	412	12,9%	25,5%	136	14,7%	22,8%	136	6	0,0%	16,7%	30
-2016	PT	AUTRES ECOLES	ECOLE DE L'AIR MÃ©ca	326	13,5%	22,7%	79	12,7%	30,4%	6	0,0%	33,3%	6	2	0,0%	50,0%	2
+2016	PT	AUTRES ECOLES	ECOLE DE L'AIR Méca	326	13,5%	22,7%	79	12,7%	30,4%	6	0,0%	33,3%	6	2	0,0%	50,0%	2
 2016	PT	AUTRES ECOLES	ECOLE DE L'AIR Pilote	286	14,7%	24,8%	74	13,5%	33,8%	7	0,0%	14,3%	7	1	0,0%	100,0%	1
 2016	PT	AUTRES ECOLES	EFREI Paris	196	14,3%	16,8%	185	13,5%	16,8%	54	7,4%	11,1%	54	7	14,3%	0,0%	20
 2016	PT	AUTRES ECOLES	EIGSI La Rochelle	376	18,1%	19,9%	300	16,7%	22,7%	138	18,8%	27,5%	134	13	15,4%	38,5%	25
-2016	PT	AUTRES ECOLES	EIL CÃ´te d'Opale - Calais (informatique)										72	2	0,0%	0,0%	10
-2016	PT	AUTRES ECOLES	EIL CÃ´te d'Opale - Longuenesse (GÃ©nie Industriel)										82	4	0,0%	50,0%	20
-2016	PT	AUTRES ECOLES	EIL CÃ´te d'Opale Longuenesse - Calais	270	17,4%	19,6%	239	15,9%	20,1%	82	18,3%	14,6%		6			30
+2016	PT	AUTRES ECOLES	EIL Côte d'Opale - Calais (informatique)										72	2	0,0%	0,0%	10
+2016	PT	AUTRES ECOLES	EIL Côte d'Opale - Longuenesse (Génie Industriel)										82	4	0,0%	50,0%	20
+2016	PT	AUTRES ECOLES	EIL Côte d'Opale Longuenesse - Calais	270	17,4%	19,6%	239	15,9%	20,1%	82	18,3%	14,6%		6			30
 2016	PT	AUTRES ECOLES	ENSAIT Roubaix										59	8	50,0%	12,5%	16
 2016	PT	AUTRES ECOLES	ENSAIT Roubaix - Formation en alternance										50	1	0,0%	0,0%	2
 2016	PT	AUTRES ECOLES	ENSAIT Roubaix	364	25,0%	24,5%	227	19,8%	31,3%	60	25,0%	41,7%		9			18
-2016	PT	AUTRES ECOLES	ENSIL Limoges MÃ©catronique	343	16,9%	25,4%	206	14,6%	26,2%	45	17,8%	17,8%	12	4	0,0%	0,0%	4
-2016	PT	AUTRES ECOLES	ENSISA Mulhouse Automatique et SystÃ¨mes										70	4	25,0%	25,0%	6
-2016	PT	AUTRES ECOLES	ENSISA Mulhouse Informatique et rÃ©seaux										43	1	0,0%	0,0%	6
-2016	PT	AUTRES ECOLES	ENSISA Mulhouse MÃ©canique										56	12	33,3%	16,7%	9
+2016	PT	AUTRES ECOLES	ENSIL Limoges Mécatronique	343	16,9%	25,4%	206	14,6%	26,2%	45	17,8%	17,8%	12	4	0,0%	0,0%	4
+2016	PT	AUTRES ECOLES	ENSISA Mulhouse Automatique et Systèmes										70	4	25,0%	25,0%	6
+2016	PT	AUTRES ECOLES	ENSISA Mulhouse Informatique et réseaux										43	1	0,0%	0,0%	6
+2016	PT	AUTRES ECOLES	ENSISA Mulhouse Mécanique										56	12	33,3%	16,7%	9
 2016	PT	AUTRES ECOLES	ENSISA Mulhouse Textile et Fibres										46	3	33,3%	33,3%	4
 2016	PT	AUTRES ECOLES	ENSISA Mulhouse	347	20,5%	23,1%	247	17,4%	24,3%	71	22,5%	19,7%		20			25
 2016	PT	AUTRES ECOLES	ENSTIB Epinal	256	19,9%	27,0%	192	19,8%	26,0%	72	19,4%	18,1%	70	19	21,1%	10,5%	20
@@ -145,27 +145,27 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2016	PT	AUTRES ECOLES	EPF campus MONTPELLIER										180	9	0,0%	44,4%	9
 2016	PT	AUTRES ECOLES	EPF Sceaux-Troyes-Montpellier	396	18,7%	21,7%	354	17,8%	22,9%	247	15,8%	26,7%		14			20
 2016	PT	AUTRES ECOLES	ESB Nantes	154	18,2%	26,6%	116	16,4%	27,6%	22	13,6%	22,7%	20	8	0,0%	12,5%	8
-2016	PT	AUTRES ECOLES	ESFF - SÃ¨vres	235	16,2%	26,4%	177	13,6%	29,4%	22	0,0%	45,5%	15	0	0,0%	0,0%	7
+2016	PT	AUTRES ECOLES	ESFF - Sèvres	235	16,2%	26,4%	177	13,6%	29,4%	22	0,0%	45,5%	15	0	0,0%	0,0%	7
 2016	PT	AUTRES ECOLES	ESIEA Paris - Laval	168	12,5%	23,2%	157	9,6%	22,9%	58	6,9%	17,2%	57	6	0,0%	0,0%	15
 2016	PT	AUTRES ECOLES	ESIEE Amiens	276	20,3%	22,8%	188	17,6%	25,5%	39	20,5%	20,5%	38	2	0,0%	0,0%	10
 2016	PT	AUTRES ECOLES	ESIEE Paris	257	16,0%	20,2%	219	13,7%	20,1%	67	20,9%	9,0%	66	8	25,0%	12,5%	15
 2016	PT	AUTRES ECOLES	ESIGELEC Rouen	434	17,3%	21,4%	405	17,0%	22,5%	147	17,0%	22,4%	147	24	12,5%	12,5%	40
 2016	PT	AUTRES ECOLES	ESIGETEL Villejuif	170	16,5%	21,8%	159	14,5%	21,4%	44	13,6%	13,6%	44	3	33,3%	0,0%	10
-2016	PT	AUTRES ECOLES	ESILV Paris-La DÃ©fense	435	16,3%	23,4%	400	15,5%	24,2%	185	10,8%	20,0%	123	22	0,0%	18,2%	20
+2016	PT	AUTRES ECOLES	ESILV Paris-La Défense	435	16,3%	23,4%	400	15,5%	24,2%	185	10,8%	20,0%	123	22	0,0%	18,2%	20
 2016	PT	AUTRES ECOLES	ESITC Caen	199	23,1%	25,1%	116	24,1%	25,9%	10	20,0%	20,0%	10	3	0,0%	33,3%	8
 2016	PT	AUTRES ECOLES	ESME SUDRIA Paris	347	19,6%	22,2%	280	17,5%	24,3%	119	14,3%	22,7%	103	2	50,0%	0,0%	20
-2016	PT	AUTRES ECOLES	ESTACA Laval AÃ©ronautique et spatial										190	3	0,0%	66,7%	3
+2016	PT	AUTRES ECOLES	ESTACA Laval Aéronautique et spatial										190	3	0,0%	66,7%	3
 2016	PT	AUTRES ECOLES	ESTACA Laval Automobile										206	4	25,0%	25,0%	3
-2016	PT	AUTRES ECOLES	ESTACA Paris-Saclay AÃ©ronautique et spatial										176	9	0,0%	22,2%	8
-2016	PT	AUTRES ECOLES	ESTACA Paris-Saclay Automobile ou Transports GuidÃ©s										216	9	11,1%	33,3%	7
+2016	PT	AUTRES ECOLES	ESTACA Paris-Saclay Aéronautique et spatial										176	9	0,0%	22,2%	8
+2016	PT	AUTRES ECOLES	ESTACA Paris-Saclay Automobile ou Transports Guidés										216	9	11,1%	33,3%	7
 2016	PT	AUTRES ECOLES	ESTACA Paris-Saclay/Laval	624	11,5%	24,7%	405	10,4%	30,6%	305	10,8%	32,8%		25			21
 2016	PT	AUTRES ECOLES	ESTIA Bidart	383	14,4%	23,2%	317	12,3%	24,9%	115	16,5%	23,5%	114	28	21,4%	14,3%	35
 2016	PT	AUTRES ECOLES	ESTP Paris BAT										259	13	23,1%	23,1%	9
-2016	PT	AUTRES ECOLES	ESTP Paris GÃ©nie MÃ©canique et Electrique (GME)										270	8	0,0%	50,0%	5
+2016	PT	AUTRES ECOLES	ESTP Paris Génie Mécanique et Electrique (GME)										270	8	0,0%	50,0%	5
 2016	PT	AUTRES ECOLES	ESTP Paris TOPOGRAPHIE										317	9	11,1%	66,7%	7
 2016	PT	AUTRES ECOLES	ESTP Paris TP										273	8	0,0%	37,5%	10
 2016	PT	AUTRES ECOLES	ESTP Paris	629	16,2%	27,7%	394	16,2%	35,8%	373	16,6%	36,7%		38			31
-2016	PT	AUTRES ECOLES	Grenoble INP - GÃ©nie Industriel	807	12,1%	29,6%	276	10,1%	39,5%	124	11,3%	44,4%	77	9	22,2%	22,2%	8
+2016	PT	AUTRES ECOLES	Grenoble INP - Génie Industriel	807	12,1%	29,6%	276	10,1%	39,5%	124	11,3%	44,4%	77	9	22,2%	22,2%	8
 2016	PT	AUTRES ECOLES	INP - ENI Tarbes	451	18,4%	25,3%				277	13,4%	26,0%	233	6	33,3%	16,7%	6
 2016	PT	AUTRES ECOLES	INSA centre val de loire GSI										55	12	16,7%	0,0%	12
 2016	PT	AUTRES ECOLES	INSA centre val de loire MRI										74	4	0,0%	25,0%	6
@@ -173,9 +173,9 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2016	PT	AUTRES ECOLES	INSA Centre Val de Loire	493	14,4%	23,3%	322	11,2%	26,4%	75	13,3%	21,3%		17			20
 2016	PT	AUTRES ECOLES	ISMANS Le Mans	212	17,9%	22,2%	185	15,1%	23,8%	44	11,4%	25,0%	44	9	11,1%	22,2%	20
 2016	PT	AUTRES ECOLES	ITECH Lyon	106	28,3%	25,5%	47	21,3%	36,2%	2	50,0%	0,0%	2	0	0,0%	0,0%	5
-2016	PT	AUTRES ECOLES	Mines Douai - ISPA AlenÃ§on	327	13,8%	25,4%	275	12,0%	27,3%	19	10,5%	36,8%	16	9	0,0%	22,2%	5
+2016	PT	AUTRES ECOLES	Mines Douai - ISPA Alençon	327	13,8%	25,4%	275	12,0%	27,3%	19	10,5%	36,8%	16	9	0,0%	22,2%	5
 2016	PT	AUTRES ECOLES	SIGMA Clermont-Ferrand (ex IFMA)	891	11,7%	26,4%	559	11,1%	32,9%	289	13,8%	33,2%	196	71	11,3%	31,0%	68
-2016	PT	AUTRES ECOLES	3IL IngÃ©nieurs	150	12,0%	23,3%	129	10,9%	21,7%	27	7,4%	18,5%	24	2	0,0%	0,0%	8
+2016	PT	AUTRES ECOLES	3IL Ingénieurs	150	12,0%	23,3%	129	10,9%	21,7%	27	7,4%	18,5%	24	2	0,0%	0,0%	8
 2016	PT	FESIC	ECAM Lyon	861	14,8%	21,7%	677	14,0%	24,2%	137	15,3%	27,0%	135	30	13,3%	23,3%	25
 2016	PT	FESIC	ECAM Rennes	861	14,8%	21,7%	778	14,3%	22,8%	80	15,0%	20,0%	79	7	0,0%	14,3%	18
 2016	PT	FESIC	ECAM Strasbourg Europe	861	14,8%	21,7%	814	14,4%	22,5%	121	16,5%	20,7%	121	21	19,0%	23,8%	30

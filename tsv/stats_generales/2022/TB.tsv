@@ -1,11 +1,11 @@
 year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	nb_integres_interfilieres	places
-2022	TB	Concours A TB BIO	Agrocampus Ouest (cursus ingÃ©nieur agronome)										3	33,3%	0,0%	37	36		4
-2022	TB	Concours A TB BIO	Agrocampus Ouest (cursus ingÃ©nieur en horticulture et en paysage)										3	33,3%	66,7%	81	82		4
+2022	TB	Concours A TB BIO	Agrocampus Ouest (cursus ingénieur agronome)										3	33,3%	0,0%	37	36		4
+2022	TB	Concours A TB BIO	Agrocampus Ouest (cursus ingénieur en horticulture et en paysage)										3	33,3%	66,7%	81	82		4
 2022	TB	Concours A TB BIO	AgroParisTech Campus de Palaiseau										10	50,0%	0,0%	20	21		10
 2022	TB	Concours A TB BIO	Agrosup Dijon (Cursus Agroalimentaire)										2	50,0%	50,0%	74	74		3
 2022	TB	Concours A TB BIO	Agrosup Dijon (Cursus Agronome) civil										3	66,7%	0,0%	41	43		3
 2022	TB	Concours A TB BIO	Bordeaux Sciences Agro										4	25,0%	25,0%	69	70		2
-2022	TB	Concours A TB BIO	ENGEES Strasbourg Civil (Ã©tudiant)										3	66,7%	33,3%	69	69		3
+2022	TB	Concours A TB BIO	ENGEES Strasbourg Civil (étudiant)										3	66,7%	33,3%	69	69		3
 2022	TB	Concours A TB BIO	ENSAIA Nancy										6	50,0%	16,7%	82	77		5
 2022	TB	Concours A TB BIO	ENSAT Toulouse										7	28,6%	14,3%	42	41		8
 2022	TB	Concours A TB BIO	Montpellier Sup Agro (cursus agronome)										4	25,0%	50,0%	42	42		4
@@ -15,27 +15,27 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2022	TB	Lorraine INP - ENSTIB	Lorraine INP - ENSTIB	44	45,5%	20,5%	30	43,3%	20,0%	9	22,2%	55,6%	2	0,0%	50,0%	2	2		2
 2022	TB	Concours A TB ENV	ENV Alfort										2	50,0%	0,0%	4	4		2
 2022	TB	Concours A TB ENV	ENV Toulouse										3	100,0%	33,3%	9	10		3
-2022	TB	Concours A TB ENV	ONIRIS Nantes Atlantique (cursus vÃ©tÃ©rinaire)										3	66,7%	0,0%	8	8		3
+2022	TB	Concours A TB ENV	ONIRIS Nantes Atlantique (cursus vétérinaire)										3	66,7%	0,0%	8	8		3
 2022	TB	Concours A TB ENV	VetAgro Sup Lyon										3	100,0%	66,7%	2	3		3
 2022	TB	Concours A TB ENV	Concours TB ENV	70	72,9%	35,7%	35	80,0%	28,6%	22	86,4%	27,3%	11						11
 2022	TB	Concours POLYTECH A TB	ENSTBB Bordeaux										2	50,0%	50,0%	26	26		2
 2022	TB	Concours POLYTECH A TB	ESBS Strasbourg										2	50,0%	0,0%	36	36		2
-2022	TB	Concours POLYTECH A TB	ESIAB - Microbiologie et QualitÃ© / Agroalimentaire										2	50,0%	0,0%	72	72		2
-2022	TB	Concours POLYTECH A TB	EPISEN - GÃ©nie BiomÃ©dical et santÃ© (ISBS)										2	100,0%	100,0%	66	66		2
+2022	TB	Concours POLYTECH A TB	ESIAB - Microbiologie et Qualité / Agroalimentaire										2	50,0%	0,0%	72	72		2
+2022	TB	Concours POLYTECH A TB	EPISEN - Génie Biomédical et santé (ISBS)										2	100,0%	100,0%	66	66		2
 2022	TB	Concours POLYTECH A TB	ESIX Caen Agroalimentaire										0	0,0%	0,0%	0	0		1
-2022	TB	Concours POLYTECH A TB	ISIFC BesanÃ§on - GÃ©nie BiomÃ©dical										2	50,0%	0,0%	13	13		2
-2022	TB	Concours POLYTECH A TB	Polytech Angers GÃ©nie Biologique et SantÃ©										2	50,0%	0,0%	45	45		2
-2022	TB	Concours POLYTECH A TB	Polytech Clermont-Ferrand - GÃ©nie Biologique										1	100,0%	0,0%	40	40		1
-2022	TB	Concours POLYTECH A TB	Polytech Grenoble - Technologies de l'information pour la santÃ©										0	0,0%	0,0%	0	0		1
-2022	TB	Concours POLYTECH A TB	Polytech Lille - GÃ©nie biologique et alimentaire										1	0,0%	0,0%	64	64		1
-2022	TB	Concours POLYTECH A TB	Polytech Nantes - GÃ©nie des ProcÃ©dÃ©s et BioprocÃ©dÃ©s										1	100,0%	0,0%	56	56		1
-2022	TB	Concours POLYTECH A TB	Polytech Nice-Sophia - GÃ©nie biologique										2	50,0%	0,0%	18	18		2
+2022	TB	Concours POLYTECH A TB	ISIFC Besançon - Génie Biomédical										2	50,0%	0,0%	13	13		2
+2022	TB	Concours POLYTECH A TB	Polytech Angers Génie Biologique et Santé										2	50,0%	0,0%	45	45		2
+2022	TB	Concours POLYTECH A TB	Polytech Clermont-Ferrand - Génie Biologique										1	100,0%	0,0%	40	40		1
+2022	TB	Concours POLYTECH A TB	Polytech Grenoble - Technologies de l'information pour la santé										0	0,0%	0,0%	0	0		1
+2022	TB	Concours POLYTECH A TB	Polytech Lille - Génie biologique et alimentaire										1	0,0%	0,0%	64	64		1
+2022	TB	Concours POLYTECH A TB	Polytech Nantes - Génie des Procédés et Bioprocédés										1	100,0%	0,0%	56	56		1
+2022	TB	Concours POLYTECH A TB	Polytech Nice-Sophia - Génie biologique										2	50,0%	0,0%	18	18		2
 2022	TB	Concours POLYTECH A TB	Sup'Biotech										0	0,0%	0,0%	0	0		2
 2022	TB	Concours POLYTECH A TB	Concours POLYTECH A TB	121	57,0%	23,1%	85	55,3%	21,2%	84	54,8%	20,2%	17						21
 2022	TB	Concours A TB ENS	ENS Paris-Saclay	29	41,4%	3,4%	6	66,7%	0,0%	3	66,7%	0,0%	2	50,0%	0,0%	2	2		2
-2022	TB	Groupe INSA	ESITECH - Physique pour la SantÃ©										0	0,0%	0,0%	0	0		1
+2022	TB	Groupe INSA	ESITECH - Physique pour la Santé										0	0,0%	0,0%	0	0		1
 2022	TB	Groupe INSA	ESITech Rouen Technologies du Vivant										1	0,0%	0,0%	6	6		1
 2022	TB	Groupe INSA	INSA Lyon Biosciences										1	100,0%	0,0%	5	5		1
-2022	TB	Groupe INSA	INSA Toulouse GÃ©nie Biologique										0	0,0%	0,0%	0	0		1
-2022	TB	Groupe INSA	ISIS Castres Informatique pour la SantÃ©										1	0,0%	0,0%	20	20		1
-2022	TB	Groupe INSA	Concours INSA DomaineÂ Biotechnologies-santÃ© TB	77	51,9%	24,7%	24	41,7%	4,2%	24	41,7%	4,2%	3						5
+2022	TB	Groupe INSA	INSA Toulouse Génie Biologique										0	0,0%	0,0%	0	0		1
+2022	TB	Groupe INSA	ISIS Castres Informatique pour la Santé										1	0,0%	0,0%	20	20		1
+2022	TB	Groupe INSA	Concours INSA Domaine Biotechnologies-santé TB	77	51,9%	24,7%	24	41,7%	4,2%	24	41,7%	4,2%	3						5

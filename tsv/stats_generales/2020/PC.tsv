@@ -5,16 +5,16 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2020	PC	BANQUE ENS	ENS Ulm	1237	26,5%	29,3%				73	16,4%	24,7%	18	22,2%	27,8%	38	38	18
 2020	PC	BANQUE ENS	ENS Paris-Saclay PC	1447	27,6%	28,3%				319	21,3%	29,8%	18	16,7%	44,4%	185	184	18
 2020	PC	BANQUE ENS	ENS de Lyon	1295	27,3%	29,5%				202	23,3%	35,1%	28	21,4%	42,9%	147	131	28
-2020	PC	BANQUE CENTRALE-SUPELEC	CentraleSupÃ©lec - statut Ã©tudiant	2496	30,1%	23,8%				1852	29,3%	24,0%	170	24,1%	25,9%	254	246	167
-2020	PC	BANQUE CENTRALE-SUPELEC	CentraleSupÃ©lec - statut Ã©tudiant - Ã©tr.	106	27,4%	25,5%				56	23,2%	32,1%	10	30,0%	40,0%	16	16	10
+2020	PC	BANQUE CENTRALE-SUPELEC	CentraleSupélec - statut étudiant	2496	30,1%	23,8%				1852	29,3%	24,0%	170	24,1%	25,9%	254	246	167
+2020	PC	BANQUE CENTRALE-SUPELEC	CentraleSupélec - statut étudiant - étr.	106	27,4%	25,5%				56	23,2%	32,1%	10	30,0%	40,0%	16	16	10
 2020	PC	BANQUE CENTRALE-SUPELEC	CENTRALE LYON	2760	31,7%	23,2%				1982	30,1%	23,2%	63	39,7%	33,3%	483	484	62
 2020	PC	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique)	1601	32,2%	26,9%				1133	31,8%	26,8%	46	32,6%	39,1%	561	534	45
-2020	PC	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) - Ã©tr.	57	26,3%	29,8%				29	17,2%	34,5%	1	0,0%	100,0%	23	23	2
+2020	PC	BANQUE CENTRALE-SUPELEC	Institut d'optique Graduate School (SupOptique) - étr.	57	26,3%	29,8%				29	17,2%	34,5%	1	0,0%	100,0%	23	23	2
 2020	PC	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE	2656	32,8%	24,5%				1768	31,7%	25,0%	58	27,6%	37,9%	588	589	50
 2020	PC	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES	2681	32,3%	23,6%				1847	31,5%	23,9%	51	29,4%	31,4%	530	507	55
 2020	PC	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE	2991	35,2%	22,8%				1878	32,7%	22,5%	91	39,6%	28,6%	942	933	80
 2020	PC	BANQUE CENTRALE-SUPELEC	CENTRALE CASABLANCA	433	29,3%	30,3%				162	23,5%	37,0%	0	0,0%	0,0%	0	0	2
-2020	PC	BANQUE CENTRALE-SUPELEC	CentraleSupÃ©lec - statut Ã©tudiant - CI										5	40,0%	20,0%	3	3	5
+2020	PC	BANQUE CENTRALE-SUPELEC	CentraleSupélec - statut étudiant - CI										5	40,0%	20,0%	3	3	5
 2020	PC	BANQUE CENTRALE-SUPELEC	CENTRALE LYON - CI										1	0,0%	0,0%	6	6	1
 2020	PC	BANQUE CENTRALE-SUPELEC	CENTRALE LILLE - CI										1	100,0%	0,0%	8	8	1
 2020	PC	BANQUE CENTRALE-SUPELEC	CENTRALE NANTES - CI										1	0,0%	0,0%	7	7	5
@@ -22,20 +22,20 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2020	PC	BANQUE CENTRALE-SUPELEC	CENTRALE MARSEILLE - CI										2	50,0%	0,0%	11	11	2
 2020	PC	BANQUE CENTRALE-SUPELEC	Concours Cycle International Centrale-Supelec PC	28	50,0%	7,1%				23	47,8%	8,7%	10					16
 2020	PC	BANQUE CENTRALE-SUPELEC	CENTRALE CASABLANCA - CI							0	0,0%	0,0%	0	0,0%	0,0%	0	0	0
-2020	PC	BANQUE CENTRALE-SUPELEC	Arts et MÃ©tiers										22	27,3%	45,5%	484	496	20
-2020	PC	BANQUE CENTRALE-SUPELEC	Arts et MÃ©tiers - voie de l'apprentissage										0	0,0%	0,0%	0	0	2
-2020	PC	BANQUE CENTRALE-SUPELEC	Concours ARTS ET MÃTIERS ParisTech PC	1639	32,3%	25,5%				912	31,9%	29,1%	22					22
+2020	PC	BANQUE CENTRALE-SUPELEC	Arts et Métiers										22	27,3%	45,5%	484	496	20
+2020	PC	BANQUE CENTRALE-SUPELEC	Arts et Métiers - voie de l'apprentissage										0	0,0%	0,0%	0	0	2
+2020	PC	BANQUE CENTRALE-SUPELEC	Concours ARTS ET MÉTIERS ParisTech PC	1639	32,3%	25,5%				912	31,9%	29,1%	22					22
 2020	PC	BANQUE CENTRALE-SUPELEC	ENSEA Cergy	1639	32,3%	25,5%				1307	33,3%	26,4%	29	24,1%	27,6%	953	919	30
-2020	PC	BANQUE CENTRALE-SUPELEC	UniversitÃ© de Technologie de Troyes (UTT)	681	35,1%	22,8%				349	35,5%	20,6%	10	20,0%	50,0%	291	295	20
+2020	PC	BANQUE CENTRALE-SUPELEC	Université de Technologie de Troyes (UTT)	681	35,1%	22,8%				349	35,5%	20,6%	10	20,0%	50,0%	291	295	20
 2020	PC	BANQUE CENTRALE-SUPELEC	EPF campus TROYES										5	20,0%	40,0%	499	488	8
 2020	PC	BANQUE CENTRALE-SUPELEC	EPF campus MONTPELLIER										9	55,6%	11,1%	418	371	5
 2020	PC	BANQUE CENTRALE-SUPELEC	EPF campus SCEAUX										11	54,5%	45,5%	312	329	6
 2020	PC	BANQUE CENTRALE-SUPELEC	Concours EPF Sceaux-Troyes-Montpellier PC	651	45,9%	22,1%				543	47,7%	22,5%	25					19
 2020	PC	BANQUE CENTRALE-SUPELEC	ESTP Paris - Travaux Publics (TP) - campus de Cachan										37	21,6%	18,9%	774	716	60
-2020	PC	BANQUE CENTRALE-SUPELEC	ESTP Paris - BÃ¢timent (B) - campus de Cachan										56	39,3%	26,8%	717	704	57
-2020	PC	BANQUE CENTRALE-SUPELEC	ESTP Paris - GÃ©nie MÃ©canique et Electrique(GME)										18	38,9%	16,7%	867	781	30
+2020	PC	BANQUE CENTRALE-SUPELEC	ESTP Paris - Bâtiment (B) - campus de Cachan										56	39,3%	26,8%	717	704	57
+2020	PC	BANQUE CENTRALE-SUPELEC	ESTP Paris - Génie Mécanique et Electrique(GME)										18	38,9%	16,7%	867	781	30
 2020	PC	BANQUE CENTRALE-SUPELEC	ESTP Paris - Topographie (T)										2	50,0%	0,0%	619	619	8
-2020	PC	BANQUE CENTRALE-SUPELEC	ESTP Paris - BÃ¢timent (B) - campus de Troyes										2	50,0%	50,0%	838	838	12
+2020	PC	BANQUE CENTRALE-SUPELEC	ESTP Paris - Bâtiment (B) - campus de Troyes										2	50,0%	50,0%	838	838	12
 2020	PC	BANQUE CENTRALE-SUPELEC	ESTP Paris - Travaux Publics (TP) - campus de Dijon										1	100,0%	0,0%	752	752	8
 2020	PC	BANQUE CENTRALE-SUPELEC	Concours ESTP PC	1236	32,8%	26,2%				959	33,3%	25,7%	116					175
 2020	PC	BANQUE CENTRALE-SUPELEC	ECOLE NAVALE Brest	497	21,7%	28,4%				91	18,7%	45,1%	17	17,6%	47,1%	37	36	17
@@ -53,28 +53,28 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2020	PC	CONCOURS COMMUN MINES-PONTS	TELECOM Paris cursus Sophia										10	50,0%	40,0%	556	556	8
 2020	PC	CONCOURS COMMUN MINES-PONTS	Chimie ParisTech										68	48,5%	10,3%	756	737	65
 2020	PC	CONCOURS COMMUN MINES-PONTS	Concours CCMP PC	3497	33,4%	21,9%				1351	29,2%	23,4%	404					387
-2020	PC	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut apprenti	3680	35,1%	22,4%				2760	36,2%	22,8%	2	50,0%	50,0%	1582	1582	2
-2020	PC	Concours Mines - TÃ©lÃ©com	IMT Mines Albi										49	42,9%	28,6%	1362	1272	50
-2020	PC	Concours Mines - TÃ©lÃ©com	IMT Mines AlÃ¨s										50	44,0%	12,0%	1294	1257	47
-2020	PC	Concours Mines - TÃ©lÃ©com	ENSIIE Evry										9	22,2%	44,4%	1547	1430	10
-2020	PC	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut Ã©tudiant)										22	36,4%	22,7%	728	719	21
-2020	PC	Concours Mines - TÃ©lÃ©com	IMT Lille Douai										57	43,9%	21,1%	1431	1376	52
-2020	PC	Concours Mines - TÃ©lÃ©com	Mines Saint Etienne-ISMIN										14	28,6%	21,4%	1295	1253	12
-2020	PC	Concours Mines - TÃ©lÃ©com	TÃ©lÃ©com Physique Strasbourg Informatique et RÃ©seaux										6	33,3%	0,0%	1771	1595	8
-2020	PC	Concours Mines - TÃ©lÃ©com	TÃ©lÃ©com Physique Strasbourg TI-SantÃ©										7	57,1%	0,0%	1724	1648	8
-2020	PC	Concours Mines - TÃ©lÃ©com	TELECOM SudParis										31	32,3%	32,3%	891	859	30
-2020	PC	Concours Mines - TÃ©lÃ©com	TELECOM SudParis - cursus Sophia-Antipolis										0	0,0%	0,0%	0	0	3
-2020	PC	Concours Mines - TÃ©lÃ©com	Concours Mines-TÃ©lÃ©com PC	3680	35,1%	22,4%				2024	35,1%	23,1%	245					241
-2020	PC	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut IETA - Direction GÃ©nÃ©rale de l'Armement)	3680	35,1%	22,4%				1778	34,5%	25,3%	8	25,0%	75,0%	639	630	8
-2020	PC	Concours Mines - TÃ©lÃ©com	ENSG-GÃ©omatique Marne la VallÃ©e Civil										5	40,0%	40,0%	2413	2336	6
-2020	PC	Concours Mines - TÃ©lÃ©com	ENSG Nancy										8	50,0%	0,0%	1364	1369	10
-2020	PC	Concours Mines - TÃ©lÃ©com	ENSSAT Lannion										14	35,7%	14,3%	2302	2278	14
-2020	PC	Concours Mines - TÃ©lÃ©com	TELECOM Nancy										7	42,9%	14,3%	1697	1518	5
-2020	PC	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut Ã©tudiant										16	37,5%	12,5%	1947	1900	11
-2020	PC	Concours Mines - TÃ©lÃ©com	Concours Mines-TÃ©lÃ©com SpÃ©cifique PC	3680	35,1%	22,4%				2760	36,2%	22,8%	50					46
+2020	PC	Concours Mines - Télécom	TELECOM St Etienne - Statut apprenti	3680	35,1%	22,4%				2760	36,2%	22,8%	2	50,0%	50,0%	1582	1582	2
+2020	PC	Concours Mines - Télécom	IMT Mines Albi										49	42,9%	28,6%	1362	1272	50
+2020	PC	Concours Mines - Télécom	IMT Mines Alès										50	44,0%	12,0%	1294	1257	47
+2020	PC	Concours Mines - Télécom	ENSIIE Evry										9	22,2%	44,4%	1547	1430	10
+2020	PC	Concours Mines - Télécom	ENSTA Bretagne (filière sous statut étudiant)										22	36,4%	22,7%	728	719	21
+2020	PC	Concours Mines - Télécom	IMT Lille Douai										57	43,9%	21,1%	1431	1376	52
+2020	PC	Concours Mines - Télécom	Mines Saint Etienne-ISMIN										14	28,6%	21,4%	1295	1253	12
+2020	PC	Concours Mines - Télécom	Télécom Physique Strasbourg Informatique et Réseaux										6	33,3%	0,0%	1771	1595	8
+2020	PC	Concours Mines - Télécom	Télécom Physique Strasbourg TI-Santé										7	57,1%	0,0%	1724	1648	8
+2020	PC	Concours Mines - Télécom	TELECOM SudParis										31	32,3%	32,3%	891	859	30
+2020	PC	Concours Mines - Télécom	TELECOM SudParis - cursus Sophia-Antipolis										0	0,0%	0,0%	0	0	3
+2020	PC	Concours Mines - Télécom	Concours Mines-Télécom PC	3680	35,1%	22,4%				2024	35,1%	23,1%	245					241
+2020	PC	Concours Mines - Télécom	ENSTA Bretagne (filière sous statut IETA - Direction Générale de l'Armement)	3680	35,1%	22,4%				1778	34,5%	25,3%	8	25,0%	75,0%	639	630	8
+2020	PC	Concours Mines - Télécom	ENSG-Géomatique Marne la Vallée Civil										5	40,0%	40,0%	2413	2336	6
+2020	PC	Concours Mines - Télécom	ENSG Nancy										8	50,0%	0,0%	1364	1369	10
+2020	PC	Concours Mines - Télécom	ENSSAT Lannion										14	35,7%	14,3%	2302	2278	14
+2020	PC	Concours Mines - Télécom	TELECOM Nancy										7	42,9%	14,3%	1697	1518	5
+2020	PC	Concours Mines - Télécom	TELECOM St Etienne - Statut étudiant										16	37,5%	12,5%	1947	1900	11
+2020	PC	Concours Mines - Télécom	Concours Mines-Télécom Spécifique PC	3680	35,1%	22,4%				2760	36,2%	22,8%	50					46
 2020	PC	CONCOURS COMMUN TPE	ENTPE Lyon Civil										22	50,0%	22,7%	1045	1029	21
 2020	PC	CONCOURS COMMUN TPE	ENTPE Lyon Fonctionnaire										29	31,0%	48,3%	915	904	29
-2020	PC	CONCOURS COMMUN TPE	Concours TPE - Candidats franÃ§ais et de l'Union europÃ©enne - filiÃ¨re PC	2104	35,9%	24,6%				1265	35,6%	25,4%	51					50
+2020	PC	CONCOURS COMMUN TPE	Concours TPE - Candidats français et de l'Union européenne - filière PC	2104	35,9%	24,6%				1265	35,6%	25,4%	51					50
 2020	PC	CONCOURS COMMUN TPE	ENTPE Lyon Etranger	2104	35,9%	24,6%				29	37,9%	13,8%	0	0,0%	0,0%	0	0	1
 2020	PC	CONCOURS COMMUN TPE	EIVP Paris Civil	2104	35,9%	24,6%				1437	36,2%	25,2%	26	46,2%	26,9%	1262	1221	20
 2020	PC	CONCOURS COMMUN TPE	EIVP Paris Fonctionnaire	2104	35,9%	24,6%				1405	36,2%	25,4%	4	50,0%	50,0%	873	874	4
@@ -82,303 +82,303 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSC Cognitique										9	44,4%	11,1%	2293	2053	6
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSEIRB-MATMECA Electronique										20	15,0%	25,0%	2191	2149	13
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSEIRB-MATMECA Informatique										6	16,7%	50,0%	1572	1482	5
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSEIRB-MATMECA MathÃ©matiques et MÃ©canique										11	36,4%	54,5%	1725	1534	6
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSEIRB-MATMECA TÃ©lecom.										14	21,4%	21,4%	2050	2036	8
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	CPE LYON Sciences du numÃ©rique										12	8,3%	16,7%	3005	2948	12
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSEIRB-MATMECA Mathématiques et Mécanique										11	36,4%	54,5%	1725	1534	6
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Bordeaux INP - ENSEIRB-MATMECA Télecom.										14	21,4%	21,4%	2050	2036	8
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	CPE LYON Sciences du numérique										12	8,3%	16,7%	3005	2948	12
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	EISTI Cergy - Pau										46	23,9%	21,7%	3255	3083	30
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENAC Toulouse Civil										23	17,4%	30,4%	983	928	20
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENAC Toulouse Fonctionnaire										3	0,0%	66,7%	153	147	3
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENGEES Strasbourg Civil (apprenti)										3	66,7%	66,7%	2746	2746	2
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENGEES Strasbourg Civil (Ã©tudiant)										13	46,2%	23,1%	2043	2067	10
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENGEES Strasbourg Civil (étudiant)										13	46,2%	23,1%	2043	2067	10
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENGEES Strasbourg Fonctionnaire										3	66,7%	33,3%	1006	846	3
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSGTI Pau - GÃ©nie des ProcÃ©dÃ©s										13	61,5%	23,1%	3185	3024	15
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSGTI Pau - Génie des Procédés										13	61,5%	23,1%	3185	3024	15
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSI Poitiers Energie										13	30,8%	30,8%	2821	2758	17
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSICAEN Electronique et Physique AppliquÃ©e										19	15,8%	42,1%	2760	2674	18
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSICAEN Electronique et Physique Appliquée										19	15,8%	42,1%	2760	2674	18
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSICAEN Informatique										8	0,0%	50,0%	2223	2189	8
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSMM BesanÃ§on										19	31,6%	36,8%	2659	2610	22
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ENSMM Besançon										19	31,6%	36,8%	2659	2610	22
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - ENSE3										54	24,1%	24,1%	1481	1427	60
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - Pagora										21	52,4%	23,8%	2951	2794	18
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - Phelma (Physique Electronique TÃ©lÃ©coms)										31	25,8%	29,0%	1269	1190	34
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - Phelma (Physique MatÃ©riaux ProcÃ©dÃ©s)										58	37,9%	27,6%	960	893	65
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - Phelma (Physique Electronique Télécoms)										31	25,8%	29,0%	1269	1190	34
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - Phelma (Physique Matériaux Procédés)										58	37,9%	27,6%	960	893	65
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - ENSIMAG										10	50,0%	40,0%	631	564	10
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Grenoble INP - Esisar										4	50,0%	25,0%	1995	1958	6
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ISAE-ENSMA Poitiers										31	12,9%	32,3%	1326	1195	28
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	ISIMA Clermont-Ferrand										7	0,0%	14,3%	2695	2663	8
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Lorraine INP - ENSEM - Energie										29	24,1%	24,1%	2887	2771	24
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Lorraine INP - ENSEM - SpÃ©cialitÃ© des systÃ¨mes numÃ©riques										6	0,0%	16,7%	2753	2745	5
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Lorraine INP - ENSEM - Spécialité des systèmes numériques										6	0,0%	16,7%	2753	2745	5
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	SeaTech Toulon										14	7,1%	28,6%	2445	2396	18
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	SUPMECA Paris										18	27,8%	33,3%	1997	1917	22
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	TELECOM PHYSIQUE Strasbourg										25	36,0%	24,0%	1871	1865	31
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Toulouse INP - ENSEEIHT - Electronique-Energie-Automatique (EEA)										18	16,7%	22,2%	1363	1337	20
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Toulouse INP - ENSEEIHT - MÃ©canique des Fluides-Energetique-Environnement (MFEE)										16	37,5%	43,8%	604	548	17
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Toulouse INP - ENSEEIHT - Sciences du NumÃ©rique										11	9,1%	45,5%	804	766	10
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Toulouse INP - ENSIACET - GÃ©nie des ProcÃ©dÃ©s										15	20,0%	40,0%	2025	1992	16
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Toulouse INP - ENSIACET - GÃ©nie Industriel										11	45,5%	18,2%	1828	1861	9
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Toulouse INP - ENSEEIHT - Mécanique des Fluides-Energetique-Environnement (MFEE)										16	37,5%	43,8%	604	548	17
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Toulouse INP - ENSEEIHT - Sciences du Numérique										11	9,1%	45,5%	804	766	10
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Toulouse INP - ENSIACET - Génie des Procédés										15	20,0%	40,0%	2025	1992	16
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Toulouse INP - ENSIACET - Génie Industriel										11	45,5%	18,2%	1828	1861	9
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS PHYSIQUE	Concours CCINP PC-Physique	4730	36,7%	21,2%				3699	36,4%	22,0%	614					599
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Bordeaux INP - ENSCBP Chimie-GÃ©nie physique										38	55,3%	15,8%	2166	2079	42
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	CPE LYON Chimie â gÃ©nie des procÃ©dÃ©s										39	61,5%	25,6%	2666	2524	40
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Bordeaux INP - ENSCBP Chimie-Génie physique										38	55,3%	15,8%	2166	2079	42
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	CPE LYON Chimie – génie des procédés										39	61,5%	25,6%	2666	2524	40
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ECPM - ESBS Strasbourg - CHEMBIOTECH										6	66,7%	16,7%	826	842	5
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ECPM Strasbourg										40	65,0%	22,5%	1381	1324	45
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSC Lille										42	61,9%	21,4%	1848	1717	40
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSC Montpellier										58	55,2%	8,6%	797	795	60
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSC Mulhouse										32	59,4%	12,5%	2045	1947	30
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSC Rennes										32	50,0%	28,1%	2244	2148	40
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSI Poitiers - GÃ©nie de l'Eau et GÃ©nie Civil										24	41,7%	20,8%	3051	2885	21
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSI Poitiers - Génie de l'Eau et Génie Civil										24	41,7%	20,8%	3051	2885	21
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	ENSICAEN Mat. et Chimie										29	69,0%	24,1%	2590	2573	30
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Lorraine INP - ENSIC										48	41,7%	12,5%	2302	2176	50
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	SIGMA Clermont-Ferrand - spÃ©cialitÃ© chimie										37	70,3%	24,3%	2457	2329	36
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	SIGMA Clermont-Ferrand - spécialité chimie										37	70,3%	24,3%	2457	2329	36
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Toulouse INP - ENSIACET - Chimie										29	51,7%	20,7%	1383	1375	29
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Toulouse INP - ENSIACET - GÃ©nie chimique										34	61,8%	23,5%	1823	1800	32
-2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Toulouse INP - ENSIACET - MatÃ©riaux										28	32,1%	32,1%	2100	2025	30
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Toulouse INP - ENSIACET - Génie chimique										34	61,8%	23,5%	1823	1800	32
+2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Toulouse INP - ENSIACET - Matériaux										28	32,1%	32,1%	2100	2025	30
 2020	PC	CCINP : ECOLES RECRUTANT SUR LE CONCOURS CHIMIE	Concours CCINP PC-Chimie	4531	38,0%	21,0%				3460	37,6%	22,1%	516					530
-2020	PC	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	ENSIL - ENSCI Limoges CÃ©ramique Industrielle										12	50,0%	25,0%	1994*	1905*	45*
-2020	PC	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	ENSIL - ENSCI Limoges EE										11	36,4%	54,5%	1707*	1644*	28*
-2020	PC	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	ENSIL - ENSCI Limoges ELT										4	25,0%	0,0%	1726*	1611*	28*
-2020	PC	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	ENSIL - ENSCI Limoges MatÃ©riaux										14	42,9%	42,9%	1658*	1499*	22*
-2020	PC	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	ENSIL - ENSCI Limoges MÃ©catronique										1	0,0%	0,0%	1180	1134	22*
-2020	PC	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	Concours ENSIL-ENSCI Inter Fil.	971	46,3%	18,6%				768	47,5%	20,2%	42					145
-2020	PC	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	Grenoble INP - GÃ©nie Industriel	1154	36,9%	20,1%				450	33,1%	23,1%	3	0,0%	66,7%	1520	1440	76*
-2020	PC	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	Lorraine INP - EEIGM	497	51,5%	19,1%				265	54,0%	18,9%	3	0,0%	0,0%	456	438	10*
-2020	PC	BANQUE EPREUVES CCINP Inter-FiliÃ¨re	Lorraine INP - ENSGSI	687	43,7%	18,9%				483	44,3%	21,3%	6	50,0%	33,3%	1210	1101	38*
+2020	PC	BANQUE EPREUVES CCINP Inter-Filière	ENSIL - ENSCI Limoges Céramique Industrielle										12	50,0%	25,0%	1994*	1905*	45*
+2020	PC	BANQUE EPREUVES CCINP Inter-Filière	ENSIL - ENSCI Limoges EE										11	36,4%	54,5%	1707*	1644*	28*
+2020	PC	BANQUE EPREUVES CCINP Inter-Filière	ENSIL - ENSCI Limoges ELT										4	25,0%	0,0%	1726*	1611*	28*
+2020	PC	BANQUE EPREUVES CCINP Inter-Filière	ENSIL - ENSCI Limoges Matériaux										14	42,9%	42,9%	1658*	1499*	22*
+2020	PC	BANQUE EPREUVES CCINP Inter-Filière	ENSIL - ENSCI Limoges Mécatronique										1	0,0%	0,0%	1180	1134	22*
+2020	PC	BANQUE EPREUVES CCINP Inter-Filière	Concours ENSIL-ENSCI Inter Fil.	971	46,3%	18,6%				768	47,5%	20,2%	42					145
+2020	PC	BANQUE EPREUVES CCINP Inter-Filière	Grenoble INP - Génie Industriel	1154	36,9%	20,1%				450	33,1%	23,1%	3	0,0%	66,7%	1520	1440	76*
+2020	PC	BANQUE EPREUVES CCINP Inter-Filière	Lorraine INP - EEIGM	497	51,5%	19,1%				265	54,0%	18,9%	3	0,0%	0,0%	456	438	10*
+2020	PC	BANQUE EPREUVES CCINP Inter-Filière	Lorraine INP - ENSGSI	687	43,7%	18,9%				483	44,3%	21,3%	6	50,0%	33,3%	1210	1101	38*
 2020	PC	BANQUE EPREUVES CCINP	ECOLE DE L'AIR Base	555	26,5%	24,9%				94	20,2%	51,1%	2	0,0%	0,0%	43	43	2
-2020	PC	BANQUE EPREUVES CCINP	ECOLE DE L'AIR MÃ©ca	512	25,4%	26,4%				83	22,9%	54,2%	4	25,0%	100,0%	47	44	4
+2020	PC	BANQUE EPREUVES CCINP	ECOLE DE L'AIR Méca	512	25,4%	26,4%				83	22,9%	54,2%	4	25,0%	100,0%	47	44	4
 2020	PC	BANQUE EPREUVES CCINP	ECOLE DE L'AIR Pilote	595	24,9%	23,9%				109	18,3%	42,2%	13	15,4%	53,8%	27	27	13
-2020	PC	BANQUE EPREUVES CCINP	ENAC Toulouse - ContrÃ´leurs aÃ©riens	850	32,4%	22,2%				134	41,8%	23,9%	23	34,8%	34,8%	38	35	23
-2020	PC	BANQUE EPREUVES CCINP	ENSISA Mulhouse Automatique et SystÃ¨mes EmbarquÃ©s										4	25,0%	25,0%	451	447	4
-2020	PC	BANQUE EPREUVES CCINP	ENSISA Mulhouse Informatique et rÃ©seaux										4	0,0%	50,0%	444	447	4
-2020	PC	BANQUE EPREUVES CCINP	ENSISA Mulhouse MÃ©canique										4	25,0%	50,0%	360	335	5
+2020	PC	BANQUE EPREUVES CCINP	ENAC Toulouse - Contrôleurs aériens	850	32,4%	22,2%				134	41,8%	23,9%	23	34,8%	34,8%	38	35	23
+2020	PC	BANQUE EPREUVES CCINP	ENSISA Mulhouse Automatique et Systèmes Embarqués										4	25,0%	25,0%	451	447	4
+2020	PC	BANQUE EPREUVES CCINP	ENSISA Mulhouse Informatique et réseaux										4	0,0%	50,0%	444	447	4
+2020	PC	BANQUE EPREUVES CCINP	ENSISA Mulhouse Mécanique										4	25,0%	50,0%	360	335	5
 2020	PC	BANQUE EPREUVES CCINP	ENSISA Mulhouse Textile et Fibres										9	66,7%	22,2%	547	534	9
 2020	PC	BANQUE EPREUVES CCINP	Concours ENSISA PC	790	43,7%	18,6%				693	44,3%	19,5%	21					22
 2020	PC	BANQUE EPREUVES CCINP	EOST Strasbourg	580	48,1%	17,8%				486	48,8%	18,3%	12	50,0%	41,7%	280	269	13
-2020	PC	BANQUE EPREUVES CCINP	ESCOM Chimie CompiÃ¨gne	1343	52,0%	17,1%				607	51,4%	18,5%	4	50,0%	75,0%	526	506	20
+2020	PC	BANQUE EPREUVES CCINP	ESCOM Chimie Compiègne	1343	52,0%	17,1%				607	51,4%	18,5%	4	50,0%	75,0%	526	506	20
 2020	PC	BANQUE EPREUVES CCINP	ESM Saint-Cyr	565	19,6%	24,6%				75	8,0%	53,3%	13	0,0%	53,8%	23	21	13
 2020	PC	BANQUE EPREUVES CCINP	ITECH Lyon	909	55,6%	19,4%				700	57,1%	22,0%	42	66,7%	45,2%	561	530	45
 2020	PC	BANQUE EPREUVES CCINP	Lorraine INP - ENSTIB	447	40,9%	17,4%				312	42,6%	17,6%	6	16,7%	16,7%	213	220	6
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ENSIBS Lorient										3	0,0%	0,0%	3683*	3829*	16*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ENSIM Le Mans										5	40,0%	0,0%	3935*	3901*	10*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ESBS Strasbourg										2	100,0%	0,0%	1347*	1236*	3*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ESGT le Mans										0	0,0%	0,0%	3604*	3539*	15*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ESI Reims - Energetique										3	33,3%	33,3%	4594*	4463*	5*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ESI Reims - GÃ©nie Urbain et Environnement										2	50,0%	0,0%	3093*	3036*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ESI Reims - Packaging										2	100,0%	0,0%	4816*	4667*	6*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIAB Brest										4	100,0%	0,0%	4439*	4436*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIPE CrÃ©teil - GÃ©nie BiomÃ©dical et santÃ© (ISBS)										4	50,0%	25,0%	4596*	4059*	10*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIPE CrÃ©teil - SystÃ¨me d'information										0	0,0%	0,0%	3733*	3807*	3*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIPE CrÃ©teil - Technologie pour la santÃ©										0	0,0%	0,0%	3723*	3724*	3*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIR Rennes										7	42,9%	28,6%	3835*	3540*	20*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIREM Dijon										4	25,0%	0,0%	3293*	3102*	5*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIROI Saint Denis de La RÃ©union										0	0,0%	0,0%	0*	0*	3*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ESIX Normandie - Caen - Cherbourg										0	0,0%	0,0%	4379*	4116*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ISAT Nevers - dÃ©partement MIT (MÃ©canique et IngÃ©nierie des Transports)										0	0,0%	0,0%	2228*	2054*	5*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ISAT Nevers - dÃ©partement EPEE (Energies et Moteurs)										3	0,0%	33,3%	3229*	3326*	12*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ISAT Nevers - Infrastructures et RÃ©seaux de Transports										1	0,0%	0,0%	4695*	4575*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ISIFC BesanÃ§on - GÃ©nie BiomÃ©dical										4	100,0%	25,0%	3083*	2762*	8*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	ISTY VÃ©lizy										0	0,0%	0,0%	4192*	4125*	3*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Angers BÃ¢timent : Exploitation, Maintenance et SÃ©curitÃ©										0	0,0%	0,0%	4963*	4963*	2*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Angers QualitÃ© Innovation FiabilitÃ©										1	100,0%	0,0%	2659*	2659*	2*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Angers SystÃ¨mes AutomatisÃ©s et GÃ©nie Informatique										0	0,0%	0,0%	3532*	3452*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - Environnement, BÃ¢timent, Ãnergie										5	80,0%	0,0%	4323*	3919*	19*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - Informatique donnÃ©es Usages										1	0,0%	0,0%	4055*	3894*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - Instrumentation, Automatique, Informatique										0	0,0%	0,0%	3361*	3495*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Annecy-ChambÃ©ry - MÃ©canique, MatÃ©riaux										2	0,0%	0,0%	4059*	3896*	8*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Biologique										5	100,0%	60,0%	2712*	3034*	5*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Civil										2	0,0%	0,0%	3573*	3434*	16*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Electrique										1	0,0%	0,0%	4380*	4479*	5*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie MathÃ©matique et ModÃ©lisation										3	0,0%	66,7%	3523*	3220*	14*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Clermont-Ferrand - GÃ©nie Physique										3	0,0%	66,7%	4718*	4489*	8*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - GÃ©otechnique et gÃ©nie civil										1	0,0%	0,0%	2850*	2655*	6*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - MatÃ©riaux										2	50,0%	0,0%	3914*	3594*	6*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - PrÃ©vention des risques										1	100,0%	100,0%	4540*	4324*	6*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - Informatique										1	0,0%	100,0%	2728*	2592*	8*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - Informatique et Ã©lectronique des systÃ¨mes embarquÃ©s										0	0,0%	0,0%	2276*	2073*	5*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Grenoble - Technologies de l'information pour la santÃ©										1	100,0%	0,0%	4084*	3724*	6*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - GÃ©nie biologique et alimentaire										5	100,0%	80,0%	2701*	2832*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - GÃ©nie Informatique et statistique										3	66,7%	0,0%	3448*	3323*	10*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - GÃ©otechnique, GÃ©nie civil										1	0,0%	0,0%	3161*	2919*	10*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - Informatique, MicroÃ©lectronique, Automatique										0	0,0%	0,0%	3152*	3102*	6*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - IngÃ©nierie et commercialisation des systÃ¨mes de mesure										1	0,0%	100,0%	4698*	4625*	5*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - MatÃ©riaux										4	25,0%	25,0%	3490*	3356*	8*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lille - MÃ©canique										2	0,0%	50,0%	3055*	2882*	10*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - GÃ©nie BiomÃ©dical										3	100,0%	0,0%	2771*	2910*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - Informatique										0	0,0%	0,0%	1334*	1421*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - MatÃ©riaux										1	100,0%	0,0%	3576*	3528*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - MathÃ©matiques AppliquÃ©es et ModÃ©lisation										1	0,0%	0,0%	2939*	2575*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - MÃ©canique										1	100,0%	100,0%	2110*	1925*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Lyon - SystÃ¨mes industriels, Robotique										1	0,0%	100,0%	3336*	3168*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - GÃ©nie BiomÃ©dical										4	100,0%	25,0%	3998*	3326*	9*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - GÃ©nie Civil										0	0,0%	0,0%	4499*	4376*	12*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - GÃ©nie Industriel et Informatique										0	0,0%	0,0%	3906*	3831*	8*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - Informatique										1	0,0%	0,0%	2930*	2959*	8*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - MatÃ©riaux										4	0,0%	25,0%	4867*	4780*	11*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - MÃ©canique, EnergÃ©tique										1	0,0%	0,0%	4213*	3973*	17*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Marseille - MicroÃ©lectronique,TÃ©lÃ©communications										0	0,0%	0,0%	4387*	4341*	8*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - Informatique et Gestion										0	0,0%	0,0%	3088*	3009*	3*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - MatÃ©riaux										5	0,0%	60,0%	3675*	3488*	7*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - MÃ©canique et Interactions										1	0,0%	0,0%	2027*	2027*	2*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - MicroÃ©lectronique et Automatique										1	0,0%	0,0%	3892*	3665*	5*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier - Sciences et technologies de l'eau										4	75,0%	50,0%	4147*	4088*	7*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Montpellier GÃ©nie biologique et agroalimentaire										5	40,0%	40,0%	3403*	3293*	5*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nancy - Energie, MÃ©canique, MatÃ©riaux, Environnement										5	20,0%	40,0%	4358*	3944*	16*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nancy - IngÃ©nierie de l'Information et des SystÃ¨mes										0	0,0%	0,0%	3768*	3706*	8*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nancy - Management opÃ©rationnel, Maintenance, MaÃ®trise des risques										0	0,0%	0,0%	4887*	4821*	6*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Ãlectronique et technologies numÃ©riques										1	0,0%	0,0%	4413*	4219*	9*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Ãnergie Ã©lectrique										1	0,0%	0,0%	4587*	4575*	5*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - GÃ©nie civil										0	0,0%	0,0%	3628*	3646*	7*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - GÃ©nie des ProcÃ©dÃ©s et BioprocÃ©dÃ©s										3	66,7%	33,3%	2926*	3018*	2*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Informatique										0	0,0%	0,0%	2769*	2627*	9*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - MatÃ©riaux										4	0,0%	25,0%	4284*	3788*	8*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nantes - Thermique, ÃnergÃ©tique										2	50,0%	0,0%	4689*	4316*	7*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - BÃ¢timents										4	25,0%	50,0%	2684*	2631*	12*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - Ãlectronique										0	0,0%	0,0%	3748*	3434*	10*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - GÃ©nie biologique										4	50,0%	25,0%	1659*	1454*	3*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - GÃ©nie de l'eau										4	75,0%	75,0%	4348*	4087*	10*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - Informatique										0	0,0%	0,0%	2055*	1967*	14*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Nice-Sophia - MathÃ©matiques appliquÃ©es, ModÃ©lisation										0	0,0%	0,0%	2758*	2706*	15*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - GÃ©nie civil et gÃ©o-environnement										2	50,0%	0,0%	4606*	4465*	14*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - GÃ©nie industriel										0	0,0%	0,0%	4861*	4820*	7*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - GÃ©nie physique et systÃ¨mes embarquÃ©s										2	0,0%	100,0%	4899*	4789*	6*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - Innovation en Conception et MatÃ©riaux										2	50,0%	0,0%	5189*	5168*	8*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech OrlÃ©ans - Technologies pour l'Ãnergie, l'AÃ©rospatial et la Motorisation										4	25,0%	25,0%	2709*	2544*	14*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Saclay - Electronique, Energie, SystÃ¨mes										0	0,0%	0,0%	3253*	2980*	6*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Saclay - Informatique										0	0,0%	0,0%	1768*	1680*	2*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Saclay - Photonique et systÃ¨mes optroniques										0	0,0%	0,0%	4491*	4447*	5*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Paris-Saclay - MatÃ©riaux										3	0,0%	33,3%	4537*	4533*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - Electronique et Informatique										1	0,0%	0,0%	2387*	2416*	4*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - MatÃ©riaux										3	66,7%	0,0%	4009*	4052*	8*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - MathÃ©matiques AppliquÃ©es et Informatique										0	0,0%	0,0%	656*	828*	3*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - Robotique										0	0,0%	0,0%	2785*	2497*	5*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Sorbonne - Sciences de la Terre										4	25,0%	50,0%	4804*	4475*	15*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - Ãlectronique, Ãnergie Ã©lectrique										1	0,0%	100,0%	4745*	4525*	2*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - GÃ©nie de l'amÃ©nagement et de l'environnement										1	0,0%	0,0%	3760*	3505*	7*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - Informatique										1	0,0%	100,0%	3425*	3203*	7*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Polytech Tours - MÃ©canique, Conception de systÃ¨mes										2	50,0%	100,0%	4123*	3969*	7*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Sup GalilÃ©e Villetaneuse										2	50,0%	50,0%	4532	4265	24*
-2020	PC	CONCOURS POLYTECH Inter-FiliÃ¨re	Concours POLYTECH MP - PC - PSI	2353	43,1%	18,9%				1799	45,2%	19,2%	178					739
+2020	PC	CONCOURS POLYTECH Inter-Filière	ENSIBS Lorient										3	0,0%	0,0%	3683*	3829*	16*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ENSIM Le Mans										5	40,0%	0,0%	3935*	3901*	10*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ESBS Strasbourg										2	100,0%	0,0%	1347*	1236*	3*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ESGT le Mans										0	0,0%	0,0%	3604*	3539*	15*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ESI Reims - Energetique										3	33,3%	33,3%	4594*	4463*	5*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ESI Reims - Génie Urbain et Environnement										2	50,0%	0,0%	3093*	3036*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ESI Reims - Packaging										2	100,0%	0,0%	4816*	4667*	6*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ESIAB Brest										4	100,0%	0,0%	4439*	4436*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ESIPE Créteil - Génie Biomédical et santé (ISBS)										4	50,0%	25,0%	4596*	4059*	10*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ESIPE Créteil - Système d'information										0	0,0%	0,0%	3733*	3807*	3*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ESIPE Créteil - Technologie pour la santé										0	0,0%	0,0%	3723*	3724*	3*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ESIR Rennes										7	42,9%	28,6%	3835*	3540*	20*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ESIREM Dijon										4	25,0%	0,0%	3293*	3102*	5*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ESIROI Saint Denis de La Réunion										0	0,0%	0,0%	0*	0*	3*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ESIX Normandie - Caen - Cherbourg										0	0,0%	0,0%	4379*	4116*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ISAT Nevers - département MIT (Mécanique et Ingénierie des Transports)										0	0,0%	0,0%	2228*	2054*	5*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ISAT Nevers - département EPEE (Energies et Moteurs)										3	0,0%	33,3%	3229*	3326*	12*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ISAT Nevers - Infrastructures et Réseaux de Transports										1	0,0%	0,0%	4695*	4575*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ISIFC Besançon - Génie Biomédical										4	100,0%	25,0%	3083*	2762*	8*
+2020	PC	CONCOURS POLYTECH Inter-Filière	ISTY Vélizy										0	0,0%	0,0%	4192*	4125*	3*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Angers Bâtiment : Exploitation, Maintenance et Sécurité										0	0,0%	0,0%	4963*	4963*	2*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Angers Qualité Innovation Fiabilité										1	100,0%	0,0%	2659*	2659*	2*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Angers Systèmes Automatisés et Génie Informatique										0	0,0%	0,0%	3532*	3452*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry - Environnement, Bâtiment, Énergie										5	80,0%	0,0%	4323*	3919*	19*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry - Informatique données Usages										1	0,0%	0,0%	4055*	3894*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry - Instrumentation, Automatique, Informatique										0	0,0%	0,0%	3361*	3495*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Annecy-Chambéry - Mécanique, Matériaux										2	0,0%	0,0%	4059*	3896*	8*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand - Génie Biologique										5	100,0%	60,0%	2712*	3034*	5*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand - Génie Civil										2	0,0%	0,0%	3573*	3434*	16*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand - Génie Electrique										1	0,0%	0,0%	4380*	4479*	5*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand - Génie Mathématique et Modélisation										3	0,0%	66,7%	3523*	3220*	14*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Clermont-Ferrand - Génie Physique										3	0,0%	66,7%	4718*	4489*	8*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Géotechnique et génie civil										1	0,0%	0,0%	2850*	2655*	6*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Matériaux										2	50,0%	0,0%	3914*	3594*	6*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Prévention des risques										1	100,0%	100,0%	4540*	4324*	6*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Informatique										1	0,0%	100,0%	2728*	2592*	8*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Informatique et électronique des systèmes embarqués										0	0,0%	0,0%	2276*	2073*	5*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Grenoble - Technologies de l'information pour la santé										1	100,0%	0,0%	4084*	3724*	6*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Génie biologique et alimentaire										5	100,0%	80,0%	2701*	2832*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Génie Informatique et statistique										3	66,7%	0,0%	3448*	3323*	10*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Géotechnique, Génie civil										1	0,0%	0,0%	3161*	2919*	10*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Informatique, Microélectronique, Automatique										0	0,0%	0,0%	3152*	3102*	6*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Ingénierie et commercialisation des systèmes de mesure										1	0,0%	100,0%	4698*	4625*	5*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Matériaux										4	25,0%	25,0%	3490*	3356*	8*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lille - Mécanique										2	0,0%	50,0%	3055*	2882*	10*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Génie Biomédical										3	100,0%	0,0%	2771*	2910*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Informatique										0	0,0%	0,0%	1334*	1421*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Matériaux										1	100,0%	0,0%	3576*	3528*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Mathématiques Appliquées et Modélisation										1	0,0%	0,0%	2939*	2575*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Mécanique										1	100,0%	100,0%	2110*	1925*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Lyon - Systèmes industriels, Robotique										1	0,0%	100,0%	3336*	3168*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Génie Biomédical										4	100,0%	25,0%	3998*	3326*	9*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Génie Civil										0	0,0%	0,0%	4499*	4376*	12*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Génie Industriel et Informatique										0	0,0%	0,0%	3906*	3831*	8*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Informatique										1	0,0%	0,0%	2930*	2959*	8*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Matériaux										4	0,0%	25,0%	4867*	4780*	11*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Mécanique, Energétique										1	0,0%	0,0%	4213*	3973*	17*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Marseille - Microélectronique,Télécommunications										0	0,0%	0,0%	4387*	4341*	8*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Informatique et Gestion										0	0,0%	0,0%	3088*	3009*	3*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Matériaux										5	0,0%	60,0%	3675*	3488*	7*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Mécanique et Interactions										1	0,0%	0,0%	2027*	2027*	2*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Microélectronique et Automatique										1	0,0%	0,0%	3892*	3665*	5*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier - Sciences et technologies de l'eau										4	75,0%	50,0%	4147*	4088*	7*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Montpellier Génie biologique et agroalimentaire										5	40,0%	40,0%	3403*	3293*	5*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nancy - Energie, Mécanique, Matériaux, Environnement										5	20,0%	40,0%	4358*	3944*	16*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nancy - Ingénierie de l'Information et des Systèmes										0	0,0%	0,0%	3768*	3706*	8*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nancy - Management opérationnel, Maintenance, Maîtrise des risques										0	0,0%	0,0%	4887*	4821*	6*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Électronique et technologies numériques										1	0,0%	0,0%	4413*	4219*	9*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Énergie électrique										1	0,0%	0,0%	4587*	4575*	5*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Génie civil										0	0,0%	0,0%	3628*	3646*	7*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Génie des Procédés et Bioprocédés										3	66,7%	33,3%	2926*	3018*	2*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Informatique										0	0,0%	0,0%	2769*	2627*	9*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Matériaux										4	0,0%	25,0%	4284*	3788*	8*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nantes - Thermique, Énergétique										2	50,0%	0,0%	4689*	4316*	7*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Bâtiments										4	25,0%	50,0%	2684*	2631*	12*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Électronique										0	0,0%	0,0%	3748*	3434*	10*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Génie biologique										4	50,0%	25,0%	1659*	1454*	3*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Génie de l'eau										4	75,0%	75,0%	4348*	4087*	10*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Informatique										0	0,0%	0,0%	2055*	1967*	14*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Nice-Sophia - Mathématiques appliquées, Modélisation										0	0,0%	0,0%	2758*	2706*	15*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Orléans - Génie civil et géo-environnement										2	50,0%	0,0%	4606*	4465*	14*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Orléans - Génie industriel										0	0,0%	0,0%	4861*	4820*	7*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Orléans - Génie physique et systèmes embarqués										2	0,0%	100,0%	4899*	4789*	6*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Orléans - Innovation en Conception et Matériaux										2	50,0%	0,0%	5189*	5168*	8*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Orléans - Technologies pour l'Énergie, l'Aérospatial et la Motorisation										4	25,0%	25,0%	2709*	2544*	14*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Saclay - Electronique, Energie, Systèmes										0	0,0%	0,0%	3253*	2980*	6*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Saclay - Informatique										0	0,0%	0,0%	1768*	1680*	2*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Saclay - Photonique et systèmes optroniques										0	0,0%	0,0%	4491*	4447*	5*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Paris-Saclay - Matériaux										3	0,0%	33,3%	4537*	4533*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Sorbonne - Electronique et Informatique										1	0,0%	0,0%	2387*	2416*	4*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Sorbonne - Matériaux										3	66,7%	0,0%	4009*	4052*	8*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Sorbonne - Mathématiques Appliquées et Informatique										0	0,0%	0,0%	656*	828*	3*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Sorbonne - Robotique										0	0,0%	0,0%	2785*	2497*	5*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Sorbonne - Sciences de la Terre										4	25,0%	50,0%	4804*	4475*	15*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Tours - Électronique, Énergie électrique										1	0,0%	100,0%	4745*	4525*	2*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Tours - Génie de l'aménagement et de l'environnement										1	0,0%	0,0%	3760*	3505*	7*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Tours - Informatique										1	0,0%	100,0%	3425*	3203*	7*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Polytech Tours - Mécanique, Conception de systèmes										2	50,0%	100,0%	4123*	3969*	7*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Sup Galilée Villetaneuse										2	50,0%	50,0%	4532	4265	24*
+2020	PC	CONCOURS POLYTECH Inter-Filière	Concours POLYTECH MP - PC - PSI	2353	43,1%	18,9%				1799	45,2%	19,2%	178					739
 2020	PC	Puissance Alpha	EFREI Paris	974	42,2%	18,2%				898	42,9%	17,9%	13	7,7%	7,7%	870	810	20
-2020	PC	Puissance Alpha	ELISA AÃ©rospace Saint Quentin (80)	974	42,2%	18,2%				441	46,3%	20,4%	3	66,7%	66,7%	304	307	10
+2020	PC	Puissance Alpha	ELISA Aérospace Saint Quentin (80)	974	42,2%	18,2%				441	46,3%	20,4%	3	66,7%	66,7%	304	307	10
 2020	PC	Puissance Alpha	ESAIP Angers / Aix-en-Provence	974	42,2%	18,2%				891	43,0%	18,0%	5	40,0%	60,0%	774	738	15
-2020	PC	Puissance Alpha	ESEO Angers - Paris VÃ©lizy	974	42,2%	18,2%				762	44,1%	19,0%	3	33,3%	0,0%	678	682	20
+2020	PC	Puissance Alpha	ESEO Angers - Paris Vélizy	974	42,2%	18,2%				762	44,1%	19,0%	3	33,3%	0,0%	678	682	20
 2020	PC	Puissance Alpha	ESIEA Paris - Laval	974	42,2%	18,2%				821	44,2%	18,5%	0	0,0%	0,0%	548	548	10
 2020	PC	Puissance Alpha	ESIEE Amiens	974	42,2%	18,2%				762	44,1%	19,0%	1	0,0%	100,0%	644	644	12
 2020	PC	Puissance Alpha	ESIEE Paris	974	42,2%	18,2%				827	44,4%	18,4%	20	40,0%	10,0%	633	585	25
 2020	PC	Puissance Alpha	HEI	974	42,2%	18,2%				919	42,8%	17,8%	24	58,3%	25,0%	741	748	25
 2020	PC	Puissance Alpha	ISEN Lille	974	42,2%	18,2%				762	44,1%	19,0%	1	0,0%	100,0%	428	428	5
-2020	PC	Puissance Alpha	ISEN YncrÃ©a MÃ©diterrannÃ©e - NÃ®mes										1	100,0%	0,0%	797	797	10
-2020	PC	Puissance Alpha	ISEN YncrÃ©a MÃ©diterrannÃ©e - Toulon										4	0,0%	0,0%	715	723	10
-2020	PC	Puissance Alpha	Concours ISEN MÃ©diterrannÃ©e PC	974	42,2%	18,2%				859	43,8%	18,4%	5					20
-2020	PC	Puissance Alpha	ISEN YncrÃ©a Ouest - Brest										2	100,0%	0,0%	766	766	5
-2020	PC	Puissance Alpha	ISEN YncrÃ©a Ouest - Nantes										0	0,0%	0,0%	0	0	5
+2020	PC	Puissance Alpha	ISEN Yncréa Méditerrannée - Nîmes										1	100,0%	0,0%	797	797	10
+2020	PC	Puissance Alpha	ISEN Yncréa Méditerrannée - Toulon										4	0,0%	0,0%	715	723	10
+2020	PC	Puissance Alpha	Concours ISEN Méditerrannée PC	974	42,2%	18,2%				859	43,8%	18,4%	5					20
+2020	PC	Puissance Alpha	ISEN Yncréa Ouest - Brest										2	100,0%	0,0%	766	766	5
+2020	PC	Puissance Alpha	ISEN Yncréa Ouest - Nantes										0	0,0%	0,0%	0	0	5
 2020	PC	Puissance Alpha	Concours ISEN Ouest PC	974	42,2%	18,2%				859	43,8%	18,4%	2					10
 2020	PC	Puissance Alpha	ISEP Paris	974	42,2%	18,2%				835	44,3%	18,4%	8	25,0%	12,5%	614	600	15
-2020	PC	Puissance Alpha	3IL IngÃ©nieurs	974	42,2%	18,2%				672	43,5%	19,9%	0	0,0%	0,0%	0	0	5
-2020	PC	Avenir PrÃ©pas	ECE LYON										10	30,0%	10,0%	760	691	8
-2020	PC	Avenir PrÃ©pas	ECE PARIS (statut apprentissage)										3	0,0%	33,3%	830	830	3
-2020	PC	Avenir PrÃ©pas	ECE PARIS										26	19,2%	15,4%	853	813	35
-2020	PC	Avenir PrÃ©pas	Concours ECE Paris - Lyon PC	1117	39,9%	19,0%				984	41,7%	19,1%	39					46
-2020	PC	Avenir PrÃ©pas	EIGSI Casablanca	1117	39,9%	19,0%				931	42,2%	19,3%	0	0,0%	0,0%	0	0	2
-2020	PC	Avenir PrÃ©pas	EIGSI La Rochelle	1117	39,9%	19,0%				931	42,2%	19,3%	8	37,5%	0,0%	562	589	10
-2020	PC	Avenir PrÃ©pas	ESIGELEC Rouen	1117	39,9%	19,0%				980	41,7%	19,2%	3	33,3%	0,0%	859	873	20
-2020	PC	Avenir PrÃ©pas	ESILV Paris-La DÃ©fense	1117	39,9%	19,0%				959	42,1%	19,5%	35	34,3%	20,0%	379	386	35
-2020	PC	Avenir PrÃ©pas	ESITC Caen	1117	39,9%	19,0%				600	42,3%	21,5%	3	66,7%	0,0%	563	434	10
-2020	PC	Avenir PrÃ©pas	ESTACA Laval AÃ©ronautique et spatial										3	100,0%	33,3%	143	145	1
-2020	PC	Avenir PrÃ©pas	ESTACA Laval Automobile										0	0,0%	0,0%	0	0	2
-2020	PC	Avenir PrÃ©pas	ESTACA Paris-Saclay AÃ©ronautique et spatial										3	33,3%	0,0%	136	126	2
-2020	PC	Avenir PrÃ©pas	ESTACA Paris-Saclay Automobile ou Transports GuidÃ©s										1	0,0%	0,0%	224	224	2
-2020	PC	Avenir PrÃ©pas	Concours ESTACA Paris-Saclay/Laval PC	1117	39,9%	19,0%				231	41,1%	19,9%	7					7
+2020	PC	Puissance Alpha	3IL Ingénieurs	974	42,2%	18,2%				672	43,5%	19,9%	0	0,0%	0,0%	0	0	5
+2020	PC	Avenir Prépas	ECE LYON										10	30,0%	10,0%	760	691	8
+2020	PC	Avenir Prépas	ECE PARIS (statut apprentissage)										3	0,0%	33,3%	830	830	3
+2020	PC	Avenir Prépas	ECE PARIS										26	19,2%	15,4%	853	813	35
+2020	PC	Avenir Prépas	Concours ECE Paris - Lyon PC	1117	39,9%	19,0%				984	41,7%	19,1%	39					46
+2020	PC	Avenir Prépas	EIGSI Casablanca	1117	39,9%	19,0%				931	42,2%	19,3%	0	0,0%	0,0%	0	0	2
+2020	PC	Avenir Prépas	EIGSI La Rochelle	1117	39,9%	19,0%				931	42,2%	19,3%	8	37,5%	0,0%	562	589	10
+2020	PC	Avenir Prépas	ESIGELEC Rouen	1117	39,9%	19,0%				980	41,7%	19,2%	3	33,3%	0,0%	859	873	20
+2020	PC	Avenir Prépas	ESILV Paris-La Défense	1117	39,9%	19,0%				959	42,1%	19,5%	35	34,3%	20,0%	379	386	35
+2020	PC	Avenir Prépas	ESITC Caen	1117	39,9%	19,0%				600	42,3%	21,5%	3	66,7%	0,0%	563	434	10
+2020	PC	Avenir Prépas	ESTACA Laval Aéronautique et spatial										3	100,0%	33,3%	143	145	1
+2020	PC	Avenir Prépas	ESTACA Laval Automobile										0	0,0%	0,0%	0	0	2
+2020	PC	Avenir Prépas	ESTACA Paris-Saclay Aéronautique et spatial										3	33,3%	0,0%	136	126	2
+2020	PC	Avenir Prépas	ESTACA Paris-Saclay Automobile ou Transports Guidés										1	0,0%	0,0%	224	224	2
+2020	PC	Avenir Prépas	Concours ESTACA Paris-Saclay/Laval PC	1117	39,9%	19,0%				231	41,1%	19,9%	7					7
 2020	PC	FESIC	ECAM Lyon	668	42,7%	19,6%				503	44,5%	21,7%	6	33,3%	50,0%	254	260	5
 2020	PC	FESIC	ECAM Rennes	668	42,7%	19,6%				587	44,3%	20,1%	6	16,7%	33,3%	525	515	12
 2020	PC	FESIC	ECAM Strasbourg Europe	668	42,7%	19,6%				541	44,5%	21,1%	8	37,5%	0,0%	442	428	10
-2020	PC	FESIC	UniLasalle â Rennes EME	668	42,7%	19,6%				323	46,4%	24,8%	0	0,0%	0,0%	0	0	5
+2020	PC	FESIC	UniLasalle – Rennes EME	668	42,7%	19,6%				323	46,4%	24,8%	0	0,0%	0,0%	0	0	5
 2020	PC	FESIC	ECAM-EPMI Cergy-Pontoise	668	42,7%	19,6%				612	43,5%	19,8%	9	33,3%	11,1%	581	561	10
 2020	PC	FESIC	UniLaSalle Beauvais - Sciences de la Terre et Environnement	668	42,7%	19,6%				573	44,0%	20,6%	1	0,0%	100,0%	563	563	6
-2020	PC	Autres Ã©coles E3A	EIDD Paris	532	47,7%	17,9%				392	51,0%	18,9%	14	64,3%	50,0%	281	238	15
-2020	PC	Autres Ã©coles E3A	EIL CÃ´te d'Opale - Calais (informatique)										1	0,0%	0,0%	134	134	3
-2020	PC	Autres Ã©coles E3A	EIL CÃ´te d'Opale - Dunkerque (GÃ©nie EnergÃ©tique et Environnement)										0	0,0%	0,0%	127	127	10
-2020	PC	Autres Ã©coles E3A	EIL CÃ´te d'Opale - Longuenesse (GÃ©nie Industriel)										2	0,0%	0,0%	132	132	5
-2020	PC	Autres Ã©coles E3A	Concours EIL CÃ´te d'Opale Longuenesse - Calais - Dunkerque PC	210	44,8%	14,3%				145	42,8%	13,1%	3					18
-2020	PC	Autres Ã©coles E3A	ENSAIT Roubaix										33	69,7%	9,1%	297	271	35
-2020	PC	Autres Ã©coles E3A	ENSAIT Roubaix - Formation en alternance										3	66,7%	0,0%	280	270	2
-2020	PC	Autres Ã©coles E3A	Concours ENSAIT Roubaix PC	594	55,6%	18,7%				441	56,9%	17,9%	36					37
-2020	PC	Autres Ã©coles E3A	ESB Nantes	271	46,5%	20,7%				160	52,5%	23,8%	1	0,0%	100,0%	155	155	15
-2020	PC	Autres Ã©coles E3A	ESTIA Bidart	339	39,2%	19,8%				269	40,9%	20,4%	11	27,3%	18,2%	204	185	16
-2020	PC	Autres Ã©coles E3A	IMT Lille Douai en Partenariat ISPA	495	45,1%	19,0%				405	46,2%	19,3%	11	45,5%	9,1%	357	320	10
-2020	PC	Autres Ã©coles E3A	ISMANS-Groupe CESI Le Mans	266	42,1%	18,4%				259	42,1%	18,5%	5	40,0%	0,0%	242	241	15
-2020	PC	Autres Ã©coles E3A	Paoli Tech	317	42,0%	19,9%				220	44,1%	18,2%	0	0,0%	0,0%	0	0	2
-2020	PC	Autres Ã©coles E3A	Toulouse INP - ENIT	646	43,8%	18,3%				240	47,5%	12,9%	2	100,0%	0,0%	216	216	2
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France GÃ©nie civil et bÃ¢timent	2294	36,4%	19,4%				1186	38,2%	18,7%	8*	37,5%	0,0%	925	919	8*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France GÃ©nie civil et bÃ¢timent	2396	25,2%	17,7%				1278	25,0%	20,6%	5*	40,0%	20,0%	840	788	5*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France Informatique et CybersÃ©curitÃ©	3132	23,5%	19,5%				1047	22,4%	21,7%	2*	0,0%	0,0%	750	811	3*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France MÃ©canique et EnergÃ©tique										28*	32,1%	21,4%	1663*	1640*	35*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France GÃ©nie Industriel										12*	41,7%	41,7%	1511*	1394*	10*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France MÃ©catronique										19*	0,0%	10,5%	1511	1428	16*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie mÃ©canique, gÃ©nie industriel et mÃ©catronique PSI-PT	3281*	21,0%	17,7%	*			1956*	21,3%	19,4%	59*					61*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen Technologies du Vivant										2*	100,0%	0,0%	747*	747*	3*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Biosciences										5*	80,0%	20,0%	230*	211*	6*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Biologique										2*	100,0%	0,0%	153*	153*	2*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	ISIS Castres Informatique pour la SantÃ©										13*	46,2%	15,4%	1699	1667	2*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	Concours INSA DomaineÂ Biotechnologies-santÃ© MP-PC-PSI-BCPST-TPC	4009*	47,3%	19,8%	*			2097*	49,7%	21,5%	22*					13*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie EnergÃ©tique et Environnement										5*	40,0%	20,0%	266*	221*	5*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie Chimie et ProcÃ©dÃ©s										3*	33,3%	0,0%	1046*	1037*	4*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie EnergÃ©tique et Propulsion										4*	75,0%	25,0%	992*	885*	4*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie MaÃ®trise des Risques Industriels										6*	33,3%	16,7%	1138*	1160*	6*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Climatique et EnergÃ©tique										10*	50,0%	20,0%	1299*	1176*	12*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie des ProcÃ©dÃ©s et environnement										5*	40,0%	40,0%	750*	689*	10*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	Sup'EnR Perpignan EnergÃ©tique et Energies Renouvelables										2*	50,0%	0,0%	1385	1385	2*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	Concours INSA DomaineÂ EnergÃ©tique â GÃ©nie Chimique â Environnement MP-PC-PSI	4146*	37,5%	19,3%	*			1506*	37,5%	21,6%	35*					43*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Euro-MÃ©diterranÃ©e Maroc GÃ©nie Electrique										0*	0,0%	0,0%	0*	0*	3*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Electrique										8*	25,0%	0,0%	312*	295*	8*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Electronique et Informatique Industrielle										2*	0,0%	50,0%	1014*	1014*	2*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rennes SystÃ¨me et RÃ©seaux de Communication										3*	0,0%	33,3%	1793*	1583*	5*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Electrique										8*	25,0%	25,0%	1411*	1367*	10*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse Automatique et Electronique										2*	50,0%	0,0%	630	643	3*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie Ã©lectrique, Ã©lectronique, automatique MP-PC-PSI-PT	4812*	24,9%	18,7%	*			1964*	24,2%	20,1%	23*					31*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Civil et Urbanisme										7*	28,6%	0,0%	140*	135*	7*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie Civil et Urbain										2*	50,0%	50,0%	387*	387*	2*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie GÃ©nie Civil et constructions durables										2*	100,0%	50,0%	760*	760*	2*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Civil										3*	33,3%	0,0%	815*	721*	3*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg Topographie										2*	50,0%	50,0%	828*	732*	4*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Civil										1*	0,0%	0,0%	243	243	1*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie civil, urbanisme, topographie MP-PC	2294*	36,4%	19,4%	*			1186*	38,2%	18,7%	17*					19*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Civil et Urbanisme										9*	22,2%	0,0%	160*	156*	9*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie Civil et Urbain										2*	50,0%	50,0%	261*	261*	2*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie GÃ©nie Civil et constructions durables										2*	0,0%	0,0%	388*	388*	2*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Civil										12*	33,3%	8,3%	509*	485*	12*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg Topographie										10*	10,0%	30,0%	1008*	954*	10*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Civil										1*	0,0%	0,0%	290	290	2*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie civil, urbanisme, topographie PSI-PT	2396*	25,2%	17,7%	*			1278*	25,0%	20,6%	36*					37*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire SÃ©curitÃ© et Technologies Informatiques										2*	0,0%	0,0%	724*	724*	1*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Euro-MÃ©diterranÃ©e Maroc SystÃ¨mes d'Information et de Communication										0*	0,0%	0,0%	0*	0*	2*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Lyon TÃ©lÃ©communications, services et usages										4*	25,0%	0,0%	254*	251*	4*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Informatique										1*	100,0%	0,0%	393*	393*	2*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie Architecture des SystÃ¨mes d'Information										2*	0,0%	50,0%	541*	541*	2*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie GÃ©nie MathÃ©matique										2*	50,0%	0,0%	145*	145*	2*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse Informatique et RÃ©seaux										6*	0,0%	16,7%	341*	325*	6*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse MathÃ©matiques appliquÃ©es										3*	33,3%	0,0%	392	396	3*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine Informatique, mathÃ©matique, modÃ©lisation PC-PSI-PT	3132*	23,5%	19,5%	*			1047*	22,4%	21,7%	20*					22*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire GÃ©nie des SystÃ¨mes Industriels										8*	50,0%	12,5%	1793*	1689*	18*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Euro-MÃ©diterranÃ©e Maroc GÃ©nie MÃ©canique et EnergÃ©tique										0*	0,0%	0,0%	0*	0*	4*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Industriel										8*	0,0%	12,5%	281*	231*	8*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie MÃ©canique										28*	14,3%	10,7%	289*	284*	30*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie MÃ©canique et Automatique										4*	50,0%	0,0%	690*	714*	4*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie MÃ©canique										2*	0,0%	0,0%	857*	874*	3*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie MÃ©canique										21*	28,6%	14,3%	1042*	991*	22*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg MÃ©catronique										4*	50,0%	25,0%	538*	525*	4*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg Plasturgie										3*	33,3%	0,0%	1684*	1687*	14*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie MÃ©canique										3*	33,3%	33,3%	523	529	4*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie mÃ©canique, gÃ©nie industriel et mÃ©catronique PSI-PT	3281*	21,0%	17,7%	*			1956*	21,3%	19,4%	81*					111*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen GÃ©nie Physique										3*	100,0%	0,0%	1770*	1855*	4*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire MaÃ®trise des Risques Industriels										4*	50,0%	0,0%	2007*	1947*	23*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Science et GÃ©nie des MatÃ©riaux										10*	30,0%	20,0%	432*	351*	10*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Science et GÃ©nie des MatÃ©riaux										3*	100,0%	33,3%	1491*	1390*	3*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Physique										7*	42,9%	14,3%	700	635	6*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie physique et matÃ©riaux MP-PC-PSI	4540*	32,5%	19,2%	*			2206*	33,7%	19,9%	27*					46*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen GÃ©nie Physique										0*	0,0%	0,0%	0*	0*	2*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire MaÃ®trise des Risques Industriels										1*	100,0%	0,0%	584*	584*	7*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Science et GÃ©nie des MatÃ©riaux										1*	0,0%	0,0%	44*	44*	1*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Science et GÃ©nie des MatÃ©riaux										1*	0,0%	0,0%	175*	175*	1*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Physique										1*	100,0%	0,0%	33	33	1*
-2020	PC	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie physique et matÃ©riaux TSI-PT-TPC	1609*	14,2%	19,1%	*			702*	13,2%	21,5%	4*					12*
-2020	PC	CESI	CESI AngoulÃªme										1*	0,0%	0,0%	81*	81*	8*
+2020	PC	Autres écoles E3A	EIDD Paris	532	47,7%	17,9%				392	51,0%	18,9%	14	64,3%	50,0%	281	238	15
+2020	PC	Autres écoles E3A	EIL Côte d'Opale - Calais (informatique)										1	0,0%	0,0%	134	134	3
+2020	PC	Autres écoles E3A	EIL Côte d'Opale - Dunkerque (Génie Energétique et Environnement)										0	0,0%	0,0%	127	127	10
+2020	PC	Autres écoles E3A	EIL Côte d'Opale - Longuenesse (Génie Industriel)										2	0,0%	0,0%	132	132	5
+2020	PC	Autres écoles E3A	Concours EIL Côte d'Opale Longuenesse - Calais - Dunkerque PC	210	44,8%	14,3%				145	42,8%	13,1%	3					18
+2020	PC	Autres écoles E3A	ENSAIT Roubaix										33	69,7%	9,1%	297	271	35
+2020	PC	Autres écoles E3A	ENSAIT Roubaix - Formation en alternance										3	66,7%	0,0%	280	270	2
+2020	PC	Autres écoles E3A	Concours ENSAIT Roubaix PC	594	55,6%	18,7%				441	56,9%	17,9%	36					37
+2020	PC	Autres écoles E3A	ESB Nantes	271	46,5%	20,7%				160	52,5%	23,8%	1	0,0%	100,0%	155	155	15
+2020	PC	Autres écoles E3A	ESTIA Bidart	339	39,2%	19,8%				269	40,9%	20,4%	11	27,3%	18,2%	204	185	16
+2020	PC	Autres écoles E3A	IMT Lille Douai en Partenariat ISPA	495	45,1%	19,0%				405	46,2%	19,3%	11	45,5%	9,1%	357	320	10
+2020	PC	Autres écoles E3A	ISMANS-Groupe CESI Le Mans	266	42,1%	18,4%				259	42,1%	18,5%	5	40,0%	0,0%	242	241	15
+2020	PC	Autres écoles E3A	Paoli Tech	317	42,0%	19,9%				220	44,1%	18,2%	0	0,0%	0,0%	0	0	2
+2020	PC	Autres écoles E3A	Toulouse INP - ENIT	646	43,8%	18,3%				240	47,5%	12,9%	2	100,0%	0,0%	216	216	2
+2020	PC	Groupe INSA Inter-Filière	INSA Hauts de France Génie civil et bâtiment	2294	36,4%	19,4%				1186	38,2%	18,7%	8*	37,5%	0,0%	925	919	8*
+2020	PC	Groupe INSA Inter-Filière	INSA Hauts de France Génie civil et bâtiment	2396	25,2%	17,7%				1278	25,0%	20,6%	5*	40,0%	20,0%	840	788	5*
+2020	PC	Groupe INSA Inter-Filière	INSA Hauts de France Informatique et Cybersécurité	3132	23,5%	19,5%				1047	22,4%	21,7%	2*	0,0%	0,0%	750	811	3*
+2020	PC	Groupe INSA Inter-Filière	INSA Hauts de France Mécanique et Energétique										28*	32,1%	21,4%	1663*	1640*	35*
+2020	PC	Groupe INSA Inter-Filière	INSA Hauts de France Génie Industriel										12*	41,7%	41,7%	1511*	1394*	10*
+2020	PC	Groupe INSA Inter-Filière	INSA Hauts de France Mécatronique										19*	0,0%	10,5%	1511	1428	16*
+2020	PC	Groupe INSA Inter-Filière	Concours INSA Domaine Génie mécanique, génie industriel et mécatronique PSI-PT	3281*	21,0%	17,7%	*			1956*	21,3%	19,4%	59*					61*
+2020	PC	Groupe INSA Inter-Filière	ESITech Rouen Technologies du Vivant										2*	100,0%	0,0%	747*	747*	3*
+2020	PC	Groupe INSA Inter-Filière	INSA Lyon Biosciences										5*	80,0%	20,0%	230*	211*	6*
+2020	PC	Groupe INSA Inter-Filière	INSA Toulouse Génie Biologique										2*	100,0%	0,0%	153*	153*	2*
+2020	PC	Groupe INSA Inter-Filière	ISIS Castres Informatique pour la Santé										13*	46,2%	15,4%	1699	1667	2*
+2020	PC	Groupe INSA Inter-Filière	Concours INSA Domaine Biotechnologies-santé MP-PC-PSI-BCPST-TPC	4009*	47,3%	19,8%	*			2097*	49,7%	21,5%	22*					13*
+2020	PC	Groupe INSA Inter-Filière	INSA Lyon Génie Energétique et Environnement										5*	40,0%	20,0%	266*	221*	5*
+2020	PC	Groupe INSA Inter-Filière	INSA Rouen Normandie Chimie et Procédés										3*	33,3%	0,0%	1046*	1037*	4*
+2020	PC	Groupe INSA Inter-Filière	INSA Rouen Normandie Energétique et Propulsion										4*	75,0%	25,0%	992*	885*	4*
+2020	PC	Groupe INSA Inter-Filière	INSA Rouen Normandie Maîtrise des Risques Industriels										6*	33,3%	16,7%	1138*	1160*	6*
+2020	PC	Groupe INSA Inter-Filière	INSA Strasbourg Génie Climatique et Energétique										10*	50,0%	20,0%	1299*	1176*	12*
+2020	PC	Groupe INSA Inter-Filière	INSA Toulouse Génie des Procédés et environnement										5*	40,0%	40,0%	750*	689*	10*
+2020	PC	Groupe INSA Inter-Filière	Sup'EnR Perpignan Energétique et Energies Renouvelables										2*	50,0%	0,0%	1385	1385	2*
+2020	PC	Groupe INSA Inter-Filière	Concours INSA Domaine Energétique – Génie Chimique – Environnement MP-PC-PSI	4146*	37,5%	19,3%	*			1506*	37,5%	21,6%	35*					43*
+2020	PC	Groupe INSA Inter-Filière	INSA Euro-Méditerranée Maroc Génie Electrique										0*	0,0%	0,0%	0*	0*	3*
+2020	PC	Groupe INSA Inter-Filière	INSA Lyon Génie Electrique										8*	25,0%	0,0%	312*	295*	8*
+2020	PC	Groupe INSA Inter-Filière	INSA Rennes Electronique et Informatique Industrielle										2*	0,0%	50,0%	1014*	1014*	2*
+2020	PC	Groupe INSA Inter-Filière	INSA Rennes Système et Réseaux de Communication										3*	0,0%	33,3%	1793*	1583*	5*
+2020	PC	Groupe INSA Inter-Filière	INSA Strasbourg Génie Electrique										8*	25,0%	25,0%	1411*	1367*	10*
+2020	PC	Groupe INSA Inter-Filière	INSA Toulouse Automatique et Electronique										2*	50,0%	0,0%	630	643	3*
+2020	PC	Groupe INSA Inter-Filière	Concours INSA Domaine Génie électrique, électronique, automatique MP-PC-PSI-PT	4812*	24,9%	18,7%	*			1964*	24,2%	20,1%	23*					31*
+2020	PC	Groupe INSA Inter-Filière	INSA Lyon Génie Civil et Urbanisme										7*	28,6%	0,0%	140*	135*	7*
+2020	PC	Groupe INSA Inter-Filière	INSA Rennes Génie Civil et Urbain										2*	50,0%	50,0%	387*	387*	2*
+2020	PC	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Civil et constructions durables										2*	100,0%	50,0%	760*	760*	2*
+2020	PC	Groupe INSA Inter-Filière	INSA Strasbourg Génie Civil										3*	33,3%	0,0%	815*	721*	3*
+2020	PC	Groupe INSA Inter-Filière	INSA Strasbourg Topographie										2*	50,0%	50,0%	828*	732*	4*
+2020	PC	Groupe INSA Inter-Filière	INSA Toulouse Génie Civil										1*	0,0%	0,0%	243	243	1*
+2020	PC	Groupe INSA Inter-Filière	Concours INSA Domaine Génie civil, urbanisme, topographie MP-PC	2294*	36,4%	19,4%	*			1186*	38,2%	18,7%	17*					19*
+2020	PC	Groupe INSA Inter-Filière	INSA Lyon Génie Civil et Urbanisme										9*	22,2%	0,0%	160*	156*	9*
+2020	PC	Groupe INSA Inter-Filière	INSA Rennes Génie Civil et Urbain										2*	50,0%	50,0%	261*	261*	2*
+2020	PC	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Civil et constructions durables										2*	0,0%	0,0%	388*	388*	2*
+2020	PC	Groupe INSA Inter-Filière	INSA Strasbourg Génie Civil										12*	33,3%	8,3%	509*	485*	12*
+2020	PC	Groupe INSA Inter-Filière	INSA Strasbourg Topographie										10*	10,0%	30,0%	1008*	954*	10*
+2020	PC	Groupe INSA Inter-Filière	INSA Toulouse Génie Civil										1*	0,0%	0,0%	290	290	2*
+2020	PC	Groupe INSA Inter-Filière	Concours INSA Domaine Génie civil, urbanisme, topographie PSI-PT	2396*	25,2%	17,7%	*			1278*	25,0%	20,6%	36*					37*
+2020	PC	Groupe INSA Inter-Filière	INSA Centre Val de Loire Sécurité et Technologies Informatiques										2*	0,0%	0,0%	724*	724*	1*
+2020	PC	Groupe INSA Inter-Filière	INSA Euro-Méditerranée Maroc Systèmes d'Information et de Communication										0*	0,0%	0,0%	0*	0*	2*
+2020	PC	Groupe INSA Inter-Filière	INSA Lyon Télécommunications, services et usages										4*	25,0%	0,0%	254*	251*	4*
+2020	PC	Groupe INSA Inter-Filière	INSA Rennes Informatique										1*	100,0%	0,0%	393*	393*	2*
+2020	PC	Groupe INSA Inter-Filière	INSA Rouen Normandie Architecture des Systèmes d'Information										2*	0,0%	50,0%	541*	541*	2*
+2020	PC	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Mathématique										2*	50,0%	0,0%	145*	145*	2*
+2020	PC	Groupe INSA Inter-Filière	INSA Toulouse Informatique et Réseaux										6*	0,0%	16,7%	341*	325*	6*
+2020	PC	Groupe INSA Inter-Filière	INSA Toulouse Mathématiques appliquées										3*	33,3%	0,0%	392	396	3*
+2020	PC	Groupe INSA Inter-Filière	Concours INSA Domaine Informatique, mathématique, modélisation PC-PSI-PT	3132*	23,5%	19,5%	*			1047*	22,4%	21,7%	20*					22*
+2020	PC	Groupe INSA Inter-Filière	INSA Centre Val de Loire Génie des Systèmes Industriels										8*	50,0%	12,5%	1793*	1689*	18*
+2020	PC	Groupe INSA Inter-Filière	INSA Euro-Méditerranée Maroc Génie Mécanique et Energétique										0*	0,0%	0,0%	0*	0*	4*
+2020	PC	Groupe INSA Inter-Filière	INSA Lyon Génie Industriel										8*	0,0%	12,5%	281*	231*	8*
+2020	PC	Groupe INSA Inter-Filière	INSA Lyon Génie Mécanique										28*	14,3%	10,7%	289*	284*	30*
+2020	PC	Groupe INSA Inter-Filière	INSA Rennes Génie Mécanique et Automatique										4*	50,0%	0,0%	690*	714*	4*
+2020	PC	Groupe INSA Inter-Filière	INSA Rouen Normandie Mécanique										2*	0,0%	0,0%	857*	874*	3*
+2020	PC	Groupe INSA Inter-Filière	INSA Strasbourg Génie Mécanique										21*	28,6%	14,3%	1042*	991*	22*
+2020	PC	Groupe INSA Inter-Filière	INSA Strasbourg Mécatronique										4*	50,0%	25,0%	538*	525*	4*
+2020	PC	Groupe INSA Inter-Filière	INSA Strasbourg Plasturgie										3*	33,3%	0,0%	1684*	1687*	14*
+2020	PC	Groupe INSA Inter-Filière	INSA Toulouse Génie Mécanique										3*	33,3%	33,3%	523	529	4*
+2020	PC	Groupe INSA Inter-Filière	Concours INSA Domaine Génie mécanique, génie industriel et mécatronique PSI-PT	3281*	21,0%	17,7%	*			1956*	21,3%	19,4%	81*					111*
+2020	PC	Groupe INSA Inter-Filière	ESITech Rouen Génie Physique										3*	100,0%	0,0%	1770*	1855*	4*
+2020	PC	Groupe INSA Inter-Filière	INSA Centre Val de Loire Maîtrise des Risques Industriels										4*	50,0%	0,0%	2007*	1947*	23*
+2020	PC	Groupe INSA Inter-Filière	INSA Lyon Science et Génie des Matériaux										10*	30,0%	20,0%	432*	351*	10*
+2020	PC	Groupe INSA Inter-Filière	INSA Rennes Science et Génie des Matériaux										3*	100,0%	33,3%	1491*	1390*	3*
+2020	PC	Groupe INSA Inter-Filière	INSA Toulouse Génie Physique										7*	42,9%	14,3%	700	635	6*
+2020	PC	Groupe INSA Inter-Filière	Concours INSA Domaine Génie physique et matériaux MP-PC-PSI	4540*	32,5%	19,2%	*			2206*	33,7%	19,9%	27*					46*
+2020	PC	Groupe INSA Inter-Filière	ESITech Rouen Génie Physique										0*	0,0%	0,0%	0*	0*	2*
+2020	PC	Groupe INSA Inter-Filière	INSA Centre Val de Loire Maîtrise des Risques Industriels										1*	100,0%	0,0%	584*	584*	7*
+2020	PC	Groupe INSA Inter-Filière	INSA Lyon Science et Génie des Matériaux										1*	0,0%	0,0%	44*	44*	1*
+2020	PC	Groupe INSA Inter-Filière	INSA Rennes Science et Génie des Matériaux										1*	0,0%	0,0%	175*	175*	1*
+2020	PC	Groupe INSA Inter-Filière	INSA Toulouse Génie Physique										1*	100,0%	0,0%	33	33	1*
+2020	PC	Groupe INSA Inter-Filière	Concours INSA Domaine Génie physique et matériaux TSI-PT-TPC	1609*	14,2%	19,1%	*			702*	13,2%	21,5%	4*					12*
+2020	PC	CESI	CESI Angoulême										1*	0,0%	0,0%	81*	81*	8*
 2020	PC	CESI	CESI Arras										4*	25,0%	0,0%	131*	130*	10*
 2020	PC	CESI	CESI Bordeaux										2*	0,0%	50,0%	141*	141*	8*
 2020	PC	CESI	CESI Lyon										5*	60,0%	40,0%	138*	120*	12*
@@ -387,7 +387,7 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2020	PC	CESI	CESI Nanterre										9*	55,6%	22,2%	139*	122*	20*
 2020	PC	CESI	CESI Nice Sophia Antipolis										1*	0,0%	0,0%	23*	23*	5*
 2020	PC	CESI	CESI Saint-Nazaire										1*	100,0%	100,0%	156	156	10*
-2020	PC	CESI	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur GÃ©nÃ©raliste	385*	30,6%	15,8%	*			162*	36,4%	17,3%	24*					89*
+2020	PC	CESI	Concours CESI Ecole d'Ingénieurs - Ingénieur Généraliste	385*	30,6%	15,8%	*			162*	36,4%	17,3%	24*					89*
 2020	PC	CESI	CESI Aix-en-Provence										1*	0,0%	0,0%	31*	31*	2*
 2020	PC	CESI	CESI Arras										1*	0,0%	0,0%	48*	48*	4*
 2020	PC	CESI	CESI Bordeaux										1*	0,0%	0,0%	25*	25*	2*
@@ -398,13 +398,13 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2020	PC	CESI	CESI Nancy										1*	0,0%	0,0%	34*	34*	2*
 2020	PC	CESI	CESI Nanterre										0*	0,0%	0,0%	0*	0*	7*
 2020	PC	CESI	CESI Nice Sophia Antipolis										0*	0,0%	0,0%	0*	0*	2*
-2020	PC	CESI	CESI OrlÃ©ans										0*	0,0%	0,0%	0*	0*	3*
+2020	PC	CESI	CESI Orléans										0*	0,0%	0,0%	0*	0*	3*
 2020	PC	CESI	CESI Pau										0*	0,0%	0,0%	0*	0*	2*
 2020	PC	CESI	CESI Reims										1*	0,0%	0,0%	33*	33*	2*
 2020	PC	CESI	CESI Saint-Nazaire										0*	0,0%	0,0%	0*	0*	5*
 2020	PC	CESI	CESI Strasbourg										1*	0,0%	0,0%	4*	4*	6*
 2020	PC	CESI	CESI Toulouse										0*	0,0%	0,0%	0	0	3*
-2020	PC	CESI	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur en Informatique (interFilÃ¨re)	114*	11,4%	7,9%	*			53*	11,3%	7,5%	8*					49*
+2020	PC	CESI	Concours CESI Ecole d'Ingénieurs - Ingénieur en Informatique (interFilère)	114*	11,4%	7,9%	*			53*	11,3%	7,5%	8*					49*
 2020	PC	EPITA	EPITA										6	0,0%	33,3%	134	113	10
 2020	PC	EPITA	IPSA Paris										8	25,0%	37,5%	56	53	7
 2020	PC	EPITA	IPSA Toulouse										4	50,0%	50,0%	6	6	4

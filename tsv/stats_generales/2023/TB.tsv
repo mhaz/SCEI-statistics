@@ -1,43 +1,43 @@
 year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	nb_integres_interfilieres	places
-2023	TB	Concours A TB BIO	Institut Agro â Rennes-Angers (cursus ingÃ©nieur agronome)										5	40,0%	60,0%	35	31		5
-2023	TB	Concours A TB BIO	Institut Agro â Rennes-Angers (cursus ingÃ©nieur en Horticulture et Paysage)										3	33,3%	33,3%	80	81		4
+2023	TB	Concours A TB BIO	Institut Agro – Rennes-Angers (cursus ingénieur agronome)										5	40,0%	60,0%	35	31		5
+2023	TB	Concours A TB BIO	Institut Agro – Rennes-Angers (cursus ingénieur en Horticulture et Paysage)										3	33,3%	33,3%	80	81		4
 2023	TB	Concours A TB BIO	AgroParisTech Campus de Palaiseau										10	20,0%	0,0%	12	13		10
-2023	TB	Concours A TB BIO	Institut Agro â Dijon (cursus ingÃ©nieur en agroalimentaire)										3	66,7%	0,0%	76	68		3
-2023	TB	Concours A TB BIO	Institut Agro â Dijon (cursus ingÃ©nieur agronome civil)										3	66,7%	33,3%	38	41		3
+2023	TB	Concours A TB BIO	Institut Agro – Dijon (cursus ingénieur en agroalimentaire)										3	66,7%	0,0%	76	68		3
+2023	TB	Concours A TB BIO	Institut Agro – Dijon (cursus ingénieur agronome civil)										3	66,7%	33,3%	38	41		3
 2023	TB	Concours A TB BIO	Bordeaux Sciences Agro										6	16,7%	33,3%	63	66		2
-2023	TB	Concours A TB BIO	ENGEES Strasbourg Civil (Ã©tudiant)										1	0,0%	0,0%	44	44		3
+2023	TB	Concours A TB BIO	ENGEES Strasbourg Civil (étudiant)										1	0,0%	0,0%	44	44		3
 2023	TB	Concours A TB BIO	ENSAIA Nancy										7	71,4%	14,3%	74	72		5
-2023	TB	Concours A TB BIO	Ecole nationale supÃ©rieure agronomique de Toulouse										7	100,0%	14,3%	50	52		8
-2023	TB	Concours A TB BIO	Institut Agro â Montpellier (cursus ingÃ©nieur agronome)										4	75,0%	0,0%	8	10		4
+2023	TB	Concours A TB BIO	Ecole nationale supérieure agronomique de Toulouse										7	100,0%	14,3%	50	52		8
+2023	TB	Concours A TB BIO	Institut Agro – Montpellier (cursus ingénieur agronome)										4	75,0%	0,0%	8	10		4
 2023	TB	Concours A TB BIO	ONIRIS Nantes Atlantique (cursus agroalimentaire)										1	100,0%	100,0%	90	90		6
 2023	TB	Concours A TB BIO	VetAgro Sup Clermont-Ferrand										3	33,3%	33,3%	63	72		3
-2023	TB	Concours A TB BIO	Institut Agro â Montpellier (cursus ingÃ©nieur SAADS)										1	100,0%	0,0%	48	48		1
+2023	TB	Concours A TB BIO	Institut Agro – Montpellier (cursus ingénieur SAADS)										1	100,0%	0,0%	48	48		1
 2023	TB	Concours A TB BIO	Concours A TB BIO	144	61,1%	18,1%	106	58,5%	19,8%	99	58,6%	20,2%	54						57
 2023	TB	Lorraine INP - ENSTIB	Lorraine INP - ENSTIB	42	52,4%	26,2%	28	46,4%	25,0%	4	75,0%	50,0%	0	0,0%	0,0%	0	0		2
 2023	TB	Concours A TB ENV	ENV Alfort										2	100,0%	0,0%	17	17		2
 2023	TB	Concours A TB ENV	ENV Toulouse										3	100,0%	66,7%	13	11		3
-2023	TB	Concours A TB ENV	ONIRIS Nantes Atlantique (cursus vÃ©tÃ©rinaire)										3	100,0%	66,7%	12	13		3
+2023	TB	Concours A TB ENV	ONIRIS Nantes Atlantique (cursus vétérinaire)										3	100,0%	66,7%	12	13		3
 2023	TB	Concours A TB ENV	VetAgro Sup Lyon										3	66,7%	0,0%	9	7		3
 2023	TB	Concours A TB ENV	Concours TB ENV	75	62,7%	20,0%	30	63,3%	30,0%	21	81,0%	28,6%	11						11
 2023	TB	Concours POLYTECH A TB	ENSTBB Bordeaux										2	100,0%	0,0%	11	11		2
 2023	TB	Concours POLYTECH A TB	ESBS Strasbourg										2	0,0%	0,0%	44	44		2
-2023	TB	Concours POLYTECH A TB	ESIAB - Microbiologie et QualitÃ© / Agroalimentaire										1	0,0%	0,0%	83	83		3
-2023	TB	Concours POLYTECH A TB	EPISEN - GÃ©nie BiomÃ©dical et santÃ© (ISBS)										2	0,0%	0,0%	53	53		2
+2023	TB	Concours POLYTECH A TB	ESIAB - Microbiologie et Qualité / Agroalimentaire										1	0,0%	0,0%	83	83		3
+2023	TB	Concours POLYTECH A TB	EPISEN - Génie Biomédical et santé (ISBS)										2	0,0%	0,0%	53	53		2
 2023	TB	Concours POLYTECH A TB	ESIX Caen Agroalimentaire										1	0,0%	0,0%	84	84		2
-2023	TB	Concours POLYTECH A TB	ISIFC BesanÃ§on - GÃ©nie BiomÃ©dical										1	0,0%	100,0%	56	56		2
-2023	TB	Concours POLYTECH A TB	Polytech Angers GÃ©nie Biologique et SantÃ©										3	100,0%	0,0%	52	47		3
-2023	TB	Concours POLYTECH A TB	Polytech Clermont-Ferrand - GÃ©nie Biologique										1	100,0%	100,0%	58	58		1
-2023	TB	Concours POLYTECH A TB	Polytech Grenoble - Technologies de l'information pour la santÃ©										2	0,0%	100,0%	76	76		1
-2023	TB	Concours POLYTECH A TB	Polytech Lille - GÃ©nie biologique et alimentaire										1	0,0%	0,0%	45	45		1
-2023	TB	Concours POLYTECH A TB	Polytech Nantes - GÃ©nie des ProcÃ©dÃ©s et BioprocÃ©dÃ©s										1	100,0%	100,0%	76	76		1
-2023	TB	Concours POLYTECH A TB	Polytech Nice-Sophia - GÃ©nie biologique										3	66,7%	0,0%	23	24		2
+2023	TB	Concours POLYTECH A TB	ISIFC Besançon - Génie Biomédical										1	0,0%	100,0%	56	56		2
+2023	TB	Concours POLYTECH A TB	Polytech Angers Génie Biologique et Santé										3	100,0%	0,0%	52	47		3
+2023	TB	Concours POLYTECH A TB	Polytech Clermont-Ferrand - Génie Biologique										1	100,0%	100,0%	58	58		1
+2023	TB	Concours POLYTECH A TB	Polytech Grenoble - Technologies de l'information pour la santé										2	0,0%	100,0%	76	76		1
+2023	TB	Concours POLYTECH A TB	Polytech Lille - Génie biologique et alimentaire										1	0,0%	0,0%	45	45		1
+2023	TB	Concours POLYTECH A TB	Polytech Nantes - Génie des Procédés et Bioprocédés										1	100,0%	100,0%	76	76		1
+2023	TB	Concours POLYTECH A TB	Polytech Nice-Sophia - Génie biologique										3	66,7%	0,0%	23	24		2
 2023	TB	Concours POLYTECH A TB	Polytech Grenoble Gestion des Risques										3	100,0%	33,3%	79	79		2
-2023	TB	Concours POLYTECH A TB	Sup'Biotech (Ã©cole privÃ©e)										0	0,0%	0,0%	0	0		2
+2023	TB	Concours POLYTECH A TB	Sup'Biotech (école privée)										0	0,0%	0,0%	0	0		2
 2023	TB	Concours POLYTECH A TB	Concours POLYTECH A TB	120	59,2%	16,7%	90	56,7%	17,8%	88	58,0%	18,2%	23						26
 2023	TB	Concours A TB ENS	ENS Paris-Saclay	32	40,6%	6,2%	4	25,0%	0,0%	2	50,0%	0,0%	1	100,0%	0,0%	1	1		1
-2023	TB	Groupe INSA	ESITECH - Physique pour la SantÃ©										0	0,0%	0,0%	0	0		1
+2023	TB	Groupe INSA	ESITECH - Physique pour la Santé										0	0,0%	0,0%	0	0		1
 2023	TB	Groupe INSA	ESITech Rouen Technologies du Vivant										1	0,0%	0,0%	19	19		1
 2023	TB	Groupe INSA	INSA Lyon Biotechnologie et Bioinformatique										1	100,0%	0,0%	3	3		1
-2023	TB	Groupe INSA	INSA Toulouse GÃ©nie Biologique										0	0,0%	0,0%	0	0		1
-2023	TB	Groupe INSA	ISIS Castres Informatique pour la SantÃ©										0	0,0%	0,0%	0	0		1
-2023	TB	Groupe INSA	Concours INSA Domaine Biotechnologies-santÃ© TB	60	51,7%	18,3%	21	57,1%	4,8%	21	57,1%	4,8%	2						5
+2023	TB	Groupe INSA	INSA Toulouse Génie Biologique										0	0,0%	0,0%	0	0		1
+2023	TB	Groupe INSA	ISIS Castres Informatique pour la Santé										0	0,0%	0,0%	0	0		1
+2023	TB	Groupe INSA	Concours INSA Domaine Biotechnologies-santé TB	60	51,7%	18,3%	21	57,1%	4,8%	21	57,1%	4,8%	2						5

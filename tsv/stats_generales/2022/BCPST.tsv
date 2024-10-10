@@ -1,12 +1,12 @@
 year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	nb_integres_interfilieres	places
-2022	BCPST	A BIO	CentraleSupÃ©lec - Campus Metz										10	50,0%	10,0%	94	96		10
+2022	BCPST	A BIO	CentraleSupélec - Campus Metz										10	50,0%	10,0%	94	96		10
 2022	BCPST	A BIO	AgroParisTech Campus de Palaiseau										272	66,9%	16,5%	486	466		272
 2022	BCPST	A BIO	Montpellier Sup Agro (cursus agronome)										105	65,7%	33,3%	928	906		105
 2022	BCPST	A BIO	Montpellier Sup Agro (cursus SAADS)										11	54,5%	18,2%	1002	993		8
-2022	BCPST	A BIO	Agrocampus Ouest (cursus ingÃ©nieur agronome)										124	66,9%	35,5%	1070	1029		124
+2022	BCPST	A BIO	Agrocampus Ouest (cursus ingénieur agronome)										124	66,9%	35,5%	1070	1029		124
 2022	BCPST	A BIO	ENSAT Toulouse										88	71,6%	26,1%	1264	1170		92
 2022	BCPST	A BIO	ENSAIA Nancy										80	70,0%	23,8%	1789	1761		90
-2022	BCPST	A BIO	Agrocampus Ouest (cursus ingÃ©nieur en horticulture et en paysage)										41	75,6%	17,1%	1704	1554		43
+2022	BCPST	A BIO	Agrocampus Ouest (cursus ingénieur en horticulture et en paysage)										41	75,6%	17,1%	1704	1554		43
 2022	BCPST	A BIO	Agrosup Dijon (Cursus Agroalimentaire)										39	79,5%	15,4%	1919	1790		39
 2022	BCPST	A BIO	Bordeaux Sciences Agro										86	72,1%	36,0%	1447	1386		90
 2022	BCPST	A BIO	VetAgro Sup Clermont-Ferrand										59	72,9%	35,6%	1841	1786		72
@@ -17,33 +17,33 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2022	BCPST	X BIO	ECOLE POLYTECHNIQUE	358	61,2%	10,1%	36	50,0%	5,6%	23	43,5%	4,3%	12	33,3%	0,0%	15	14		12
 2022	BCPST	A ENV	ENV Alfort										77	84,4%	35,1%	188	179		77
 2022	BCPST	A ENV	VetAgro Sup Lyon										87	74,7%	39,1%	147	155		87
-2022	BCPST	A ENV	ONIRIS Nantes Atlantique (cursus vÃ©tÃ©rinaire)										84	67,9%	40,5%	340	307		84
+2022	BCPST	A ENV	ONIRIS Nantes Atlantique (cursus vétérinaire)										84	67,9%	40,5%	340	307		84
 2022	BCPST	A ENV	ENV Toulouse										80	67,5%	51,2%	298	269		80
 2022	BCPST	A ENV	Concours A ENV	1939	72,5%	24,3%	927	70,0%	34,3%	501	72,3%	36,5%	328						328
-2022	BCPST	PC BIO	Bordeaux INP - ENSCBP Agroalimentaire-GÃ©nie biologique										10	90,0%	10,0%	564	549		6
-2022	BCPST	PC BIO	Bordeaux INP - ENSCBP Chimie-GÃ©nie physique										5	40,0%	20,0%	467	469		4
+2022	BCPST	PC BIO	Bordeaux INP - ENSCBP Agroalimentaire-Génie biologique										10	90,0%	10,0%	564	549		6
+2022	BCPST	PC BIO	Bordeaux INP - ENSCBP Chimie-Génie physique										5	40,0%	20,0%	467	469		4
 2022	BCPST	PC BIO	Chimie ParisTech										1	0,0%	0,0%	109	109		3
 2022	BCPST	PC BIO	ENSC Lille										4	25,0%	50,0%	367	367		5
 2022	BCPST	PC BIO	ENSC Montpellier										1	0,0%	100,0%	230	230		2
 2022	BCPST	PC BIO	ESPCI Paris										11	54,5%	9,1%	111	103		2
-2022	BCPST	PC BIO	Grenoble INP - Phelma (Physique MatÃ©riaux ProcÃ©dÃ©s)										3	33,3%	0,0%	259	271		2
+2022	BCPST	PC BIO	Grenoble INP - Phelma (Physique Matériaux Procédés)										3	33,3%	0,0%	259	271		2
 2022	BCPST	PC BIO	Lorraine INP - ENSIC										8	50,0%	75,0%	590	568		9
 2022	BCPST	PC BIO	Concours A PC BIO	1402	67,3%	20,5%	760	65,1%	25,8%	703	66,0%	25,7%	43						33
 2022	BCPST	ENS	ENS Ulm	801	55,9%	17,1%	79	41,8%	10,1%	37	40,5%	5,4%	21	42,9%	0,0%	17	16		21
 2022	BCPST	ENS	ENS de Lyon	807	56,4%	16,9%	169	49,7%	15,4%	101	50,5%	12,9%	34	44,1%	20,6%	54	50		34
 2022	BCPST	ENS	ENS Paris-Saclay	763	55,8%	17,2%	160	50,0%	16,2%	90	51,1%	10,0%	14	64,3%	14,3%	50	49		14
 2022	BCPST	ENS	PONTS ParisTech	274	51,5%	16,4%	40	40,0%	17,5%	8	25,0%	12,5%	0	0,0%	0,0%	0	0		4
-2022	BCPST	G2E	EIL CÃ´te d'Opale - Dunkerque (GÃ©nie EnergÃ©tique et Environnement)	1596	69,2%	16,5%	1139	67,3%	19,1%	645	67,3%	22,8%	0	0,0%	0,0%	0	0		5
+2022	BCPST	G2E	EIL Côte d'Opale - Dunkerque (Génie Energétique et Environnement)	1596	69,2%	16,5%	1139	67,3%	19,1%	645	67,3%	22,8%	0	0,0%	0,0%	0	0		5
 2022	BCPST	G2E	ENGEES Strasbourg Civil (apprenti)										7	42,9%	28,6%	560	532		5
-2022	BCPST	G2E	ENGEES Strasbourg Civil (Ã©tudiant)										21	66,7%	19,0%	390	371		20
+2022	BCPST	G2E	ENGEES Strasbourg Civil (étudiant)										21	66,7%	19,0%	390	371		20
 2022	BCPST	G2E	ENGEES Strasbourg Fonctionnaire										6	66,7%	50,0%	274	277		6
 2022	BCPST	G2E	Concours ENGEES G2E-BCPST	1596	69,2%	16,5%	1139	67,3%	19,1%	645	67,3%	22,8%	34						31
 2022	BCPST	G2E	Bordeaux INP - ENSEGID	1596	69,2%	16,5%	1139	67,3%	19,1%	645	67,3%	22,8%	20	50,0%	25,0%	521	436		20
 2022	BCPST	G2E	ENSG Nancy	1596	69,2%	16,5%	1139	67,3%	19,1%	645	67,3%	22,8%	63	47,6%	17,5%	273	291		64
-2022	BCPST	G2E	ENSG-GÃ©omatique Marne la VallÃ©e										3	100,0%	33,3%	546	516		4
-2022	BCPST	G2E	ENSG-GÃ©omatique Marne la VallÃ©e Fonctionnaire										3	33,3%	0,0%	582	585		3
-2022	BCPST	G2E	Concours concours ENSG Marne La vallÃ©e G2E-BCPST	1596	69,2%	16,5%	1139	67,3%	19,1%	645	67,3%	22,8%	6						7
-2022	BCPST	G2E	ENSI Poitiers - GÃ©nie de l'Eau et GÃ©nie Civil	1596	69,2%	16,5%	1139	67,3%	19,1%	645	67,3%	22,8%	4	100,0%	50,0%	628	626		15
+2022	BCPST	G2E	ENSG-Géomatique Marne la Vallée										3	100,0%	33,3%	546	516		4
+2022	BCPST	G2E	ENSG-Géomatique Marne la Vallée Fonctionnaire										3	33,3%	0,0%	582	585		3
+2022	BCPST	G2E	Concours concours ENSG Marne La vallée G2E-BCPST	1596	69,2%	16,5%	1139	67,3%	19,1%	645	67,3%	22,8%	6						7
+2022	BCPST	G2E	ENSI Poitiers - Génie de l'Eau et Génie Civil	1596	69,2%	16,5%	1139	67,3%	19,1%	645	67,3%	22,8%	4	100,0%	50,0%	628	626		15
 2022	BCPST	G2E	ENSIL - ENSCI Limoges Eau	1596	69,2%	16,5%	1139	67,3%	19,1%	645	67,3%	22,8%	3	33,3%	100,0%	328	391		6
 2022	BCPST	G2E	ENTPE Lyon Civil	1596	69,2%	16,5%	1139	67,3%	19,1%	645	67,3%	22,8%	28	60,7%	28,6%	362	344		24
 2022	BCPST	G2E	ENTPE Lyon Fonctionnaire	909	66,7%	20,1%	659	65,6%	22,9%	418	67,0%	24,6%	27	66,7%	33,3%	218	217		27
@@ -51,42 +51,42 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2022	BCPST	G2E	ESGT le Mans	1596	69,2%	16,5%	1139	67,3%	19,1%	645	67,3%	22,8%	0	0,0%	0,0%	0	0		10
 2022	BCPST	G2E	IMT Nord Europe										4	75,0%	50,0%	239	242		3
 2022	BCPST	G2E	IMT Mines Albi										6	83,3%	33,3%	195	170		5
-2022	BCPST	G2E	IMT Mines AlÃ¨s										5	20,0%	20,0%	111	119		4
-2022	BCPST	G2E	Concours concours des Ã©coles des Mines G2E-BCPST	1596	69,2%	16,5%	1139	67,3%	19,1%	645	67,3%	22,8%	15						12
+2022	BCPST	G2E	IMT Mines Alès										5	20,0%	20,0%	111	119		4
+2022	BCPST	G2E	Concours concours des écoles des Mines G2E-BCPST	1596	69,2%	16,5%	1139	67,3%	19,1%	645	67,3%	22,8%	15						12
 2022	BCPST	G2E	ECOLE METEOROLOGIE (fonctionnaire)	1596	69,2%	16,5%	1139	67,3%	19,1%	645	67,3%	22,8%	2	50,0%	0,0%	22	22		2
 2022	BCPST	Lorraine INP - ENSTIB	Lorraine INP - ENSTIB	603	65,8%	17,6%	474	63,7%	19,4%	61	60,7%	29,5%	17	52,9%	29,4%	19	20		13
 2022	BCPST	CONCOURS POLYTECH	ECPM - ESBS Strasbourg - CHEMBIOTECH										7	85,7%	28,6%	594	517		6
 2022	BCPST	CONCOURS POLYTECH	ENSTBB Bordeaux										25	76,0%	20,0%	398	396		20
-2022	BCPST	CONCOURS POLYTECH	EPISEN - GÃ©nie BiomÃ©dical et santÃ© (ISBS)										4	75,0%	25,0%	663	740		3
+2022	BCPST	CONCOURS POLYTECH	EPISEN - Génie Biomédical et santé (ISBS)										4	75,0%	25,0%	663	740		3
 2022	BCPST	CONCOURS POLYTECH	ESBS Strasbourg										10	80,0%	0,0%	624	555		9
-2022	BCPST	CONCOURS POLYTECH	ESIAB - Microbiologie et QualitÃ© / Agroalimentaire										5	80,0%	0,0%	1371	1336		5
-2022	BCPST	CONCOURS POLYTECH	ESIR Rennes - Technologies de l'information pour la santÃ©										4	75,0%	0,0%	987	1001		4
-2022	BCPST	CONCOURS POLYTECH	ESIROI Saint Denis de La RÃ©union										0	0,0%	0,0%	0	0		2
+2022	BCPST	CONCOURS POLYTECH	ESIAB - Microbiologie et Qualité / Agroalimentaire										5	80,0%	0,0%	1371	1336		5
+2022	BCPST	CONCOURS POLYTECH	ESIR Rennes - Technologies de l'information pour la santé										4	75,0%	0,0%	987	1001		4
+2022	BCPST	CONCOURS POLYTECH	ESIROI Saint Denis de La Réunion										0	0,0%	0,0%	0	0		2
 2022	BCPST	CONCOURS POLYTECH	ESIX Caen Agroalimentaire										3	100,0%	0,0%	1284	1267		5
-2022	BCPST	CONCOURS POLYTECH	ISIFC BesanÃ§on - GÃ©nie BiomÃ©dical										9	55,6%	22,2%	983	938		10
-2022	BCPST	CONCOURS POLYTECH	Polytech Angers GÃ©nie Biologique et SantÃ©										2	100,0%	0,0%	736	736		2
-2022	BCPST	CONCOURS POLYTECH	Polytech Annecy-ChambÃ©ry - Ecologie industrielle et territoriale										3	100,0%	0,0%	1241	1273		3
-2022	BCPST	CONCOURS POLYTECH	Polytech Clermont-Ferrand - GÃ©nie Biologique										7	42,9%	0,0%	1014	944		8
-2022	BCPST	CONCOURS POLYTECH	Polytech Grenoble - Technologies de l'information pour la santÃ©										3	33,3%	66,7%	1313	1168		2
-2022	BCPST	CONCOURS POLYTECH	Polytech Lille - GÃ©nie biologique et alimentaire										7	57,1%	0,0%	1181	1152		5
-2022	BCPST	CONCOURS POLYTECH	Polytech Marseille - GÃ©nie Biologique, Biotechnologie										6	83,3%	0,0%	620	635		6
-2022	BCPST	CONCOURS POLYTECH	Polytech Marseille - GÃ©nie BiomÃ©dical										3	100,0%	66,7%	1104	1025		3
+2022	BCPST	CONCOURS POLYTECH	ISIFC Besançon - Génie Biomédical										9	55,6%	22,2%	983	938		10
+2022	BCPST	CONCOURS POLYTECH	Polytech Angers Génie Biologique et Santé										2	100,0%	0,0%	736	736		2
+2022	BCPST	CONCOURS POLYTECH	Polytech Annecy-Chambéry - Ecologie industrielle et territoriale										3	100,0%	0,0%	1241	1273		3
+2022	BCPST	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Biologique										7	42,9%	0,0%	1014	944		8
+2022	BCPST	CONCOURS POLYTECH	Polytech Grenoble - Technologies de l'information pour la santé										3	33,3%	66,7%	1313	1168		2
+2022	BCPST	CONCOURS POLYTECH	Polytech Lille - Génie biologique et alimentaire										7	57,1%	0,0%	1181	1152		5
+2022	BCPST	CONCOURS POLYTECH	Polytech Marseille - Génie Biologique, Biotechnologie										6	83,3%	0,0%	620	635		6
+2022	BCPST	CONCOURS POLYTECH	Polytech Marseille - Génie Biomédical										3	100,0%	66,7%	1104	1025		3
 2022	BCPST	CONCOURS POLYTECH	Polytech Montpellier - Sciences et technologies de l'eau										2	100,0%	50,0%	1225	1225		5
-2022	BCPST	CONCOURS POLYTECH	Polytech Montpellier GÃ©nie biologique et agroalimentaire										5	100,0%	20,0%	947	910		7
-2022	BCPST	CONCOURS POLYTECH	Polytech Nantes - GÃ©nie des ProcÃ©dÃ©s et BioprocÃ©dÃ©s										3	33,3%	33,3%	1294	1235		3
-2022	BCPST	CONCOURS POLYTECH	Polytech Nice-Sophia - GÃ©nie biologique										8	87,5%	12,5%	574	496		10
-2022	BCPST	CONCOURS POLYTECH	Polytech Nice-Sophia - GÃ©nie de l'eau										0	0,0%	0,0%	0	0		1
-2022	BCPST	CONCOURS POLYTECH	Polytech OrlÃ©ans - GÃ©nie civil et gÃ©o-environnement										0	0,0%	0,0%	0	0		2
-2022	BCPST	CONCOURS POLYTECH	Polytech OrlÃ©ans - GÃ©nie industriel										2	100,0%	50,0%	999	999		3
+2022	BCPST	CONCOURS POLYTECH	Polytech Montpellier Génie biologique et agroalimentaire										5	100,0%	20,0%	947	910		7
+2022	BCPST	CONCOURS POLYTECH	Polytech Nantes - Génie des Procédés et Bioprocédés										3	33,3%	33,3%	1294	1235		3
+2022	BCPST	CONCOURS POLYTECH	Polytech Nice-Sophia - Génie biologique										8	87,5%	12,5%	574	496		10
+2022	BCPST	CONCOURS POLYTECH	Polytech Nice-Sophia - Génie de l'eau										0	0,0%	0,0%	0	0		1
+2022	BCPST	CONCOURS POLYTECH	Polytech Orléans - Génie civil et géo-environnement										0	0,0%	0,0%	0	0		2
+2022	BCPST	CONCOURS POLYTECH	Polytech Orléans - Génie industriel										2	100,0%	50,0%	999	999		3
 2022	BCPST	CONCOURS POLYTECH	Polytech Sorbonne - Agroalimentaire										5	80,0%	20,0%	1040	912		5
 2022	BCPST	CONCOURS POLYTECH	Polytech Sorbonne - Sciences de la Terre										0	0,0%	0,0%	0	0		5
-2022	BCPST	CONCOURS POLYTECH	Polytech Tours - GÃ©nie de l'amÃ©nagement et de l'environnement										8	87,5%	25,0%	1113	1147		6
-2022	BCPST	CONCOURS POLYTECH	Polytech Sorbonne - MatÃ©riaux										2	50,0%	0,0%	1194	1194		2
+2022	BCPST	CONCOURS POLYTECH	Polytech Tours - Génie de l'aménagement et de l'environnement										8	87,5%	25,0%	1113	1147		6
+2022	BCPST	CONCOURS POLYTECH	Polytech Sorbonne - Matériaux										2	50,0%	0,0%	1194	1194		2
 2022	BCPST	CONCOURS POLYTECH	Sup'Biotech										2	0,0%	0,0%	1171	1171		4
 2022	BCPST	CONCOURS POLYTECH	Concours POLYTECH A BIO	1997	71,0%	20,3%	1494	71,0%	20,6%	1407	70,9%	21,4%	135						146
-2022	BCPST	Groupe INSA Inter-FiliÃ¨re	ESITECH - Physique pour la SantÃ©										5*	100,0%	0,0%	1487*	1508*	5*	5*
-2022	BCPST	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen Technologies du Vivant										2*	0,0%	50,0%	691*	691*	2*	2*
-2022	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Biosciences										10*	70,0%	0,0%	290*	368*	10*	11*
-2022	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Biologique										2*	50,0%	0,0%	208*	208*	2*	2*
-2022	BCPST	Groupe INSA Inter-FiliÃ¨re	ISIS Castres Informatique pour la SantÃ©										2*	50,0%	50,0%	1204	1204	2*	2*
-2022	BCPST	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine Biotechnologies-santÃ© MP-PC-PSI-BCPST-TPC	4627*	46,9%	20,7%	2016*	49,5%	19,5%	2016*	49,5%	19,5%	21*					21*	22*
+2022	BCPST	Groupe INSA Inter-Filière	ESITECH - Physique pour la Santé										5*	100,0%	0,0%	1487*	1508*	5*	5*
+2022	BCPST	Groupe INSA Inter-Filière	ESITech Rouen Technologies du Vivant										2*	0,0%	50,0%	691*	691*	2*	2*
+2022	BCPST	Groupe INSA Inter-Filière	INSA Lyon Biosciences										10*	70,0%	0,0%	290*	368*	10*	11*
+2022	BCPST	Groupe INSA Inter-Filière	INSA Toulouse Génie Biologique										2*	50,0%	0,0%	208*	208*	2*	2*
+2022	BCPST	Groupe INSA Inter-Filière	ISIS Castres Informatique pour la Santé										2*	50,0%	50,0%	1204	1204	2*	2*
+2022	BCPST	Groupe INSA Inter-Filière	Concours INSA Domaine Biotechnologies-santé MP-PC-PSI-BCPST-TPC	4627*	46,9%	20,7%	2016*	49,5%	19,5%	2016*	49,5%	19,5%	21*					21*	22*

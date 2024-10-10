@@ -1,12 +1,12 @@
 year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	places
-2020	BCPST	A BIO	CentraleSupÃ©lec - Campus Metz										11	63,6%	0,0%	107	104	10
+2020	BCPST	A BIO	CentraleSupélec - Campus Metz										11	63,6%	0,0%	107	104	10
 2020	BCPST	A BIO	AgroParisTech Grignon										258	65,5%	13,6%	468	467	258
 2020	BCPST	A BIO	Montpellier Sup Agro (cursus agronome)										99	67,7%	35,4%	1004	956	99
 2020	BCPST	A BIO	Montpellier Sup Agro (cursus SAADS)										4	50,0%	0,0%	528	643	7
-2020	BCPST	A BIO	Agrocampus Ouest (cursus ingÃ©nieur agronome)										102	74,5%	34,3%	1122	1065	104
+2020	BCPST	A BIO	Agrocampus Ouest (cursus ingénieur agronome)										102	74,5%	34,3%	1122	1065	104
 2020	BCPST	A BIO	ENSAT Toulouse										93	61,3%	36,6%	1325	1264	93
 2020	BCPST	A BIO	ENSAIA Nancy										82	73,2%	36,6%	1723	1653	88
-2020	BCPST	A BIO	Agrocampus Ouest (cursus ingÃ©nieur en horticulture et en paysage)										35	85,7%	25,7%	1755	1704	38
+2020	BCPST	A BIO	Agrocampus Ouest (cursus ingénieur en horticulture et en paysage)										35	85,7%	25,7%	1755	1704	38
 2020	BCPST	A BIO	Agrosup Dijon (Cursus Agroalimentaire)										32	78,1%	18,8%	2009	1936	35
 2020	BCPST	A BIO	Bordeaux Sciences Agro										87	67,8%	31,0%	1476	1428	87
 2020	BCPST	A BIO	VetAgro Sup Clermont-Ferrand										49	71,4%	34,7%	1955	1906	53
@@ -17,44 +17,44 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2020	BCPST	X BIO	ECOLE POLYTECHNIQUE	391	56,5%	12,5%				22	68,2%	0,0%	13	69,2%	0,0%	10	9	13
 2020	BCPST	A ENV	ENV Alfort										110	71,8%	36,4%	209	224	110
 2020	BCPST	A ENV	VetAgro Sup Lyon										121	72,7%	38,8%	207	214	121
-2020	BCPST	A ENV	ONIRIS Nantes Atlantique (cursus vÃ©tÃ©rinaire)										116	75,9%	48,3%	439	387	116
+2020	BCPST	A ENV	ONIRIS Nantes Atlantique (cursus vétérinaire)										116	75,9%	48,3%	439	387	116
 2020	BCPST	A ENV	ENV Toulouse										115	76,5%	51,3%	410	345	115
 2020	BCPST	A ENV	Concours A ENV	2013	73,7%	26,8%				629	72,3%	38,0%	462					462
-2020	BCPST	PC BIO	Bordeaux INP - ENSCBP Agroalimentaire-GÃ©nie biologique										5	80,0%	80,0%	501	521	10
+2020	BCPST	PC BIO	Bordeaux INP - ENSCBP Agroalimentaire-Génie biologique										5	80,0%	80,0%	501	521	10
 2020	BCPST	PC BIO	Chimie ParisTech										3	100,0%	0,0%	118	114	3
 2020	BCPST	PC BIO	ENSC Lille										3	66,7%	33,3%	331	362	5
 2020	BCPST	PC BIO	ENSC Montpellier										2	50,0%	100,0%	219	219	2
 2020	BCPST	PC BIO	Lorraine INP - ENSIC										5	80,0%	0,0%	590	563	9
 2020	BCPST	PC BIO	ESPCI Paris										5	60,0%	0,0%	49	67	2
-2020	BCPST	PC BIO	Grenoble INP - Phelma (Physique MatÃ©riaux ProcÃ©dÃ©s)										2	100,0%	0,0%	345	345	2
+2020	BCPST	PC BIO	Grenoble INP - Phelma (Physique Matériaux Procédés)										2	100,0%	0,0%	345	345	2
 2020	BCPST	PC BIO	Concours A PC BIO	1254	69,9%	23,2%				641	68,8%	28,1%	25					33
 2020	BCPST	ENS	ENS Ulm	795	58,2%	19,0%				27	51,9%	3,7%	15	46,7%	6,7%	11	12	15
 2020	BCPST	ENS	ENS de Lyon	791	58,4%	18,8%				125	60,8%	9,6%	34	58,8%	8,8%	61	60	34
 2020	BCPST	ENS	ENS Paris-Saclay	784	58,3%	19,0%				118	59,3%	11,0%	14	57,1%	14,3%	74	66	14
 2020	BCPST	ENS	PONTS ParisTech	273	54,6%	16,5%				17	58,8%	11,8%	2	100,0%	100,0%	14	14	4
 2020	BCPST	G2E	ENGEES Strasbourg Civil (apprenti)										2	100,0%	50,0%	1052	837	5
-2020	BCPST	G2E	ENGEES Strasbourg Civil (Ã©tudiant)										20	65,0%	20,0%	714	647	18
+2020	BCPST	G2E	ENGEES Strasbourg Civil (étudiant)										20	65,0%	20,0%	714	647	18
 2020	BCPST	G2E	ENGEES Strasbourg Fonctionnaire										6	33,3%	50,0%	480	473	6
 2020	BCPST	G2E	Concours ENGEES G2E-BCPST	1588	69,6%	18,1%				1195	71,1%	21,8%	28					29
 2020	BCPST	G2E	ENSEGID	1588	69,6%	18,1%				1195	71,1%	21,8%	14	57,1%	35,7%	538	557	18
 2020	BCPST	G2E	ENSG Nancy	1588	69,6%	18,1%				1195	71,1%	21,8%	61	59,0%	19,7%	536	480	63
-2020	BCPST	G2E	ENSI Poitiers - GÃ©nie de l'Eau et GÃ©nie Civil	1588	69,6%	18,1%				1195	71,1%	21,8%	5	80,0%	60,0%	890	851	15
+2020	BCPST	G2E	ENSI Poitiers - Génie de l'Eau et Génie Civil	1588	69,6%	18,1%				1195	71,1%	21,8%	5	80,0%	60,0%	890	851	15
 2020	BCPST	G2E	ENSIL - ENSCI Limoges EE	1588	69,6%	18,1%				1195	71,1%	21,8%	4	75,0%	25,0%	920	919	6
-2020	BCPST	G2E	Polytech Annecy-ChambÃ©ry - Environnement, BÃ¢timent, Ãnergie										1	0,0%	0,0%	986	972	3
-2020	BCPST	G2E	Polytech Nice-Sophia - GÃ©nie de l'eau										1	100,0%	100,0%	646	646	1
-2020	BCPST	G2E	Polytech OrlÃ©ans - GÃ©nie civil et gÃ©o-environnement										2	100,0%	100,0%	930	930	2
+2020	BCPST	G2E	Polytech Annecy-Chambéry - Environnement, Bâtiment, Énergie										1	0,0%	0,0%	986	972	3
+2020	BCPST	G2E	Polytech Nice-Sophia - Génie de l'eau										1	100,0%	100,0%	646	646	1
+2020	BCPST	G2E	Polytech Orléans - Génie civil et géo-environnement										2	100,0%	100,0%	930	930	2
 2020	BCPST	G2E	Polytech Sorbonne - Sciences de la Terre										3	66,7%	0,0%	962	932	4
-2020	BCPST	G2E	Polytech Tours - GÃ©nie de l'amÃ©nagement et de l'environnement										6	100,0%	33,3%	628	620	6
+2020	BCPST	G2E	Polytech Tours - Génie de l'aménagement et de l'environnement										6	100,0%	33,3%	628	620	6
 2020	BCPST	G2E	Concours Polytech G2E-BCPST	1588	69,6%	18,1%				1195	71,1%	21,8%	13					16
 2020	BCPST	G2E	EOST Strasbourg	1588	69,6%	18,1%				1195	71,1%	21,8%	10	70,0%	20,0%	850	756	9
-2020	BCPST	G2E	ENSG-GÃ©omatique Marne la VallÃ©e Civil										7	71,4%	42,9%	1076	1053	6
-2020	BCPST	G2E	ENSG-GÃ©omatique Marne la VallÃ©e Fonctionnaire										4	50,0%	0,0%	883	893	4
-2020	BCPST	G2E	Concours concours ENSG Marne La vallÃ©e G2E-BCPST	1588	69,6%	18,1%				1195	71,1%	21,8%	11					10
+2020	BCPST	G2E	ENSG-Géomatique Marne la Vallée Civil										7	71,4%	42,9%	1076	1053	6
+2020	BCPST	G2E	ENSG-Géomatique Marne la Vallée Fonctionnaire										4	50,0%	0,0%	883	893	4
+2020	BCPST	G2E	Concours concours ENSG Marne La vallée G2E-BCPST	1588	69,6%	18,1%				1195	71,1%	21,8%	11					10
 2020	BCPST	G2E	ESGT le Mans	1588	69,6%	18,1%				1195	71,1%	21,8%	2	50,0%	0,0%	1017	1017	5
 2020	BCPST	G2E	IMT Lille Douai										4	75,0%	50,0%	312	301	3
 2020	BCPST	G2E	IMT Mines Albi										3	66,7%	100,0%	555	558	5
-2020	BCPST	G2E	IMT Mines AlÃ¨s										3	33,3%	33,3%	243	297	3
-2020	BCPST	G2E	Concours concours des Ã©coles des Mines G2E-BCPST	1588	69,6%	18,1%				1195	71,1%	21,8%	10					11
+2020	BCPST	G2E	IMT Mines Alès										3	33,3%	33,3%	243	297	3
+2020	BCPST	G2E	Concours concours des écoles des Mines G2E-BCPST	1588	69,6%	18,1%				1195	71,1%	21,8%	10					11
 2020	BCPST	G2E	ENTPE Lyon Civil	1588	69,6%	18,1%				1195	71,1%	21,8%	23	65,2%	26,1%	930	785	25
 2020	BCPST	G2E	ENTPE Lyon Fonctionnaire	756	67,1%	21,0%				549	69,4%	26,0%	15	60,0%	26,7%	239	250	15
 2020	BCPST	ARCH BIO	Lorraine INP - ENSTIB	646	66,1%	19,8%				503	66,2%	19,9%	11	54,5%	0,0%	416	392	13
@@ -62,94 +62,94 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2020	BCPST	CONCOURS POLYTECH	ENSTBB Bordeaux										24	87,5%	12,5%	670	667	22
 2020	BCPST	CONCOURS POLYTECH	ESBS Strasbourg										8	87,5%	12,5%	797	774	8
 2020	BCPST	CONCOURS POLYTECH	ESIAB Brest										5	100,0%	40,0%	1236	1226	6
-2020	BCPST	CONCOURS POLYTECH	ESIPE CrÃ©teil - GÃ©nie BiomÃ©dical et santÃ© (ISBS)										1	0,0%	100,0%	1070	1070	3
+2020	BCPST	CONCOURS POLYTECH	ESIPE Créteil - Génie Biomédical et santé (ISBS)										1	0,0%	100,0%	1070	1070	3
 2020	BCPST	CONCOURS POLYTECH	ESIR Rennes										3	66,7%	0,0%	1068	1096	3
-2020	BCPST	CONCOURS POLYTECH	ESIROI Saint Denis de La RÃ©union										0	0,0%	0,0%	0	0	2
+2020	BCPST	CONCOURS POLYTECH	ESIROI Saint Denis de La Réunion										0	0,0%	0,0%	0	0	2
 2020	BCPST	CONCOURS POLYTECH	ESIX Normandie - Caen - Cherbourg										3	100,0%	0,0%	1172	1165	3
-2020	BCPST	CONCOURS POLYTECH	ISIFC BesanÃ§on - GÃ©nie BiomÃ©dical										8	87,5%	62,5%	1089	1109	12
-2020	BCPST	CONCOURS POLYTECH	Polytech Angers GÃ©nie Biologique et SantÃ©										3	100,0%	0,0%	599	613	4
-2020	BCPST	CONCOURS POLYTECH	Polytech Clermont-Ferrand - GÃ©nie Biologique										8	50,0%	0,0%	1037	994	8
-2020	BCPST	CONCOURS POLYTECH	Polytech Grenoble - Technologies de l'information pour la santÃ©										4	75,0%	25,0%	1114	1105	3
-2020	BCPST	CONCOURS POLYTECH	Polytech Lille - GÃ©nie biologique et alimentaire										2	100,0%	0,0%	1151	1111	5
-2020	BCPST	CONCOURS POLYTECH	Polytech Marseille - GÃ©nie Biologique, Biotechnologie										5	60,0%	20,0%	973	809	6
-2020	BCPST	CONCOURS POLYTECH	Polytech Marseille - GÃ©nie BiomÃ©dical										3	100,0%	0,0%	922	894	3
+2020	BCPST	CONCOURS POLYTECH	ISIFC Besançon - Génie Biomédical										8	87,5%	62,5%	1089	1109	12
+2020	BCPST	CONCOURS POLYTECH	Polytech Angers Génie Biologique et Santé										3	100,0%	0,0%	599	613	4
+2020	BCPST	CONCOURS POLYTECH	Polytech Clermont-Ferrand - Génie Biologique										8	50,0%	0,0%	1037	994	8
+2020	BCPST	CONCOURS POLYTECH	Polytech Grenoble - Technologies de l'information pour la santé										4	75,0%	25,0%	1114	1105	3
+2020	BCPST	CONCOURS POLYTECH	Polytech Lille - Génie biologique et alimentaire										2	100,0%	0,0%	1151	1111	5
+2020	BCPST	CONCOURS POLYTECH	Polytech Marseille - Génie Biologique, Biotechnologie										5	60,0%	20,0%	973	809	6
+2020	BCPST	CONCOURS POLYTECH	Polytech Marseille - Génie Biomédical										3	100,0%	0,0%	922	894	3
 2020	BCPST	CONCOURS POLYTECH	Polytech Montpellier - Sciences et technologies de l'eau										5	60,0%	0,0%	1056	1009	5
-2020	BCPST	CONCOURS POLYTECH	Polytech Montpellier GÃ©nie biologique et agroalimentaire										4	75,0%	0,0%	908	918	7
-2020	BCPST	CONCOURS POLYTECH	Polytech Nantes - GÃ©nie des ProcÃ©dÃ©s et BioprocÃ©dÃ©s										1	100,0%	0,0%	1208	1208	2
-2020	BCPST	CONCOURS POLYTECH	Polytech Nice-Sophia - GÃ©nie biologique										8	75,0%	12,5%	752	778	10
-2020	BCPST	CONCOURS POLYTECH	Polytech OrlÃ©ans - GÃ©nie industriel										2	100,0%	0,0%	1152	1152	3
+2020	BCPST	CONCOURS POLYTECH	Polytech Montpellier Génie biologique et agroalimentaire										4	75,0%	0,0%	908	918	7
+2020	BCPST	CONCOURS POLYTECH	Polytech Nantes - Génie des Procédés et Bioprocédés										1	100,0%	0,0%	1208	1208	2
+2020	BCPST	CONCOURS POLYTECH	Polytech Nice-Sophia - Génie biologique										8	75,0%	12,5%	752	778	10
+2020	BCPST	CONCOURS POLYTECH	Polytech Orléans - Génie industriel										2	100,0%	0,0%	1152	1152	3
 2020	BCPST	CONCOURS POLYTECH	Polytech Sorbonne - Agroalimentaire										4	75,0%	0,0%	1092	1026	5
 2020	BCPST	CONCOURS POLYTECH	Concours POLYTECH A BIO	1829	73,5%	21,2%				1353	74,1%	23,1%	106					125
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France GÃ©nie civil et bÃ¢timent	2294	36,4%	19,4%				1186	38,2%	18,7%	8*	37,5%	0,0%	925	919	8*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France GÃ©nie civil et bÃ¢timent	2396	25,2%	17,7%				1278	25,0%	20,6%	5*	40,0%	20,0%	840	788	5*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France Informatique et CybersÃ©curitÃ©	3132	23,5%	19,5%				1047	22,4%	21,7%	2*	0,0%	0,0%	750	811	3*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France MÃ©canique et EnergÃ©tique										28*	32,1%	21,4%	1663*	1640*	35*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France GÃ©nie Industriel										12*	41,7%	41,7%	1511*	1394*	10*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Hauts de France MÃ©catronique										19*	0,0%	10,5%	1511	1428	16*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie mÃ©canique, gÃ©nie industriel et mÃ©catronique PSI-PT	3281*	21,0%	17,7%	*			1956*	21,3%	19,4%	59*					61*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen Technologies du Vivant										2*	100,0%	0,0%	747*	747*	3*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Biosciences										5*	80,0%	20,0%	230*	211*	6*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Biologique										2*	100,0%	0,0%	153*	153*	2*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	ISIS Castres Informatique pour la SantÃ©										13*	46,2%	15,4%	1699	1667	2*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	Concours INSA DomaineÂ Biotechnologies-santÃ© MP-PC-PSI-BCPST-TPC	4009*	47,3%	19,8%	*			2097*	49,7%	21,5%	22*					13*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie EnergÃ©tique et Environnement										5*	40,0%	20,0%	266*	221*	5*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie Chimie et ProcÃ©dÃ©s										3*	33,3%	0,0%	1046*	1037*	4*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie EnergÃ©tique et Propulsion										4*	75,0%	25,0%	992*	885*	4*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie MaÃ®trise des Risques Industriels										6*	33,3%	16,7%	1138*	1160*	6*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Climatique et EnergÃ©tique										10*	50,0%	20,0%	1299*	1176*	12*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie des ProcÃ©dÃ©s et environnement										5*	40,0%	40,0%	750*	689*	10*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	Sup'EnR Perpignan EnergÃ©tique et Energies Renouvelables										2*	50,0%	0,0%	1385	1385	2*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	Concours INSA DomaineÂ EnergÃ©tique â GÃ©nie Chimique â Environnement MP-PC-PSI	4146*	37,5%	19,3%	*			1506*	37,5%	21,6%	35*					43*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Euro-MÃ©diterranÃ©e Maroc GÃ©nie Electrique										0*	0,0%	0,0%	0*	0*	3*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Electrique										8*	25,0%	0,0%	312*	295*	8*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Electronique et Informatique Industrielle										2*	0,0%	50,0%	1014*	1014*	2*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rennes SystÃ¨me et RÃ©seaux de Communication										3*	0,0%	33,3%	1793*	1583*	5*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Electrique										8*	25,0%	25,0%	1411*	1367*	10*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse Automatique et Electronique										2*	50,0%	0,0%	630	643	3*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie Ã©lectrique, Ã©lectronique, automatique MP-PC-PSI-PT	4812*	24,9%	18,7%	*			1964*	24,2%	20,1%	23*					31*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Civil et Urbanisme										7*	28,6%	0,0%	140*	135*	7*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie Civil et Urbain										2*	50,0%	50,0%	387*	387*	2*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie GÃ©nie Civil et constructions durables										2*	100,0%	50,0%	760*	760*	2*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Civil										3*	33,3%	0,0%	815*	721*	3*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg Topographie										2*	50,0%	50,0%	828*	732*	4*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Civil										1*	0,0%	0,0%	243	243	1*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie civil, urbanisme, topographie MP-PC	2294*	36,4%	19,4%	*			1186*	38,2%	18,7%	17*					19*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Civil et Urbanisme										9*	22,2%	0,0%	160*	156*	9*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie Civil et Urbain										2*	50,0%	50,0%	261*	261*	2*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie GÃ©nie Civil et constructions durables										2*	0,0%	0,0%	388*	388*	2*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie Civil										12*	33,3%	8,3%	509*	485*	12*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg Topographie										10*	10,0%	30,0%	1008*	954*	10*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Civil										1*	0,0%	0,0%	290	290	2*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie civil, urbanisme, topographie PSI-PT	2396*	25,2%	17,7%	*			1278*	25,0%	20,6%	36*					37*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire SÃ©curitÃ© et Technologies Informatiques										2*	0,0%	0,0%	724*	724*	1*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Euro-MÃ©diterranÃ©e Maroc SystÃ¨mes d'Information et de Communication										0*	0,0%	0,0%	0*	0*	2*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Lyon TÃ©lÃ©communications, services et usages										4*	25,0%	0,0%	254*	251*	4*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Informatique										1*	100,0%	0,0%	393*	393*	2*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie Architecture des SystÃ¨mes d'Information										2*	0,0%	50,0%	541*	541*	2*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie GÃ©nie MathÃ©matique										2*	50,0%	0,0%	145*	145*	2*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse Informatique et RÃ©seaux										6*	0,0%	16,7%	341*	325*	6*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse MathÃ©matiques appliquÃ©es										3*	33,3%	0,0%	392	396	3*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine Informatique, mathÃ©matique, modÃ©lisation PC-PSI-PT	3132*	23,5%	19,5%	*			1047*	22,4%	21,7%	20*					22*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire GÃ©nie des SystÃ¨mes Industriels										8*	50,0%	12,5%	1793*	1689*	18*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Euro-MÃ©diterranÃ©e Maroc GÃ©nie MÃ©canique et EnergÃ©tique										0*	0,0%	0,0%	0*	0*	4*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie Industriel										8*	0,0%	12,5%	281*	231*	8*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Lyon GÃ©nie MÃ©canique										28*	14,3%	10,7%	289*	284*	30*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie MÃ©canique et Automatique										4*	50,0%	0,0%	690*	714*	4*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rouen Normandie MÃ©canique										2*	0,0%	0,0%	857*	874*	3*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg GÃ©nie MÃ©canique										21*	28,6%	14,3%	1042*	991*	22*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg MÃ©catronique										4*	50,0%	25,0%	538*	525*	4*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Strasbourg Plasturgie										3*	33,3%	0,0%	1684*	1687*	14*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie MÃ©canique										3*	33,3%	33,3%	523	529	4*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie mÃ©canique, gÃ©nie industriel et mÃ©catronique PSI-PT	3281*	21,0%	17,7%	*			1956*	21,3%	19,4%	81*					111*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen GÃ©nie Physique										3*	100,0%	0,0%	1770*	1855*	4*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire MaÃ®trise des Risques Industriels										4*	50,0%	0,0%	2007*	1947*	23*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Science et GÃ©nie des MatÃ©riaux										10*	30,0%	20,0%	432*	351*	10*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Science et GÃ©nie des MatÃ©riaux										3*	100,0%	33,3%	1491*	1390*	3*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Physique										7*	42,9%	14,3%	700	635	6*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie physique et matÃ©riaux MP-PC-PSI	4540*	32,5%	19,2%	*			2206*	33,7%	19,9%	27*					46*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	ESITech Rouen GÃ©nie Physique										0*	0,0%	0,0%	0*	0*	2*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire MaÃ®trise des Risques Industriels										1*	100,0%	0,0%	584*	584*	7*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Science et GÃ©nie des MatÃ©riaux										1*	0,0%	0,0%	44*	44*	1*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Rennes Science et GÃ©nie des MatÃ©riaux										1*	0,0%	0,0%	175*	175*	1*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Physique										1*	100,0%	0,0%	33	33	1*
-2020	BCPST	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie physique et matÃ©riaux TSI-PT-TPC	1609*	14,2%	19,1%	*			702*	13,2%	21,5%	4*					12*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Hauts de France Génie civil et bâtiment	2294	36,4%	19,4%				1186	38,2%	18,7%	8*	37,5%	0,0%	925	919	8*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Hauts de France Génie civil et bâtiment	2396	25,2%	17,7%				1278	25,0%	20,6%	5*	40,0%	20,0%	840	788	5*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Hauts de France Informatique et Cybersécurité	3132	23,5%	19,5%				1047	22,4%	21,7%	2*	0,0%	0,0%	750	811	3*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Hauts de France Mécanique et Energétique										28*	32,1%	21,4%	1663*	1640*	35*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Hauts de France Génie Industriel										12*	41,7%	41,7%	1511*	1394*	10*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Hauts de France Mécatronique										19*	0,0%	10,5%	1511	1428	16*
+2020	BCPST	Groupe INSA Inter-Filière	Concours INSA Domaine Génie mécanique, génie industriel et mécatronique PSI-PT	3281*	21,0%	17,7%	*			1956*	21,3%	19,4%	59*					61*
+2020	BCPST	Groupe INSA Inter-Filière	ESITech Rouen Technologies du Vivant										2*	100,0%	0,0%	747*	747*	3*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Lyon Biosciences										5*	80,0%	20,0%	230*	211*	6*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Toulouse Génie Biologique										2*	100,0%	0,0%	153*	153*	2*
+2020	BCPST	Groupe INSA Inter-Filière	ISIS Castres Informatique pour la Santé										13*	46,2%	15,4%	1699	1667	2*
+2020	BCPST	Groupe INSA Inter-Filière	Concours INSA Domaine Biotechnologies-santé MP-PC-PSI-BCPST-TPC	4009*	47,3%	19,8%	*			2097*	49,7%	21,5%	22*					13*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Lyon Génie Energétique et Environnement										5*	40,0%	20,0%	266*	221*	5*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rouen Normandie Chimie et Procédés										3*	33,3%	0,0%	1046*	1037*	4*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rouen Normandie Energétique et Propulsion										4*	75,0%	25,0%	992*	885*	4*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rouen Normandie Maîtrise des Risques Industriels										6*	33,3%	16,7%	1138*	1160*	6*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Strasbourg Génie Climatique et Energétique										10*	50,0%	20,0%	1299*	1176*	12*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Toulouse Génie des Procédés et environnement										5*	40,0%	40,0%	750*	689*	10*
+2020	BCPST	Groupe INSA Inter-Filière	Sup'EnR Perpignan Energétique et Energies Renouvelables										2*	50,0%	0,0%	1385	1385	2*
+2020	BCPST	Groupe INSA Inter-Filière	Concours INSA Domaine Energétique – Génie Chimique – Environnement MP-PC-PSI	4146*	37,5%	19,3%	*			1506*	37,5%	21,6%	35*					43*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Euro-Méditerranée Maroc Génie Electrique										0*	0,0%	0,0%	0*	0*	3*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Lyon Génie Electrique										8*	25,0%	0,0%	312*	295*	8*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rennes Electronique et Informatique Industrielle										2*	0,0%	50,0%	1014*	1014*	2*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rennes Système et Réseaux de Communication										3*	0,0%	33,3%	1793*	1583*	5*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Strasbourg Génie Electrique										8*	25,0%	25,0%	1411*	1367*	10*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Toulouse Automatique et Electronique										2*	50,0%	0,0%	630	643	3*
+2020	BCPST	Groupe INSA Inter-Filière	Concours INSA Domaine Génie électrique, électronique, automatique MP-PC-PSI-PT	4812*	24,9%	18,7%	*			1964*	24,2%	20,1%	23*					31*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Lyon Génie Civil et Urbanisme										7*	28,6%	0,0%	140*	135*	7*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rennes Génie Civil et Urbain										2*	50,0%	50,0%	387*	387*	2*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Civil et constructions durables										2*	100,0%	50,0%	760*	760*	2*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Strasbourg Génie Civil										3*	33,3%	0,0%	815*	721*	3*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Strasbourg Topographie										2*	50,0%	50,0%	828*	732*	4*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Toulouse Génie Civil										1*	0,0%	0,0%	243	243	1*
+2020	BCPST	Groupe INSA Inter-Filière	Concours INSA Domaine Génie civil, urbanisme, topographie MP-PC	2294*	36,4%	19,4%	*			1186*	38,2%	18,7%	17*					19*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Lyon Génie Civil et Urbanisme										9*	22,2%	0,0%	160*	156*	9*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rennes Génie Civil et Urbain										2*	50,0%	50,0%	261*	261*	2*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Civil et constructions durables										2*	0,0%	0,0%	388*	388*	2*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Strasbourg Génie Civil										12*	33,3%	8,3%	509*	485*	12*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Strasbourg Topographie										10*	10,0%	30,0%	1008*	954*	10*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Toulouse Génie Civil										1*	0,0%	0,0%	290	290	2*
+2020	BCPST	Groupe INSA Inter-Filière	Concours INSA Domaine Génie civil, urbanisme, topographie PSI-PT	2396*	25,2%	17,7%	*			1278*	25,0%	20,6%	36*					37*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Centre Val de Loire Sécurité et Technologies Informatiques										2*	0,0%	0,0%	724*	724*	1*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Euro-Méditerranée Maroc Systèmes d'Information et de Communication										0*	0,0%	0,0%	0*	0*	2*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Lyon Télécommunications, services et usages										4*	25,0%	0,0%	254*	251*	4*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rennes Informatique										1*	100,0%	0,0%	393*	393*	2*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rouen Normandie Architecture des Systèmes d'Information										2*	0,0%	50,0%	541*	541*	2*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rouen Normandie Génie Mathématique										2*	50,0%	0,0%	145*	145*	2*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Toulouse Informatique et Réseaux										6*	0,0%	16,7%	341*	325*	6*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Toulouse Mathématiques appliquées										3*	33,3%	0,0%	392	396	3*
+2020	BCPST	Groupe INSA Inter-Filière	Concours INSA Domaine Informatique, mathématique, modélisation PC-PSI-PT	3132*	23,5%	19,5%	*			1047*	22,4%	21,7%	20*					22*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Centre Val de Loire Génie des Systèmes Industriels										8*	50,0%	12,5%	1793*	1689*	18*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Euro-Méditerranée Maroc Génie Mécanique et Energétique										0*	0,0%	0,0%	0*	0*	4*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Lyon Génie Industriel										8*	0,0%	12,5%	281*	231*	8*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Lyon Génie Mécanique										28*	14,3%	10,7%	289*	284*	30*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rennes Génie Mécanique et Automatique										4*	50,0%	0,0%	690*	714*	4*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rouen Normandie Mécanique										2*	0,0%	0,0%	857*	874*	3*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Strasbourg Génie Mécanique										21*	28,6%	14,3%	1042*	991*	22*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Strasbourg Mécatronique										4*	50,0%	25,0%	538*	525*	4*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Strasbourg Plasturgie										3*	33,3%	0,0%	1684*	1687*	14*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Toulouse Génie Mécanique										3*	33,3%	33,3%	523	529	4*
+2020	BCPST	Groupe INSA Inter-Filière	Concours INSA Domaine Génie mécanique, génie industriel et mécatronique PSI-PT	3281*	21,0%	17,7%	*			1956*	21,3%	19,4%	81*					111*
+2020	BCPST	Groupe INSA Inter-Filière	ESITech Rouen Génie Physique										3*	100,0%	0,0%	1770*	1855*	4*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Centre Val de Loire Maîtrise des Risques Industriels										4*	50,0%	0,0%	2007*	1947*	23*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Lyon Science et Génie des Matériaux										10*	30,0%	20,0%	432*	351*	10*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rennes Science et Génie des Matériaux										3*	100,0%	33,3%	1491*	1390*	3*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Toulouse Génie Physique										7*	42,9%	14,3%	700	635	6*
+2020	BCPST	Groupe INSA Inter-Filière	Concours INSA Domaine Génie physique et matériaux MP-PC-PSI	4540*	32,5%	19,2%	*			2206*	33,7%	19,9%	27*					46*
+2020	BCPST	Groupe INSA Inter-Filière	ESITech Rouen Génie Physique										0*	0,0%	0,0%	0*	0*	2*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Centre Val de Loire Maîtrise des Risques Industriels										1*	100,0%	0,0%	584*	584*	7*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Lyon Science et Génie des Matériaux										1*	0,0%	0,0%	44*	44*	1*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Rennes Science et Génie des Matériaux										1*	0,0%	0,0%	175*	175*	1*
+2020	BCPST	Groupe INSA Inter-Filière	INSA Toulouse Génie Physique										1*	100,0%	0,0%	33	33	1*
+2020	BCPST	Groupe INSA Inter-Filière	Concours INSA Domaine Génie physique et matériaux TSI-PT-TPC	1609*	14,2%	19,1%	*			702*	13,2%	21,5%	4*					12*

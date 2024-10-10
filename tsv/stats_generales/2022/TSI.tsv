@@ -1,23 +1,23 @@
 year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissibles_nb	admissibles_filles	admissibles_cinq_demi	classes_nb	classes_filles	classes_cinq_demi	integres_nb	integres_filles	integres_cinq_demi	integres_rg_median	integres_rg_moyen	nb_integres_interfilieres	places
 2022	TSI	Concours Polytechnique	ECOLE POLYTECHNIQUE	611	8,5%	15,7%	2	0,0%	0,0%	2	0,0%	0,0%	2	0,0%	0,0%	2	2		2
-2022	TSI	CONCOURS CENTRALE-SUPELEC	Arts et MÃ©tiers										36	2,8%	19,4%	87	82		35
-2022	TSI	CONCOURS CENTRALE-SUPELEC	Arts et MÃ©tiers - voie de l'apprentissage										0	0,0%	0,0%	0	0		1
+2022	TSI	CONCOURS CENTRALE-SUPELEC	Arts et Métiers										36	2,8%	19,4%	87	82		35
+2022	TSI	CONCOURS CENTRALE-SUPELEC	Arts et Métiers - voie de l'apprentissage										0	0,0%	0,0%	0	0		1
 2022	TSI	CONCOURS CENTRALE-SUPELEC	ENSEA Cergy										3	0,0%	66,7%	160	158		10
-2022	TSI	CONCOURS CENTRALE-SUPELEC	Concours ARTS ET MÃTIERS TSI	836	10,3%	15,1%	179	6,7%	21,8%	164	6,7%	21,3%	39						46
+2022	TSI	CONCOURS CENTRALE-SUPELEC	Concours ARTS ET MÉTIERS TSI	836	10,3%	15,1%	179	6,7%	21,8%	164	6,7%	21,3%	39						46
 2022	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE CASABLANCA	312	7,1%	17,6%	52	5,8%	28,8%	44	4,5%	29,5%	0	0,0%	0,0%	0	0		3
 2022	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE LILLE	578	10,0%	16,1%	61	9,8%	16,4%	60	10,0%	16,7%	5	40,0%	0,0%	38	34		5
 2022	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE LYON	560	9,1%	15,4%	55	5,5%	9,1%	55	5,5%	9,1%	5	0,0%	20,0%	30	26		5
 2022	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE MARSEILLE	547	8,6%	16,3%	98	7,1%	20,4%	92	7,6%	19,6%	5	20,0%	40,0%	51	48		5
 2022	TSI	CONCOURS CENTRALE-SUPELEC	CENTRALE NANTES	624	10,1%	15,2%	61	6,6%	8,2%	60	6,7%	8,3%	8	0,0%	0,0%	26	24		8
-2022	TSI	CONCOURS CENTRALE-SUPELEC	CentraleSupÃ©lec - statut Ã©tudiant										5	0,0%	0,0%	4	4		5
-2022	TSI	CONCOURS CENTRALE-SUPELEC	CentraleSupÃ©lec - cursus apprenti - Campus Metz										9	0,0%	22,2%	52	49		8
-2022	TSI	CONCOURS CENTRALE-SUPELEC	CentraleSupÃ©lec - cursus apprenti - Campus Rennes										9	11,1%	33,3%	27	30		8
-2022	TSI	CONCOURS CENTRALE-SUPELEC	Concours CentraleSupÃ©lec TSI	630	8,7%	16,7%	100	5,0%	12,0%	98	5,1%	12,2%	23						21
+2022	TSI	CONCOURS CENTRALE-SUPELEC	CentraleSupélec - statut étudiant										5	0,0%	0,0%	4	4		5
+2022	TSI	CONCOURS CENTRALE-SUPELEC	CentraleSupélec - cursus apprenti - Campus Metz										9	0,0%	22,2%	52	49		8
+2022	TSI	CONCOURS CENTRALE-SUPELEC	CentraleSupélec - cursus apprenti - Campus Rennes										9	11,1%	33,3%	27	30		8
+2022	TSI	CONCOURS CENTRALE-SUPELEC	Concours CentraleSupélec TSI	630	8,7%	16,7%	100	5,0%	12,0%	98	5,1%	12,2%	23						21
 2022	TSI	CONCOURS CENTRALE-SUPELEC	ESIX Cherbourg GSI	597	8,0%	17,8%	408	7,1%	17,2%	100	5,0%	17,0%	16	6,2%	56,2%	73	69		30
-2022	TSI	CONCOURS CENTRALE-SUPELEC	ESIX Caen MÃ©catronique et SystÃ¨mes EmbarquÃ©s	581	7,1%	17,4%	297	6,1%	16,8%	100	4,0%	32,0%	5	0,0%	40,0%	31	35		10
-2022	TSI	CONCOURS CENTRALE-SUPELEC	ESTP Paris - BÃ¢timent (B) - campus de Cachan										7	0,0%	14,3%	69	58		6
-2022	TSI	CONCOURS CENTRALE-SUPELEC	ESTP Paris - BÃ¢timent (B) - campus de Troyes										10	10,0%	0,0%	127	121		12
-2022	TSI	CONCOURS CENTRALE-SUPELEC	ESTP Paris - GÃ©nie MÃ©canique et Electrique(GME)										11	0,0%	27,3%	127	121		14
+2022	TSI	CONCOURS CENTRALE-SUPELEC	ESIX Caen Mécatronique et Systèmes Embarqués	581	7,1%	17,4%	297	6,1%	16,8%	100	4,0%	32,0%	5	0,0%	40,0%	31	35		10
+2022	TSI	CONCOURS CENTRALE-SUPELEC	ESTP Paris - Bâtiment (B) - campus de Cachan										7	0,0%	14,3%	69	58		6
+2022	TSI	CONCOURS CENTRALE-SUPELEC	ESTP Paris - Bâtiment (B) - campus de Troyes										10	10,0%	0,0%	127	121		12
+2022	TSI	CONCOURS CENTRALE-SUPELEC	ESTP Paris - Génie Mécanique et Electrique(GME)										11	0,0%	27,3%	127	121		14
 2022	TSI	CONCOURS CENTRALE-SUPELEC	ESTP Paris - Topographie (T)										7	0,0%	14,3%	146	141		10
 2022	TSI	CONCOURS CENTRALE-SUPELEC	ESTP Paris - Travaux Publics (TP) - campus de Cachan										8	0,0%	0,0%	81	69		8
 2022	TSI	CONCOURS CENTRALE-SUPELEC	ESTP Paris - Travaux Publics (TP) - campus de Dijon										9	22,2%	11,1%	111	98		10
@@ -34,172 +34,172 @@ year	filiere	banque	ecole	inscrits_nb	inscrits_filles	inscrits_cinq_demi	admissi
 2022	TSI	CONCOURS COMMUN MINES-PONTS	PONTS ParisTech										0	0,0%	0,0%	0	0		1
 2022	TSI	CONCOURS COMMUN MINES-PONTS	TELECOM Paris										2	0,0%	0,0%	12	12		2
 2022	TSI	CONCOURS COMMUN MINES-PONTS	Concours commun Mines-Ponts TSI	611	8,5%	15,7%	55	7,3%	5,5%	55	7,3%	5,5%	16						19
-2022	TSI	Concours Mines - TÃ©lÃ©com	EURECOM	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	4	25,0%	25,0%	146	146		2
-2022	TSI	Concours Mines - TÃ©lÃ©com	ENSG-GÃ©omatique Marne la VallÃ©e	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	0	0,0%	0,0%	0	0		1
-2022	TSI	Concours Mines - TÃ©lÃ©com	ENSIIE Evry	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	4	0,0%	50,0%	115	120		4
-2022	TSI	Concours Mines - TÃ©lÃ©com	ENSSAT Lannion	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	2	0,0%	50,0%	127	127		2
-2022	TSI	Concours Mines - TÃ©lÃ©com	ENSTA Bretagne (filiÃ¨re sous statut Ã©tudiant)	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	2	0,0%	0,0%	43	43		2
-2022	TSI	Concours Mines - TÃ©lÃ©com	ENTPE Lyon Civil	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	5	20,0%	60,0%	106	105		2
-2022	TSI	Concours Mines - TÃ©lÃ©com	ENTPE Lyon Fonctionnaire	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	4	25,0%	25,0%	94	95		4
-2022	TSI	Concours Mines - TÃ©lÃ©com	IMT Nord Europe	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	4	0,0%	25,0%	87	75		2
-2022	TSI	Concours Mines - TÃ©lÃ©com	IMT Mines Albi	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	2	0,0%	0,0%	101	101		2
-2022	TSI	Concours Mines - TÃ©lÃ©com	IMT Mines AlÃ¨s	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	2	0,0%	100,0%	77	77		2
-2022	TSI	Concours Mines - TÃ©lÃ©com	Mines Saint Etienne-ISMIN	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	3	0,0%	0,0%	83	80		3
-2022	TSI	Concours Mines - TÃ©lÃ©com	TELECOM Nancy	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	3	0,0%	0,0%	80	69		3
-2022	TSI	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut apprenti	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	2	0,0%	0,0%	128	128		2
-2022	TSI	Concours Mines - TÃ©lÃ©com	TELECOM St Etienne - Statut Ã©tudiant	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	3	0,0%	33,3%	114	112		3
-2022	TSI	Concours Mines - TÃ©lÃ©com	TELECOM SudParis	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	5	0,0%	0,0%	59	46		5
+2022	TSI	Concours Mines - Télécom	EURECOM	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	4	25,0%	25,0%	146	146		2
+2022	TSI	Concours Mines - Télécom	ENSG-Géomatique Marne la Vallée	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	0	0,0%	0,0%	0	0		1
+2022	TSI	Concours Mines - Télécom	ENSIIE Evry	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	4	0,0%	50,0%	115	120		4
+2022	TSI	Concours Mines - Télécom	ENSSAT Lannion	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	2	0,0%	50,0%	127	127		2
+2022	TSI	Concours Mines - Télécom	ENSTA Bretagne (filière sous statut étudiant)	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	2	0,0%	0,0%	43	43		2
+2022	TSI	Concours Mines - Télécom	ENTPE Lyon Civil	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	5	20,0%	60,0%	106	105		2
+2022	TSI	Concours Mines - Télécom	ENTPE Lyon Fonctionnaire	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	4	25,0%	25,0%	94	95		4
+2022	TSI	Concours Mines - Télécom	IMT Nord Europe	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	4	0,0%	25,0%	87	75		2
+2022	TSI	Concours Mines - Télécom	IMT Mines Albi	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	2	0,0%	0,0%	101	101		2
+2022	TSI	Concours Mines - Télécom	IMT Mines Alès	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	2	0,0%	100,0%	77	77		2
+2022	TSI	Concours Mines - Télécom	Mines Saint Etienne-ISMIN	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	3	0,0%	0,0%	83	80		3
+2022	TSI	Concours Mines - Télécom	TELECOM Nancy	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	3	0,0%	0,0%	80	69		3
+2022	TSI	Concours Mines - Télécom	TELECOM St Etienne - Statut apprenti	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	2	0,0%	0,0%	128	128		2
+2022	TSI	Concours Mines - Télécom	TELECOM St Etienne - Statut étudiant	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	3	0,0%	33,3%	114	112		3
+2022	TSI	Concours Mines - Télécom	TELECOM SudParis	775	9,5%	16,8%	239	7,1%	19,2%	209	6,7%	19,1%	5	0,0%	0,0%	59	46		5
 2022	TSI	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA Electronique										7	14,3%	0,0%	135	131		5
 2022	TSI	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA Informatique										1	0,0%	0,0%	91	91		2
-2022	TSI	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA TÃ©lecom.										0	0,0%	0,0%	0	0		1
+2022	TSI	CONCOURS COMMUN INP	Bordeaux INP - ENSEIRB-MATMECA Télecom.										0	0,0%	0,0%	0	0		1
 2022	TSI	CONCOURS COMMUN INP	Bordeaux INP - ENSPIMA										0	0,0%	0,0%	0	0		1
-2022	TSI	CONCOURS COMMUN INP	CPE LYON Sciences du numÃ©rique										1	0,0%	0,0%	249	249		2
-2022	TSI	CONCOURS COMMUN INP	CY TECH Cergy - GÃ©nie Civil										3	0,0%	33,3%	309	327		3
+2022	TSI	CONCOURS COMMUN INP	CPE LYON Sciences du numérique										1	0,0%	0,0%	249	249		2
+2022	TSI	CONCOURS COMMUN INP	CY TECH Cergy - Génie Civil										3	0,0%	33,3%	309	327		3
 2022	TSI	CONCOURS COMMUN INP	CY TECH Cergy-Pau - Informatique										7	0,0%	42,9%	248	244		7
-2022	TSI	CONCOURS COMMUN INP	ENGEES Strasbourg Civil (Ã©tudiant)										4	0,0%	25,0%	316	291		2
-2022	TSI	CONCOURS COMMUN INP	ENSGTI Pau - EnergÃ©tique										2	0,0%	0,0%	212	212		2
+2022	TSI	CONCOURS COMMUN INP	ENGEES Strasbourg Civil (étudiant)										4	0,0%	25,0%	316	291		2
+2022	TSI	CONCOURS COMMUN INP	ENSGTI Pau - Energétique										2	0,0%	0,0%	212	212		2
 2022	TSI	CONCOURS COMMUN INP	ENSI Poitiers Energie										1	0,0%	0,0%	369	369		4
-2022	TSI	CONCOURS COMMUN INP	ENSICAEN GÃ©nie Physique et systÃ¨mes EmbarquÃ©s										5	0,0%	20,0%	188	191		5
+2022	TSI	CONCOURS COMMUN INP	ENSICAEN Génie Physique et systèmes Embarqués										5	0,0%	20,0%	188	191		5
 2022	TSI	CONCOURS COMMUN INP	ENSICAEN Informatique										2	0,0%	0,0%	147	147		2
-2022	TSI	CONCOURS COMMUN INP	ENSMM BesanÃ§on										11	9,1%	9,1%	254	238		10
+2022	TSI	CONCOURS COMMUN INP	ENSMM Besançon										11	9,1%	9,1%	254	238		10
 2022	TSI	CONCOURS COMMUN INP	Grenoble INP - ENSE3										4	0,0%	25,0%	107	102		3
 2022	TSI	CONCOURS COMMUN INP	Grenoble INP - Pagora										1	100,0%	0,0%	147	147		1
-2022	TSI	CONCOURS COMMUN INP	Grenoble INP - Phelma (Physique Electronique TÃ©lÃ©coms)										3	33,3%	0,0%	97	95		2
-2022	TSI	CONCOURS COMMUN INP	Grenoble INP - Phelma (Physique MatÃ©riaux ProcÃ©dÃ©s)										4	50,0%	0,0%	70	71		2
+2022	TSI	CONCOURS COMMUN INP	Grenoble INP - Phelma (Physique Electronique Télécoms)										3	33,3%	0,0%	97	95		2
+2022	TSI	CONCOURS COMMUN INP	Grenoble INP - Phelma (Physique Matériaux Procédés)										4	50,0%	0,0%	70	71		2
 2022	TSI	CONCOURS COMMUN INP	ISAE-ENSMA Poitiers										2	0,0%	50,0%	87	87		2
-2022	TSI	CONCOURS COMMUN INP	ISAE-SupmÃ©ca Paris										3	0,0%	33,3%	150	118		3
+2022	TSI	CONCOURS COMMUN INP	ISAE-Supméca Paris										3	0,0%	33,3%	150	118		3
 2022	TSI	CONCOURS COMMUN INP	ISIMA Clermont-Ferrand										4	0,0%	25,0%	229	230		2
 2022	TSI	CONCOURS COMMUN INP	Lorraine INP - ENSEM - Energie										5	20,0%	20,0%	242	223		4
 2022	TSI	CONCOURS COMMUN INP	SeaTech Toulon										4	0,0%	0,0%	244	247		2
-2022	TSI	CONCOURS COMMUN INP	SIGMA Clermont-Ferrand - spÃ©cialitÃ© mÃ©canique avancÃ©e										10	0,0%	70,0%	244	237		8
+2022	TSI	CONCOURS COMMUN INP	SIGMA Clermont-Ferrand - spécialité mécanique avancée										10	0,0%	70,0%	244	237		8
 2022	TSI	CONCOURS COMMUN INP	TELECOM PHYSIQUE Strasbourg										5	20,0%	20,0%	200	190		6
 2022	TSI	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - Electronique-Energie-Automatique (EEA)										2	0,0%	0,0%	63	63		2
-2022	TSI	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - MÃ©canique des Fluides-Energetique-Environnement (MFEE)										1	0,0%	0,0%	59	59		1
-2022	TSI	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - Sciences du NumÃ©rique										1	0,0%	0,0%	89	89		1
-2022	TSI	CONCOURS COMMUN INP	Toulouse INP - ENSIACET - GÃ©nie Industriel										1	0,0%	100,0%	132	132		2
+2022	TSI	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - Mécanique des Fluides-Energetique-Environnement (MFEE)										1	0,0%	0,0%	59	59		1
+2022	TSI	CONCOURS COMMUN INP	Toulouse INP - ENSEEIHT - Sciences du Numérique										1	0,0%	0,0%	89	89		1
+2022	TSI	CONCOURS COMMUN INP	Toulouse INP - ENSIACET - Génie Industriel										1	0,0%	100,0%	132	132		2
 2022	TSI	CONCOURS COMMUN INP	Concours CCINP TSI	1330	10,6%	13,4%	582	7,6%	16,7%	386	7,3%	16,3%	94						87
-2022	TSI	Banque Ã©preuves CCINP Inter-FiliÃ¨re	Lorraine INP - ENSGSI	336	9,2%	15,2%	66	4,5%	25,8%	10	0,0%	40,0%	2	0,0%	0,0%	133	126	35*	40*
-2022	TSI	Banque Ã©preuves CCINP	EPISEN - SystÃ¨me d'information	420	7,9%	16,4%	256	6,2%	18,8%	126	4,8%	22,2%	2	0,0%	0,0%	23	23		3
-2022	TSI	Banque Ã©preuves CCINP	ECAM Rennes	373	6,7%	14,2%	315	6,7%	14,0%	81	8,6%	18,5%	9	0,0%	55,6%	55	52		15
-2022	TSI	Banque Ã©preuves CCINP	EIL CÃ´te d'Opale - Boulogne (Agroalimentaire)	451	9,1%	13,3%	318	8,5%	14,2%	217	5,5%	14,3%	1	0,0%	0,0%	96	96		3
-2022	TSI	Banque Ã©preuves CCINP	ESIREM Dijon MatÃ©riaux										5	0,0%	0,0%	54	41		4
-2022	TSI	Banque Ã©preuves CCINP	ESIREM Dijon Informatique/Ã©lectronique										7	0,0%	0,0%	30	42		10
-2022	TSI	Banque Ã©preuves CCINP	Concours ESIREM TSI	453	9,1%	14,8%	233	6,4%	13,7%	80	11,2%	15,0%	12						14
-2022	TSI	Banque Ã©preuves CCINP	EIL CÃ´te d'Opale - Calais (informatique)										7	0,0%	14,3%	164	158		15
-2022	TSI	Banque Ã©preuves CCINP	EIL CÃ´te d'Opale - Dunkerque (GÃ©nie EnergÃ©tique et Environnement)										8	12,5%	12,5%	174	160		15
-2022	TSI	Banque Ã©preuves CCINP	EIL CÃ´te d'Opale - Longuenesse (GÃ©nie Industriel)										9	0,0%	11,1%	189	185		20
-2022	TSI	Banque Ã©preuves CCINP	Concours EIL CÃ´te d'Opale Longuenesse - Calais - Dunkerque - Boulogne TSI	451	9,1%	13,3%	318	8,5%	14,2%	217	5,5%	14,3%	24						50
-2022	TSI	Banque Ã©preuves CCINP	EIVP Paris Civil	1330	10,6%	13,4%	132	6,8%	18,9%	89	5,6%	21,3%	4	25,0%	0,0%	53	55		5
-2022	TSI	Banque Ã©preuves CCINP	ENS Paris-Saclay	855	11,3%	14,9%	66	9,1%	21,2%	3	0,0%	33,3%	1	0,0%	0,0%	3	3		3
-2022	TSI	Banque Ã©preuves CCINP	ENS Rennes	863	10,9%	15,1%	84	8,3%	20,2%	15	6,7%	20,0%	2	0,0%	50,0%	10	10		2
-2022	TSI	Banque Ã©preuves CCINP	ENSAIT Roubaix	424	8,5%	15,6%	264	6,8%	18,9%	87	9,2%	25,3%	4	25,0%	0,0%	77	64		3
-2022	TSI	Banque Ã©preuves CCINP	ENSIBS	431	9,5%	14,4%	210	6,2%	12,9%	154	5,2%	15,6%	6	16,7%	0,0%	99	102		8
-2022	TSI	Banque Ã©preuves CCINP	ENSISA Mulhouse Automatique et SystÃ¨mes EmbarquÃ©s										1	0,0%	0,0%	37	37		4
-2022	TSI	Banque Ã©preuves CCINP	ENSISA Mulhouse Informatique et rÃ©seaux										6	0,0%	0,0%	21	18		3
-2022	TSI	Banque Ã©preuves CCINP	ENSISA Mulhouse MÃ©canique										4	25,0%	0,0%	16	16		5
-2022	TSI	Banque Ã©preuves CCINP	ENSISA Mulhouse Textile et Fibres										1	0,0%	0,0%	45	45		3
-2022	TSI	Banque Ã©preuves CCINP	Concours ENSISA TSI	544	8,6%	13,6%	249	4,8%	14,1%	49	6,1%	8,2%	12						15
-2022	TSI	Banque Ã©preuves CCINP	EPISEN - Technologie pour la santÃ©	420	7,9%	16,4%	256	6,2%	18,8%	126	4,8%	22,2%	5	0,0%	0,0%	20	17		6
-2022	TSI	Banque Ã©preuves CCINP	ESB Nantes	276	9,1%	15,6%	215	8,8%	14,9%	102	11,8%	16,7%	9	11,1%	0,0%	88	88		15
-2022	TSI	Banque Ã©preuves CCINP	ESIGELEC Rouen	568	6,3%	15,8%	450	5,6%	16,9%	242	4,1%	18,2%	36	2,8%	11,1%	186	189		35
-2022	TSI	Banque Ã©preuves CCINP	ESIREM Dijon Robotique	453	9,1%	14,8%	233	6,4%	13,7%	80	11,2%	15,0%	3	66,7%	0,0%	52	41		4
-2022	TSI	Banque Ã©preuves CCINP	ESTIA Bidart	410	7,8%	14,9%	340	6,5%	14,4%	111	7,2%	15,3%	37	0,0%	18,9%	48	53		35
-2022	TSI	Banque Ã©preuves CCINP	Grenoble INP - GÃ©nie industriel	443	7,4%	18,3%	123	6,5%	27,6%	21	9,5%	28,6%	3	0,0%	33,3%	6	6		2
-2022	TSI	Banque Ã©preuves CCINP	ISAT Nevers - dÃ©partement MIT (MÃ©canique et IngÃ©nierie des Transports)										4	0,0%	50,0%	61	62		4
-2022	TSI	Banque Ã©preuves CCINP	ISAT Nevers - dÃ©partement EPEE (Energies et Moteurs)										5	0,0%	0,0%	85	79		4
-2022	TSI	Banque Ã©preuves CCINP	ISAT Nevers - Infrastructures et RÃ©seaux de Transports										1	0,0%	0,0%	111	111		2
-2022	TSI	Banque Ã©preuves CCINP	Concours ISAT TSI	469	7,2%	13,9%	142	2,8%	18,3%	120	2,5%	20,0%	10						10
-2022	TSI	Banque Ã©preuves CCINP	ISEP Paris	293	6,5%	13,7%	254	6,3%	12,2%	208	4,8%	12,0%	23	17,4%	13,0%	88	98		15
-2022	TSI	Banque Ã©preuves CCINP	Lorraine INP - ENSTIB	305	10,5%	13,4%	207	10,1%	13,5%	30	23,3%	6,7%	7	42,9%	14,3%	11	9		7
-2022	TSI	Banque Ã©preuves CCINP	Toulouse INP - ENIT	545	8,3%	15,0%	189	3,2%	16,4%	64	3,1%	18,8%	4	0,0%	50,0%	59	59		6
-2022	TSI	Banque Ã©preuves CCINP	3IL IngÃ©nieurs	316	6,6%	12,3%	256	5,5%	10,5%	156	5,8%	7,1%	10	20,0%	0,0%	135	121		15
-2022	TSI	RÃ©seau Polytech	Polytech Annecy-ChambÃ©ry - BÃ¢timent Eco-construction Energie										1	0,0%	0,0%	283	283		2
-2022	TSI	RÃ©seau Polytech	Polytech Annecy-ChambÃ©ry - MÃ©canique MÃ©catronique MatÃ©riaux composites										3	0,0%	0,0%	276	268		2
-2022	TSI	RÃ©seau Polytech	Polytech Annecy-ChambÃ©ry - SystÃ¨mes NumÃ©riques â Instrumentation										3	0,0%	0,0%	255	241		2
-2022	TSI	RÃ©seau Polytech	Polytech Clermont-Ferrand - GÃ©nie Electrique										2	0,0%	50,0%	366	366		2
-2022	TSI	RÃ©seau Polytech	Polytech Clermont-Ferrand - GÃ©nie Physique										3	0,0%	33,3%	298	299		2
-2022	TSI	RÃ©seau Polytech	Polytech Lille - SystÃ¨mes embarquÃ©s										3	0,0%	0,0%	268	277		2
-2022	TSI	RÃ©seau Polytech	Polytech Lyon - MÃ©canique										1	0,0%	0,0%	204	204		2
-2022	TSI	RÃ©seau Polytech	Polytech Lyon - SystÃ¨mes industriels, Robotique										3	0,0%	0,0%	123	126		2
-2022	TSI	RÃ©seau Polytech	Polytech Marseille - GÃ©nie Civil										3	33,3%	0,0%	301	286		3
-2022	TSI	RÃ©seau Polytech	Polytech Marseille - GÃ©nie Industriel et Informatique										5	20,0%	0,0%	273	276		4
-2022	TSI	RÃ©seau Polytech	Polytech Marseille - Informatique										4	0,0%	0,0%	186	173		2
-2022	TSI	RÃ©seau Polytech	Polytech Marseille - MÃ©canique, EnergÃ©tique										4	0,0%	0,0%	280	276		3
-2022	TSI	RÃ©seau Polytech	Polytech Marseille - MicroÃ©lectronique,TÃ©lÃ©communications										3	0,0%	0,0%	332	324		3
-2022	TSI	RÃ©seau Polytech	Polytech Montpellier - MicroÃ©lectronique et Automatique										4	0,0%	0,0%	176	219		3
-2022	TSI	RÃ©seau Polytech	Polytech Nancy - Energie, MÃ©canique, MatÃ©riaux, Environnement										3	33,3%	0,0%	228	192		2
-2022	TSI	RÃ©seau Polytech	Polytech Nancy - Management opÃ©rationnel, Maintenance, MaÃ®trise des risques										2	0,0%	0,0%	378	378		2
-2022	TSI	RÃ©seau Polytech	Polytech Nancy Informatique, Automatique, Robotique, RÃ©seaux										2	0,0%	0,0%	249	249		1
-2022	TSI	RÃ©seau Polytech	Polytech Nantes - Ãnergie Ã©lectrique										2	0,0%	0,0%	286	286		3
-2022	TSI	RÃ©seau Polytech	Polytech Nice-Sophia - GÃ©nie de l'eau										3	0,0%	33,3%	270	271		3
-2022	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - GÃ©nie civil et gÃ©o-environnement										0	0,0%	0,0%	0	0		2
-2022	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - GÃ©nie industriel										0	0,0%	0,0%	0	0		0
-2022	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - GÃ©nie physique et systÃ¨mes embarquÃ©s										2	0,0%	50,0%	310	310		3
-2022	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - Innovation en Conception et MatÃ©riaux										0	0,0%	0,0%	0	0		3
-2022	TSI	RÃ©seau Polytech	Polytech OrlÃ©ans - Technologies pour l'Ãnergie, l'AÃ©rospatial et la Motorisation										4	0,0%	25,0%	315	318		4
-2022	TSI	RÃ©seau Polytech	Polytech Tours - Ãlectronique, Ãnergie Ã©lectrique										3	0,0%	33,3%	370	358		2
-2022	TSI	RÃ©seau Polytech	Polytech Tours - GÃ©nie de l'amÃ©nagement et de l'environnement										0	0,0%	0,0%	0	0		2
-2022	TSI	RÃ©seau Polytech	Polytech Tours - Informatique										4	0,0%	0,0%	308	310		2
-2022	TSI	RÃ©seau Polytech	Polytech Tours - MÃ©canique, Conception de systÃ¨mes										3	0,0%	33,3%	343	333		2
-2022	TSI	RÃ©seau Polytech	Concours Polytech TSI	1092	9,1%	14,5%	581	6,0%	15,3%	392	5,9%	17,6%	70						65
-2022	TSI	Groupe INSA	INSA Hauts de France GÃ©nie civil et bÃ¢timent										0	0,0%	0,0%	0	0		1
-2022	TSI	Groupe INSA	INSA Rouen Normandie GÃ©nie Civil et Urbain										1	0,0%	0,0%	40	40		1
-2022	TSI	Groupe INSA	Concours INSA Domaine GÃ©nie civil, urbanisme, topographie TSI	524	8,2%	14,1%	134	7,5%	12,7%	134	7,5%	12,7%	1						2
-2022	TSI	Groupe INSA	INSA Hauts de France Electronique des SystÃ¨mes EmbarquÃ©s										1	0,0%	0,0%	140	140		2
+2022	TSI	Banque épreuves CCINP Inter-Filière	Lorraine INP - ENSGSI	336	9,2%	15,2%	66	4,5%	25,8%	10	0,0%	40,0%	2	0,0%	0,0%	133	126	35*	40*
+2022	TSI	Banque épreuves CCINP	EPISEN - Système d'information	420	7,9%	16,4%	256	6,2%	18,8%	126	4,8%	22,2%	2	0,0%	0,0%	23	23		3
+2022	TSI	Banque épreuves CCINP	ECAM Rennes	373	6,7%	14,2%	315	6,7%	14,0%	81	8,6%	18,5%	9	0,0%	55,6%	55	52		15
+2022	TSI	Banque épreuves CCINP	EIL Côte d'Opale - Boulogne (Agroalimentaire)	451	9,1%	13,3%	318	8,5%	14,2%	217	5,5%	14,3%	1	0,0%	0,0%	96	96		3
+2022	TSI	Banque épreuves CCINP	ESIREM Dijon Matériaux										5	0,0%	0,0%	54	41		4
+2022	TSI	Banque épreuves CCINP	ESIREM Dijon Informatique/électronique										7	0,0%	0,0%	30	42		10
+2022	TSI	Banque épreuves CCINP	Concours ESIREM TSI	453	9,1%	14,8%	233	6,4%	13,7%	80	11,2%	15,0%	12						14
+2022	TSI	Banque épreuves CCINP	EIL Côte d'Opale - Calais (informatique)										7	0,0%	14,3%	164	158		15
+2022	TSI	Banque épreuves CCINP	EIL Côte d'Opale - Dunkerque (Génie Energétique et Environnement)										8	12,5%	12,5%	174	160		15
+2022	TSI	Banque épreuves CCINP	EIL Côte d'Opale - Longuenesse (Génie Industriel)										9	0,0%	11,1%	189	185		20
+2022	TSI	Banque épreuves CCINP	Concours EIL Côte d'Opale Longuenesse - Calais - Dunkerque - Boulogne TSI	451	9,1%	13,3%	318	8,5%	14,2%	217	5,5%	14,3%	24						50
+2022	TSI	Banque épreuves CCINP	EIVP Paris Civil	1330	10,6%	13,4%	132	6,8%	18,9%	89	5,6%	21,3%	4	25,0%	0,0%	53	55		5
+2022	TSI	Banque épreuves CCINP	ENS Paris-Saclay	855	11,3%	14,9%	66	9,1%	21,2%	3	0,0%	33,3%	1	0,0%	0,0%	3	3		3
+2022	TSI	Banque épreuves CCINP	ENS Rennes	863	10,9%	15,1%	84	8,3%	20,2%	15	6,7%	20,0%	2	0,0%	50,0%	10	10		2
+2022	TSI	Banque épreuves CCINP	ENSAIT Roubaix	424	8,5%	15,6%	264	6,8%	18,9%	87	9,2%	25,3%	4	25,0%	0,0%	77	64		3
+2022	TSI	Banque épreuves CCINP	ENSIBS	431	9,5%	14,4%	210	6,2%	12,9%	154	5,2%	15,6%	6	16,7%	0,0%	99	102		8
+2022	TSI	Banque épreuves CCINP	ENSISA Mulhouse Automatique et Systèmes Embarqués										1	0,0%	0,0%	37	37		4
+2022	TSI	Banque épreuves CCINP	ENSISA Mulhouse Informatique et réseaux										6	0,0%	0,0%	21	18		3
+2022	TSI	Banque épreuves CCINP	ENSISA Mulhouse Mécanique										4	25,0%	0,0%	16	16		5
+2022	TSI	Banque épreuves CCINP	ENSISA Mulhouse Textile et Fibres										1	0,0%	0,0%	45	45		3
+2022	TSI	Banque épreuves CCINP	Concours ENSISA TSI	544	8,6%	13,6%	249	4,8%	14,1%	49	6,1%	8,2%	12						15
+2022	TSI	Banque épreuves CCINP	EPISEN - Technologie pour la santé	420	7,9%	16,4%	256	6,2%	18,8%	126	4,8%	22,2%	5	0,0%	0,0%	20	17		6
+2022	TSI	Banque épreuves CCINP	ESB Nantes	276	9,1%	15,6%	215	8,8%	14,9%	102	11,8%	16,7%	9	11,1%	0,0%	88	88		15
+2022	TSI	Banque épreuves CCINP	ESIGELEC Rouen	568	6,3%	15,8%	450	5,6%	16,9%	242	4,1%	18,2%	36	2,8%	11,1%	186	189		35
+2022	TSI	Banque épreuves CCINP	ESIREM Dijon Robotique	453	9,1%	14,8%	233	6,4%	13,7%	80	11,2%	15,0%	3	66,7%	0,0%	52	41		4
+2022	TSI	Banque épreuves CCINP	ESTIA Bidart	410	7,8%	14,9%	340	6,5%	14,4%	111	7,2%	15,3%	37	0,0%	18,9%	48	53		35
+2022	TSI	Banque épreuves CCINP	Grenoble INP - Génie industriel	443	7,4%	18,3%	123	6,5%	27,6%	21	9,5%	28,6%	3	0,0%	33,3%	6	6		2
+2022	TSI	Banque épreuves CCINP	ISAT Nevers - département MIT (Mécanique et Ingénierie des Transports)										4	0,0%	50,0%	61	62		4
+2022	TSI	Banque épreuves CCINP	ISAT Nevers - département EPEE (Energies et Moteurs)										5	0,0%	0,0%	85	79		4
+2022	TSI	Banque épreuves CCINP	ISAT Nevers - Infrastructures et Réseaux de Transports										1	0,0%	0,0%	111	111		2
+2022	TSI	Banque épreuves CCINP	Concours ISAT TSI	469	7,2%	13,9%	142	2,8%	18,3%	120	2,5%	20,0%	10						10
+2022	TSI	Banque épreuves CCINP	ISEP Paris	293	6,5%	13,7%	254	6,3%	12,2%	208	4,8%	12,0%	23	17,4%	13,0%	88	98		15
+2022	TSI	Banque épreuves CCINP	Lorraine INP - ENSTIB	305	10,5%	13,4%	207	10,1%	13,5%	30	23,3%	6,7%	7	42,9%	14,3%	11	9		7
+2022	TSI	Banque épreuves CCINP	Toulouse INP - ENIT	545	8,3%	15,0%	189	3,2%	16,4%	64	3,1%	18,8%	4	0,0%	50,0%	59	59		6
+2022	TSI	Banque épreuves CCINP	3IL Ingénieurs	316	6,6%	12,3%	256	5,5%	10,5%	156	5,8%	7,1%	10	20,0%	0,0%	135	121		15
+2022	TSI	Réseau Polytech	Polytech Annecy-Chambéry - Bâtiment Eco-construction Energie										1	0,0%	0,0%	283	283		2
+2022	TSI	Réseau Polytech	Polytech Annecy-Chambéry - Mécanique Mécatronique Matériaux composites										3	0,0%	0,0%	276	268		2
+2022	TSI	Réseau Polytech	Polytech Annecy-Chambéry - Systèmes Numériques – Instrumentation										3	0,0%	0,0%	255	241		2
+2022	TSI	Réseau Polytech	Polytech Clermont-Ferrand - Génie Electrique										2	0,0%	50,0%	366	366		2
+2022	TSI	Réseau Polytech	Polytech Clermont-Ferrand - Génie Physique										3	0,0%	33,3%	298	299		2
+2022	TSI	Réseau Polytech	Polytech Lille - Systèmes embarqués										3	0,0%	0,0%	268	277		2
+2022	TSI	Réseau Polytech	Polytech Lyon - Mécanique										1	0,0%	0,0%	204	204		2
+2022	TSI	Réseau Polytech	Polytech Lyon - Systèmes industriels, Robotique										3	0,0%	0,0%	123	126		2
+2022	TSI	Réseau Polytech	Polytech Marseille - Génie Civil										3	33,3%	0,0%	301	286		3
+2022	TSI	Réseau Polytech	Polytech Marseille - Génie Industriel et Informatique										5	20,0%	0,0%	273	276		4
+2022	TSI	Réseau Polytech	Polytech Marseille - Informatique										4	0,0%	0,0%	186	173		2
+2022	TSI	Réseau Polytech	Polytech Marseille - Mécanique, Energétique										4	0,0%	0,0%	280	276		3
+2022	TSI	Réseau Polytech	Polytech Marseille - Microélectronique,Télécommunications										3	0,0%	0,0%	332	324		3
+2022	TSI	Réseau Polytech	Polytech Montpellier - Microélectronique et Automatique										4	0,0%	0,0%	176	219		3
+2022	TSI	Réseau Polytech	Polytech Nancy - Energie, Mécanique, Matériaux, Environnement										3	33,3%	0,0%	228	192		2
+2022	TSI	Réseau Polytech	Polytech Nancy - Management opérationnel, Maintenance, Maîtrise des risques										2	0,0%	0,0%	378	378		2
+2022	TSI	Réseau Polytech	Polytech Nancy Informatique, Automatique, Robotique, Réseaux										2	0,0%	0,0%	249	249		1
+2022	TSI	Réseau Polytech	Polytech Nantes - Énergie électrique										2	0,0%	0,0%	286	286		3
+2022	TSI	Réseau Polytech	Polytech Nice-Sophia - Génie de l'eau										3	0,0%	33,3%	270	271		3
+2022	TSI	Réseau Polytech	Polytech Orléans - Génie civil et géo-environnement										0	0,0%	0,0%	0	0		2
+2022	TSI	Réseau Polytech	Polytech Orléans - Génie industriel										0	0,0%	0,0%	0	0		0
+2022	TSI	Réseau Polytech	Polytech Orléans - Génie physique et systèmes embarqués										2	0,0%	50,0%	310	310		3
+2022	TSI	Réseau Polytech	Polytech Orléans - Innovation en Conception et Matériaux										0	0,0%	0,0%	0	0		3
+2022	TSI	Réseau Polytech	Polytech Orléans - Technologies pour l'Énergie, l'Aérospatial et la Motorisation										4	0,0%	25,0%	315	318		4
+2022	TSI	Réseau Polytech	Polytech Tours - Électronique, Énergie électrique										3	0,0%	33,3%	370	358		2
+2022	TSI	Réseau Polytech	Polytech Tours - Génie de l'aménagement et de l'environnement										0	0,0%	0,0%	0	0		2
+2022	TSI	Réseau Polytech	Polytech Tours - Informatique										4	0,0%	0,0%	308	310		2
+2022	TSI	Réseau Polytech	Polytech Tours - Mécanique, Conception de systèmes										3	0,0%	33,3%	343	333		2
+2022	TSI	Réseau Polytech	Concours Polytech TSI	1092	9,1%	14,5%	581	6,0%	15,3%	392	5,9%	17,6%	70						65
+2022	TSI	Groupe INSA	INSA Hauts de France Génie civil et bâtiment										0	0,0%	0,0%	0	0		1
+2022	TSI	Groupe INSA	INSA Rouen Normandie Génie Civil et Urbain										1	0,0%	0,0%	40	40		1
+2022	TSI	Groupe INSA	Concours INSA Domaine Génie civil, urbanisme, topographie TSI	524	8,2%	14,1%	134	7,5%	12,7%	134	7,5%	12,7%	1						2
+2022	TSI	Groupe INSA	INSA Hauts de France Electronique des Systèmes Embarqués										1	0,0%	0,0%	140	140		2
 2022	TSI	Groupe INSA	INSA Hauts de France Informatique Industrielle et Automatique										1	0,0%	0,0%	75	75		2
-2022	TSI	Groupe INSA	INSA Hauts-de-France : Audiovisuel et MultimÃ©dia										2	0,0%	0,0%	142	142		2
-2022	TSI	Groupe INSA	INSA Lyon GÃ©nie Electrique										2	0,0%	0,0%	21	21		2
+2022	TSI	Groupe INSA	INSA Hauts-de-France : Audiovisuel et Multimédia										2	0,0%	0,0%	142	142		2
+2022	TSI	Groupe INSA	INSA Lyon Génie Electrique										2	0,0%	0,0%	21	21		2
 2022	TSI	Groupe INSA	INSA Rennes Electronique et Informatique Industrielle										1	0,0%	0,0%	37	37		1
-2022	TSI	Groupe INSA	INSA Rennes Electronique et TÃ©lÃ©communications										1	0,0%	0,0%	143	143		1
+2022	TSI	Groupe INSA	INSA Rennes Electronique et Télécommunications										1	0,0%	0,0%	143	143		1
 2022	TSI	Groupe INSA	INSA Toulouse Automatique et Electronique										1	0,0%	0,0%	36	36		1
-2022	TSI	Groupe INSA	Concours INSA Domaine GÃ©nie Ã©lectrique, Ã©lectronique, automatique TSI	547	5,9%	14,6%	198	4,5%	13,1%	198	4,5%	13,1%	9						11
-2022	TSI	Groupe INSA	INSA Centre Val de Loire GÃ©nie des SystÃ¨mes Industriels										4	0,0%	25,0%	176	173		2
-2022	TSI	Groupe INSA	INSA Hauts de France GÃ©nie Industriel										1	0,0%	0,0%	69	69		1
-2022	TSI	Groupe INSA	INSA Hauts de France MÃ©canique et EnergÃ©tique										4	25,0%	0,0%	133	124		3
-2022	TSI	Groupe INSA	INSA Hauts de France MÃ©catronique										4	0,0%	25,0%	99	99		3
-2022	TSI	Groupe INSA	INSA Lyon GÃ©nie MÃ©canique										1	100,0%	0,0%	2	2		1
-2022	TSI	Groupe INSA	INSA Rennes GÃ©nie MÃ©canique et Automatique										1	0,0%	0,0%	88	88		1
-2022	TSI	Groupe INSA	INSA Strasbourg GÃ©nie MÃ©canique										2	0,0%	50,0%	46	46		1
-2022	TSI	Groupe INSA	INSA Strasbourg MÃ©catronique										0	0,0%	0,0%	0	0		1
-2022	TSI	Groupe INSA	Concours INSA Domaine GÃ©nie mÃ©canique, gÃ©nie industriel et mÃ©catronique TSI	629	7,0%	15,6%	232	5,6%	14,7%	232	5,6%	14,7%	17						13
-2022	TSI	Groupe INSA	INSA Centre Val de Loire SÃ©curitÃ© et Technologies Informatiques										3	0,0%	0,0%	91	88		1
-2022	TSI	Groupe INSA	INSA Hauts de France Informatique et CybersÃ©curitÃ©										1	0,0%	0,0%	57	57		1
-2022	TSI	Groupe INSA	INSA Lyon TÃ©lÃ©communications, services et usages										1	0,0%	0,0%	16	16		1
-2022	TSI	Groupe INSA	INSA Toulouse Informatique et RÃ©seaux										2	0,0%	0,0%	53	53		2
-2022	TSI	Groupe INSA	Concours INSA Domaine Informatique, mathÃ©matique, modÃ©lisation TSI	531	6,0%	14,7%	159	3,8%	10,1%	159	3,8%	10,1%	7						5
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	INSA Centre Val de Loire MaÃ®trise des Risques Industriels										3*	33,3%	33,3%	220*	382*	3*	5*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	INSA Lyon Science et GÃ©nie des MatÃ©riaux										1*	100,0%	100,0%	88*	88*	1*	1*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	INSA Rennes GÃ©nie Physique et MatÃ©riaux										1*	100,0%	0,0%	165*	165*	1*	1*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	INSA Toulouse GÃ©nie Physique										1*	0,0%	0,0%	98	98	1*	1*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	Concours INSA Domaine GÃ©nie physique et matÃ©riaux TSI-PT-TPC	1766*	14,8%	15,1%	809*	16,3%	16,1%	809*	16,3%	16,1%	6*					6*	8*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Aix-en-Provence										3*	0,0%	0,0%	39*	43*	3*	10*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Arras										0*	0,0%	0,0%	0*	0*	0*	5*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Bordeaux										0*	0,0%	0,0%	0*	0*	0*	12*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Caen										0*	0,0%	0,0%	0*	0*	0*	10*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI La Rochelle										0*	0,0%	0,0%	0*	0*	0*	12*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Lille										0*	0,0%	0,0%	0*	0*	0*	10*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Lyon										1*	0,0%	0,0%	17*	17*	1*	15*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Montpellier										0*	0,0%	0,0%	0*	0*	0*	10*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Nancy										1*	0,0%	0,0%	37*	37*	1*	10*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Nice										0*	0,0%	0,0%	0*	0*	0*	10*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI OrlÃ©ans										0*	0,0%	0,0%	0*	0*	0*	10*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Paris-Nanterre										2*	0,0%	100,0%	54*	54*	2*	15*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Pau										0*	0,0%	0,0%	0*	0*	0*	6*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Reims										0*	0,0%	0,0%	0*	0*	0*	6*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Rouen										0*	0,0%	0,0%	0*	0*	0*	10*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Saint-Nazaire										0*	0,0%	0,0%	0*	0*	0*	15*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Strasbourg										0*	0,0%	0,0%	0*	0*	0*	15*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Toulouse										1*	0,0%	0,0%	63	63	1*	10*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur en Informatique	183*	7,7%	14,2%	73*	6,8%	6,8%	73*	6,8%	6,8%	8*					8*	191*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Arras										1*	0,0%	0,0%	138*	138*	1*	10*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Bordeaux										1*	0,0%	0,0%	94*	94*	1*	12*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Lyon										0*	0,0%	0,0%	0*	0*	0*	20*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Nancy										1*	0,0%	0,0%	112*	112*	1*	10*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Paris-Nanterre										5*	0,0%	0,0%	115*	117*	5*	20*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Nice										0*	0,0%	0,0%	0*	0*	0*	10*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Rouen										0*	0,0%	0,0%	0*	0*	0*	10*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	CESI Saint-Nazaire										0*	0,0%	0,0%	0	0	0*	15*
-2022	TSI	Groupe INSA Inter-FiliÃ¨re	Concours CESI Ecole d'IngÃ©nieurs - IngÃ©nieur GÃ©nÃ©raliste	670*	24,0%	13,4%	182*	33,0%	10,4%	182*	33,0%	10,4%	8*					8*	107*
+2022	TSI	Groupe INSA	Concours INSA Domaine Génie électrique, électronique, automatique TSI	547	5,9%	14,6%	198	4,5%	13,1%	198	4,5%	13,1%	9						11
+2022	TSI	Groupe INSA	INSA Centre Val de Loire Génie des Systèmes Industriels										4	0,0%	25,0%	176	173		2
+2022	TSI	Groupe INSA	INSA Hauts de France Génie Industriel										1	0,0%	0,0%	69	69		1
+2022	TSI	Groupe INSA	INSA Hauts de France Mécanique et Energétique										4	25,0%	0,0%	133	124		3
+2022	TSI	Groupe INSA	INSA Hauts de France Mécatronique										4	0,0%	25,0%	99	99		3
+2022	TSI	Groupe INSA	INSA Lyon Génie Mécanique										1	100,0%	0,0%	2	2		1
+2022	TSI	Groupe INSA	INSA Rennes Génie Mécanique et Automatique										1	0,0%	0,0%	88	88		1
+2022	TSI	Groupe INSA	INSA Strasbourg Génie Mécanique										2	0,0%	50,0%	46	46		1
+2022	TSI	Groupe INSA	INSA Strasbourg Mécatronique										0	0,0%	0,0%	0	0		1
+2022	TSI	Groupe INSA	Concours INSA Domaine Génie mécanique, génie industriel et mécatronique TSI	629	7,0%	15,6%	232	5,6%	14,7%	232	5,6%	14,7%	17						13
+2022	TSI	Groupe INSA	INSA Centre Val de Loire Sécurité et Technologies Informatiques										3	0,0%	0,0%	91	88		1
+2022	TSI	Groupe INSA	INSA Hauts de France Informatique et Cybersécurité										1	0,0%	0,0%	57	57		1
+2022	TSI	Groupe INSA	INSA Lyon Télécommunications, services et usages										1	0,0%	0,0%	16	16		1
+2022	TSI	Groupe INSA	INSA Toulouse Informatique et Réseaux										2	0,0%	0,0%	53	53		2
+2022	TSI	Groupe INSA	Concours INSA Domaine Informatique, mathématique, modélisation TSI	531	6,0%	14,7%	159	3,8%	10,1%	159	3,8%	10,1%	7						5
+2022	TSI	Groupe INSA Inter-Filière	INSA Centre Val de Loire Maîtrise des Risques Industriels										3*	33,3%	33,3%	220*	382*	3*	5*
+2022	TSI	Groupe INSA Inter-Filière	INSA Lyon Science et Génie des Matériaux										1*	100,0%	100,0%	88*	88*	1*	1*
+2022	TSI	Groupe INSA Inter-Filière	INSA Rennes Génie Physique et Matériaux										1*	100,0%	0,0%	165*	165*	1*	1*
+2022	TSI	Groupe INSA Inter-Filière	INSA Toulouse Génie Physique										1*	0,0%	0,0%	98	98	1*	1*
+2022	TSI	Groupe INSA Inter-Filière	Concours INSA Domaine Génie physique et matériaux TSI-PT-TPC	1766*	14,8%	15,1%	809*	16,3%	16,1%	809*	16,3%	16,1%	6*					6*	8*
+2022	TSI	Groupe INSA Inter-Filière	CESI Aix-en-Provence										3*	0,0%	0,0%	39*	43*	3*	10*
+2022	TSI	Groupe INSA Inter-Filière	CESI Arras										0*	0,0%	0,0%	0*	0*	0*	5*
+2022	TSI	Groupe INSA Inter-Filière	CESI Bordeaux										0*	0,0%	0,0%	0*	0*	0*	12*
+2022	TSI	Groupe INSA Inter-Filière	CESI Caen										0*	0,0%	0,0%	0*	0*	0*	10*
+2022	TSI	Groupe INSA Inter-Filière	CESI La Rochelle										0*	0,0%	0,0%	0*	0*	0*	12*
+2022	TSI	Groupe INSA Inter-Filière	CESI Lille										0*	0,0%	0,0%	0*	0*	0*	10*
+2022	TSI	Groupe INSA Inter-Filière	CESI Lyon										1*	0,0%	0,0%	17*	17*	1*	15*
+2022	TSI	Groupe INSA Inter-Filière	CESI Montpellier										0*	0,0%	0,0%	0*	0*	0*	10*
+2022	TSI	Groupe INSA Inter-Filière	CESI Nancy										1*	0,0%	0,0%	37*	37*	1*	10*
+2022	TSI	Groupe INSA Inter-Filière	CESI Nice										0*	0,0%	0,0%	0*	0*	0*	10*
+2022	TSI	Groupe INSA Inter-Filière	CESI Orléans										0*	0,0%	0,0%	0*	0*	0*	10*
+2022	TSI	Groupe INSA Inter-Filière	CESI Paris-Nanterre										2*	0,0%	100,0%	54*	54*	2*	15*
+2022	TSI	Groupe INSA Inter-Filière	CESI Pau										0*	0,0%	0,0%	0*	0*	0*	6*
+2022	TSI	Groupe INSA Inter-Filière	CESI Reims										0*	0,0%	0,0%	0*	0*	0*	6*
+2022	TSI	Groupe INSA Inter-Filière	CESI Rouen										0*	0,0%	0,0%	0*	0*	0*	10*
+2022	TSI	Groupe INSA Inter-Filière	CESI Saint-Nazaire										0*	0,0%	0,0%	0*	0*	0*	15*
+2022	TSI	Groupe INSA Inter-Filière	CESI Strasbourg										0*	0,0%	0,0%	0*	0*	0*	15*
+2022	TSI	Groupe INSA Inter-Filière	CESI Toulouse										1*	0,0%	0,0%	63	63	1*	10*
+2022	TSI	Groupe INSA Inter-Filière	Concours CESI Ecole d'Ingénieurs - Ingénieur en Informatique	183*	7,7%	14,2%	73*	6,8%	6,8%	73*	6,8%	6,8%	8*					8*	191*
+2022	TSI	Groupe INSA Inter-Filière	CESI Arras										1*	0,0%	0,0%	138*	138*	1*	10*
+2022	TSI	Groupe INSA Inter-Filière	CESI Bordeaux										1*	0,0%	0,0%	94*	94*	1*	12*
+2022	TSI	Groupe INSA Inter-Filière	CESI Lyon										0*	0,0%	0,0%	0*	0*	0*	20*
+2022	TSI	Groupe INSA Inter-Filière	CESI Nancy										1*	0,0%	0,0%	112*	112*	1*	10*
+2022	TSI	Groupe INSA Inter-Filière	CESI Paris-Nanterre										5*	0,0%	0,0%	115*	117*	5*	20*
+2022	TSI	Groupe INSA Inter-Filière	CESI Nice										0*	0,0%	0,0%	0*	0*	0*	10*
+2022	TSI	Groupe INSA Inter-Filière	CESI Rouen										0*	0,0%	0,0%	0*	0*	0*	10*
+2022	TSI	Groupe INSA Inter-Filière	CESI Saint-Nazaire										0*	0,0%	0,0%	0	0	0*	15*
+2022	TSI	Groupe INSA Inter-Filière	Concours CESI Ecole d'Ingénieurs - Ingénieur Généraliste	670*	24,0%	13,4%	182*	33,0%	10,4%	182*	33,0%	10,4%	8*					8*	107*
 2022	TSI	EPITA	ESME										4	0,0%	0,0%	86	79		4
 2022	TSI	EPITA	EPITA campus Lyon										1	0,0%	0,0%	57	57		3
 2022	TSI	EPITA	EPITA campus Paris										10	10,0%	20,0%	24	30		6
